@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Numina.json",
-    "versionsUrl": "http://localhost/quickmod/Numina.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Numina.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Numina.versions.json",
     "websiteUrl": "https://github.com/MachineMuse/Numina"
 }

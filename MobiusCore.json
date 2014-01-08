@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/MobiusCore.json",
-    "versionsUrl": "http://localhost/quickmod/MobiusCore.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/MobiusCore.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/MobiusCore.versions.json",
     "websiteUrl": "http://profmobius.blogspot.fr/"
 }

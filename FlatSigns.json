@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/FlatSigns.json",
-    "versionsUrl": "http://localhost/quickmod/FlatSigns.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/FlatSigns.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/FlatSigns.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/flatsigns"
 }

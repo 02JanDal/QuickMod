@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/OpenBlocks.json",
-    "versionsUrl": "http://localhost/quickmod/OpenBlocks.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/OpenBlocks.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/OpenBlocks.versions.json",
     "websiteUrl": "http://www.openperipheral.info/openblocks/downloads"
 }

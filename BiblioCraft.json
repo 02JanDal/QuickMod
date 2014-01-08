@@ -13,15 +13,15 @@
     "name": "BiblioCraft",
     "nemName": "BiblioCraft",
     "references": {
-        "BiomesOPlenty": "http://localhost/quickmod/BiomesOPlenty.json",
-        "Forestry": "http://localhost/quickmod/Forestry.json",
-        "Natura": "http://localhost/quickmod/Natura.json"
+        "BiomesOPlenty": "https://raw.github.com/02JanDal/QuickMod/master/BiomesOPlenty.json",
+        "Forestry": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json",
+        "Natura": "https://raw.github.com/02JanDal/QuickMod/master/Natura.json"
     },
     "tags": [
         "Astetics"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/BiblioCraft.json",
-    "versionsUrl": "http://localhost/quickmod/BiblioCraft.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/BiblioCraft.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/BiblioCraft.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1680480-"
 }

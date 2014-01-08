@@ -14,8 +14,8 @@
     "name": "Buildcraft",
     "nemName": "Buildcraft",
     "references": {
-        "Forestry": "http://localhost/quickmod/Forestry.json",
-        "RailCraft": "http://localhost/quickmod/Railcraft.json"
+        "Forestry": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json",
+        "RailCraft": "https://raw.github.com/02JanDal/QuickMod/master/Railcraft.json"
     },
     "tags": [
         "Mining",
@@ -24,7 +24,7 @@
         "OpenSource"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Buildcraft.json",
-    "versionsUrl": "http://localhost/quickmod/Buildcraft.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/buildcraft"
 }

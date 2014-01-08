@@ -14,7 +14,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/FTBHorizons.json",
-    "versionsUrl": "http://localhost/quickmod/FTBHorizons.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/FTBHorizons.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/FTBHorizons.versions.json",
     "websiteUrl": "https://feedthebeast.atlassian.net/wiki/display/PML/Horizons"
 }

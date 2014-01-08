@@ -19,7 +19,7 @@
         "Dimensions"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Mystcraft.json",
-    "versionsUrl": "http://localhost/quickmod/Mystcraft.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Mystcraft.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Mystcraft.versions.json",
     "websiteUrl": "http://binarymage.com/"
 }

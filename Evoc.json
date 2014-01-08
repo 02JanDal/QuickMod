@@ -20,7 +20,7 @@
         ""
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Evoc.json",
-    "versionsUrl": "http://localhost/quickmod/Evoc.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Evoc.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Evoc.versions.json",
     "websiteUrl": "http://profmobius.blogspot.fr/2013/12/evoc-100-mobiuscore-104.html"
 }

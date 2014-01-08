@@ -14,7 +14,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/WIMB.json",
-    "versionsUrl": "http://localhost/quickmod/WIMB.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/WIMB.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/WIMB.versions.json",
     "websiteUrl": ""
 }

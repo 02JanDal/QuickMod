@@ -14,12 +14,12 @@
     "name": "DenPipes",
     "nemName": "DenPipes",
     "references": {
-        "denLib": "http://localhost/quickmod/denLib.json"
+        "denLib": "https://raw.github.com/02JanDal/QuickMod/master/denLib.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/DenPipes.json",
-    "versionsUrl": "http://localhost/quickmod/DenPipes.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/DenPipes.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/DenPipes.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1253666-"
 }

@@ -14,8 +14,8 @@
     "name": "Railcraft",
     "nemName": "Railcraft",
     "references": {
-        "Buildcraft": "http://localhost/quickmod/Buildcraft.json",
-        "Forestry": "http://localhost/quickmod/Forestry.json"
+        "Buildcraft": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.json",
+        "Forestry": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json"
     },
     "tags": [
         "MJ Power",
@@ -25,7 +25,7 @@
         "Entity Transportation"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Railcraft.json",
-    "versionsUrl": "http://localhost/quickmod/Railcraft.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Railcraft.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Railcraft.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/railcraft"
 }

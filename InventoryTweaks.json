@@ -19,7 +19,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/InventoryTweaks.json",
-    "versionsUrl": "http://localhost/quickmod/InventoryTweaks.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/InventoryTweaks.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/InventoryTweaks.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1720872-"
 }

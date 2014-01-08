@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ArsMagica2.json",
-    "versionsUrl": "http://localhost/quickmod/ArsMagica.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ArsMagica2.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ArsMagica.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/ars-magica-2"
 }

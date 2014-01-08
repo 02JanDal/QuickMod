@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/MagicBees.json",
-    "versionsUrl": "http://localhost/quickmod/MagicBees.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/MagicBees.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/MagicBees.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/magic-bees"
 }

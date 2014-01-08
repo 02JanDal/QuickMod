@@ -15,12 +15,12 @@
     "name": "Waila",
     "nemName": "Waila",
     "references": {
-        "NotEnoughItems": "http://localhost/quickmod/NotEnoughItems.json"
+        "NotEnoughItems": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Waila.json",
-    "versionsUrl": "http://localhost/quickmod/Waila.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Waila.versions.json",
     "websiteUrl": "http://profmobius.blogspot.fr/"
 }

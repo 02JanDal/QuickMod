@@ -14,12 +14,12 @@
     "name": "NuclearControl",
     "nemName": "NuclearControl",
     "references": {
-        "IndustrialCraft2": "http://localhost/quickmod/IndustrialCraft2.json"
+        "IndustrialCraft2": "https://raw.github.com/02JanDal/QuickMod/master/IndustrialCraft2.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/NuclearControl.json",
-    "versionsUrl": "http://localhost/quickmod/NuclearControl.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NuclearControl.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NuclearControl.versions.json",
     "websiteUrl": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915"
 }

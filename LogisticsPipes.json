@@ -14,13 +14,13 @@
     "name": "LogisticsPipes",
     "nemName": "LogisticsPipes",
     "references": {
-        "Buildcraft": "http://localhost/quickmod/Buildcraft.json"
+        "Buildcraft": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.json"
     },
     "tags": [
         "Pipes"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/LogisticsPipes.json",
-    "versionsUrl": "http://localhost/quickmod/LogisticsPipes.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/LogisticsPipes.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/LogisticsPipes.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1831791-"
 }

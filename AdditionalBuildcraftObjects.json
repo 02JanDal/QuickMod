@@ -14,14 +14,14 @@
     "name": "AdditionalBuildcraftObjects",
     "nemName": "AdditionalBuildcraftObjects",
     "references": {
-        "Buildcraft": "http://localhost/quickmod/Buildcraft.json"
+        "Buildcraft": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.json"
     },
     "tags": [
         "Power",
         "MJ Power"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/AdditionalBuildcraftObjects.json",
-    "versionsUrl": "http://localhost/quickmod/AdditionalBuildcraftObjects.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/AdditionalBuildcraftObjects.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/AdditionalBuildcraftObjects.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/682821-/"
 }

@@ -14,13 +14,13 @@
     "name": "ProjectRed-Compat",
     "nemName": "",
     "references": {
-        "ProjectRed-Base": "http://localhost/quickmod/ProjectRed-Base.json"
+        "ProjectRed-Base": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed-Base.json"
     },
     "tags": [
         "Redstone"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ProjectRed-Compat.json",
-    "versionsUrl": "http://localhost/quickmod/ProjectRed-Compat.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed-Compat.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed-Compat.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1885652-"
 }

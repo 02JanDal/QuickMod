@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ModularForcefieldSystem.json",
-    "versionsUrl": "http://localhost/quickmod/ModularForcefieldSystem.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ModularForcefieldSystem.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ModularForcefieldSystem.versions.json",
     "websiteUrl": "http://universalelectricity.com/mffs"
 }

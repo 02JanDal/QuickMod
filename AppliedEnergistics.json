@@ -14,13 +14,13 @@
     "name": "AppliedEnergistics",
     "nemName": "AppliedEnergistics",
     "references": {
-        "Buildcraft": "http://localhost/quickmod/Buildcraft.json"
+        "Buildcraft": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.json"
     },
     "tags": [
         "Storage"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/AppliedEnergistics.json",
-    "versionsUrl": "http://localhost/quickmod/AppliedEnergistics.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/AppliedEnergistics.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/AppliedEnergistics.versions.json",
     "websiteUrl": "http://ae-mod.info/Downloads/"
 }

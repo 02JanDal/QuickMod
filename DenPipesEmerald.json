@@ -11,12 +11,12 @@
     "name": "DenPipesEmerald",
     "nemName": "DenPipes-Emerald",
     "references": {
-        "DenPipes": "http://localhost/quickmod/DenPipes.json"
+        "DenPipes": "https://raw.github.com/02JanDal/QuickMod/master/DenPipes.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/DenPipesEmerald.json",
-    "versionsUrl": "http://localhost/quickmod/DenPipesEmerald.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/DenPipesEmerald.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/DenPipesEmerald.versions.json",
     "websiteUrl": ""
 }

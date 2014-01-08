@@ -19,7 +19,7 @@
         ""
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/BiomesOPlenty.json",
-    "versionsUrl": "http://localhost/quickmod/BiomesOPlenty.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/BiomesOPlenty.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/BiomesOPlenty.versions.json",
     "websiteUrl": "http://www.minecraftforge.net/forum/index.php/board,106.0.html"
 }

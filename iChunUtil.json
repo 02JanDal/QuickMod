@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/iChunUtil.json",
-    "versionsUrl": "http://localhost/quickmod/iChunUtil.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/iChunUtil.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/iChunUtil.versions.json",
     "websiteUrl": "http://ichun.us/mods/ichun-util/"
 }

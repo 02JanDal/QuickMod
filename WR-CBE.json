@@ -14,13 +14,13 @@
     "name": "WR-CBE",
     "nemName": "WR-CBE",
     "references": {
-        "CodeChickenCore": "http://localhost/quickmod/CodeChickenCore.json"
+        "CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
     },
     "tags": [
         "Redstone"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/WR-CBE.json",
-    "versionsUrl": "http://localhost/quickmod/WR-CBE.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/WR-CBE.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/WR-CBE.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/909223-"
 }

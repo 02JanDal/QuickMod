@@ -14,13 +14,13 @@
     "name": "PluginsForForestry",
     "nemName": "PluginsForForestry",
     "references": {
-        "Forestry": "http://localhost/quickmod/Forestry.json",
-        "denLib": "http://localhost/quickmod/denLib.json"
+        "Forestry": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json",
+        "denLib": "https://raw.github.com/02JanDal/QuickMod/master/denLib.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/PluginsForForestry.json",
-    "versionsUrl": "http://localhost/quickmod/PluginsForForestry.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/PluginsForForestry.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/PluginsForForestry.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1253666-"
 }

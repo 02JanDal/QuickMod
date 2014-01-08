@@ -20,7 +20,7 @@
         "Item Transport"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ExtraUtilities.json",
-    "versionsUrl": "http://localhost/quickmod/ExtraUtilities.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ExtraUtilities.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ExtraUtilities.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1776056-"
 }

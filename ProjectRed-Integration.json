@@ -14,13 +14,13 @@
     "name": "ProjectRed-Integration",
     "nemName": "",
     "references": {
-        "ProjectRed-Base": "http://localhost/quickmod/ProjectRed-Base.json"
+        "ProjectRed-Base": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed-Base.json"
     },
     "tags": [
         "Redstone"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ProjectRed-Integration.json",
-    "versionsUrl": "http://localhost/quickmod/ProjectRed-Integration.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed-Integration.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed-Integration.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1885652-"
 }

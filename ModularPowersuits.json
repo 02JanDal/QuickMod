@@ -20,13 +20,13 @@
     "name": "ModularPowersuits",
     "nemName": "",
     "references": {
-        "Numina": "http://localhost/quickmod/Numina.json"
+        "Numina": "https://raw.github.com/02JanDal/QuickMod/master/Numina.json"
     },
     "tags": [
         "Armor"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ModularPowersuits.json",
-    "versionsUrl": "http://localhost/quickmod/ModularPowersuits.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ModularPowersuits.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ModularPowersuits.versions.json",
     "websiteUrl": "http://machinemuse.net/"
 }

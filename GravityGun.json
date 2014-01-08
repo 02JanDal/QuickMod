@@ -14,12 +14,12 @@
     "name": "GravityGun",
     "nemName": "GravityGun",
     "references": {
-        "iChunUtil": "http://localhost/quickmod/iChunUtil.json"
+        "iChunUtil": "https://raw.github.com/02JanDal/QuickMod/master/iChunUtil.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/GravityGun.json",
-    "versionsUrl": "http://localhost/quickmod/GravityGun.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/GravityGun.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/GravityGun.versions.json",
     "websiteUrl": "http://ichun.us/mods/gravity-gun/"
 }

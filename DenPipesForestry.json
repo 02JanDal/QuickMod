@@ -11,12 +11,12 @@
     "name": "DenPipesForestry",
     "nemName": "DenPipes-Forestry",
     "references": {
-        "DenPipes": "http://localhost/quickmod/DenPipes.json"
+        "DenPipes": "https://raw.github.com/02JanDal/QuickMod/master/DenPipes.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/DenPipesForestry.json",
-    "versionsUrl": "http://localhost/quickmod/DenPipesForestry.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/DenPipesForestry.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/DenPipesForestry.versions.json",
     "websiteUrl": ""
 }

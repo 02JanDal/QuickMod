@@ -13,13 +13,13 @@
     "name": "HatStand",
     "nemName": "HatStand",
     "references": {
-        "Hats": "http://localhost/quickmod/Hats.json"
+        "Hats": "https://raw.github.com/02JanDal/QuickMod/master/Hats.json"
     },
     "tags": [
         "Astetics"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/HatStand.json",
-    "versionsUrl": "http://localhost/quickmod/HatStand.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/HatStand.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/HatStand.versions.json",
     "websiteUrl": "http://ichun.us/mods/hats/hat-stand/"
 }

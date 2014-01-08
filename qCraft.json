@@ -19,7 +19,7 @@
         "IRL"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/qCraft.json",
-    "versionsUrl": "http://localhost/quickmod/qCraft.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/qCraft.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/qCraft.versions.json",
     "websiteUrl": "http://qcraft.org/"
 }

@@ -14,7 +14,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/CoFHCore.json",
-    "versionsUrl": "http://localhost/quickmod/CoFHCore.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/cofhcore"
 }

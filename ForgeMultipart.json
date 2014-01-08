@@ -19,7 +19,7 @@
         "FMP"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ForgeMultipart.json",
-    "versionsUrl": "http://localhost/quickmod/ForgeMultipart.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ForgeMultipart.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ForgeMultipart.versions.json",
     "websiteUrl": "http://files.minecraftforge.net/ForgeMultipart/"
 }

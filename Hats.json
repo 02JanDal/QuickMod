@@ -18,7 +18,7 @@
         "Astetics"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Hats.json",
-    "versionsUrl": "http://localhost/quickmod/Hats.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Hats.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Hats.versions.json",
     "websiteUrl": "http://ichun.us/mods/hats/"
 }

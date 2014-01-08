@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/NEIAddons.json",
-    "versionsUrl": "http://localhost/quickmod/NEIAddons.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIAddons.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIAddons.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/nei-addons"
 }

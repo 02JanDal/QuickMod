@@ -14,12 +14,12 @@
     "name": "PortalGun",
     "nemName": "PortalGun",
     "references": {
-        "iChunUtil": "http://localhost/quickmod/iChunUtil.json"
+        "iChunUtil": "https://raw.github.com/02JanDal/QuickMod/master/iChunUtil.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/PortalGun.json",
-    "versionsUrl": "http://localhost/quickmod/PortalGun.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/PortalGun.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/PortalGun.versions.json",
     "websiteUrl": "http://ichun.us/mods/portalgun/"
 }

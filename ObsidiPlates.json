@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ObsidiPlates.json",
-    "versionsUrl": "http://localhost/quickmod/ObsidiPlates.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ObsidiPlates.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ObsidiPlates.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/obsidiplates"
 }

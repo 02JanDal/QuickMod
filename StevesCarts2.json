@@ -20,7 +20,7 @@
         "Modular"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/StevesCarts2.json",
-    "versionsUrl": "http://localhost/quickmod/StevesCarts2.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/StevesCarts2.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/StevesCarts2.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/680276-"
 }

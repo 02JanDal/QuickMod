@@ -14,12 +14,12 @@
     "name": "ThaumicTinkerer",
     "nemName": "ThaumicTinkerer",
     "references": {
-        "Thaumcraft": "http://localhost/quickmod/Thaumcraft.json"
+        "Thaumcraft": "https://raw.github.com/02JanDal/QuickMod/master/Thaumcraft.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ThaumicTinkerer.json",
-    "versionsUrl": "http://localhost/quickmod/ThaumicTinkerer.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ThaumicTinkerer.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ThaumicTinkerer.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1813058-"
 }

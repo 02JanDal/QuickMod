@@ -14,14 +14,14 @@
     "name": "CompactSolars",
     "nemName": "CompactSolars",
     "references": {
-        "IndustrialCraft2": "http://localhost/quickmod/IndustrialCraft2.json"
+        "IndustrialCraft2": "https://raw.github.com/02JanDal/QuickMod/master/IndustrialCraft2.json"
     },
     "tags": [
         "Power",
         "EU Power"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/CompactSolars.json",
-    "versionsUrl": "http://localhost/quickmod/CompactSolars.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/CompactSolars.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/CompactSolars.versions.json",
     "websiteUrl": "http://files.minecraftforge.net/CompactSolars/"
 }

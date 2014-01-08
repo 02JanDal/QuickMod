@@ -14,13 +14,13 @@
     "name": "GateCopy",
     "nemName": "GateCopy",
     "references": {
-        "Buildcraft": "http://localhost/quickmod/Buildcraft.json",
-        "denLib": "http://localhost/quickmod/denLib.json"
+        "Buildcraft": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.json",
+        "denLib": "https://raw.github.com/02JanDal/QuickMod/master/denLib.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/GateCopy.json",
-    "versionsUrl": "http://localhost/quickmod/GateCopy.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/GateCopy.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/GateCopy.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1253666-"
 }

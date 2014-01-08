@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Natura.json",
-    "versionsUrl": "http://localhost/quickmod/Natura.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Natura.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Natura.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1753754-"
 }

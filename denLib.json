@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/denLib.json",
-    "versionsUrl": "http://localhost/quickmod/denLib.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/denLib.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/denLib.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/denlib"
 }

@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/InfiniBows.json",
-    "versionsUrl": "http://localhost/quickmod/InfiniBows.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/InfiniBows.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/InfiniBows.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/infinibows"
 }

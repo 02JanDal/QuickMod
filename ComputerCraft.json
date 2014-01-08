@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ComputerCraft.json",
-    "versionsUrl": "http://localhost/quickmod/ComputerCraft.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ComputerCraft.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ComputerCraft.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/computercraft"
 }

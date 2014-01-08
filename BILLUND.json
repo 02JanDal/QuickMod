@@ -17,7 +17,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/BILLUND.json",
-    "versionsUrl": "http://localhost/quickmod/BILLUND.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/BILLUND.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/BILLUND.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/billund"
 }

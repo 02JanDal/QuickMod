@@ -10,12 +10,12 @@
     "name": "ThermalExpansion",
     "nemName": "ThermalExpansion",
     "references": {
-        "CoFHCore": "http://localhost/quickmod/CoFHCore.json"
+        "CoFHCore": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ThermalExpansion.json",
-    "versionsUrl": "http://localhost/quickmod/ThermalExpansion.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ThermalExpansion.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ThermalExpansion.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/thermalexpansion"
 }

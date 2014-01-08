@@ -15,15 +15,15 @@
     "name": "Forestry",
     "nemName": "Forestry",
     "references": {
-        "Buildcraft": "http://localhost/quickmod/Buildcraft.json",
-        "Railcraft": "http://localhost/quickmod/Railcraft.json"
+        "Buildcraft": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.json",
+        "Railcraft": "https://raw.github.com/02JanDal/QuickMod/master/Railcraft.json"
     },
     "tags": [
         "MJ Power",
         "Breeding"
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Forestry.json",
-    "versionsUrl": "http://localhost/quickmod/Forestry.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/forestry"
 }

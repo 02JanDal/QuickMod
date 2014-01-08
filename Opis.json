@@ -14,12 +14,12 @@
     "name": "Opis",
     "nemName": "Opis",
     "references": {
-        "MobiusCore": "http://localhost/quickmod/MobiusCore.json"
+        "MobiusCore": "https://raw.github.com/02JanDal/QuickMod/master/MobiusCore.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/Opis.json",
-    "versionsUrl": "http://localhost/quickmod/Opis.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Opis.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Opis.versions.json",
     "websiteUrl": "http://profmobius.blogspot.fr/"
 }

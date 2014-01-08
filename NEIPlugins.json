@@ -14,12 +14,12 @@
     "name": "NEI Plugins",
     "nemName": "NEIPlugins",
     "references": {
-        "NEI": "http://localhost/quickmod/NotEnoughItems.json"
+        "NEI": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/NEIPlugins.json",
-    "versionsUrl": "http://localhost/quickmod/NEIPlugins.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIPlugins.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIPlugins.versions.json",
     "websiteUrl": "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
 }
