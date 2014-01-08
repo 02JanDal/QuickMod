@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "dan200"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "qCraft: A Beginner's Guide To Quantum Physics In Minecraft",
+    "iconUrl": "",
+    "logoUrl": "http://images.designntrend.com/data/images/full/14409/qcraft.png?w=600",
+    "modId": "QuantumCraft",
+    "name": "qCraft",
+    "nemName": "qCraft",
+    "references": {
+    },
+    "tags": [
+        "IRL"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/qCraft.json",
+    "versionsUrl": "http://localhost/quickmod/qCraft.versions.json",
+    "websiteUrl": "http://qcraft.org/"
+}

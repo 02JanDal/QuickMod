@@ -1,0 +1,38 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.2",
+        "url": "http://adf.ly/WGnay"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.1",
+        "url": "http://adf.ly/Uytme"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.0",
+        "url": "http://adf.ly/UACuo"
+    }
+]

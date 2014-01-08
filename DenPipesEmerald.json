@@ -1,0 +1,22 @@
+{
+    "authors": {
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "DenPipes-Emerald",
+    "name": "DenPipesEmerald",
+    "nemName": "DenPipes-Emerald",
+    "references": {
+        "DenPipes": "http://localhost/quickmod/DenPipes.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/DenPipesEmerald.json",
+    "versionsUrl": "http://localhost/quickmod/DenPipesEmerald.versions.json",
+    "websiteUrl": ""
+}

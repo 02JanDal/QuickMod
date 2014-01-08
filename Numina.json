@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "MachineMuse"
+        ]
+    },
+    "categories": [
+        "API"
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "numina",
+    "name": "Numina",
+    "nemName": "",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Numina.json",
+    "versionsUrl": "http://localhost/quickmod/Numina.versions.json",
+    "websiteUrl": "https://github.com/MachineMuse/Numina"
+}

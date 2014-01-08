@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "ChickenBones"
+        ]
+    },
+    "categories": [
+        "API",
+        "Utility"
+    ],
+    "description": "This is just a library of classes that all my mods use. You need to install this if you are going to install any of my mods.",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "CodeChickenCore",
+    "name": "CodeChickenCore",
+    "nemName": "CodeChickenCore",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/CodeChickenCore.json",
+    "versionsUrl": "http://localhost/quickmod/CodeChickenCore.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/"
+}

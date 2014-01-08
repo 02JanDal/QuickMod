@@ -1,0 +1,57 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.1.4",
+        "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/738511"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.1.5",
+        "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/741272"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.1.6",
+        "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/744055"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.1.7",
+        "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/747637"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.1.9",
+        "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/761147"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.0.b7a",
+        "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755583"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.0.b8a",
+        "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756554"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.0.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/cofhcore/762738"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "Numina": "0.0.1-42"
+        },
+        "modRecommendations": {
+        },
+        "name": "0.8.0-62",
+        "url": "http://build.technicpack.net/view/MachineMuse/job/ModularPowersuits/62/artifact/dist/ModularPowersuits-1.6.2-0.8.0-62.jar"
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "Author": [
+            "Vswe"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "Steve's Carts 2 introduces a modular system where you can build a huge amount of carts(hundreds of millions) by combining the parts you want. And yes, it's now for multiplayer.\\n\\nTo get started building carts you should build a cart assembler. Then you'll need a hull of your choice as well as all the modules you wanna add. Then you can just do so in the assembler. You also need coal in the left hand slot of the two slots on the right. The cart will be placed in the right hand one when it's done.",
+    "iconUrl": "http://www.minecraftforum.net/uploads/profile/photo-627714.png?_r=1355539174",
+    "logoUrl": "http://www.games-utilities.com/wp-content/uploads/2012/12/steves-carts-mod-1-4-5.jpg",
+    "modId": "StevesCarts",
+    "name": "StevesCarts2",
+    "nemName": "Steve'sCarts2",
+    "references": {
+    },
+    "tags": [
+        "Minecarts",
+        "Modular"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/StevesCarts2.json",
+    "versionsUrl": "http://localhost/quickmod/StevesCarts2.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/680276-"
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.4.0",
+        "url": "http://adf.ly/ZoHvo"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.3.0",
+        "url": "http://adf.ly/X32c0"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.2.0",
+        "url": "http://adf.ly/VQN0j"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.1.0",
+        "url": "http://adf.ly/UVARg"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.0",
+        "url": "http://adf.ly/Sl4mR"
+    },
+    {
+        "mcCompatibility": [
+            "1.5.1",
+            "1.5.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.1",
+        "url": "http://adf.ly/NnrV3"
+    },
+    {
+        "mcCompatibility": [
+            "1.5.1",
+            "1.5.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.0",
+        "url": "http://adf.ly/KpTk8"
+    }
+]

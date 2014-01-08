@@ -1,0 +1,21 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <p>\n    <img src=\"http://thermalexpansion.wikispaces.com/space/showlogo/1355115050/logo.png\" title=\"Logo\" alt=\"Logo\"/>\n  </p>\n  <p>Expanding Minecraft Thermally! A server-friendly and content-rich blend of magic and technology!</p>\n  <p>Thermal Expansion started out as something that played well alongside Buildcraft, but it has grown to become so much more!</p>\n  <p>It features a tech tree involving multiple machines, balanced and flexible recipes, and is now one of the foundation mods in modded Minecraft gameplay. Since its release, the Redstone Flux power network has become supported by the majority of tech and tech-related mods.</p>\n  <p>For more detailed information on the mod, please visit the website at <a href=\"http://teamcofh.com/\">TeamCoFH</a>!</p>\n  <h3 id=\"w-installation\">Installation</h3>\n  <ul>\n    <li>Backup your world!</li>\n    <li>Delete any old versions of the CoFHCore and ThermalExpansion .jar files from your \".minecraft/mods\" folder.</li>\n    <li>Install Minecraft Forge</li>\n    <li>Download and drop both CoFHCore and ThermalExpansion .jar files into your \".minecraft/mods\" folder.</li>\n  </ul>\n</div>\n",
+    "iconUrl": "http://ftbwiki.org/images/thumb/8/86/Block_Steam_Engine_%28Thermal_Expansion%29.png/128px-Block_Steam_Engine_%28Thermal_Expansion%29.png",
+    "logoUrl": "http://media-curse.cursecdn.com/attachments/101/119/95351ff0a0e3501268eaa613d58f136d.png",
+    "modId": "ThermalExpansion",
+    "name": "ThermalExpansion",
+    "nemName": "ThermalExpansion",
+    "references": {
+        "CoFHCore": "http://localhost/quickmod/CoFHCore.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/ThermalExpansion.json",
+    "versionsUrl": "http://localhost/quickmod/ThermalExpansion.versions.json",
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/thermalexpansion"
+}

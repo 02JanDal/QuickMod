@@ -1,0 +1,26 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "rv14.dev2",
+        "url": "http://ae-mod.info/beta/appeng-rv14-finale2-mc16x.jar"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "rv13",
+        "url": "http://goo.gl/KjaS2U"
+    }
+]

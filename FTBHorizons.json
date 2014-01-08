@@ -1,0 +1,20 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "",
+    "iconUrl": "/wiki/download/attachments/1868067/Horizons_Panel%20copy.png?version=1&amp;modificationDate=1387797494566&amp;api=v2",
+    "logoUrl": "/wiki/download/attachments/1868067/Horizons_Panel%20copy.png?version=1&amp;modificationDate=1387797494566&amp;api=v2",
+    "modId": "",
+    "name": "FTBHorizons",
+    "nemName": "",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/FTBHorizons.json",
+    "versionsUrl": "http://localhost/quickmod/FTBHorizons.versions.json",
+    "websiteUrl": "https://feedthebeast.atlassian.net/wiki/display/PML/Horizons"
+}

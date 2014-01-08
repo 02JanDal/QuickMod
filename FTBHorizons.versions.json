@@ -1,0 +1,46 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.6",
+        "url": ""
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.7",
+        "url": ""
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.8",
+        "url": ""
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.9",
+        "url": ""
+    }
+]

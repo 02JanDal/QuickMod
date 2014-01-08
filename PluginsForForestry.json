@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "Author": [
+            "denoflions"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "PfF's goal is to add additional interconnected content between other Forge mods and SirSengir's Forestry.",
+    "iconUrl": "http://gaminghouse.eu/MC/BC/Tank.png",
+    "logoUrl": "http://forestry.sengir.net/wiki/uploads/Main/AddonIC2Crops.png",
+    "modId": "PluginsforForestry",
+    "name": "PluginsForForestry",
+    "nemName": "PluginsForForestry",
+    "references": {
+        "Forestry": "http://localhost/quickmod/Forestry.json",
+        "denLib": "http://localhost/quickmod/denLib.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/PluginsForForestry.json",
+    "versionsUrl": "http://localhost/quickmod/PluginsForForestry.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1253666-"
+}

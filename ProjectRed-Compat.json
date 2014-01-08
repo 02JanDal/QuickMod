@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "Author": [
+            "Mr_TJP, ChickenBones"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "http://pixld.me/wp-content/uploads/2013/07/Project-Red-Mod.png",
+    "modId": "ProjRed|Compatability",
+    "name": "ProjectRed-Compat",
+    "nemName": "",
+    "references": {
+        "ProjectRed-Base": "http://localhost/quickmod/ProjectRed-Base.json"
+    },
+    "tags": [
+        "Redstone"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/ProjectRed-Compat.json",
+    "versionsUrl": "http://localhost/quickmod/ProjectRed-Compat.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1885652-"
+}

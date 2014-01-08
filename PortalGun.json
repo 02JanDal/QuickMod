@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "iChun"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "Requires iChunUtil",
+    "iconUrl": "http://i.imgur.com/df7gj.jpg",
+    "logoUrl": "http://i.imgur.com/df7gj.jpg",
+    "modId": "PortalGun",
+    "name": "PortalGun",
+    "nemName": "PortalGun",
+    "references": {
+        "iChunUtil": "http://localhost/quickmod/iChunUtil.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/PortalGun.json",
+    "versionsUrl": "http://localhost/quickmod/PortalGun.versions.json",
+    "websiteUrl": "http://ichun.us/mods/portalgun/"
+}

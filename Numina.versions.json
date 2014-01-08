@@ -1,0 +1,14 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "0.0.1-42",
+        "url": "http://build.technicpack.net/view/MachineMuse/job/ModularPowersuits/62/artifact/dist/Numina-1.6.2-0.0.1-42.jar"
+    }
+]

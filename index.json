@@ -1,0 +1,19 @@
+<?php
+
+header('Content-Type: application/x-quickmod-index;charset=utf-8');
+
+$output = array();
+
+$files = scandir('.');
+foreach ($files as $file)
+{
+	$json = json_decode(file_get_contents($file));
+	if (!empty($json) && !empty($json->name))
+	{
+		$output[$json->name] = $json->updateUrl;
+	}
+}
+
+echo json_encode($output, JSON_PRETTY_PRINT), "\n";
+
+?>

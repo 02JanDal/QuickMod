@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "denoflions"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <p>denLib is a library for all denoflions mods. Contains commonly used code for items/blocks/methods.</p>\n</div>\n",
+    "iconUrl": "",
+    "logoUrl": "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png",
+    "modId": "denLib",
+    "name": "denLib",
+    "nemName": "denLib",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/denLib.json",
+    "versionsUrl": "http://localhost/quickmod/denLib.versions.json",
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/denlib"
+}

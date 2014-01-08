@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "mDiyo"
+        ]
+    },
+    "categories": [
+        "Nature"
+    ],
+    "description": "Natura is a mod that aims to spice up the world with interesting worldgen. With a few small additions, hunger no longer has to be about hunting animals early game. The mod is mostly intuitive; everything should be sensible or explained in-game.",
+    "iconUrl": "http://static3.wikia.nocookie.net/__cb20130821230118/hexxit/images/c/c3/Grid_Darkwood_Sapling_%28Natura%29.png",
+    "logoUrl": "http://img341.imageshack.us/img341/3026/naturagarden.png",
+    "modId": "Natura",
+    "name": "Natura",
+    "nemName": "Natura",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Natura.json",
+    "versionsUrl": "http://localhost/quickmod/Natura.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1753754-"
+}

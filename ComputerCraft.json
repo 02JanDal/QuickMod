@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "dan200, cloudy"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <h3 id=\"w-computer-craft\">ComputerCraft</h3>\n  <p>ComputerCraft is a modification for Minecraft that’s all about computer programming. It allows you to build in-game Computers and Turtle Robots, and write programs for them using the Lua programming language. The addition of programming to Minecraft opens up a wide variety of new possibilities for automation and creativity. If you’ve never programmed before, it also serves as excellent way to learn a real world skill in a fun, familiar environment.</p>\n  <p>\n    <a href=\"http://www.computercraft.info\">Visit the official ComputerCraft Website to learn more</a>\n  </p>\n</div>\n",
+    "iconUrl": "http://ftbwiki.org/images/thumb/1/14/Block_Mining_Turtle.png/128px-Block_Mining_Turtle.png",
+    "logoUrl": "http://media-curse.cursecdn.com/attachments/100/534/ba62fd4228b167691b82457b0bb9fd11.png",
+    "modId": "ComputerCraft",
+    "name": "ComputerCraft",
+    "nemName": "ComputerCraft",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/ComputerCraft.json",
+    "versionsUrl": "http://localhost/quickmod/ComputerCraft.versions.json",
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/computercraft"
+}

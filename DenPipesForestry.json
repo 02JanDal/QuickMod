@@ -1,0 +1,22 @@
+{
+    "authors": {
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "DenPipes-Forestry",
+    "name": "DenPipesForestry",
+    "nemName": "DenPipes-Forestry",
+    "references": {
+        "DenPipes": "http://localhost/quickmod/DenPipes.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/DenPipesForestry.json",
+    "versionsUrl": "http://localhost/quickmod/DenPipesForestry.versions.json",
+    "websiteUrl": ""
+}

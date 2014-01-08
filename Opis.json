@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "ProfMobius"
+        ]
+    },
+    "categories": [
+        "Util"
+    ],
+    "description": "Requires MobiusCore",
+    "iconUrl": "",
+    "logoUrl": "http://pixld.me/wp-content/uploads/2013/11/Opis-Mod-Minecraft.jpg",
+    "modId": "Opis",
+    "name": "Opis",
+    "nemName": "Opis",
+    "references": {
+        "MobiusCore": "http://localhost/quickmod/MobiusCore.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Opis.json",
+    "versionsUrl": "http://localhost/quickmod/Opis.versions.json",
+    "websiteUrl": "http://profmobius.blogspot.fr/"
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "CodeChickenCore": "0.9.0.6"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.4.0.6",
+        "url": "http://adf.ly/WAp6w"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "CodeChickenCore": "0.9.0.5"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.4.0.5",
+        "url": "http://adf.ly/Sohme"
+    }
+]

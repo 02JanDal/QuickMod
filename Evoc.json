@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "Author": [
+            "ProfMobius"
+        ]
+    },
+    "categories": [
+        "Util",
+        "Optimization"
+    ],
+    "description": "Evoc ( Extreme Vanilla Optimizations Collection ) is a new core mod aimed at providing server side optimizations for slow Vanilla TEs. This coremod is not aimed at changing the gameplay in any way, just get ride of a few corner cases in TileEntities triggering lag.",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "Evoc",
+    "name": "Evoc",
+    "nemName": "Evoc",
+    "references": {
+    },
+    "tags": [
+        ""
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Evoc.json",
+    "versionsUrl": "http://localhost/quickmod/Evoc.versions.json",
+    "websiteUrl": "http://profmobius.blogspot.fr/2013/12/evoc-100-mobiuscore-104.html"
+}

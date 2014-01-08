@@ -1,0 +1,28 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.4",
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Not Enough Items": "(1.6.1.4,1.6.1.5)"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.1.0.6",
+        "url": "http://bit.ly/1fSmc97"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4",
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Not Enough Items": "(1.6.1.4,1.6.1.5)"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.1.0.4",
+        "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.4.jar"
+    }
+]

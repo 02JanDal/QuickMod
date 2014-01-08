@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "Mikeemoo"
+        ]
+    },
+    "categories": [
+        "Stuff"
+    ],
+    "description": "Dev @ http://www.openmods.info:8080/",
+    "iconUrl": "",
+    "logoUrl": "http://i1.ytimg.com/vi/FbCxjv9NozM/maxresdefault.jpg",
+    "modId": "OpenBlocks",
+    "name": "OpenBlocks",
+    "nemName": "OpenBlocks",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/OpenBlocks.json",
+    "versionsUrl": "http://localhost/quickmod/OpenBlocks.versions.json",
+    "websiteUrl": "http://www.openperipheral.info/openblocks/downloads"
+}

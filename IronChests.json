@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "cpw"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "IronChests 5.0, formerly an IC2 addon mod, now completely IC2 independent.",
+    "iconUrl": "http://wiki.feed-the-beast.com/images/b/b2/Modicon_ironchests.png",
+    "logoUrl": "http://www.minecraftdl.com/wp-content/uploads/2012/05/Iron-Chest-Mod.png",
+    "modId": "IronChest",
+    "name": "IronChests",
+    "nemName": "IronChests",
+    "references": {
+    },
+    "tags": [
+        "Storage"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/IronChests.json",
+    "versionsUrl": "http://localhost/quickmod/IronChests.versions.json",
+    "websiteUrl": "http://files.minecraftforge.net/IronChests2/"
+}

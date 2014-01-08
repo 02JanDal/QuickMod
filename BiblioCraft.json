@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "Author": [
+            "Nuchaz"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "Welcome! BiblioCraft, a useful and aesthetically pleasing Minecraft modification began at the beginning of 2013 as a response to an accumulation of many different types of books on a heavily modded server. Between the addition of enchanted books and written books in vanilla and the many mods such as Mystcraft, Thaumcraft, MineChem, ComputerCraft, Redpower and so on that add many useful types of books and plans and so forth, I started to really want a better way to store books.So I began work on BiblioCraft. Biblio comes from the Greek word meaning “book”. The bookcase is meant to be visually pleasing as well and display added books on the shelf so one can look at the bookcase and see right away how many books are there. After that I decided, why stop there?, I realized there are many other types of items that would fare well with unique, dedicated storage blocks.\n\nThat realization sparked the addition of another 6 types of blocks. The armor stand to hold sets of armor including armor from mods, racks and cases for tools and weapons, a shelf to display potions, a general shelf that can display anything and finally a wooden label that would fit nicely on the front of a chest and display up to 3 items that chest contained. The goal was also to make the player feel more involved in the game as if collecting the different items to display becomes a goal in itself.\n\nSome of the new blocks interact with the player is slightly different ways than normal. The wooden display case for example can be toggled open and closed. The play must shift click the case with an empty hand to open and close the case. Only after the case is open can the player place any items inside. The wooden label also has a similar characteristic in that the player must shift-click with an empty hand to access the inventory. This is to make the use of the label on chests convenient so the player won’t accidently open the label GUI when trying to access the chest.\n\nCompatibility with mods is also a concern for all blocks involved in this mod. To ease that I added several config options to easily add compatibility to many items. There is an option to add keywords for the bookcase so it may accept new types of books or even remove books that are currently accepted. There is also an option to enable/disable the addition of blank books. This is disabled by default and the reason behind this is it means that when a player sees books on a bookshelf, they know they are all useful books and not just blank books. The tool rack and weapon case also feature a similar config option so that the player may add any items they wish to these blocks.\n\nAlso I would like to mention that since these are mostly wooden blocks, I made it possible to craft the blocks using the 4 different vanilla woods. Each wood will give the block a different look matching that wood type. The textures are mostly all based on vanilla textures in attempt to keep the vanilla feel of the game with BiblioCraft.\n\nAs time goes on I keep expanding, adding fun things that I either feel the game needs or I just want. I plan to continue adding fun new blocks and items as well as keep expanding upon various wood supports with the addition of my BiblioWoods addons. Language support is another ongoing process in which I started a github to accept and let the community help review and add to. Find a link on the main navigation bar to GitHub to see the progress that has been made. Each release will include the most recent versions of language files on the github.  Watch the front page for updates to stay informed on where BiblioCraft is at.\n\nIf anyone has any questions, concerns, or bugs please post on Minecraft forum and I will do my best to address them.I plan to keep developing this mod and adding more blocks in the future as well as do my best to keep up with vanilla releases.\n\nFinally just a shout out to my friends who have become my personal beta testing team for helping me discover bugs and add input on features. Thank Ekacfeeb12, murphyobrian, and Draegenoth!\n",
+    "iconUrl": "http://www.minecraftforum.net/uploads/profile/photo-thumb-1265825.jpg?_r=1359265029",
+    "logoUrl": "http://img.all-mods.ru/2013/09/BiblioCraft-55.jpg",
+    "modId": "BiblioCraft",
+    "name": "BiblioCraft",
+    "nemName": "BiblioCraft",
+    "references": {
+        "BiomesOPlenty": "http://localhost/quickmod/BiomesOPlenty.json",
+        "Forestry": "http://localhost/quickmod/Forestry.json",
+        "Natura": "http://localhost/quickmod/Natura.json"
+    },
+    "tags": [
+        "Astetics"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/BiblioCraft.json",
+    "versionsUrl": "http://localhost/quickmod/BiblioCraft.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1680480-"
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.316",
+        "url": "http://ic2api.player.to:8080/job/IC2_experimental/316/artifact/packages/industrialcraft-2_2.0.316-experimental.jar"
+    }
+]

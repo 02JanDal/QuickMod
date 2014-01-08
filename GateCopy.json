@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "Author": [
+            "denoflions"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "Requires denLib",
+    "iconUrl": "http://static2.wikia.nocookie.net/__cb20130214161127/feed-the-beast/images/5/53/Gate_%28Buildcraft_3%29.png",
+    "logoUrl": "http://i.imgur.com/M6slL.png",
+    "modId": "GateCopy",
+    "name": "GateCopy",
+    "nemName": "GateCopy",
+    "references": {
+        "Buildcraft": "http://localhost/quickmod/Buildcraft.json",
+        "denLib": "http://localhost/quickmod/denLib.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/GateCopy.json",
+    "versionsUrl": "http://localhost/quickmod/GateCopy.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1253666-"
+}

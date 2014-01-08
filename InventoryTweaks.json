@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "Kobata"
+        ]
+    },
+    "categories": [
+        "Util",
+        "Fixes"
+    ],
+    "description": "Latest: http://goo.gl/DEQqJ",
+    "iconUrl": "http://modding.kalam-alami.net/img/invtweaks.png",
+    "logoUrl": "http://modding.kalam-alami.net/img/invtweaks.png",
+    "modId": "inventorytweaks",
+    "name": "InventoryTweaks",
+    "nemName": "InventoryTweaks",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/InventoryTweaks.json",
+    "versionsUrl": "http://localhost/quickmod/InventoryTweaks.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1720872-"
+}

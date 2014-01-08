@@ -1,0 +1,24 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.6",
+        "url": "http://www.curse.com/mc-mods/minecraft/tmagriculture/730071"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "Agriculture_1.6.x_1.1.28",
+        "url": "http://www.curse.com/mc-mods/minecraft/tmagriculture/758885"
+    }
+]

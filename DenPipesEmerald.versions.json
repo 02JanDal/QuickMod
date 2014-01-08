@@ -1,0 +1,14 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "DenPipes": "2.1.18"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.1.6",
+        "url": "https://docs.google.com/uc?export=download&id=0B_HkYx17Pu9fMWVvZzRSU2pMczQ"
+    }
+]

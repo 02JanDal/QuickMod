@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "iChun"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "This mod adds an Aesthetic feature onto players, namely Hats!",
+    "iconUrl": "",
+    "logoUrl": "http://i.imgur.com/ucQRxwR.png",
+    "modId": "Hats",
+    "name": "Hats",
+    "nemName": "Hats",
+    "references": {
+    },
+    "tags": [
+        "Astetics"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Hats.json",
+    "versionsUrl": "http://localhost/quickmod/Hats.versions.json",
+    "websiteUrl": "http://ichun.us/mods/hats/"
+}

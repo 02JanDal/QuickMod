@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "Mikeemoo"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "Latest Builds: http://goo.gl/XEtaJ1",
+    "iconUrl": "http://www.openblocks.info/img/bridge.png",
+    "logoUrl": "http://i1.ytimg.com/vi/LvQPuQO7VgI/maxresdefault.jpg",
+    "modId": "OpenPeripheral",
+    "name": "OpenPeripheral",
+    "nemName": "OpenPeripheral",
+    "references": {
+        "ComputerCraft": "http://localhost/quickmod/ComputerCraft.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/OpenPeripheral.json",
+    "versionsUrl": "http://localhost/quickmod/OpenPeripheral.versions.json",
+    "websiteUrl": "http://openperipheral.info/openperipheral/"
+}

@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "Calclavia"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <p>Modular Forcefield System (MFFS) was initially an Industrial-Craft 2 addon, but is now fully compatible with both Buildcraft and IndustrialCraft power (with both IndustrialCraft and Thermal Expansion recipes). This mod adds a modular system for generating Force fields within game, at the cost of Force Energy (drawn from Forcicium, which is obtained through Monazit ore that spawns in the world). Beyond simply force fields, this mod also adds a wealth of base security, including the Area Defense station that is capable of fending off NPCs, mobs and other players - and stripping them of prohibited items!</p>\n</div>\n",
+    "iconUrl": "",
+    "logoUrl": "http://media-curse.cursecdn.com/attachments/95/295/ab5d214c02d1666c660abc4da20193ac.png",
+    "modId": "MFFS",
+    "name": "ModularForcefieldSystem",
+    "nemName": "ModularForcefieldSystem",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/ModularForcefieldSystem.json",
+    "versionsUrl": "http://localhost/quickmod/ModularForcefieldSystem.versions.json",
+    "websiteUrl": "http://universalelectricity.com/mffs"
+}

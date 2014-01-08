@@ -1,0 +1,20 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <p>Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!</p>\n</div>\n",
+    "iconUrl": "",
+    "logoUrl": "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png",
+    "modId": "CoFHCore",
+    "name": "CoFHCore",
+    "nemName": "CoFHCore",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/CoFHCore.json",
+    "versionsUrl": "http://localhost/quickmod/CoFHCore.versions.json",
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/cofhcore"
+}

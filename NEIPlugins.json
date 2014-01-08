@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "Mistaqur"
+        ]
+    },
+    "categories": [
+        "Utility"
+    ],
+    "description": "<h3>Supported mods</h3><br/>Buildcraft<br/>Assembly Table recipes.<br/><br/>Forestry<br/>Recipes for most devices.<br/><br/>Railcraft<br/>Show Rolling Machine, Rock Crusher, Coke Oven and Blast Furnace recipes. Also can show Steam Boiler info.<br/><br/>IndustrialCraft 2 exp<br/><br/>Ars Magica 2<br/>Essence Refiner recipes.<br/><br/>Tinkers Construct<br/>Smeltery and Liquid Casting recipes.<br/><h3>Fuel tooltips only</h3><br/><br/>Gregtech<br/>Diesel Generator, Gas Turbine, Thermal Generator, Semi Fluid Generator, Plasma Generator, Magic Energy Converter.<br/><br/>Thermal Expansion",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "NEIPlugins",
+    "name": "NEI Plugins",
+    "nemName": "NEIPlugins",
+    "references": {
+        "NEI": "http://localhost/quickmod/NotEnoughItems.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/NEIPlugins.json",
+    "versionsUrl": "http://localhost/quickmod/NEIPlugins.versions.json",
+    "websiteUrl": "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
+}

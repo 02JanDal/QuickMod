@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "iChun"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "<ul><li>Browse previously acquired morphs with the (defaults) [ / ] keys (Square brackets, normally next to the Enter/Return key). Hit them to open the Gui and scroll up and down, hold shift to scroll left and right. (Works with the mouse as well, once the selector is open!). The mod will try it’s best to prevent duplicate morphs, however it cannot guarantee that.</li><li>Select a morph with the Enter/Return/LMB. It takes ~4 seconds to transition between morphs, and you cannot acquire new morphs while morphing.</li><li>Remove a morph with the Delete/Backspace button. You however, cannot remove your original state, or the morph you are currently using.</li><li>Close the morph selector with the Escape/RMB. It will auto close if there is another Gui open.</li><li>Add a mod to favourites with the ~ key, when in the Morph Gui. You can also hold the ~ key to open a radial menu to morph into your favourites!</li></li></ul>",
+    "iconUrl": "",
+    "logoUrl": "http://cdn2.planetminecraft.com/files/resource_media/screenshot/1339/2013-09-01_170533_6452531.jpg",
+    "modId": "Morph",
+    "name": "Morph",
+    "nemName": "Morph",
+    "references": {
+    },
+    "tags": [
+        "Aestetics"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Morph.json",
+    "versionsUrl": "http://localhost/quickmod/Morph.versions.json",
+    "websiteUrl": "http://ichun.us/mods/morph/"
+}

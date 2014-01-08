@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "denoflions"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "DenPipes",
+    "name": "DenPipes",
+    "nemName": "DenPipes",
+    "references": {
+        "denLib": "http://localhost/quickmod/denLib.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/DenPipes.json",
+    "versionsUrl": "http://localhost/quickmod/DenPipes.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1253666-"
+}

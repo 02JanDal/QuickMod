@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "iChun"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "Needs Hats Mod",
+    "iconUrl": "",
+    "logoUrl": "http://i.imgur.com/LjvSnsa.png",
+    "modId": "HatStand",
+    "name": "HatStand",
+    "nemName": "HatStand",
+    "references": {
+        "Hats": "http://localhost/quickmod/Hats.json"
+    },
+    "tags": [
+        "Astetics"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/HatStand.json",
+    "versionsUrl": "http://localhost/quickmod/HatStand.versions.json",
+    "websiteUrl": "http://ichun.us/mods/hats/hat-stand/"
+}

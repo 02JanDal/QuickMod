@@ -1,0 +1,28 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "iChunUtil": "(2.0.0,)"
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.1",
+        "url": "http://adf.ly/V13HJ"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "iChunUtil": "(2.0.0,)"
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.0",
+        "url": "http://adf.ly/Sl4mQ"
+    }
+]

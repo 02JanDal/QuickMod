@@ -1,0 +1,68 @@
+[
+    {
+        "mcCompatibility": [
+            "1.5.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.8.2",
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/725311"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.9.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/726981"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.9.1",
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/745900"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.9.3",
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.9.3.r47",
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.9.4",
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/762617"
+    }
+]

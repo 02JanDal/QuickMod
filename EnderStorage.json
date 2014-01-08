@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "Author": [
+            "ChickenBones"
+        ]
+    },
+    "categories": [
+        "Magic",
+        "Tech"
+    ],
+    "description": "requires CodeChickenCore",
+    "iconUrl": "http://images3.wikia.nocookie.net/__cb20121011012436/thetekkit/images/f/f0/Ender_Chest.png",
+    "logoUrl": "http://i1.ytimg.com/vi/UW4C9lQwD1E/maxresdefault.jpg",
+    "modId": "EnderStorage",
+    "name": "EnderStorage",
+    "nemName": "EnderStorage",
+    "references": {
+        "CodeChickenCore": "http://localhost/quickmod/CodeChickenCore.json"
+    },
+    "tags": [
+        ""
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/EnderStorage.json",
+    "versionsUrl": "http://localhost/quickmod/EnderStorage.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/909223-"
+}

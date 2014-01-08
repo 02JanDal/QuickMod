@@ -1,0 +1,164 @@
+[
+    {
+        "checksum_md5": "49cb15fb6abb6e655dc90ace5398603e",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.1.0,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "2.3.0.7",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/752073"
+    },
+    {
+        "checksum_md5": "2a06b9a72e238c8504abf0b3bfe05b71",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.1.0,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "2.3.0.6",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/746647"
+    },
+    {
+        "checksum_md5": "34be3bde95bdcadac016c42ac3272fd3",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.1.0,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "2.3.0.5",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/745511"
+    },
+    {
+        "checksum_md5": "4246ed1ce46d19c02e9e9d8d1366deaa",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.1.0,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "2.3.0.4",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/745061"
+    },
+    {
+        "checksum_md5": "0f53e16022e01ee998777c96cf0308a1",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.1.0,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "2.3.0.3",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/743418"
+    },
+    {
+        "checksum_md5": "835119b209fa82a186d10d51cb448ecd",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.1.0,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "2.3.0.2",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/742563"
+    },
+    {
+        "checksum_md5": "39ebd4def1ae7aebf06236e727a5fcbe",
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(8.0.0.0,)"
+        },
+        "name": "2.3.0.1",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/728794"
+    },
+    {
+        "checksum_md5": "db4354f40b2afb3113e0921a6ba710cd",
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(8.0.0.0,)"
+        },
+        "name": "2.3.0.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/726919"
+    },
+    {
+        "checksum_md5": "7e2e64c34087e6ce755f4c85f801d837",
+        "mcCompatibility": [
+            "1.5.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(7.2.0.0,)"
+        },
+        "name": "2.2.8.4",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/718248"
+    },
+    {
+        "checksum_md5": "bad0532160cd7452684a7308f034f25a",
+        "mcCompatibility": [
+            "1.5.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Railcraft": "(7.2.0.0,)"
+        },
+        "name": "2.2.8.3",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/714507"
+    },
+    {
+        "mcCompatibility": [
+            "1.5.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.2.8.2",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/712834"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.3.1.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/758869"
+    }
+]

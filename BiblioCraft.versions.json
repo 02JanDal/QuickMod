@@ -1,0 +1,26 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.5.3",
+        "url": "http://adf.ly/ZY0Oh"
+    },
+    {
+        "mcCompatibility": [
+            "1.5.1",
+            "1.5.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.3.3",
+        "url": "http://adf.ly/RR9ov"
+    }
+]

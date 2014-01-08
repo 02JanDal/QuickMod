@@ -1,0 +1,287 @@
+[
+    {
+        "checksum_md5": "08108ba71b204c24df33b2a3376d4de7",
+        "forgeCompatibility": "(9.10.1.867,)",
+        "mcCompatibility": [
+            "1.6.4",
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.0,)"
+        },
+        "name": "8.2.0.0",
+        "url": "http://adf.ly/YUJFt"
+    },
+    {
+        "checksum_md5": "b1e2e34b388a38d94bfcd3f4e01309d5",
+        "forgeCompatibility": "(9.10.1.867,)",
+        "mcCompatibility": [
+            "1.6.4",
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.0,)"
+        },
+        "name": "8.1.0.0",
+        "url": "http://adf.ly/X2wgF"
+    },
+    {
+        "checksum_md5": "092dedac13999034e1622cc3860ba0bb",
+        "forgeCompatibility": "(9.10.0.818,)",
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.0,)"
+        },
+        "name": "8.0.2.0",
+        "url": "http://adf.ly/VCMjy"
+    },
+    {
+        "checksum_md5": "986fdbb6961f281ba3c7c47b99892006",
+        "forgeCompatibility": "(9.10.0.818,)",
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.0,)"
+        },
+        "name": "8.0.1.0",
+        "url": "http://adf.ly/ULhQf"
+    },
+    {
+        "checksum_md5": "0a45d536429b1dcf5b09baa36085def2",
+        "forgeCompatibility": "(9.10.0.818,)",
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.0,)"
+        },
+        "name": "8.0.0.0",
+        "url": "http://adf.ly/U7RTH"
+    },
+    {
+        "checksum_md5": "a6d1627a0ecaca3b7d8f8117293fc12a",
+        "forgeCompatibility": "(7.7.1.624,)",
+        "mcCompatibility": [
+            "1.5.1",
+            "1.5.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.2.8.3,)"
+        },
+        "name": "7.3.0.0",
+        "url": "http://adf.ly/RSjbj"
+    },
+    {
+        "forgeCompatibility": "(7.7.1.624,)",
+        "mcCompatibility": [
+            "1.5.1",
+            "1.5.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.2.8.3,)"
+        },
+        "name": "7.2.3.0",
+        "url": "http://adf.ly/QVNZU"
+    },
+    {
+        "forgeCompatibility": "(7.7.1.624,)",
+        "mcCompatibility": [
+            "1.5.1",
+            "1.5.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.2.8.3,)"
+        },
+        "name": "7.2.2.0",
+        "url": "http://adf.ly/QUEO5"
+    },
+    {
+        "forgeCompatibility": "(7.7.1.624,)",
+        "mcCompatibility": [
+            "1.5.1",
+            "1.5.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.2.8.3,)"
+        },
+        "name": "7.2.1.0",
+        "url": "http://adf.ly/Pmk6q"
+    },
+    {
+        "forgeCompatibility": "(7.7.1.624,)",
+        "mcCompatibility": [
+            "1.5.1",
+            "1.5.2"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.2.8.3,)"
+        },
+        "name": "7.2.0.0",
+        "url": "http://adf.ly/PlhLA"
+    },
+    {
+        "forgeCompatibility": "(7.7.1.624,)",
+        "mcCompatibility": [
+            "1.5.1"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.2,)"
+        },
+        "name": "7.1.0.0",
+        "url": "http://adf.ly/OsU4y"
+    },
+    {
+        "forgeCompatibility": "(7.7.1.624,)",
+        "mcCompatibility": [
+            "1.5.1"
+        ],
+        "modDependencies": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "modRecommendations": {
+            "Forestry": "(2.2.8.3,)"
+        },
+        "name": "7.0.0.0",
+        "url": "http://adf.ly/OE2dT"
+    },
+    {
+        "forgeCompatibility": "(6.6.0.516,)",
+        "mcCompatibility": [
+            "1.4.7"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "6.17.0.0",
+        "url": "http://adf.ly/K0x7P"
+    },
+    {
+        "forgeCompatibility": "(6.6.0.516,)",
+        "mcCompatibility": [
+            "1.4.7"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "6.16.0.0",
+        "url": "http://adf.ly/JaJQr"
+    },
+    {
+        "forgeCompatibility": "(6.6.0.516,)",
+        "mcCompatibility": [
+            "1.4.7"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "6.15.3.0",
+        "url": "http://adf.ly/IpuP2"
+    },
+    {
+        "checksum_md5": "018e62f305487ac53c15403e17a9ca69",
+        "forgeCompatibility": "(6.6.0.516,)",
+        "mcCompatibility": [
+            "1.4.7"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "6.15.2.0",
+        "url": "http://adf.ly/IWk8P"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "8.3.0.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/railcraft/758252"
+    },
+    {
+        "mcCompatibility": [
+            "1.4.7"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "v6.15.1.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/railcraft/669725"
+    },
+    {
+        "mcCompatibility": [
+            "1.4.7"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "v6.15.2.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/railcraft/670070"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "8.3.1.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/railcraft/759474"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "8.3.2.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/railcraft/761300"
+    }
+]

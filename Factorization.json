@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "Author": [
+            "neptunepink"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "This mod adds many machines for processing ore and crafting. It also has a few other useful things.",
+    "iconUrl": "http://static2.wikia.nocookie.net/__cb20130214161013/feed-the-beast/images/1/12/Grid_Barrel.png",
+    "logoUrl": "http://www.minecraftings.com/wp-content/uploads/2013/04/factorization-mod.jpg",
+    "modId": "factorization",
+    "name": "Factorization",
+    "nemName": "Factorization",
+    "references": {
+    },
+    "tags": [
+        "Processing"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Factorization.json",
+    "versionsUrl": "http://localhost/quickmod/Factorization.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1351802-"
+}

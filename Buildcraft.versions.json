@@ -1,0 +1,122 @@
+[
+    {
+        "checksum_md5": "2321781a9a0b4bc6a84ddc2ceb54cda5",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.2,)",
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "4.1.2",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
+    },
+    {
+        "checksum_md5": "6288690375139ec7cd8077580f24c2f4",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.2,)",
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "4.1.1",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
+    },
+    {
+        "checksum_md5": "5ea3380aefb3afd3e58d3a62c2ee7892",
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.2,)",
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "4.1.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
+    },
+    {
+        "checksum_md5": "9e6cc9d41b0568c906fecf03337e0d2a",
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.2,)",
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "4.0.2",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
+    },
+    {
+        "checksum_md5": "fb1dc2fcefa0546995405258ac0d8f28",
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.2,)",
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "4.0.1",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
+    },
+    {
+        "checksum_md5": "a24c223c6880a50c76b3b4189e9db402",
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.2,)",
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "4.0.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
+    },
+    {
+        "checksum_md5": "4495f0087053a8434863d08677420b62",
+        "mcCompatibility": [
+            "1.5.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+            "Forestry": "(2.3.0.2,)",
+            "Railcraft": "(8.1.0.0,)"
+        },
+        "name": "3.7.2",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "4.2.0",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/756762"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "4.2.1",
+        "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/757008"
+    }
+]

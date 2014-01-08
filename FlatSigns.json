@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "Myrathi"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <h2 id=\"w-overview\">Overview</h2>\n  <p>\n    <strong>FlatSigns</strong> is a mod, by <a href=\"http://wiki.feed-the-beast.com/User:Myrathi\">Myrathi</a>, providing new sign functionality that allows signs to be placed flat on the ceiling or the floor (via sneak click).</p>\n  <p>You can also make sponges to edit existing signs.</p>\n  <h5 id=\"w-minecraft-1-6-2\">Minecraft 1.6.2</h5>\n  <p>As of <strong>v1.4.0 build 15</strong>, the mod supports the 1.6.2 client.</p>\n  <h5 id=\"w-minecraft-1-5-2\">Minecraft 1.5.2</h5>\n  <p>As of <strong>v1.3.1 build 13</strong>, sponges and sponge wipes can be created and used to edit signs in-place.</p>\n  <h5 id=\"w-minecraft-1-5-1\">Minecraft 1.5.1</h5>\n  <p>In the early versions of the mod, signs can be placed on ceilings and, if sneak is held, flat on the floor.</p>\n  <h2 id=\"w-how-it-works\">How It Works</h2>\n  <p>There are no \"new\" sign blocks - you simply \"place\" a normal sign on the ceiling or sneak-place it on the floor. Everything should work as you'd expect!</p>\n  <p>How do you edit a sign? You right-click a sponge or sponge wipe on it.</p>\n  <p>To make a sponge (which is usually only available in creative mode), simply throw <strong>yellow wool</strong> into water or onto the ground when it's raining. It'll soak up the water. <em>SHLOOP!</em> You have a sponge!</p>\n  <p>The problem with sponge is that it's not very durable. The solution? You make it into sponge wipes! Simply craft a sponge with a piece of cactus green (to give it a rougher side) et voilà: you have something akin to a steel-wool pad!</p>\n  <p>You can also place sponge beside a sign (without editing it) by sneaking while placing the sponge. It won't be \"used\" but will, instead, appear as a block.</p>\n  <h2 id=\"w-recipes\">Recipes</h2>\n  <p>See the <a href=\"http://wiki.feed-the-beast.com/FlatSigns#Recipes\">FTB wiki page</a>.</p>\n  <h2 id=\"w-other-mods-by-me\">Other Mods by Me</h2>\n  <p>You can find a list in my <a href=\"http://smarturl.it/Myrathi\">Mod Compendium</a> on the FTB forum or on my <a href=\"http://minecraft.curseforge.com/profiles/myrathi2\">CurseForge profile</a>.</p>\n</div>\n",
+    "iconUrl": "http://hydra-media.cursecdn.com/minecraft.gamepedia.com/thumb/5/5d/Sign.png/40px-Sign.png",
+    "logoUrl": "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png",
+    "modId": "flatsigns",
+    "name": "FlatSigns",
+    "nemName": "FlatSigns",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/FlatSigns.json",
+    "versionsUrl": "http://localhost/quickmod/FlatSigns.versions.json",
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/flatsigns"
+}

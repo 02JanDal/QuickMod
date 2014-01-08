@@ -1,0 +1,20 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "WhatIsMyBrowser.com",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "WIMB",
+    "nemName": "",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/WIMB.json",
+    "versionsUrl": "http://localhost/quickmod/WIMB.versions.json",
+    "websiteUrl": ""
+}

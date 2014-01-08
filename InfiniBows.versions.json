@@ -1,0 +1,68 @@
+[
+    {
+        "mcCompatibility": [
+            "1.5.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.0.10",
+        "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720733"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.1.0.12",
+        "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720734"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.2.0.14",
+        "url": "http://www.curse.com/mc-mods/minecraft/infinibows/748987"
+    },
+    {
+        "mcCompatibility": [
+            "1.5.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "InfiniBows v1.0.0.10",
+        "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720733"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "InfiniBows v1.1.0.12",
+        "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720734"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "InfiniBows v1.2.0.14",
+        "url": "http://www.curse.com/mc-mods/minecraft/infinibows/748987"
+    }
+]

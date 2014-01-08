@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "Authors": [
+            "mDiyo",
+            "fuj1n",
+            "ProgWML6",
+            "Sunstrike",
+            "Pillbox"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "",
+    "iconUrl": "http://wiki.technicpack.net/images/b/bd/Pickaxe_%28Tinkers%27_Construct%29.png",
+    "logoUrl": "http://static4.wikia.nocookie.net/__cb20130725222428/hexxit/images/f/fe/Drawbridge.png",
+    "modId": "TMechworks",
+    "name": "TinkersConstructMechworks",
+    "nemName": "Mechworks",
+    "references": {
+        "TinkersConstruct": "http://localhost/quickmod/TinkersConstruct.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/TinkersConstructMechworks.json",
+    "versionsUrl": "http://localhost/quickmod/TinkersConstructMechworks.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1659892-164tinkers-construct/"
+}

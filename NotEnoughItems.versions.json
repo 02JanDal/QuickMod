@@ -1,0 +1,50 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "CodeChickenCore": "0.9.0.6"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.6.1.5",
+        "url": "http://adf.ly/WAp6r"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.2"
+        ],
+        "modDependencies": {
+            "CodeChickenCore": "0.9.0.5"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.6.1.4",
+        "url": "http://adf.ly/SohmZ"
+    },
+    {
+        "mcCompatibility": [
+            "1.5.1"
+        ],
+        "modDependencies": {
+            "CodeChickenCore": "0.8.7.3"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.5.2.28",
+        "url": "http://adf.ly/KpW91"
+    },
+    {
+        "mcCompatibility": [
+            "1.4.7"
+        ],
+        "modDependencies": {
+            "CodeChickenCore": "0.8.1.6"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.4.7.4",
+        "url": "http://adf.ly/4KQKk"
+    }
+]

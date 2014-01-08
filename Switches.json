@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "Myrathi"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <h2 id=\"w-overview\">Overview</h2>\n  <p>\n    <strong>Switches</strong> is a mod, by <a href=\"http://wiki.feed-the-beast.com/User:Myrathi\">Myrathi</a>, that provides alternative switch designs inspired by SethBling's Bite-Sized Minecraft episodes (<a href=\"http://www.youtube.com/watch?v=qloBPxqV7sM&amp;t=1m28s\">Ep.1</a> &amp; <a href=\"http://www.youtube.com/watch?v=00XJ9qrtyHM&amp;t=1m40s\">Ep.2</a>).</p>\n  <h5 id=\"w-minecraft-1-6-4\">Minecraft 1.6.4</h5>\n  <p>As of <strong>v1.3.0 build 25</strong>, <strong>Switches</strong> supports the 1.6.4 client.</p>\n  <h5 id=\"w-minecraft-1-6-2\">Minecraft 1.6.2</h5>\n  <p>As of <strong>v1.2.0 build 21</strong>, <strong>Switches</strong> no longer requires CCC for special piston features (flipping levers and clicking switches).<br/>It still goes into the <strong>/mods</strong> folder (as there is no <strong>/coremods</strong> folder in 1.6.2).</p>\n  <h5 id=\"w-minecraft-1-5-2\">Minecraft 1.5.2</h5>\n  <p>As of <strong>v1.1.0 build 19</strong>, emerald and diamond switch designs were added.</p>\n  <h5 id=\"w-minecraft-1-5-1\">Minecraft 1.5.1</h5>\n  <p>In the earlier versions, only iron and gold switches are available.</p>\n  <h2 id=\"w-how-it-works\">How It Works</h2>\n  <p>Switches are placed and respond just like vanilla levers (you can place them on any side of a block).</p>\n  <p>Right-clicking a switch toggles its state between on and off.</p>\n  <p>You can toggle a switch (or lever) by having a piston extend directly against it. A retracting sticky piston will also pull a lever back towards itself.</p>\n  <p>Switches made of different materials do not act differently - it's purely aesthetics!</p>\n  <h2 id=\"w-recipes\">Recipes</h2>\n  <p>See the <a href=\"http://wiki.feed-the-beast.com/Switches#Recipes\">FTB wiki page</a>.</p>\n  <h2 id=\"w-other-mods-by-me\">Other Mods by Me</h2>\n  <p>You can find a list in my <a href=\"http://smarturl.it/Myrathi\">Mod Compendium</a> on the FTB forum or on my <a href=\"http://minecraft.curseforge.com/profiles/myrathi2\">CurseForge profile</a>.</p>\n</div>\n",
+    "iconUrl": "",
+    "logoUrl": "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png",
+    "modId": "switches|pistontweak",
+    "name": "Switches",
+    "nemName": "Switches",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Switches.json",
+    "versionsUrl": "http://localhost/quickmod/Switches.versions.json",
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/switches"
+}

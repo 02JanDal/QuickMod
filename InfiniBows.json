@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "Myrathi"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <h2 id=\"w-overview\">Overview</h2>\n  <p>\n    <strong>InfiniBows</strong> is a coremod, by <a href=\"http://wiki.feed-the-beast.com/User:Myrathi\">Myrathi</a>, that removes the need for a single arrow in a player's inventory when using a bow enchanted with \"Infinity I\".</p>\n  <h5 id=\"w-minecraft-1-6-2\">Minecraft 1.6.2</h5>\n  <p>As of <strong>v1.2.0 build 14</strong> the mod supports the 1.6.4 client.</p>\n  <h5 id=\"w-minecraft-1-6-2-2\">Minecraft 1.6.2</h5>\n  <p>As of <strong>v1.1.0 build 12</strong> the mod supports the 1.6.2 client and must be installed into the <strong>/mods</strong> folder, just like every other normal mod.</p>\n  <h5 id=\"w-minecraft-1-5-2\">Minecraft 1.5.2</h5>\n  <p>This was the initial <strong>v1.0.0 build 10</strong>, released for the 1.5.2 client. It required installing into the <strong>/coremods</strong> folder.</p>\n  <h2 id=\"w-how-it-works\">How It Works</h2>\n  <p>Simply installing the mod into the correct folder (see above) enables the mod's features.</p>\n  <p>There are no additional GUIs, items or blocks.</p>\n  <h2 id=\"w-recipes\">Recipes</h2>\n  <p>None.</p>\n  <h2 id=\"w-other-mods-by-me\">Other Mods by Me</h2>\n  <p>You can find a list in my <a href=\"http://smarturl.it/Myrathi\">Mod Compendium</a> on the FTB forum or on my <a href=\"http://minecraft.curseforge.com/profiles/myrathi2\">CurseForge profile</a>.</p>\n</div>\n",
+    "iconUrl": "http://www.pocketgamer.co.uk/images/featimgs/minecraft-guide-bow.gif",
+    "logoUrl": "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png",
+    "modId": "InfiniBows",
+    "name": "InfiniBows",
+    "nemName": "InfiniBows",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/InfiniBows.json",
+    "versionsUrl": "http://localhost/quickmod/InfiniBows.versions.json",
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/infinibows"
+}

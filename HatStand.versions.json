@@ -1,0 +1,15 @@
+[
+    {
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "Hats": "(2.0.0,)"
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.0",
+        "url": "http://adf.ly/UADQM"
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "authors": {
+        "Author": [
+            "SirSengir"
+        ]
+    },
+    "categories": [
+        "Tech",
+        "Nature"
+    ],
+    "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <p>\n    <img alt=\"Forestry\" title=\"Forestry\" src=\"http://forestry.sengir.net/wiki.new/lib/exe/fetch.php?media=main_butterfly.jpg\"/>\n  </p>\n  <p>Forestry deals with farming, renewable energy production as well as the breeding of trees, bees and butterflies in Minecraft.</p>\n  <h4 id=\"w-notable-features\">Notable features</h4>\n  <ul>\n    <li>Automatic Farms</li>\n    <li>Bee breeding</li>\n    <li>Tree breeding</li>\n    <li>Butterflies</li>\n    <li>Intelligent Backpacks</li>\n    <li>Mail System</li>\n    <li>Energy Production</li>\n    <li>Compatibility with several mods, most notably Buildcraft, IndustrialCraft 2 and Railcraft.</li>\n  </ul>\n  <p>\n    <img alt=\"Forestry - MultiFarm Orchard\" title=\"Forestry - MultiFarm Orchard\" src=\"http://forestry.sengir.net/wiki.new/lib/exe/fetch.php?media=main_farm.jpg\"/>\n  </p>\n  <h4 id=\"w-further-information-and-news\">Further information and news</h4>\n  <ul>\n    <li>\n      <a href=\"http://forestry.sengir.net/wiki.new/\">Official Wiki</a>\n    </li>\n    <li>\n      <a href=\"http://forestry.sengir.net/forum/\">Official Forum</a>\n    </li>\n    <li>\n      <a href=\"https://twitter.com/SirSengir\">Twitter</a>\n    </li>\n  </ul>\n  <h4 id=\"w-addons\">Addons</h4>\n  <ul>\n    <li>\n      <a href=\"/mc-mods/chemcraft-more-backpacks/pages/main/\">More Backpacks</a>\n    </li>\n    <li>\n      <a href=\"http://forestry.sengir.net/forum/viewforum.php?id=10\">ExtraBees</a>\n    </li>\n    <li>\n      <a href=\"http://forestry.sengir.net/forum/viewforum.php?id=11\">Magic Bees</a>\n    </li>\n  </ul>\n</div>\n",
+    "iconUrl": "http://wiki.feed-the-beast.com/images/2/2c/Modicon_forestry.png",
+    "logoUrl": "http://media-curse.cursecdn.com/attachments/91/806/b9152c5745e993454092f7aecf9bd6e3.png",
+    "modId": "Forestry",
+    "name": "Forestry",
+    "nemName": "Forestry",
+    "references": {
+        "Buildcraft": "http://localhost/quickmod/Buildcraft.json",
+        "Railcraft": "http://localhost/quickmod/Railcraft.json"
+    },
+    "tags": [
+        "MJ Power",
+        "Breeding"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Forestry.json",
+    "versionsUrl": "http://localhost/quickmod/Forestry.versions.json",
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/forestry"
+}

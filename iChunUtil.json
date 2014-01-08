@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "iChun"
+        ]
+    },
+    "categories": [
+        "API"
+    ],
+    "description": "This mod is a shared library required by a couple of iChun’s Mods. Made for Minecraft 1.5 or later.",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "iChunUtil",
+    "name": "iChunUtil",
+    "nemName": "iChunUtil",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/iChunUtil.json",
+    "versionsUrl": "http://localhost/quickmod/iChunUtil.versions.json",
+    "websiteUrl": "http://ichun.us/mods/ichun-util/"
+}

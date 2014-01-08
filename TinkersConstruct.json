@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "Author": [
+            "mDiyo"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever. Any world generation included in the mod is more efficient, but not required to progress.",
+    "iconUrl": "http://wiki.technicpack.net/images/b/bd/Pickaxe_%28Tinkers%27_Construct%29.png",
+    "logoUrl": "http://i.imgur.com/a9Kfyro.png",
+    "modId": "TConstruct",
+    "name": "TinkersConstruct",
+    "nemName": "TinkersConstruct",
+    "references": {
+    },
+    "tags": [
+        "Tools",
+        "Modular"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/TinkersConstruct.json",
+    "versionsUrl": "http://localhost/quickmod/TinkersConstruct.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1659892-"
+}

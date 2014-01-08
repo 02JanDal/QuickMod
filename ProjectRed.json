@@ -1,0 +1,30 @@
+{
+    "authors": {
+        "Author": [
+            "Mr_TJP, ChickenBones"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "Requires CodeChickenCore and ForgeMultipart",
+    "iconUrl": "",
+    "logoUrl": "http://pixld.me/wp-content/uploads/2013/07/Project-Red-Mod.png",
+    "modId": "",
+    "name": "ProjectRed",
+    "nemName": "ProjectRed",
+    "references": {
+        "ProjectRed-Base": "http://localhost/quickmod/ProjectRed-Base.json",
+        "ProjectRed-Compat": "http://localhost/quickmod/ProjectRed-Compat.json",
+        "ProjectRed-Integration": "http://localhost/quickmod/ProjectRed-Integration.json",
+        "ProjectRed-Lightning": "http://localhost/quickmod/ProjectRed-Lightning.json",
+        "ProjectRed-World": "http://localhost/quickmod/ProjectRed-World.json"
+    },
+    "tags": [
+        "Redstone"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/ProjectRed.json",
+    "versionsUrl": "http://localhost/quickmod/ProjectRed.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/1885652-"
+}

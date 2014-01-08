@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "Author": [
+            "IC2 Team"
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "Highly Experimental - Use @ Own Risk",
+    "iconUrl": "http://www.industrial-craft.net/wp-content/uploads/2011/05/logo.png",
+    "logoUrl": "http://i56.tinypic.com/2hx3upg.png",
+    "modId": "IC2",
+    "name": "IndustrialCraft2",
+    "nemName": "IndustrialCraft2-EXP",
+    "references": {
+    },
+    "tags": [
+        "Power",
+        "EU Power",
+        "Processing"
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/IndustrialCraft2.json",
+    "versionsUrl": "http://localhost/quickmod/IndustrialCraft.versions.json",
+    "websiteUrl": "http://ic2api.player.to:8080/job/IC2_experimental/"
+}
