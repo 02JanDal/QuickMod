@@ -1,0 +1,20 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "ZansMinimap",
+    "nemName": "",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/ZansMinimap.json",
+    "versionsUrl": "http://localhost/quickmod/ZansMinimap.versions.json",
+    "websiteUrl": ""
+}

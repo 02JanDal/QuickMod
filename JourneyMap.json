@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "techbrew"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "JourneyMap",
+    "nemName": "JourneyMap",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/JourneyMap.json",
+    "versionsUrl": "http://localhost/quickmod/JourneyMap.versions.json",
+    "websiteUrl": "http://journeymap.techbrew.net/"
+}

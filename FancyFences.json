@@ -1,0 +1,20 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "FancyFences",
+    "nemName": "",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/FancyFences.json",
+    "versionsUrl": "http://localhost/quickmod/FancyFences.versions.json",
+    "websiteUrl": ""
+}

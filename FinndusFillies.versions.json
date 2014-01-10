@@ -1,0 +1,13 @@
+[
+    {
+        "mcCompatibility": [ "1.6.2", "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.0.7",
+        "type": "direct",
+        "url": "http://addons.curse.cursecdn.com/files/719/245/FinndusFillies-1.6.2-universal-1.0.0.7.jar"
+    }
+]

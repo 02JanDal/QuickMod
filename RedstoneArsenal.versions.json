@@ -1,0 +1,14 @@
+[
+    {
+        "mcCompatibility": ["1.6.4"
+        ],
+        "modDependencies": {
+	    "CoFHCore": "2.0.0.2"
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.0.0",
+        "type": "parallel",
+        "url": "http://www.curseforge.com/media/files/762/740/RedstoneArsenal-1.0.0.0.jar"
+    }
+]

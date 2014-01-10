@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "Myrathi"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "FinndusFillies",
+    "nemName": "FinndusFillies",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/FinndusFillies.json",
+    "versionsUrl": "http://localhost/quickmod/FinndusFillies.versions.json",
+    "websiteUrl": "http://forum.feed-the-beast.com/threads/.18505/"
+}

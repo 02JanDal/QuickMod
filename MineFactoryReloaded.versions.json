@@ -1,0 +1,14 @@
+[
+    {
+        "mcCompatibility": [
+		"1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.7.4-255",
+        "type": "parallel",
+        "url": "http://www.curseforge.com/media/files/762/626/MineFactoryReloaded-2.7.4-255.jar"
+    }
+]

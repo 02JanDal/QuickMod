@@ -1,0 +1,13 @@
+[
+    {
+        "mcCompatibility": [ "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.1.8-9",
+        "type": "parallel",
+        "url": "http://www.curseforge.com/media/files/753/761/PowerCrystalsCore-1.1.8-9.jar"
+    }
+]

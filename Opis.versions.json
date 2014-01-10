@@ -8,6 +8,19 @@
         },
         "modRecommendations": {
         },
+        "name": "1.1.2",
+        "url": "http://adf.ly/arapt",
+        "type": "sequential"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "MobiusCore": "(1.0.4_alpha,)"
+        },
+        "modRecommendations": {
+        },
         "name": "1.1.0_alpha",
         "url": "http://adf.ly/aOMay",
         "type": "sequential"

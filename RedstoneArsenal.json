@@ -1,0 +1,21 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "Requires CoFHCore",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "RedstoneArsenal",
+    "nemName": "RedstoneArsenal",
+    "references": {
+	"CoFHCore": "http://localhost/quickmod/CoFHCore.json"
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/RedstoneArsenal.json",
+    "versionsUrl": "http://localhost/quickmod/RedstoneArsenal.versions.json",
+    "websiteUrl": "http://teamcofh.com/index.php?page=downloads"
+}

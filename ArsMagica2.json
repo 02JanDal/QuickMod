@@ -10,6 +10,7 @@
     "iconUrl": "http://shoutwiki.com/w/images/arsmagica/f/ff/ItemSpellScroll.png",
     "logoUrl": "http://media-curse.cursecdn.com/attachments/99/330/eb992f596b9b106f95d2b7465e51391d.png",
     "modId": "arsmagica2",
+    "uid": "ArsMagica2",
     "name": "ArsMagica2",
     "nemName": "ArsMagica2",
     "references": {
@@ -18,6 +19,6 @@
     ],
     "type": "forgeMod",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ArsMagica2.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ArsMagica.versions.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ArsMagica2.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/ars-magica-2"
 }

@@ -8,6 +8,19 @@
         },
         "modRecommendations": {
         },
+        "name": "1.4.4b",
+        "url": "http://adf.ly/b1o1w",
+        "type": "sequential"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+            "NotEnoughItems": "(1.6.1.5,)"
+        },
+        "modRecommendations": {
+        },
         "name": "1.4.2",
         "url": "http://adf.ly/aV23t",
         "type": "sequential"

@@ -10,5 +10,17 @@
         "name": "1.0.0",
         "url": "http://adf.ly/aJzzU",
         "type": "sequential"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.0.0a",
+        "url": "http://adf.ly/aJzzU",
+        "type": "sequential"
     }
 ]

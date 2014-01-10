@@ -31,5 +31,17 @@
         },
         "name": "2.0.0.0",
         "url": "http://www.curse.com/mc-mods/minecraft/cofhcore/762738"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "2.0.0.2",
+        "url": "http://www.curseforge.com/media/files/764/469/CoFHCore-2.0.0.2.jar",
+        "type": "direct"
     }
 ]

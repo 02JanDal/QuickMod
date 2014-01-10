@@ -1,0 +1,13 @@
+[
+    {
+        "mcCompatibility": [ "1.6.2", "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "4.0.0",
+        "type": "parallel",
+        "url": "http://adf.ly/VOsL7"
+    }
+]

@@ -1,6 +1,18 @@
 [
     {
         "mcCompatibility": [
+            "1.6.2", "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
+        "name": "1.2.2",
+        "url": "https://github.com/02JanDal/QuickMod/raw/master/Agriculture-1.6.2-1.2.2.jar",
+        "type": "direct"
+    },
+    {
+        "mcCompatibility": [
             "1.6.2"
         ],
         "modDependencies": {

@@ -7,6 +7,18 @@
         },
         "modRecommendations": {
         },
+        "name": "0.9.0.7",
+        "url": "http://adf.ly/WAp6p",
+        "type": "sequential"
+    },
+    {
+        "mcCompatibility": [
+            "1.6.4"
+        ],
+        "modDependencies": {
+        },
+        "modRecommendations": {
+        },
         "name": "0.9.0.6",
         "url": "http://adf.ly/WAp6p",
         "type": "sequential"

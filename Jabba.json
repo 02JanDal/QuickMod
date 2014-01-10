@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "Author": [
+            "ProfMobius"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "Jabba",
+    "nemName": "Jabba",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/Jabba.json",
+    "versionsUrl": "http://localhost/quickmod/Jabba.versions.json",
+    "websiteUrl": "http://profmobius.blogspot.fr/p/jabba_7.html"
+}
