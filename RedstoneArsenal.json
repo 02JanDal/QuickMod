@@ -11,12 +11,12 @@
     "name": "RedstoneArsenal",
     "nemName": "RedstoneArsenal",
     "references": {
-        "CoFHCore": "http://localhost/quickmod/CoFHCore.json"
+        "CoFHCore": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json"
     },
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/RedstoneArsenal.json",
-    "versionsUrl": "http://localhost/quickmod/RedstoneArsenal.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/RedstoneArsenal.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/RedstoneArsenal.versions.json",
     "websiteUrl": "http://teamcofh.com/index.php?page=downloads"
 }

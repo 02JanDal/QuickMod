@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/MineFactoryReloaded.json",
-    "versionsUrl": "http://localhost/quickmod/MineFactoryReloaded.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/MineFactoryReloaded.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/MineFactoryReloaded.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/2016680-"
 }

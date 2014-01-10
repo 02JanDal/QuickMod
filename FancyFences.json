@@ -15,7 +15,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/FancyFences.json",
-    "versionsUrl": "http://localhost/quickmod/FancyFences.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/FancyFences.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/FancyFences.versions.json",
     "websiteUrl": ""
 }

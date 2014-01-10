@@ -15,7 +15,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/ZansMinimap.json",
-    "versionsUrl": "http://localhost/quickmod/ZansMinimap.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ZansMinimap.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ZansMinimap.versions.json",
     "websiteUrl": ""
 }

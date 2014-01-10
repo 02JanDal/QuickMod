@@ -15,7 +15,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/SortFix.json",
-    "versionsUrl": "http://localhost/quickmod/SortFix.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/SortFix.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/SortFix.versions.json",
     "websiteUrl": ""
 }

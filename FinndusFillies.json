@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/FinndusFillies.json",
-    "versionsUrl": "http://localhost/quickmod/FinndusFillies.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/FinndusFillies.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/FinndusFillies.versions.json",
     "websiteUrl": "http://forum.feed-the-beast.com/threads/.18505/"
 }

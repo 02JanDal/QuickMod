@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/JourneyMap.json",
-    "versionsUrl": "http://localhost/quickmod/JourneyMap.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/JourneyMap.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/JourneyMap.versions.json",
     "websiteUrl": "http://journeymap.techbrew.net/"
 }

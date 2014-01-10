@@ -18,7 +18,7 @@
     "tags": [
     ],
     "type": "forgeMod",
-    "updateUrl": "http://localhost/quickmod/PowerCrystalsCore.json",
-    "versionsUrl": "http://localhost/quickmod/PowerCrystalsCore.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/PowerCrystalsCore.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/PowerCrystalsCore.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactoryreloaded-powercrystalscore-and-netherores-updated/"
 }
