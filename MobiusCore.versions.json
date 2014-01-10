@@ -8,7 +8,8 @@
         "modRecommendations": {
         },
         "name": "1.0.4",
-        "url": "http://adf.ly/aIpmn"
+        "url": "http://adf.ly/aIpmn",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -19,7 +20,8 @@
         "modRecommendations": {
         },
         "name": "1.0.2",
-        "url": "http://adf.ly/ZkLsD"
+        "url": "http://adf.ly/ZkLsD",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -30,7 +32,8 @@
         "modRecommendations": {
         },
         "name": "1.0.1",
-        "url": "http://adf.ly/ZSjNR"
+        "url": "http://adf.ly/ZSjNR",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [

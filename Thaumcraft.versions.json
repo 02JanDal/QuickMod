@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "4.0.5b",
-        "url": "http://adf.ly/1311628/thaumcraft-4"
+        "url": "http://adf.ly/1311628/thaumcraft-4",
+        "type": "sequential"
     }
 ]

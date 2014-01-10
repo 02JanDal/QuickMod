@@ -13,7 +13,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.2.0.0",
-        "url": "http://adf.ly/YUJFt"
+        "url": "http://adf.ly/YUJFt",
+        "type": "sequential"
     },
     {
         "checksum_md5": "b1e2e34b388a38d94bfcd3f4e01309d5",
@@ -29,7 +30,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.1.0.0",
-        "url": "http://adf.ly/X2wgF"
+        "url": "http://adf.ly/X2wgF",
+        "type": "sequential"
     },
     {
         "checksum_md5": "092dedac13999034e1622cc3860ba0bb",
@@ -44,7 +46,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.0.2.0",
-        "url": "http://adf.ly/VCMjy"
+        "url": "http://adf.ly/VCMjy",
+        "type": "sequential"
     },
     {
         "checksum_md5": "986fdbb6961f281ba3c7c47b99892006",
@@ -59,7 +62,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.0.1.0",
-        "url": "http://adf.ly/ULhQf"
+        "url": "http://adf.ly/ULhQf",
+        "type": "sequential"
     },
     {
         "checksum_md5": "0a45d536429b1dcf5b09baa36085def2",
@@ -74,7 +78,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.0.0.0",
-        "url": "http://adf.ly/U7RTH"
+        "url": "http://adf.ly/U7RTH",
+        "type": "sequential"
     },
     {
         "checksum_md5": "a6d1627a0ecaca3b7d8f8117293fc12a",
@@ -90,7 +95,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.3.0.0",
-        "url": "http://adf.ly/RSjbj"
+        "url": "http://adf.ly/RSjbj",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -105,7 +111,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.2.3.0",
-        "url": "http://adf.ly/QVNZU"
+        "url": "http://adf.ly/QVNZU",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -120,7 +127,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.2.2.0",
-        "url": "http://adf.ly/QUEO5"
+        "url": "http://adf.ly/QUEO5",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -135,7 +143,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.2.1.0",
-        "url": "http://adf.ly/Pmk6q"
+        "url": "http://adf.ly/Pmk6q",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -150,7 +159,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.2.0.0",
-        "url": "http://adf.ly/PlhLA"
+        "url": "http://adf.ly/PlhLA",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -164,7 +174,8 @@
             "Forestry": "(2.3.0.2,)"
         },
         "name": "7.1.0.0",
-        "url": "http://adf.ly/OsU4y"
+        "url": "http://adf.ly/OsU4y",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -178,7 +189,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.0.0.0",
-        "url": "http://adf.ly/OE2dT"
+        "url": "http://adf.ly/OE2dT",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(6.6.0.516,)",
@@ -190,7 +202,8 @@
         "modRecommendations": {
         },
         "name": "6.17.0.0",
-        "url": "http://adf.ly/K0x7P"
+        "url": "http://adf.ly/K0x7P",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(6.6.0.516,)",
@@ -202,7 +215,8 @@
         "modRecommendations": {
         },
         "name": "6.16.0.0",
-        "url": "http://adf.ly/JaJQr"
+        "url": "http://adf.ly/JaJQr",
+        "type": "sequential"
     },
     {
         "forgeCompatibility": "(6.6.0.516,)",
@@ -214,7 +228,8 @@
         "modRecommendations": {
         },
         "name": "6.15.3.0",
-        "url": "http://adf.ly/IpuP2"
+        "url": "http://adf.ly/IpuP2",
+        "type": "sequential"
     },
     {
         "checksum_md5": "018e62f305487ac53c15403e17a9ca69",
@@ -227,7 +242,8 @@
         "modRecommendations": {
         },
         "name": "6.15.2.0",
-        "url": "http://adf.ly/IWk8P"
+        "url": "http://adf.ly/IWk8P",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [

@@ -33,6 +33,7 @@
         "modRecommendations": {
         },
         "name": "0.2.4g",
-        "url": "http://adf.ly/TGaTT"
+        "url": "http://adf.ly/TGaTT",
+        "type": "sequential"
     }
 ]

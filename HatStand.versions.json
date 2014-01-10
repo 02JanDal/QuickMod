@@ -10,6 +10,7 @@
         "modRecommendations": {
         },
         "name": "2.0.0",
-        "url": "http://adf.ly/UADQM"
+        "url": "http://adf.ly/UADQM",
+        "type": "sequential"
     }
 ]

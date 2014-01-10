@@ -9,7 +9,8 @@
         "modRecommendations": {
         },
         "name": "1.4.3.5",
-        "url": "http://adf.ly/WAp6s"
+        "url": "http://adf.ly/WAp6s",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -21,7 +22,8 @@
         "modRecommendations": {
         },
         "name": "1.4.3.3",
-        "url": "http://adf.ly/Sohmb"
+        "url": "http://adf.ly/Sohmb",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -33,6 +35,7 @@
         "modRecommendations": {
         },
         "name": "1.4.2.16",
-        "url": "http://adf.ly/KpW93"
+        "url": "http://adf.ly/KpW93",
+        "type": "sequential"
     }
 ]

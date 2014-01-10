@@ -9,7 +9,8 @@
         "modRecommendations": {
         },
         "name": "1.4.0.6",
-        "url": "http://adf.ly/WAp6w"
+        "url": "http://adf.ly/WAp6w",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -21,6 +22,7 @@
         "modRecommendations": {
         },
         "name": "1.4.0.5",
-        "url": "http://adf.ly/Sohme"
+        "url": "http://adf.ly/Sohme",
+        "type": "sequential"
     }
 ]

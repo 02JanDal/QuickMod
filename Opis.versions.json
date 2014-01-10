@@ -9,7 +9,8 @@
         "modRecommendations": {
         },
         "name": "1.1.0_alpha",
-        "url": "http://adf.ly/aOMay"
+        "url": "http://adf.ly/aOMay",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -21,7 +22,8 @@
         "modRecommendations": {
         },
         "name": "1.0.6_alpha",
-        "url": "http://adf.ly/aGFmh"
+        "url": "http://adf.ly/aGFmh",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -33,7 +35,8 @@
         "modRecommendations": {
         },
         "name": "1.0.5b_alpha",
-        "url": "http://adf.ly/ZwrNo"
+        "url": "http://adf.ly/ZwrNo",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -45,7 +48,8 @@
         "modRecommendations": {
         },
         "name": "1.0.4_alpha",
-        "url": "http://adf.ly/ZkLpk"
+        "url": "http://adf.ly/ZkLpk",
+        "type": "sequential"
     },
     {
         "mcCompatibility": [
@@ -57,6 +61,7 @@
         "modRecommendations": {
         },
         "name": "1.0.3b_alpha",
-        "url": "http://adf.ly/ZSjAy"
+        "url": "http://adf.ly/ZSjAy",
+        "type": "sequential"
     }
 ]
