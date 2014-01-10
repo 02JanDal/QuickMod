@@ -9,6 +9,7 @@
         "modRecommendations": {
         },
         "name": "2.0-38",
+        "type": "parallel",
         "url": "https://www.sugarsync.com/pf/D9740002_82596175_36955"
     }
 ]

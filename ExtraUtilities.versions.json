@@ -9,8 +9,8 @@
         "modRecommendations": {
         },
         "name": "1.0.2",
-        "url": "http://www.mediafire.com/download/k03u2b77v78ykzn/extrautils-1.0.2.zip",
-        "type": "direct"
+        "type": "direct",
+        "url": "http://www.mediafire.com/download/k03u2b77v78ykzn/extrautils-1.0.2.zip"
     },
     {
         "mcCompatibility": [
@@ -22,6 +22,7 @@
         "modRecommendations": {
         },
         "name": "1.0.1",
+        "type": "parallel",
         "url": "https://www.mediafire.com/?hxkki4y6r472je7"
     },
     {
@@ -34,7 +35,7 @@
         "modRecommendations": {
         },
         "name": "0.2.4g",
-        "url": "http://adf.ly/TGaTT",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/TGaTT"
     }
 ]

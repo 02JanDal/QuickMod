@@ -8,8 +8,8 @@
         "modRecommendations": {
         },
         "name": "1.0.4",
-        "url": "http://adf.ly/aIpmn",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/aIpmn"
     },
     {
         "mcCompatibility": [
@@ -20,8 +20,8 @@
         "modRecommendations": {
         },
         "name": "1.0.2",
-        "url": "http://adf.ly/ZkLsD",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/ZkLsD"
     },
     {
         "mcCompatibility": [
@@ -32,8 +32,8 @@
         "modRecommendations": {
         },
         "name": "1.0.1",
-        "url": "http://adf.ly/ZSjNR",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/ZSjNR"
     },
     {
         "mcCompatibility": [
@@ -44,6 +44,7 @@
         "modRecommendations": {
         },
         "name": "1.0.0",
+        "type": "parallel",
         "url": "http://profmobius.blogspot.fr/p/blog-page_29.html?id=18eueRs"
     }
 ]

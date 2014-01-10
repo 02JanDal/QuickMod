@@ -1,15 +1,16 @@
 [
     {
         "mcCompatibility": [
-            "1.6.2", "1.6.4"
+            "1.6.2",
+            "1.6.4"
         ],
         "modDependencies": {
         },
         "modRecommendations": {
         },
         "name": "1.2.2",
-        "url": "https://github.com/02JanDal/QuickMod/raw/master/Agriculture-1.6.2-1.2.2.jar",
-        "type": "direct"
+        "type": "direct",
+        "url": "https://github.com/02JanDal/QuickMod/raw/master/Agriculture-1.6.2-1.2.2.jar"
     },
     {
         "mcCompatibility": [
@@ -20,6 +21,7 @@
         "modRecommendations": {
         },
         "name": "1.0.6",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/tmagriculture/730071"
     },
     {
@@ -31,6 +33,7 @@
         "modRecommendations": {
         },
         "name": "Agriculture_1.6.x_1.1.28",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/tmagriculture/758885"
     }
 ]

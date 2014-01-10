@@ -13,8 +13,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.2.0.0",
-        "url": "http://adf.ly/YUJFt",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/YUJFt"
     },
     {
         "checksum_md5": "b1e2e34b388a38d94bfcd3f4e01309d5",
@@ -30,8 +30,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.1.0.0",
-        "url": "http://adf.ly/X2wgF",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/X2wgF"
     },
     {
         "checksum_md5": "092dedac13999034e1622cc3860ba0bb",
@@ -46,8 +46,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.0.2.0",
-        "url": "http://adf.ly/VCMjy",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/VCMjy"
     },
     {
         "checksum_md5": "986fdbb6961f281ba3c7c47b99892006",
@@ -62,8 +62,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.0.1.0",
-        "url": "http://adf.ly/ULhQf",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/ULhQf"
     },
     {
         "checksum_md5": "0a45d536429b1dcf5b09baa36085def2",
@@ -78,8 +78,8 @@
             "Forestry": "(2.3.0.0,)"
         },
         "name": "8.0.0.0",
-        "url": "http://adf.ly/U7RTH",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/U7RTH"
     },
     {
         "checksum_md5": "a6d1627a0ecaca3b7d8f8117293fc12a",
@@ -95,8 +95,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.3.0.0",
-        "url": "http://adf.ly/RSjbj",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/RSjbj"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -111,8 +111,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.2.3.0",
-        "url": "http://adf.ly/QVNZU",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/QVNZU"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -127,8 +127,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.2.2.0",
-        "url": "http://adf.ly/QUEO5",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/QUEO5"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -143,8 +143,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.2.1.0",
-        "url": "http://adf.ly/Pmk6q",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/Pmk6q"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -159,8 +159,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.2.0.0",
-        "url": "http://adf.ly/PlhLA",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/PlhLA"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -174,8 +174,8 @@
             "Forestry": "(2.3.0.2,)"
         },
         "name": "7.1.0.0",
-        "url": "http://adf.ly/OsU4y",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/OsU4y"
     },
     {
         "forgeCompatibility": "(7.7.1.624,)",
@@ -189,8 +189,8 @@
             "Forestry": "(2.2.8.3,)"
         },
         "name": "7.0.0.0",
-        "url": "http://adf.ly/OE2dT",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/OE2dT"
     },
     {
         "forgeCompatibility": "(6.6.0.516,)",
@@ -202,8 +202,8 @@
         "modRecommendations": {
         },
         "name": "6.17.0.0",
-        "url": "http://adf.ly/K0x7P",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/K0x7P"
     },
     {
         "forgeCompatibility": "(6.6.0.516,)",
@@ -215,8 +215,8 @@
         "modRecommendations": {
         },
         "name": "6.16.0.0",
-        "url": "http://adf.ly/JaJQr",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/JaJQr"
     },
     {
         "forgeCompatibility": "(6.6.0.516,)",
@@ -228,8 +228,8 @@
         "modRecommendations": {
         },
         "name": "6.15.3.0",
-        "url": "http://adf.ly/IpuP2",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/IpuP2"
     },
     {
         "checksum_md5": "018e62f305487ac53c15403e17a9ca69",
@@ -242,8 +242,8 @@
         "modRecommendations": {
         },
         "name": "6.15.2.0",
-        "url": "http://adf.ly/IWk8P",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/IWk8P"
     },
     {
         "mcCompatibility": [
@@ -254,6 +254,7 @@
         "modRecommendations": {
         },
         "name": "8.3.0.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/758252"
     },
     {
@@ -265,6 +266,7 @@
         "modRecommendations": {
         },
         "name": "v6.15.1.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/669725"
     },
     {
@@ -276,6 +278,7 @@
         "modRecommendations": {
         },
         "name": "v6.15.2.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/670070"
     },
     {
@@ -287,6 +290,7 @@
         "modRecommendations": {
         },
         "name": "8.3.1.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/759474"
     },
     {
@@ -298,6 +302,7 @@
         "modRecommendations": {
         },
         "name": "8.3.2.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/761300"
     }
 ]

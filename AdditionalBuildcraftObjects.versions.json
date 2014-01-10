@@ -9,8 +9,8 @@
         "modRecommendations": {
         },
         "name": "1.0.7.557",
-        "url": "http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.2.1/buildcraft-Z-additional-buildcraft-objects-1.0.7.557.jar",
-        "type": "direct"
+        "type": "direct",
+        "url": "http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.2.1/buildcraft-Z-additional-buildcraft-objects-1.0.7.557.jar"
     },
     {
         "mcCompatibility": [
@@ -22,7 +22,7 @@
         "modRecommendations": {
         },
         "name": "1.0.6.182",
-        "url": "http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.1.2/buildcraft-Z-additional-buildcraft-objects-1.0.6.182.jar",
-        "type": "direct"
+        "type": "direct",
+        "url": "http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.1.2/buildcraft-Z-additional-buildcraft-objects-1.0.6.182.jar"
     }
 ]

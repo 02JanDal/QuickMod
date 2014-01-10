@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "1.8.2",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/725311"
     },
     {
@@ -19,6 +20,7 @@
         "modRecommendations": {
         },
         "name": "1.9.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/726981"
     },
     {
@@ -30,6 +32,7 @@
         "modRecommendations": {
         },
         "name": "1.9.1",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/745900"
     },
     {
@@ -41,6 +44,7 @@
         "modRecommendations": {
         },
         "name": "1.9.3",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
     },
     {
@@ -52,6 +56,7 @@
         "modRecommendations": {
         },
         "name": "1.9.3.r47",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
     },
     {
@@ -63,6 +68,7 @@
         "modRecommendations": {
         },
         "name": "1.9.4",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/762617"
     }
 ]

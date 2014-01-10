@@ -1,9 +1,10 @@
 [
     {
-        "mcCompatibility": ["1.6.4"
+        "mcCompatibility": [
+            "1.6.4"
         ],
         "modDependencies": {
-	    "CoFHCore": "2.0.0.2"
+            "CoFHCore": "2.0.0.2"
         },
         "modRecommendations": {
         },

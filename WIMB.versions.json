@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "1.0.0",
+        "type": "parallel",
         "url": "http://www.whatismybrowser.com/"
     }
 ]

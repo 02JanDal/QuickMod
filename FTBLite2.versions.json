@@ -36,7 +36,7 @@
         "modRecommendations": {
         },
         "name": "1.1.2",
-        "type": "",
+        "type": "parallel",
         "url": ""
     }
 ]

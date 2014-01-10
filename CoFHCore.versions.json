@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "2.0.0.b7a",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755583"
     },
     {
@@ -19,6 +20,7 @@
         "modRecommendations": {
         },
         "name": "2.0.0.b8a",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756554"
     },
     {
@@ -30,6 +32,7 @@
         "modRecommendations": {
         },
         "name": "2.0.0.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/cofhcore/762738"
     },
     {
@@ -41,7 +44,7 @@
         "modRecommendations": {
         },
         "name": "2.0.0.2",
-        "url": "http://www.curseforge.com/media/files/764/469/CoFHCore-2.0.0.2.jar",
-        "type": "direct"
+        "type": "direct",
+        "url": "http://www.curseforge.com/media/files/764/469/CoFHCore-2.0.0.2.jar"
     }
 ]

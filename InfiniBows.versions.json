@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "1.0.0.10",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720733"
     },
     {
@@ -19,6 +20,7 @@
         "modRecommendations": {
         },
         "name": "1.1.0.12",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720734"
     },
     {
@@ -30,6 +32,7 @@
         "modRecommendations": {
         },
         "name": "1.2.0.14",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/748987"
     },
     {
@@ -41,6 +44,7 @@
         "modRecommendations": {
         },
         "name": "InfiniBows v1.0.0.10",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720733"
     },
     {
@@ -52,6 +56,7 @@
         "modRecommendations": {
         },
         "name": "InfiniBows v1.1.0.12",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720734"
     },
     {
@@ -63,6 +68,7 @@
         "modRecommendations": {
         },
         "name": "InfiniBows v1.2.0.14",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/748987"
     }
 ]

@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "1.57",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/computercraft/746767"
     },
     {
@@ -19,6 +20,7 @@
         "modRecommendations": {
         },
         "name": "1.58",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/computercraft/758858"
     }
 ]

@@ -1,6 +1,8 @@
 [
     {
-        "mcCompatibility": [ "1.6.2", "1.6.4"
+        "mcCompatibility": [
+            "1.6.2",
+            "1.6.4"
         ],
         "modDependencies": {
         },

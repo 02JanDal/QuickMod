@@ -11,6 +11,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "4.1.2",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
     },
     {
@@ -25,6 +26,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "4.1.1",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
     },
     {
@@ -39,6 +41,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "4.1.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
     },
     {
@@ -53,6 +56,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "4.0.2",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
     },
     {
@@ -67,6 +71,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "4.0.1",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
     },
     {
@@ -81,6 +86,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "4.0.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
     },
     {
@@ -95,6 +101,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "3.7.2",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/749098"
     },
     {
@@ -106,6 +113,7 @@
         "modRecommendations": {
         },
         "name": "4.2.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/756762"
     },
     {
@@ -117,6 +125,7 @@
         "modRecommendations": {
         },
         "name": "4.2.1",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/buildcraft/757008"
     }
 ]

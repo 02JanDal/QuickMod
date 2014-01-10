@@ -82,6 +82,7 @@
         "modRecommendations": {
         },
         "name": "1.0.9",
+        "type": "parallel",
         "url": ""
     }
 ]

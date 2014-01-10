@@ -11,6 +11,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "2.3.0.7",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/752073"
     },
     {
@@ -25,6 +26,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "2.3.0.6",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/746647"
     },
     {
@@ -39,6 +41,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "2.3.0.5",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/745511"
     },
     {
@@ -53,6 +56,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "2.3.0.4",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/745061"
     },
     {
@@ -67,6 +71,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "2.3.0.3",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/743418"
     },
     {
@@ -81,6 +86,7 @@
             "Railcraft": "(8.1.0.0,)"
         },
         "name": "2.3.0.2",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/742563"
     },
     {
@@ -95,6 +101,7 @@
             "Railcraft": "(8.0.0.0,)"
         },
         "name": "2.3.0.1",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/728794"
     },
     {
@@ -109,6 +116,7 @@
             "Railcraft": "(8.0.0.0,)"
         },
         "name": "2.3.0.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/726919"
     },
     {
@@ -123,6 +131,7 @@
             "Railcraft": "(7.2.0.0,)"
         },
         "name": "2.2.8.4",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/718248"
     },
     {
@@ -137,6 +146,7 @@
             "Railcraft": "(7.2.0.0,)"
         },
         "name": "2.2.8.3",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/714507"
     },
     {
@@ -148,6 +158,7 @@
         "modRecommendations": {
         },
         "name": "2.2.8.2",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/712834"
     },
     {
@@ -159,6 +170,7 @@
         "modRecommendations": {
         },
         "name": "2.3.1.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/758869"
     }
 ]

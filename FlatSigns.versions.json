@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "1.1.0.7",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713084"
     },
     {
@@ -19,6 +20,7 @@
         "modRecommendations": {
         },
         "name": "1.3.1.13",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713085"
     },
     {
@@ -30,6 +32,7 @@
         "modRecommendations": {
         },
         "name": "1.3.2.14",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713916"
     },
     {
@@ -41,6 +44,7 @@
         "modRecommendations": {
         },
         "name": "1.4.0.15",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/720249"
     },
     {
@@ -52,6 +56,7 @@
         "modRecommendations": {
         },
         "name": "v1.1.0.7",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713084"
     },
     {
@@ -63,6 +68,7 @@
         "modRecommendations": {
         },
         "name": "v1.3.1.13",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713085"
     },
     {
@@ -74,6 +80,7 @@
         "modRecommendations": {
         },
         "name": "v1.3.2.14",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713916"
     },
     {
@@ -85,6 +92,7 @@
         "modRecommendations": {
         },
         "name": "v1.4.0.15",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/720249"
     }
 ]

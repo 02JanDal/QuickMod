@@ -10,8 +10,8 @@
         "modRecommendations": {
         },
         "name": "2.0.1",
-        "url": "http://adf.ly/V13HJ",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/V13HJ"
     },
     {
         "mcCompatibility": [
@@ -24,7 +24,7 @@
         "modRecommendations": {
         },
         "name": "2.0.0",
-        "url": "http://adf.ly/Sl4mQ",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/Sl4mQ"
     }
 ]

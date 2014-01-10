@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "1.0.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/745893"
     },
     {
@@ -19,6 +20,7 @@
         "modRecommendations": {
         },
         "name": "1.0.1",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/747040"
     },
     {
@@ -30,6 +32,7 @@
         "modRecommendations": {
         },
         "name": "1.0.2b",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/749083"
     },
     {
@@ -41,6 +44,7 @@
         "modRecommendations": {
         },
         "name": "1.0.0-release",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/745893"
     },
     {
@@ -52,6 +56,7 @@
         "modRecommendations": {
         },
         "name": "AM2 1.0.2b",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/749083"
     },
     {
@@ -63,6 +68,7 @@
         "modRecommendations": {
         },
         "name": "1.1.0",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/761918"
     },
     {
@@ -74,6 +80,7 @@
         "modRecommendations": {
         },
         "name": "1.1.1b",
+        "type": "parallel",
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/763791"
     }
 ]

@@ -10,7 +10,7 @@
     "description": "Requires CodeChickenCore and ForgeMultipart",
     "iconUrl": "",
     "logoUrl": "http://pixld.me/wp-content/uploads/2013/07/Project-Red-Mod.png",
-    "uid": "projectred_master",
+    "modId": "",
     "name": "ProjectRed",
     "nemName": "ProjectRed",
     "references": {
@@ -23,7 +23,7 @@
     "tags": [
         "Redstone"
     ],
-    "type": "group",
+    "type": "forgeMod",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1885652-"

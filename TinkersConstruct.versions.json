@@ -8,6 +8,7 @@
         "modRecommendations": {
         },
         "name": "1.5.2.1",
+        "type": "parallel",
         "url": "http://adf.ly/WZ4Yv"
     },
     {
@@ -19,7 +20,7 @@
         "modRecommendations": {
         },
         "name": "1.5.1",
-        "url": "http://adf.ly/WZ4Yv",
-        "type": "sequential"
+        "type": "sequential",
+        "url": "http://adf.ly/WZ4Yv"
     }
 ]

@@ -9,8 +9,8 @@
         "modRecommendations": {
         },
         "name": "rv14.dev2",
-        "url": "http://ae-mod.info/beta/appeng-rv14-finale2-mc16x.jar",
-        "type": "direct"
+        "type": "direct",
+        "url": "http://ae-mod.info/beta/appeng-rv14-finale2-mc16x.jar"
     },
     {
         "mcCompatibility": [
@@ -22,6 +22,7 @@
         "modRecommendations": {
         },
         "name": "rv13",
+        "type": "parallel",
         "url": "http://goo.gl/KjaS2U"
     }
 ]
