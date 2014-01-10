@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "ReiFNSK"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "Download at: http://goo.gl/ygWhH",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "uid": "ReisMinimap",
+    "name": "ReisMinimap",
+    "nemName": "ReisMinimap",
+    "references": {
+    },
+    "tags": [
+    ],
+    "type": "forgeMod",
+    "updateUrl": "http://localhost/quickmod/ReisMinimap.json",
+    "versionsUrl": "http://localhost/quickmod/ReisMinimap.versions.json",
+    "websiteUrl": "http://www.minecraftforum.net/topic/482147-"
+}
