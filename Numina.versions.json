@@ -9,6 +9,7 @@
         "modRecommendations": {
         },
         "name": "0.0.1-42",
-        "url": "http://build.technicpack.net/view/MachineMuse/job/ModularPowersuits/62/artifact/dist/Numina-1.6.2-0.0.1-42.jar"
+        "url": "http://build.technicpack.net/view/MachineMuse/job/ModularPowersuits/62/artifact/dist/Numina-1.6.2-0.0.1-42.jar",
+        "type": "direct"
     }
 ]

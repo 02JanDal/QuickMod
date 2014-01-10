@@ -9,6 +9,7 @@
         "modRecommendations": {
         },
         "name": "0.7.4.dev.80",
-        "url": "http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/lastSuccessfulBuild/artifact/build/dist/LogisticsPipes-MC1.6.4-0.7.4.dev.80.jar"
+        "url": "http://ci.thezorro266.com/job/LogisticsPipesMC1.6.2-Dev/lastSuccessfulBuild/artifact/build/dist/LogisticsPipes-MC1.6.4-0.7.4.dev.80.jar",
+        "type": "direct"
     }
 ]

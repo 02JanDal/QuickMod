@@ -9,7 +9,8 @@
         "modRecommendations": {
         },
         "name": "1.56",
-        "url": "http://build.technicpack.net/job/Inventory-Tweaks/77/artifact/build/out/InventoryTweaks-MC1.6.2-1.56-b77.jar"
+        "url": "http://build.technicpack.net/job/Inventory-Tweaks/77/artifact/build/out/InventoryTweaks-MC1.6.2-1.56-b77.jar",
+        "type": "direct"
     },
     {
         "mcCompatibility": [
@@ -21,6 +22,7 @@
         "modRecommendations": {
         },
         "name": "1.56-b77",
-        "url": "http://build.technicpack.net/job/Inventory-Tweaks/77/artifact/build/out/InventoryTweaks-MC1.6.2-1.56-b77.jar"
+        "url": "http://build.technicpack.net/job/Inventory-Tweaks/77/artifact/build/out/InventoryTweaks-MC1.6.2-1.56-b77.jar",
+        "type": "direct"
     }
 ]

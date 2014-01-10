@@ -22,6 +22,6 @@
     ],
     "type": "forgeMod",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/IndustrialCraft2.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/IndustrialCraft.versions.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/IndustrialCraft2.versions.json",
     "websiteUrl": "http://ic2api.player.to:8080/job/IC2_experimental/"
 }

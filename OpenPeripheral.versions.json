@@ -8,7 +8,8 @@
         "modRecommendations": {
         },
         "name": "0.2.1",
-        "url": "https://dl.dropboxusercontent.com/u/4295615/OpenPeripheral-0.2.1-preview8.jar"
+        "url": "https://dl.dropboxusercontent.com/u/4295615/OpenPeripheral-0.2.1-preview8.jar",
+        "type": "direct"
     },
     {
         "mcCompatibility": [
@@ -19,6 +20,7 @@
         "modRecommendations": {
         },
         "name": "0.2.0",
-        "url": "https://dl.dropboxusercontent.com/u/4295615/OpenPeripheral-0.2.1-preview8.jar"
+        "url": "https://dl.dropboxusercontent.com/u/4295615/OpenPeripheral-0.2.1-preview8.jar",
+        "type": "direct"
     }
 ]

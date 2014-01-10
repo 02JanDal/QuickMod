@@ -23,6 +23,7 @@
         "modRecommendations": {
         },
         "name": "1.1.0.4",
-        "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.4.jar"
+        "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.4.jar",
+        "type": "direct"
     }
 ]
