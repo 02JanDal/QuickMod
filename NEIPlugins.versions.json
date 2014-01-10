@@ -5,7 +5,7 @@
             "1.6.2"
         ],
         "modDependencies": {
-            "Not Enough Items": "(1.6.1.4,1.6.1.5)"
+            "NotEnoughItems": "(1.6.1.4,1.6.1.5)"
         },
         "modRecommendations": {
         },
@@ -19,7 +19,7 @@
             "1.6.2"
         ],
         "modDependencies": {
-            "Not Enough Items": "(1.6.1.4,1.6.1.5)"
+            "NotEnoughItems": "(1.6.1.4,1.6.1.5)"
         },
         "modRecommendations": {
         },

@@ -14,7 +14,7 @@
     "name": "NEI Plugins",
     "nemName": "NEIPlugins",
     "references": {
-        "NEI": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
+        "NotEnoughItems": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
     },
     "tags": [
     ],
