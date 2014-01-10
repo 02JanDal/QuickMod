@@ -8,6 +8,7 @@
     "logoUrl": "https://feedthebeast.atlassian.net/wiki/download/attachments/1868067/Lite_Panel%20copy.png?version=1&amp;modificationDate=1387797501679&amp;api=v2",
     "modId": "",
     "name": "FTBLite2",
+    "uid": "feed-the-beast_lite2",
     "nemName": "",
     "references": {
         "Agriculture": "https://raw.github.com/02JanDal/QuickMod/master/Agriculture.json",
