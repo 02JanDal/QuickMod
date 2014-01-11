@@ -4,7 +4,7 @@
             "1.6.4"
         ],
         "modDependencies": {
-            "MobiusCore": "(1.0.4,)"
+            "MobiusCore": "[1.0.4,)"
         },
         "modRecommendations": {
         },
