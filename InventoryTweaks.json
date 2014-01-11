@@ -12,6 +12,7 @@
     "iconUrl": "http://modding.kalam-alami.net/img/invtweaks.png",
     "logoUrl": "http://modding.kalam-alami.net/img/invtweaks.png",
     "modId": "inventorytweaks",
+    "uid": "InventoryTweaks",
     "name": "InventoryTweaks",
     "nemName": "InventoryTweaks",
     "references": {
