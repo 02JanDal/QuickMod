@@ -20,7 +20,7 @@
         "Power",
         "EU Power"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/CompactSolars.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/CompactSolars.versions.json",
     "websiteUrl": "http://files.minecraftforge.net/CompactSolars/"

@@ -1,30 +1,32 @@
 [
     {
+        "depends": {
+            "iChunUtil": "(2.0.0,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "depends": {
-            "iChunUtil": "(2.0.0,)"
-        },
-        "modRecommendations": {
-        },
         "name": "2.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/Sl4mL"
     },
     {
+        "depends": {
+            "iChunUtil": "(1.0.0,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "depends": {
-            "iChunUtil": "(1.0.0,)"
-        },
-        "modRecommendations": {
-        },
         "name": "1.5.1",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/PctfX"
     }
 ]

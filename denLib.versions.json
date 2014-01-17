@@ -1,14 +1,15 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "3.1.35",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/denlib/758507"
     }
 ]

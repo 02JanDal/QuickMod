@@ -1,28 +1,30 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "Buildcraft": "4.2.1"
         },
-        "modRecommendations": {
-        },
-        "name": "1.0.7.557",
-        "type": "direct",
-        "url": "http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.2.1/buildcraft-Z-additional-buildcraft-objects-1.0.7.557.jar"
-    },
-    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
+        "name": "1.0.7.557",
+        "recommends": {
+        },
+        "url": "http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.2.1/buildcraft-Z-additional-buildcraft-objects-1.0.7.557.jar"
+    },
+    {
         "depends": {
             "Buildcraft": "4.1.2"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.0.6.182",
-        "type": "direct",
+        "recommends": {
+        },
         "url": "http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.1.2/buildcraft-Z-additional-buildcraft-objects-1.0.6.182.jar"
     }
 ]

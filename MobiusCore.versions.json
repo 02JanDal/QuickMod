@@ -1,50 +1,54 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.0.4",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/aIpmn"
     },
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.0.2",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/ZkLsD"
     },
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.0.1",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/ZSjNR"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.0.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://profmobius.blogspot.fr/p/blog-page_29.html?id=18eueRs"
     }
 ]

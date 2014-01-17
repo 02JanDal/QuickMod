@@ -19,7 +19,7 @@
     "tags": [
         "Item Transport"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ExtraUtilities.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ExtraUtilities.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1776056-"

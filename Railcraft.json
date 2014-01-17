@@ -24,7 +24,7 @@
         "Fluid Transportation",
         "Entity Transportation"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Railcraft.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Railcraft.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/railcraft"

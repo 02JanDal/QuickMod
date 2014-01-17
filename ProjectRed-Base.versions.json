@@ -1,16 +1,17 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "CodeChickenCore": "(0.9.0.6,0.9.0.7)",
             "ForgeMultipart": "1.0.0.212"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "4.1.0.13",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/ZlZnO"
     }
 ]

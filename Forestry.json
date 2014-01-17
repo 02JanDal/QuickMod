@@ -22,7 +22,7 @@
         "MJ Power",
         "Breeding"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/forestry"

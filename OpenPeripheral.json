@@ -18,7 +18,7 @@
     },
     "tags": [
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/OpenPeripheral.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/OpenPeripheral.versions.json",
     "websiteUrl": "http://openperipheral.info/openperipheral/"

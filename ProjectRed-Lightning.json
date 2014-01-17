@@ -19,7 +19,7 @@
     "tags": [
         "Redstone"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed-Lightning.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ProjectRed-Lightning.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1885652-"

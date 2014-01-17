@@ -1,16 +1,17 @@
 [
     {
+        "depends": {
+            "Hats": "(2.0.0,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "depends": {
-            "Hats": "(2.0.0,)"
-        },
-        "modRecommendations": {
-        },
         "name": "2.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/UADQM"
     }
 ]

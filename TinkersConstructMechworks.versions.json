@@ -1,16 +1,17 @@
 [
     {
+        "depends": {
+            "TinkersConstruct": "1.5.1"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "depends": {
-            "TinkersConstruct": "1.5.1"
-        },
-        "modRecommendations": {
-        },
         "name": "0.1.2",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/520245/tmechworks-dev"
     }
 ]

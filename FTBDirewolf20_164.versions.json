@@ -1,8 +1,5 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "AdditionalBuildcraftObjects": "1.0.6.182",
             "AppliedEnergistics": "14.finale2",
@@ -79,10 +76,14 @@
             "iChunUtil": "2.3.0",
             "qCraft": "1.0.2"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.0.9",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": ""
     }
 ]

@@ -7,14 +7,13 @@
     "iconUrl": "",
     "logoUrl": "",
     "modId": "",
-    "uid": "FancyFences",
     "name": "FancyFences",
     "nemName": "",
     "references": {
     },
     "tags": [
     ],
-    "type": "forgeMod",
+    "uid": "FancyFences",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/FancyFences.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/FancyFences.versions.json",
     "websiteUrl": ""

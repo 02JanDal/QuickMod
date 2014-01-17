@@ -7,14 +7,13 @@
     "iconUrl": "",
     "logoUrl": "",
     "modId": "",
-    "uid": "ZansMinimap",
     "name": "ZansMinimap",
     "nemName": "",
     "references": {
     },
     "tags": [
     ],
-    "type": "forgeMod",
+    "uid": "ZansMinimap",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ZansMinimap.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ZansMinimap.versions.json",
     "websiteUrl": ""

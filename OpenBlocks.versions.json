@@ -1,14 +1,15 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "direct",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.2.2",
-        "type": "direct",
+        "recommends": {
+        },
         "url": "https://dl.dropboxusercontent.com/u/4295615/OpenBlocks-1.2.2.jar"
     }
 ]

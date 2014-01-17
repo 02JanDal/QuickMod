@@ -1,16 +1,17 @@
 [
     {
+        "depends": {
+            "IndustrialCraft": "2.0.316"
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "depends": {
-            "IndustrialCraft": "2.0.316"
-        },
-        "modRecommendations": {
-        },
         "name": "1.6.2c",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://forum.industrial-craft.net/index.php?page=Attachment&attachmentID=3298&h=9a032fea8f5ded5a5a6c9574f1675e96cedf5033&s=812b88ff1f8eb2c5dde0b72bc8a6aeac21865ee8"
     }
 ]

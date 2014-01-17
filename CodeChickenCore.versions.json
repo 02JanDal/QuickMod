@@ -1,62 +1,67 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "0.9.0.7",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/WAp6p"
     },
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "0.9.0.6",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/WAp6p"
     },
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "0.9.0.5",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/SohmY"
     },
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.1"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "0.8.7.3",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/KpW92"
     },
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.4.7"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "0.8.1.6",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/E8CeK"
     }
 ]

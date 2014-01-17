@@ -1,14 +1,15 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "2.0.0.b1",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/1027704/dl.dropbox.com/u/46486053/StevesCarts2.0.0.b1.zip"
     }
 ]

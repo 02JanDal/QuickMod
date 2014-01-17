@@ -7,14 +7,13 @@
     "iconUrl": "",
     "logoUrl": "",
     "modId": "1.6.4-SortFix-1.0",
-    "uid": "SortFix",
     "name": "SortFix",
     "nemName": "",
     "references": {
     },
     "tags": [
     ],
-    "type": "forgeMod",
+    "uid": "SortFix",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/SortFix.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/SortFix.versions.json",
     "websiteUrl": ""

@@ -1,14 +1,15 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "direct",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.02",
-        "type": "direct",
+        "recommends": {
+        },
         "url": "http://qcraft.mediafire.com/download/4x5yq3c8vzzn6rd/qCraft1.02_mc164.zip"
     }
 ]

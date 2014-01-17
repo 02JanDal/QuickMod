@@ -1,74 +1,80 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.8.2",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/725311"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.9.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/726981"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.9.1",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/745900"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.9.3",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.9.3.r47",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.9.4",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/762617"
     }
 ]

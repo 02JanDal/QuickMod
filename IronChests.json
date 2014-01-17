@@ -17,7 +17,7 @@
     "tags": [
         "Storage"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/IronChests.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/IronChests.versions.json",
     "websiteUrl": "http://files.minecraftforge.net/IronChests2/"

@@ -1,15 +1,16 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "denLib": "3.1.35"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "2.1.18",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "https://docs.google.com/uc?export=download&id=0B_HkYx17Pu9fb3FnVDlNeTJhR0E"
     }
 ]

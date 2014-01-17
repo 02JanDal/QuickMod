@@ -1,26 +1,28 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.5.2.1",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://adf.ly/WZ4Yv"
     },
     {
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.5.1",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/WZ4Yv"
     }
 ]

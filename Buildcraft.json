@@ -23,7 +23,7 @@
         "MJ Power",
         "OpenSource"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Buildcraft.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/buildcraft"

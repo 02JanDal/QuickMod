@@ -1,8 +1,5 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "Agriculture": "1.2.2",
             "ChickenChunks": "1.3.3.3",
@@ -33,10 +30,14 @@
             "Waila": "1.4.4b",
             "ZansMinimap": "1.6.4"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.1.2",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": ""
     }
 ]

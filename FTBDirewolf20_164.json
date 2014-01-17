@@ -9,7 +9,6 @@
     "iconUrl": "http://i.imgur.com/V2lCT5s.jpg",
     "logoUrl": "http://i.imgur.com/V2lCT5s.jpg",
     "modId": "",
-    "uid": "feed-the-beast_direwolf20_1_6_4",
     "name": "FTB Direwolf20 1.6.4",
     "nemName": "",
     "references": {
@@ -82,7 +81,7 @@
     },
     "tags": [
     ],
-    "type": "configPack",
+    "uid": "feed-the-beast_direwolf20_1_6_4",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/FTBDirewolf20_164.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/FTBDirewolf20_164.versions.json",
     "websiteUrl": "https://feedthebeast.atlassian.net/wiki/display/PML/Direwolf20"

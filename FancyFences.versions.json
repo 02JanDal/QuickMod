@@ -1,15 +1,16 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "4.0.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://adf.ly/VOsL7"
     }
 ]

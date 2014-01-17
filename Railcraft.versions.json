@@ -1,308 +1,301 @@
 [
     {
         "checksum_md5": "08108ba71b204c24df33b2a3376d4de7",
-        "forgeCompat": "(9.10.1.867,)",
+        "depends": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4",
             "1.6.2"
         ],
-        "depends": {
-            "Buildcraft": "(4.0.0,)"
-        },
-        "modRecommendations": {
-            "Forestry": "(2.3.0.0,)"
-        },
         "name": "8.2.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/YUJFt"
     },
     {
         "checksum_md5": "b1e2e34b388a38d94bfcd3f4e01309d5",
-        "forgeCompat": "(9.10.1.867,)",
+        "depends": {
+            "Buildcraft": "(4.0.0,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4",
             "1.6.2"
         ],
-        "depends": {
-            "Buildcraft": "(4.0.0,)"
-        },
-        "modRecommendations": {
-            "Forestry": "(2.3.0.0,)"
-        },
         "name": "8.1.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/X2wgF"
     },
     {
         "checksum_md5": "092dedac13999034e1622cc3860ba0bb",
-        "forgeCompat": "(9.10.0.818,)",
-        "mcCompat": [
-            "1.6.2"
-        ],
         "depends": {
             "Buildcraft": "(4.0.0,)"
         },
-        "modRecommendations": {
-            "Forestry": "(2.3.0.0,)"
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
         "name": "8.0.2.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/VCMjy"
     },
     {
         "checksum_md5": "986fdbb6961f281ba3c7c47b99892006",
-        "forgeCompat": "(9.10.0.818,)",
-        "mcCompat": [
-            "1.6.2"
-        ],
         "depends": {
             "Buildcraft": "(4.0.0,)"
         },
-        "modRecommendations": {
-            "Forestry": "(2.3.0.0,)"
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
         "name": "8.0.1.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/ULhQf"
     },
     {
         "checksum_md5": "0a45d536429b1dcf5b09baa36085def2",
-        "forgeCompat": "(9.10.0.818,)",
-        "mcCompat": [
-            "1.6.2"
-        ],
         "depends": {
             "Buildcraft": "(4.0.0,)"
         },
-        "modRecommendations": {
-            "Forestry": "(2.3.0.0,)"
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
         "name": "8.0.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/U7RTH"
     },
     {
         "checksum_md5": "a6d1627a0ecaca3b7d8f8117293fc12a",
-        "forgeCompat": "(7.7.1.624,)",
+        "depends": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "depends": {
-            "Buildcraft": "(3.7.2,)"
-        },
-        "modRecommendations": {
-            "Forestry": "(2.2.8.3,)"
-        },
         "name": "7.3.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/RSjbj"
     },
     {
-        "forgeCompat": "(7.7.1.624,)",
+        "depends": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "depends": {
-            "Buildcraft": "(3.7.2,)"
-        },
-        "modRecommendations": {
-            "Forestry": "(2.2.8.3,)"
-        },
         "name": "7.2.3.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/QVNZU"
     },
     {
-        "forgeCompat": "(7.7.1.624,)",
+        "depends": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "depends": {
-            "Buildcraft": "(3.7.2,)"
-        },
-        "modRecommendations": {
-            "Forestry": "(2.2.8.3,)"
-        },
         "name": "7.2.2.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/QUEO5"
     },
     {
-        "forgeCompat": "(7.7.1.624,)",
+        "depends": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "depends": {
-            "Buildcraft": "(3.7.2,)"
-        },
-        "modRecommendations": {
-            "Forestry": "(2.2.8.3,)"
-        },
         "name": "7.2.1.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/Pmk6q"
     },
     {
-        "forgeCompat": "(7.7.1.624,)",
+        "depends": {
+            "Buildcraft": "(3.7.2,)"
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "depends": {
-            "Buildcraft": "(3.7.2,)"
-        },
-        "modRecommendations": {
-            "Forestry": "(2.2.8.3,)"
-        },
         "name": "7.2.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/PlhLA"
     },
     {
-        "forgeCompat": "(7.7.1.624,)",
-        "mcCompat": [
-            "1.5.1"
-        ],
         "depends": {
             "Buildcraft": "(3.7.2,)"
         },
-        "modRecommendations": {
-            "Forestry": "(2.3.0.2,)"
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.5.1"
+        ],
         "name": "7.1.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/OsU4y"
     },
     {
-        "forgeCompat": "(7.7.1.624,)",
-        "mcCompat": [
-            "1.5.1"
-        ],
         "depends": {
             "Buildcraft": "(3.7.2,)"
         },
-        "modRecommendations": {
-            "Forestry": "(2.2.8.3,)"
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.5.1"
+        ],
         "name": "7.0.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/OE2dT"
     },
     {
-        "forgeCompat": "(6.6.0.516,)",
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.4.7"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "6.17.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/K0x7P"
     },
     {
-        "forgeCompat": "(6.6.0.516,)",
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.4.7"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "6.16.0.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/JaJQr"
     },
     {
-        "forgeCompat": "(6.6.0.516,)",
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.4.7"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "6.15.3.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/IpuP2"
     },
     {
         "checksum_md5": "018e62f305487ac53c15403e17a9ca69",
-        "forgeCompat": "(6.6.0.516,)",
+        "depends": {
+        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.4.7"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "6.15.2.0",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/IWk8P"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "8.3.0.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/758252"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.4.7"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "v6.15.1.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/669725"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.4.7"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "v6.15.2.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/670070"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "8.3.1.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/759474"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "8.3.2.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/761300"
     }
 ]

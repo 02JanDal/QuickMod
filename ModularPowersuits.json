@@ -25,7 +25,7 @@
     "tags": [
         "Armor"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ModularPowersuits.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ModularPowersuits.versions.json",
     "websiteUrl": "http://machinemuse.net/"

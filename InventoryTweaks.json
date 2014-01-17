@@ -12,14 +12,13 @@
     "iconUrl": "http://modding.kalam-alami.net/img/invtweaks.png",
     "logoUrl": "http://modding.kalam-alami.net/img/invtweaks.png",
     "modId": "inventorytweaks",
-    "uid": "InventoryTweaks",
     "name": "InventoryTweaks",
     "nemName": "InventoryTweaks",
     "references": {
     },
     "tags": [
     ],
-    "type": "forgeMod",
+    "uid": "InventoryTweaks",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/InventoryTweaks.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/InventoryTweaks.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1720872-"

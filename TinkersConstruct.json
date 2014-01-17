@@ -19,7 +19,7 @@
         "Tools",
         "Modular"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/1659892-"

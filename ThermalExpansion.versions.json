@@ -1,100 +1,108 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "CoFHCore": "2.0.0.b7a"
         },
-        "modRecommendations": {
-        },
-        "name": "3.0.0.b7a",
-        "type": "parallel",
-        "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755582"
-    },
-    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
+        "name": "3.0.0.b7a",
+        "recommends": {
+        },
+        "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755582"
+    },
+    {
         "depends": {
             "CoFHCore": "2.0.0.b8a"
         },
-        "modRecommendations": {
-        },
-        "name": "3.0.0.b8",
-        "type": "parallel",
-        "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756540"
-    },
-    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
+        "name": "3.0.0.b8",
+        "recommends": {
+        },
+        "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756540"
+    },
+    {
         "depends": {
         },
-        "modRecommendations": {
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "CoFHCore-2.0.0.b7a",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755583"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "CoFHCore-2.0.0.b8a",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756554"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "ThermalExpansion-3.0.0.b7a",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755582"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "ThermalExpansion-3.0.0.b8",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756540"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "3.0.0.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/762739"
     },
     {
+        "depends": {
+        },
+        "downloadType": "direct",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "3.0.0.2",
-        "type": "direct",
+        "recommends": {
+        },
         "url": "http://www.curseforge.com/media/files/764/471/ThermalExpansion-3.0.0.2.jar"
     }
 ]

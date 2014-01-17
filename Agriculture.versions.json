@@ -1,39 +1,42 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "direct",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.2.2",
-        "type": "direct",
+        "recommends": {
+        },
         "url": "https://github.com/02JanDal/QuickMod/raw/master/Agriculture-1.6.2-1.2.2.jar"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "1.0.6",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/tmagriculture/730071"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "Agriculture_1.6.x_1.1.28",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/tmagriculture/758885"
     }
 ]

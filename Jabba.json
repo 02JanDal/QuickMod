@@ -10,14 +10,13 @@
     "iconUrl": "",
     "logoUrl": "",
     "modId": "",
-    "uid": "Jabba",
     "name": "Jabba",
     "nemName": "Jabba",
     "references": {
     },
     "tags": [
     ],
-    "type": "forgeMod",
+    "uid": "Jabba",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Jabba.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Jabba.versions.json",
     "websiteUrl": "http://profmobius.blogspot.fr/p/jabba_7.html"

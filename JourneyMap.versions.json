@@ -1,14 +1,15 @@
 [
     {
+        "depends": {
+        },
+        "downloadType": "direct",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "3.1.0",
-        "type": "direct",
+        "recommends": {
+        },
         "url": "https://github.com/02JanDal/QuickMod/raw/master/JourneyMap3.1.0_Unlimited_MC1.6.4.zip"
     }
 ]

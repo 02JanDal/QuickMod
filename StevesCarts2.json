@@ -19,7 +19,7 @@
         "Minecarts",
         "Modular"
     ],
-    "type": "forgeMod",
+    "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/StevesCarts2.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/StevesCarts2.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/680276-"

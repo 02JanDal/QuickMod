@@ -1,80 +1,86 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "MobiusCore": "[1.0.4,)"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.1.2",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/arapt"
     },
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "MobiusCore": "(1.0.4_alpha,)"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.1.0_alpha",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/aOMay"
     },
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "MobiusCore": "(1.0.2_alpha,)"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.0.6_alpha",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/aGFmh"
     },
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "MobiusCore": "(1.0.2_alpha,)"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.0.5b_alpha",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/ZwrNo"
     },
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "MobiusCore": "(1.0.2_alpha,)"
         },
-        "modRecommendations": {
-        },
-        "name": "1.0.4_alpha",
-        "type": "sequential",
-        "url": "http://adf.ly/ZkLpk"
-    },
-    {
+        "downloadType": "sequential",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
+        "name": "1.0.4_alpha",
+        "recommends": {
+        },
+        "url": "http://adf.ly/ZkLpk"
+    },
+    {
         "depends": {
             "MobiusCore": "(1.0.1_alpha,)"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.0.3b_alpha",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/ZSjAy"
     }
 ]

@@ -1,15 +1,16 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "DenPipes": "2.1.18"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.1.8",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "https://docs.google.com/uc?export=download&id=0B_HkYx17Pu9fT0htS09iVDJvUVU"
     }
 ]

@@ -1,28 +1,30 @@
 [
     {
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "CodeChickenCore": "0.9.0.6"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "1.4.0.6",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/WAp6w"
     },
     {
-        "mcCompat": [
-            "1.6.2"
-        ],
         "depends": {
             "CodeChickenCore": "0.9.0.5"
         },
-        "modRecommendations": {
-        },
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
         "name": "1.4.0.5",
-        "type": "sequential",
+        "recommends": {
+        },
         "url": "http://adf.ly/Sohme"
     }
 ]

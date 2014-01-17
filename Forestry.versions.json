@@ -1,176 +1,178 @@
 [
     {
         "checksum_md5": "49cb15fb6abb6e655dc90ace5398603e",
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "Buildcraft": "(4.1.0,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(8.1.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "2.3.0.7",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/752073"
     },
     {
         "checksum_md5": "2a06b9a72e238c8504abf0b3bfe05b71",
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "Buildcraft": "(4.1.0,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(8.1.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "2.3.0.6",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/746647"
     },
     {
         "checksum_md5": "34be3bde95bdcadac016c42ac3272fd3",
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "Buildcraft": "(4.1.0,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(8.1.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "2.3.0.5",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/745511"
     },
     {
         "checksum_md5": "4246ed1ce46d19c02e9e9d8d1366deaa",
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "Buildcraft": "(4.1.0,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(8.1.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "2.3.0.4",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/745061"
     },
     {
         "checksum_md5": "0f53e16022e01ee998777c96cf0308a1",
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "Buildcraft": "(4.1.0,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(8.1.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "2.3.0.3",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/743418"
     },
     {
         "checksum_md5": "835119b209fa82a186d10d51cb448ecd",
-        "mcCompat": [
-            "1.6.4"
-        ],
         "depends": {
             "Buildcraft": "(4.1.0,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(8.1.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
         "name": "2.3.0.2",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/742563"
     },
     {
         "checksum_md5": "39ebd4def1ae7aebf06236e727a5fcbe",
-        "mcCompat": [
-            "1.6.2"
-        ],
         "depends": {
             "Buildcraft": "(4.0.0,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(8.0.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
         "name": "2.3.0.1",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/728794"
     },
     {
         "checksum_md5": "db4354f40b2afb3113e0921a6ba710cd",
-        "mcCompat": [
-            "1.6.2"
-        ],
         "depends": {
             "Buildcraft": "(4.0.0,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(8.0.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
         "name": "2.3.0.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/726919"
     },
     {
         "checksum_md5": "7e2e64c34087e6ce755f4c85f801d837",
-        "mcCompat": [
-            "1.5.2"
-        ],
         "depends": {
             "Buildcraft": "(3.7.2,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(7.2.0.0,)"
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.5.2"
+        ],
         "name": "2.2.8.4",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/718248"
     },
     {
         "checksum_md5": "bad0532160cd7452684a7308f034f25a",
-        "mcCompat": [
-            "1.5.2"
-        ],
         "depends": {
             "Buildcraft": "(3.7.2,)"
         },
-        "modRecommendations": {
-            "Railcraft": "(7.2.0.0,)"
-        },
-        "name": "2.2.8.3",
-        "type": "parallel",
-        "url": "http://www.curse.com/mc-mods/minecraft/forestry/714507"
-    },
-    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
+        "name": "2.2.8.3",
+        "recommends": {
+        },
+        "url": "http://www.curse.com/mc-mods/minecraft/forestry/714507"
+    },
+    {
         "depends": {
         },
-        "modRecommendations": {
-        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.5.2"
+        ],
         "name": "2.2.8.2",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/712834"
     },
     {
+        "depends": {
+        },
+        "downloadType": "parallel",
+        "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "depends": {
-        },
-        "modRecommendations": {
-        },
         "name": "2.3.1.0",
-        "type": "parallel",
+        "recommends": {
+        },
         "url": "http://www.curse.com/mc-mods/minecraft/forestry/758869"
     }
 ]

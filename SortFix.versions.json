@@ -1,13 +1,14 @@
 [
     {
-        "mcCompat": [
-        ],
         "depends": {
         },
-        "modRecommendations": {
-        },
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+        ],
         "name": "1.0",
-        "type": "direct",
+        "recommends": {
+        },
         "url": "https://github.com/02JanDal/QuickMod/raw/master/1.6.4-SortFix-1.0.jar"
     }
 ]

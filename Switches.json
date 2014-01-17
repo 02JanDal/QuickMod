@@ -12,12 +12,11 @@
     "modId": "switches|pistontweak",
     "name": "Switches",
     "nemName": "Switches",
-    "uid": "Switches",
     "references": {
     },
     "tags": [
     ],
-    "type": "forgeMod",
+    "uid": "Switches",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Switches.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Switches.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/switches"
