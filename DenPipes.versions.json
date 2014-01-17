@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "denLib": "3.1.35"
         },
         "modRecommendations": {

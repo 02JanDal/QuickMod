@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -12,10 +12,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713084"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -24,10 +24,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713085"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -36,10 +36,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713916"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -48,10 +48,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/720249"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -60,10 +60,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713084"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -72,10 +72,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713085"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -84,10 +84,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/flatsigns/713916"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

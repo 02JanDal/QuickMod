@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -12,10 +12,10 @@
         "url": "http://adf.ly/SucfU"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

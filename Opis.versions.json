@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "MobiusCore": "[1.0.4,)"
         },
         "modRecommendations": {
@@ -13,10 +13,10 @@
         "url": "http://adf.ly/arapt"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "MobiusCore": "(1.0.4_alpha,)"
         },
         "modRecommendations": {
@@ -26,10 +26,10 @@
         "url": "http://adf.ly/aOMay"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "MobiusCore": "(1.0.2_alpha,)"
         },
         "modRecommendations": {
@@ -39,10 +39,10 @@
         "url": "http://adf.ly/aGFmh"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "MobiusCore": "(1.0.2_alpha,)"
         },
         "modRecommendations": {
@@ -52,10 +52,10 @@
         "url": "http://adf.ly/ZwrNo"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "MobiusCore": "(1.0.2_alpha,)"
         },
         "modRecommendations": {
@@ -65,10 +65,10 @@
         "url": "http://adf.ly/ZkLpk"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "MobiusCore": "(1.0.1_alpha,)"
         },
         "modRecommendations": {

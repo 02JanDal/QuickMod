@@ -1,10 +1,10 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -13,11 +13,11 @@
         "url": "http://adf.ly/ZoHvo"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -26,11 +26,11 @@
         "url": "http://adf.ly/X32c0"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -39,11 +39,11 @@
         "url": "http://adf.ly/VQN0j"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -52,11 +52,11 @@
         "url": "http://adf.ly/UVARg"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -65,11 +65,11 @@
         "url": "http://adf.ly/Sl4mR"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -78,11 +78,11 @@
         "url": "http://adf.ly/NnrV3"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

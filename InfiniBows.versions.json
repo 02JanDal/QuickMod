@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -12,10 +12,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720733"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -24,10 +24,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720734"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -36,10 +36,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/748987"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -48,10 +48,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720733"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -60,10 +60,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/infinibows/720734"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

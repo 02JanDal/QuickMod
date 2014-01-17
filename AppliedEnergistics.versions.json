@@ -1,10 +1,10 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -13,11 +13,11 @@
         "url": "http://ae-mod.info/beta/appeng-rv14-finale2-mc16x.jar"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

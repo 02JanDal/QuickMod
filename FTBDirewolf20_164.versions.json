@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "AdditionalBuildcraftObjects": "1.0.6.182",
             "AppliedEnergistics": "14.finale2",
             "ArsMagica2": "1.0.2b",

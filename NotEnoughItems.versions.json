@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "CodeChickenCore": "0.9.0.7"
         },
         "modRecommendations": {
@@ -13,10 +13,10 @@
         "url": "http://adf.ly/WAp6r"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "CodeChickenCore": "0.9.0.6"
         },
         "modRecommendations": {
@@ -26,10 +26,10 @@
         "url": "http://adf.ly/WAp6r"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
             "CodeChickenCore": "0.9.0.5"
         },
         "modRecommendations": {
@@ -39,10 +39,10 @@
         "url": "http://adf.ly/SohmZ"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
             "CodeChickenCore": "0.8.7.3"
         },
         "modRecommendations": {
@@ -52,10 +52,10 @@
         "url": "http://adf.ly/KpW91"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
             "CodeChickenCore": "0.8.1.6"
         },
         "modRecommendations": {

@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -12,10 +12,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/738511"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -24,10 +24,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/741272"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -36,10 +36,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/744055"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -48,10 +48,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/magic-bees/747637"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

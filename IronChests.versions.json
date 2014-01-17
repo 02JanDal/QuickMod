@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -12,10 +12,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.675.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -24,10 +24,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.674.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -36,10 +36,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.673.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -48,10 +48,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.672.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -60,10 +60,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.671.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -72,10 +72,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.670.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -84,10 +84,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.669.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -96,10 +96,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.668.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -108,10 +108,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.667.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -120,10 +120,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.666.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -132,10 +132,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.665.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -144,10 +144,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.664.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -156,10 +156,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.663.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -168,10 +168,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.662.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -180,10 +180,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.661.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -192,10 +192,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.660.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -204,10 +204,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.659.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -216,10 +216,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.658.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -228,10 +228,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.657.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -240,10 +240,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.656.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -252,10 +252,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.655.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -264,10 +264,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.654.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -276,10 +276,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.653.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -288,10 +288,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.652.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -300,10 +300,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.651.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -312,10 +312,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.650.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -324,10 +324,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.649.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -336,10 +336,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.648.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -348,10 +348,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.647.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -360,10 +360,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.646.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -372,10 +372,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.645.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -384,10 +384,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.644.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -396,10 +396,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.643.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -408,10 +408,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.642.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -420,10 +420,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.641.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -432,10 +432,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.640.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -444,10 +444,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.639.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -456,10 +456,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.638.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -468,10 +468,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.637.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -480,10 +480,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.636.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -492,10 +492,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.635.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -504,10 +504,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.634.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -516,10 +516,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.633.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -528,10 +528,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.632.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -540,10 +540,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.631.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -552,10 +552,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.630.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -564,10 +564,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.629.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -576,10 +576,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.628.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -588,10 +588,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.627.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -600,10 +600,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.626.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -612,10 +612,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.625.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -624,10 +624,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.624.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -636,10 +636,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.623.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -648,10 +648,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.622.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -660,10 +660,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.621.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -672,10 +672,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.620.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -684,10 +684,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.619.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -696,10 +696,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.618.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -708,10 +708,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.617.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -720,10 +720,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.616.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -732,10 +732,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.615.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -744,10 +744,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.614.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -756,10 +756,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.613.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -768,10 +768,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.612.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -780,10 +780,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.611.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -792,10 +792,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.610.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -804,10 +804,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.609.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -816,10 +816,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.608.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -828,10 +828,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.607.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -840,10 +840,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.606.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -852,10 +852,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.605.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -864,10 +864,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.604.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -876,10 +876,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.603.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -888,10 +888,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.602.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -900,10 +900,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.601.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -912,10 +912,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.600.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -924,10 +924,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.599.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -936,10 +936,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.598.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -948,10 +948,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.597.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -960,10 +960,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.596.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -972,10 +972,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.595.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -984,10 +984,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.594.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -996,10 +996,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.593.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1008,10 +1008,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.592.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1020,10 +1020,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.591.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1032,10 +1032,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.590.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1044,10 +1044,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.589.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1056,10 +1056,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.588.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1068,10 +1068,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.587.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1080,10 +1080,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.586.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1092,10 +1092,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.585.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1104,10 +1104,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.584.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1116,10 +1116,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.583.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1128,10 +1128,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.582.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1140,10 +1140,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.581.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1152,10 +1152,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.580.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1164,10 +1164,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.3-5.4.1.579.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1176,10 +1176,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.3-5.4.1.578.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1188,10 +1188,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.3-5.4.1.577.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1200,10 +1200,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.3-5.4.1.576.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1212,10 +1212,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.3-5.4.1.575.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1224,10 +1224,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.3-5.4.1.574.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1236,10 +1236,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.4.1.573.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1248,10 +1248,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.4.0.572.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1260,10 +1260,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.571.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1272,10 +1272,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.570.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1284,10 +1284,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.569.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1296,10 +1296,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.568.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1308,10 +1308,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.567.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1320,10 +1320,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.566.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1332,10 +1332,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.565.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1344,10 +1344,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.564.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1356,10 +1356,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.563.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1368,10 +1368,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.562.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1380,10 +1380,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.561.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1392,10 +1392,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.560.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1404,10 +1404,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.559.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1416,10 +1416,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.558.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1428,10 +1428,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.557.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1440,10 +1440,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.556.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1452,10 +1452,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.555.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1464,10 +1464,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.554.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1476,10 +1476,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.553.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1488,10 +1488,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.552.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1500,10 +1500,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.551.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1512,10 +1512,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.21.550.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1524,10 +1524,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.549.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1536,10 +1536,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.548.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1548,10 +1548,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.547.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1560,10 +1560,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.546.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1572,10 +1572,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.545.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1584,10 +1584,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.544.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1596,10 +1596,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.543.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1608,10 +1608,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.542.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1620,10 +1620,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.541.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1632,10 +1632,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.540.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1644,10 +1644,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.539.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1656,10 +1656,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.538.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1668,10 +1668,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.537.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1680,10 +1680,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.536.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1692,10 +1692,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.535.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1704,10 +1704,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.534.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1716,10 +1716,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.533.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1728,10 +1728,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.532.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1740,10 +1740,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.531.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1752,10 +1752,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.530.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1764,10 +1764,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.529.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1776,10 +1776,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.528.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1788,10 +1788,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.527.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1800,10 +1800,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.526.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1812,10 +1812,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.525.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1824,10 +1824,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.524.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1836,10 +1836,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.523.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1848,10 +1848,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.522.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1860,10 +1860,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.521.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1872,10 +1872,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.520.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1884,10 +1884,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.519.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1896,10 +1896,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.518.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1908,10 +1908,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.517.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1920,10 +1920,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.516.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1932,10 +1932,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.20.515.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1944,10 +1944,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.18.514.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1956,10 +1956,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.16.513.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1968,10 +1968,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.14.512.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1980,10 +1980,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.1.482.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1992,10 +1992,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.3.0.481.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2004,10 +2004,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.2.15.480.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2016,10 +2016,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.2-5.2.14.479.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2028,10 +2028,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.469.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2040,10 +2040,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.468.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2052,10 +2052,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.467.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2064,10 +2064,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.466.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2076,10 +2076,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.465.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2088,10 +2088,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.464.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2100,10 +2100,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.463.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2112,10 +2112,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.462.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2124,10 +2124,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.461.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2136,10 +2136,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.460.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2148,10 +2148,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.459.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2160,10 +2160,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.458.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2172,10 +2172,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.10.457.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2184,10 +2184,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.9.456.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2196,10 +2196,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.9.455.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2208,10 +2208,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.9.454.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2220,10 +2220,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.9.453.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2232,10 +2232,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.1-5.2.9.452.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2244,10 +2244,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.447.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2256,10 +2256,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.446.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2268,10 +2268,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.445.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2280,10 +2280,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.444.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2292,10 +2292,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.443.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2304,10 +2304,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.442.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2316,10 +2316,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.441.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2328,10 +2328,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.440.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2340,10 +2340,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.439.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2352,10 +2352,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.438.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2364,10 +2364,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.437.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2376,10 +2376,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.436.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2388,10 +2388,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.435.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2400,10 +2400,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.434.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2412,10 +2412,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.8.433.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2424,10 +2424,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.432.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2436,10 +2436,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.431.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2448,10 +2448,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.430.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2460,10 +2460,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.429.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2472,10 +2472,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.428.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2484,10 +2484,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.427.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2496,10 +2496,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.426.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2508,10 +2508,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.425.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2520,10 +2520,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.424.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2532,10 +2532,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.423.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2544,10 +2544,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.422.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2556,10 +2556,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.421.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2568,10 +2568,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.420.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2580,10 +2580,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.419.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2592,10 +2592,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.418.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2604,10 +2604,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.417.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2616,10 +2616,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.416.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2628,10 +2628,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.415.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2640,10 +2640,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.414.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2652,10 +2652,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.413.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2664,10 +2664,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.412.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2676,10 +2676,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.411.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2688,10 +2688,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.410.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2700,10 +2700,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.2-5.2.6.409.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2712,10 +2712,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.391.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2724,10 +2724,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.390.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2736,10 +2736,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.389.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2748,10 +2748,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.388.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2760,10 +2760,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.387.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2772,10 +2772,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.386.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2784,10 +2784,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.385.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2796,10 +2796,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.384.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2808,10 +2808,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.383.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2820,10 +2820,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.382.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2832,10 +2832,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.381.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2844,10 +2844,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.380.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2856,10 +2856,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.379.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2868,10 +2868,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.378.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2880,10 +2880,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.377.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2892,10 +2892,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.376.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2904,10 +2904,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.375.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2916,10 +2916,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.374.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2928,10 +2928,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.373.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2940,10 +2940,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.372.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2952,10 +2952,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.371.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2964,10 +2964,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.370.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2976,10 +2976,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.369.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2988,10 +2988,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.368.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3000,10 +3000,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.367.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3012,10 +3012,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.4.366.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3024,10 +3024,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.3.365.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3036,10 +3036,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.3.364.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3048,10 +3048,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.3.363.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3060,10 +3060,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.3.362.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3072,10 +3072,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.3.361.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3084,10 +3084,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.355.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3096,10 +3096,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.354.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3108,10 +3108,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.353.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3120,10 +3120,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.352.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3132,10 +3132,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.351.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3144,10 +3144,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.350.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3156,10 +3156,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.349.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3168,10 +3168,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.348.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3180,10 +3180,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.347.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3192,10 +3192,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.346.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3204,10 +3204,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.345.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3216,10 +3216,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.344.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3228,10 +3228,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.343.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3240,10 +3240,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.342.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3252,10 +3252,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.341.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3264,10 +3264,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.340.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3276,10 +3276,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.339.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3288,10 +3288,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.338.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3300,10 +3300,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.337.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3312,10 +3312,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.336.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3324,10 +3324,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.335.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3336,10 +3336,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.334.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3348,10 +3348,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.333.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3360,10 +3360,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.332.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3372,10 +3372,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.331.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3384,10 +3384,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.330.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3396,10 +3396,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.329.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3408,10 +3408,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.328.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3420,10 +3420,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.327.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3432,10 +3432,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.326.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3444,10 +3444,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.325.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3456,10 +3456,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.324.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3468,10 +3468,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.323.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3480,10 +3480,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.322.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3492,10 +3492,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5.1-5.2.2.321.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3504,10 +3504,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5-5.2.1.288.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3516,10 +3516,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5-5.2.1.287.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3528,10 +3528,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5-5.2.1.286.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3540,10 +3540,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5-5.2.1.285.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3552,10 +3552,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5-5.2.1.284.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3564,10 +3564,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5-5.2.1.283.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3576,10 +3576,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.5-5.2.0.282.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3588,10 +3588,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.275.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3600,10 +3600,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.274.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3612,10 +3612,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.273.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3624,10 +3624,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.272.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3636,10 +3636,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.271.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3648,10 +3648,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.270.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3660,10 +3660,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.269.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3672,10 +3672,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.268.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3684,10 +3684,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.267.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3696,10 +3696,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.266.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3708,10 +3708,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.265.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3720,10 +3720,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.264.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3732,10 +3732,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.263.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3744,10 +3744,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.262.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3756,10 +3756,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.261.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3768,10 +3768,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.260.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3780,10 +3780,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.259.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3792,10 +3792,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.258.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3804,10 +3804,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.257.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3816,10 +3816,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.256.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3828,10 +3828,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.255.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3840,10 +3840,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.254.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3852,10 +3852,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.253.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3864,10 +3864,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.252.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3876,10 +3876,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.251.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3888,10 +3888,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.250.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3900,10 +3900,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.1.0.249.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3912,10 +3912,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.2.248.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3924,10 +3924,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.247.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3936,10 +3936,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.246.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3948,10 +3948,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.245.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3960,10 +3960,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.244.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3972,10 +3972,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.243.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3984,10 +3984,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.242.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -3996,10 +3996,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.241.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4008,10 +4008,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.240.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4020,10 +4020,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.239.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4032,10 +4032,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.238.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4044,10 +4044,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.237.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4056,10 +4056,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.236.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4068,10 +4068,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.235.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4080,10 +4080,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.234.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4092,10 +4092,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.233.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4104,10 +4104,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.232.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4116,10 +4116,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.231.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4128,10 +4128,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.1.230.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4140,10 +4140,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.0.229.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4152,10 +4152,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.0.228.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4164,10 +4164,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.0.227.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4176,10 +4176,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-5.0.0.226.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4188,10 +4188,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.6.224.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4200,10 +4200,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.4.217.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4212,10 +4212,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.4.216.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4224,10 +4224,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.4.215.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4236,10 +4236,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.4.214.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4248,10 +4248,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.2.213.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4260,10 +4260,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.2.212.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4272,10 +4272,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.2.211.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4284,10 +4284,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.2.210.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4296,10 +4296,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.2.209.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4308,10 +4308,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.7-4.5.2.208.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4320,10 +4320,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.2.207.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4332,10 +4332,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.2.206.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4344,10 +4344,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.2.205.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4356,10 +4356,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.1.204.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4368,10 +4368,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.1.203.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4380,10 +4380,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.1.202.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4392,10 +4392,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.1.201.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4404,10 +4404,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.1.200.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4416,10 +4416,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.5.1.199.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4428,10 +4428,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.6-4.4.5.197.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.5"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4440,10 +4440,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.5-4.4.0.194.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4452,10 +4452,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.4-4.3.0.162.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4464,10 +4464,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.2-4.2.2.138.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4476,10 +4476,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.2-4.2.1.135.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -4488,10 +4488,10 @@
         "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.4.1-4.1.3.115.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.3.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

@@ -1,10 +1,10 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -13,11 +13,11 @@
         "url": "http://adf.ly/ZY0Oh"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "Agriculture": "1.2.2",
             "ChickenChunks": "1.3.3.3",
             "CoFHCore": "2.0.0.2",

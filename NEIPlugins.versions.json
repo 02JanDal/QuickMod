@@ -1,10 +1,10 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4",
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
             "NotEnoughItems": "(1.6.1.4,1.6.1.8)"
         },
         "modRecommendations": {
@@ -14,11 +14,11 @@
         "url": "http://bit.ly/1fSmc97"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4",
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
             "NotEnoughItems": "(1.6.1.4,1.6.1.8)"
         },
         "modRecommendations": {

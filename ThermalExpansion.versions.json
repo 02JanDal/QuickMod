@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "CoFHCore": "2.0.0.b7a"
         },
         "modRecommendations": {
@@ -13,10 +13,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755582"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "CoFHCore": "2.0.0.b8a"
         },
         "modRecommendations": {
@@ -26,10 +26,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756540"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -38,10 +38,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755583"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -50,10 +50,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756554"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -62,10 +62,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/755582"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -74,10 +74,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/756540"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -86,10 +86,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/762739"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

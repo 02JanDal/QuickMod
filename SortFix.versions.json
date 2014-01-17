@@ -1,8 +1,8 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

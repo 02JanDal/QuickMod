@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -12,10 +12,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.224.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -24,10 +24,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.223.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -36,10 +36,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.222.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -48,10 +48,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.221.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -60,10 +60,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.220.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -72,10 +72,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.219.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -84,10 +84,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.218.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -96,10 +96,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.217.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -108,10 +108,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.216.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -120,10 +120,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.215.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -132,10 +132,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.214.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -144,10 +144,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.213.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -156,10 +156,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.212.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -168,10 +168,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.211.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -180,10 +180,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.210.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -192,10 +192,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.209.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -204,10 +204,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.208.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -216,10 +216,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.207.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -228,10 +228,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.206.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -240,10 +240,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.205.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -252,10 +252,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.204.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -264,10 +264,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.203.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -276,10 +276,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.202.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -288,10 +288,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.201.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -300,10 +300,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.200.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -312,10 +312,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.199.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -324,10 +324,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.198.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -336,10 +336,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.197.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -348,10 +348,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.196.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -360,10 +360,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.195.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -372,10 +372,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.194.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -384,10 +384,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.193.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -396,10 +396,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.192.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -408,10 +408,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.18.191.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -420,10 +420,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.17.190.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -432,10 +432,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.189.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -444,10 +444,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.188.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -456,10 +456,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.187.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -468,10 +468,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.186.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -480,10 +480,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.185.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -492,10 +492,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.184.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -504,10 +504,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.183.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -516,10 +516,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.182.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -528,10 +528,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.181.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -540,10 +540,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.180.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -552,10 +552,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.179.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -564,10 +564,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.178.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -576,10 +576,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.177.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -588,10 +588,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.176.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -600,10 +600,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.175.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -612,10 +612,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.174.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -624,10 +624,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.173.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -636,10 +636,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.172.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -648,10 +648,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.171.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -660,10 +660,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.170.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -672,10 +672,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.169.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -684,10 +684,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.168.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -696,10 +696,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.167.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -708,10 +708,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.166.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -720,10 +720,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.165.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -732,10 +732,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.164.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -744,10 +744,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.163.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -756,10 +756,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.162.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -768,10 +768,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.161.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -780,10 +780,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.160.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -792,10 +792,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.159.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -804,10 +804,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.158.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -816,10 +816,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.157.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -828,10 +828,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.156.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -840,10 +840,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.155.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -852,10 +852,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.154.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -864,10 +864,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.153.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -876,10 +876,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.152.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -888,10 +888,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.151.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -900,10 +900,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.150.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -912,10 +912,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.149.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -924,10 +924,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.148.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -936,10 +936,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.147.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -948,10 +948,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.146.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.3"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -960,10 +960,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.145.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -972,10 +972,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.144.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -984,10 +984,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.143.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -996,10 +996,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.142.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1008,10 +1008,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.141.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1020,10 +1020,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.140.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1032,10 +1032,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.139.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1044,10 +1044,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.138.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1056,10 +1056,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.137.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1068,10 +1068,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.136.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1080,10 +1080,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.135.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1092,10 +1092,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.134.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1104,10 +1104,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.133.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1116,10 +1116,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.132.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1128,10 +1128,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.131.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1140,10 +1140,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.130.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1152,10 +1152,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.129.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1164,10 +1164,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.128.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1176,10 +1176,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.127.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1188,10 +1188,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.126.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1200,10 +1200,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.125.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1212,10 +1212,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.124.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1224,10 +1224,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.123.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1236,10 +1236,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.122.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1248,10 +1248,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.121.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1260,10 +1260,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.120.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1272,10 +1272,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.119.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1284,10 +1284,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.118.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1296,10 +1296,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.117.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1308,10 +1308,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.116.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1320,10 +1320,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.115.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1332,10 +1332,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.114.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1344,10 +1344,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.10.113.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1356,10 +1356,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.9.112.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1368,10 +1368,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.8.111.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1380,10 +1380,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.110.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1392,10 +1392,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.109.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1404,10 +1404,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.108.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1416,10 +1416,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.107.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1428,10 +1428,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.106.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1440,10 +1440,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.105.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1452,10 +1452,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.104.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1464,10 +1464,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.103.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1476,10 +1476,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.102.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1488,10 +1488,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.101.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1500,10 +1500,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.100.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1512,10 +1512,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.99.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1524,10 +1524,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.98.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1536,10 +1536,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.97.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1548,10 +1548,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.96.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1560,10 +1560,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.95.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1572,10 +1572,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.94.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1584,10 +1584,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.93.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1596,10 +1596,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.92.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1608,10 +1608,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.91.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1620,10 +1620,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.90.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1632,10 +1632,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.89.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1644,10 +1644,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.88.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1656,10 +1656,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.87.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1668,10 +1668,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.86.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1680,10 +1680,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.85.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1692,10 +1692,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.84.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1704,10 +1704,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.83.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1716,10 +1716,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.82.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1728,10 +1728,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.6.81.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1740,10 +1740,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.2.80.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1752,10 +1752,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.0.79.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1764,10 +1764,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.53.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1776,10 +1776,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.52.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1788,10 +1788,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.51.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1800,10 +1800,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.50.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1812,10 +1812,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.49.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1824,10 +1824,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.48.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1836,10 +1836,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.47.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1848,10 +1848,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.8.46.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1860,10 +1860,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.45.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1872,10 +1872,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.44.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1884,10 +1884,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.43.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1896,10 +1896,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.42.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1908,10 +1908,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.41.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1920,10 +1920,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.40.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1932,10 +1932,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.39.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1944,10 +1944,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.38.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1956,10 +1956,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.6.37.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1968,10 +1968,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.4.35.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1980,10 +1980,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.3.34.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -1992,10 +1992,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.2.33.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2004,10 +2004,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.1.32.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2016,10 +2016,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.0.31.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2028,10 +2028,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.0.6.30.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2040,10 +2040,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.3.29.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2052,10 +2052,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.2.28.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2064,10 +2064,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.1.27.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2076,10 +2076,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.0.26.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2088,10 +2088,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-3.2.3.23.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -2100,10 +2100,10 @@
         "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.6-3.2.0.21.zip"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.6"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },

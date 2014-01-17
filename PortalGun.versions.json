@@ -1,10 +1,10 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "iChunUtil": "(2.0.0,)"
         },
         "modRecommendations": {
@@ -14,11 +14,11 @@
         "url": "http://adf.ly/V13HJ"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.2",
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "iChunUtil": "(2.0.0,)"
         },
         "modRecommendations": {

@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "4.2.1"
         },
         "modRecommendations": {
@@ -13,10 +13,10 @@
         "url": "http://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.2.1/buildcraft-Z-additional-buildcraft-objects-1.0.7.557.jar"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "4.1.2"
         },
         "modRecommendations": {

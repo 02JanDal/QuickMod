@@ -1,9 +1,9 @@
 [
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "NotEnoughItems": "(1.6.1.5,)"
         },
         "modRecommendations": {
@@ -13,10 +13,10 @@
         "url": "http://adf.ly/b1o1w"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "NotEnoughItems": "(1.6.1.5,)"
         },
         "modRecommendations": {
@@ -26,10 +26,10 @@
         "url": "http://adf.ly/aV23t"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "NotEnoughItems": "(1.6.1.5,)"
         },
         "modRecommendations": {
@@ -39,10 +39,10 @@
         "url": "http://adf.ly/Zvsil"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
             "NotEnoughItems": "(1.6.1.5,)"
         },
         "modRecommendations": {

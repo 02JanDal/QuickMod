@@ -1,12 +1,12 @@
 [
     {
         "checksum_md5": "08108ba71b204c24df33b2a3376d4de7",
-        "forgeCompatibility": "(9.10.1.867,)",
-        "mcCompatibility": [
+        "forgeCompat": "(9.10.1.867,)",
+        "mcCompat": [
             "1.6.4",
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(4.0.0,)"
         },
         "modRecommendations": {
@@ -18,12 +18,12 @@
     },
     {
         "checksum_md5": "b1e2e34b388a38d94bfcd3f4e01309d5",
-        "forgeCompatibility": "(9.10.1.867,)",
-        "mcCompatibility": [
+        "forgeCompat": "(9.10.1.867,)",
+        "mcCompat": [
             "1.6.4",
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(4.0.0,)"
         },
         "modRecommendations": {
@@ -35,11 +35,11 @@
     },
     {
         "checksum_md5": "092dedac13999034e1622cc3860ba0bb",
-        "forgeCompatibility": "(9.10.0.818,)",
-        "mcCompatibility": [
+        "forgeCompat": "(9.10.0.818,)",
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(4.0.0,)"
         },
         "modRecommendations": {
@@ -51,11 +51,11 @@
     },
     {
         "checksum_md5": "986fdbb6961f281ba3c7c47b99892006",
-        "forgeCompatibility": "(9.10.0.818,)",
-        "mcCompatibility": [
+        "forgeCompat": "(9.10.0.818,)",
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(4.0.0,)"
         },
         "modRecommendations": {
@@ -67,11 +67,11 @@
     },
     {
         "checksum_md5": "0a45d536429b1dcf5b09baa36085def2",
-        "forgeCompatibility": "(9.10.0.818,)",
-        "mcCompatibility": [
+        "forgeCompat": "(9.10.0.818,)",
+        "mcCompat": [
             "1.6.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(4.0.0,)"
         },
         "modRecommendations": {
@@ -83,12 +83,12 @@
     },
     {
         "checksum_md5": "a6d1627a0ecaca3b7d8f8117293fc12a",
-        "forgeCompatibility": "(7.7.1.624,)",
-        "mcCompatibility": [
+        "forgeCompat": "(7.7.1.624,)",
+        "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(3.7.2,)"
         },
         "modRecommendations": {
@@ -99,12 +99,12 @@
         "url": "http://adf.ly/RSjbj"
     },
     {
-        "forgeCompatibility": "(7.7.1.624,)",
-        "mcCompatibility": [
+        "forgeCompat": "(7.7.1.624,)",
+        "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(3.7.2,)"
         },
         "modRecommendations": {
@@ -115,12 +115,12 @@
         "url": "http://adf.ly/QVNZU"
     },
     {
-        "forgeCompatibility": "(7.7.1.624,)",
-        "mcCompatibility": [
+        "forgeCompat": "(7.7.1.624,)",
+        "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(3.7.2,)"
         },
         "modRecommendations": {
@@ -131,12 +131,12 @@
         "url": "http://adf.ly/QUEO5"
     },
     {
-        "forgeCompatibility": "(7.7.1.624,)",
-        "mcCompatibility": [
+        "forgeCompat": "(7.7.1.624,)",
+        "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(3.7.2,)"
         },
         "modRecommendations": {
@@ -147,12 +147,12 @@
         "url": "http://adf.ly/Pmk6q"
     },
     {
-        "forgeCompatibility": "(7.7.1.624,)",
-        "mcCompatibility": [
+        "forgeCompat": "(7.7.1.624,)",
+        "mcCompat": [
             "1.5.1",
             "1.5.2"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(3.7.2,)"
         },
         "modRecommendations": {
@@ -163,11 +163,11 @@
         "url": "http://adf.ly/PlhLA"
     },
     {
-        "forgeCompatibility": "(7.7.1.624,)",
-        "mcCompatibility": [
+        "forgeCompat": "(7.7.1.624,)",
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(3.7.2,)"
         },
         "modRecommendations": {
@@ -178,11 +178,11 @@
         "url": "http://adf.ly/OsU4y"
     },
     {
-        "forgeCompatibility": "(7.7.1.624,)",
-        "mcCompatibility": [
+        "forgeCompat": "(7.7.1.624,)",
+        "mcCompat": [
             "1.5.1"
         ],
-        "modDependencies": {
+        "depends": {
             "Buildcraft": "(3.7.2,)"
         },
         "modRecommendations": {
@@ -193,11 +193,11 @@
         "url": "http://adf.ly/OE2dT"
     },
     {
-        "forgeCompatibility": "(6.6.0.516,)",
-        "mcCompatibility": [
+        "forgeCompat": "(6.6.0.516,)",
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -206,11 +206,11 @@
         "url": "http://adf.ly/K0x7P"
     },
     {
-        "forgeCompatibility": "(6.6.0.516,)",
-        "mcCompatibility": [
+        "forgeCompat": "(6.6.0.516,)",
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -219,11 +219,11 @@
         "url": "http://adf.ly/JaJQr"
     },
     {
-        "forgeCompatibility": "(6.6.0.516,)",
-        "mcCompatibility": [
+        "forgeCompat": "(6.6.0.516,)",
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -233,11 +233,11 @@
     },
     {
         "checksum_md5": "018e62f305487ac53c15403e17a9ca69",
-        "forgeCompatibility": "(6.6.0.516,)",
-        "mcCompatibility": [
+        "forgeCompat": "(6.6.0.516,)",
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -246,10 +246,10 @@
         "url": "http://adf.ly/IWk8P"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -258,10 +258,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/758252"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -270,10 +270,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/669725"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.4.7"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -282,10 +282,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/670070"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
@@ -294,10 +294,10 @@
         "url": "http://www.curse.com/mc-mods/minecraft/railcraft/759474"
     },
     {
-        "mcCompatibility": [
+        "mcCompat": [
             "1.6.4"
         ],
-        "modDependencies": {
+        "depends": {
         },
         "modRecommendations": {
         },
