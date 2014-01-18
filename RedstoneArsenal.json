@@ -10,7 +10,7 @@
     "name": "RedstoneArsenal",
     "nemName": "RedstoneArsenal",
     "references": {
-        "CoFHCore": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json"
+        "teamcofh.CoFHCore": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json"
     },
     "tags": [
     ],

@@ -1,7 +1,7 @@
 [
     {
         "depends": {
-            "CoFHCore": "2.0.0.2"
+            "teamcofh.CoFHCore": "2.0.0.2"
         },
         "downloadType": "parallel",
         "installType": "forgeMod",
