@@ -1,7 +1,7 @@
 [
     {
         "depends": {
-            "MobiusCore": "[1.0.4,)"
+            "profmobius.MobiusCore": "[1.0.4,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -15,7 +15,7 @@
     },
     {
         "depends": {
-            "MobiusCore": "(1.0.4_alpha,)"
+            "profmobius.MobiusCore": "(1.0.4_alpha,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -29,7 +29,7 @@
     },
     {
         "depends": {
-            "MobiusCore": "(1.0.2_alpha,)"
+            "profmobius.MobiusCore": "(1.0.2_alpha,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -43,7 +43,7 @@
     },
     {
         "depends": {
-            "MobiusCore": "(1.0.2_alpha,)"
+            "profmobius.MobiusCore": "(1.0.2_alpha,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -57,7 +57,7 @@
     },
     {
         "depends": {
-            "MobiusCore": "(1.0.2_alpha,)"
+            "profmobius.MobiusCore": "(1.0.2_alpha,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -71,7 +71,7 @@
     },
     {
         "depends": {
-            "MobiusCore": "(1.0.1_alpha,)"
+            "profmobius.MobiusCore": "(1.0.1_alpha,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",

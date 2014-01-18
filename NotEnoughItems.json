@@ -14,7 +14,7 @@
     "name": "Not Enough Items",
     "nemName": "NotEnoughItems",
     "references": {
-        "CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
+        "chickenbones.CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
     },
     "tags": [
     ],

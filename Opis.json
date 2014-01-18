@@ -14,7 +14,7 @@
     "name": "Opis",
     "nemName": "Opis",
     "references": {
-        "MobiusCore": "https://raw.github.com/02JanDal/QuickMod/master/MobiusCore.json"
+        "profmobius.MobiusCore": "https://raw.github.com/02JanDal/QuickMod/master/MobiusCore.json"
     },
     "tags": [
     ],

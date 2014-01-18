@@ -14,7 +14,7 @@
     "name": "ChickenChunks",
     "nemName": "ChickenChunks",
     "references": {
-        "CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
+        "chickenbones.CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
     },
     "tags": [
         "Chunkloaders"

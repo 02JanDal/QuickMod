@@ -1,7 +1,7 @@
 [
     {
         "depends": {
-            "CodeChickenCore": "0.9.0.7"
+            "chickenbones.CodeChickenCore": "0.9.0.7"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -15,7 +15,7 @@
     },
     {
         "depends": {
-            "CodeChickenCore": "0.9.0.5"
+            "chickenbones.CodeChickenCore": "0.9.0.5"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -29,7 +29,7 @@
     },
     {
         "depends": {
-            "CodeChickenCore": "0.8.7.3-fix1"
+            "chickenbones.CodeChickenCore": "0.8.7.3-fix1"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",

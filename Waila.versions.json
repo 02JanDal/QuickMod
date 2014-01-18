@@ -1,7 +1,7 @@
 [
     {
         "depends": {
-            "NotEnoughItems": "(1.6.1.5,)"
+            "chickenbones.NotEnoughItems": "(1.6.1.5,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -15,7 +15,7 @@
     },
     {
         "depends": {
-            "NotEnoughItems": "(1.6.1.5,)"
+            "chickenbones.NotEnoughItems": "(1.6.1.5,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -29,7 +29,7 @@
     },
     {
         "depends": {
-            "NotEnoughItems": "(1.6.1.5,)"
+            "chickenbones.NotEnoughItems": "(1.6.1.5,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
@@ -43,7 +43,7 @@
     },
     {
         "depends": {
-            "NotEnoughItems": "(1.6.1.5,)"
+            "chickenbones.NotEnoughItems": "(1.6.1.5,)"
         },
         "downloadType": "sequential",
         "installType": "forgeMod",
