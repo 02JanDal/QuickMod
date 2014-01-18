@@ -1,7 +1,7 @@
 {
     "authors": {
         "Author": [
-            "chickenbones"
+            "ChickenBones"
         ]
     },
     "categories": [
@@ -18,7 +18,7 @@
     "tags": [
         "FMP"
     ],
-    "uid": "",
+    "uid": "chickenbones.ForgeMultipart",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ForgeMultipart.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ForgeMultipart.versions.json",
     "websiteUrl": "http://files.minecraftforge.net/ForgeMultipart/"
