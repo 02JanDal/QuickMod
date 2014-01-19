@@ -1,0 +1,15 @@
+[
+    {
+        "depends": {
+        },
+        "downloadType": "direct",
+        "installType": "extract",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.7",
+        "recommends": {
+        },
+        "url": "https://docs.google.com/uc?export=download&id=0B4YNhcdHVZqjTkdKQjR5UUdVa3M"
+    }
+]

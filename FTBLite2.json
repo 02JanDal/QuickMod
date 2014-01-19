@@ -2,6 +2,8 @@
     "authors": {
     },
     "categories": [
+        "Modpacks",
+        "Feed the Beast"
     ],
     "description": "",
     "iconUrl": "https://feedthebeast.atlassian.net/wiki/download/attachments/1868067/Lite_Panel%20copy.png?version=1&amp;modificationDate=1387797501679&amp;api=v2",
@@ -38,7 +40,8 @@
         "myrathi.Switches": "https://raw.github.com/02JanDal/QuickMod/master/Switches.json",
         "teamcofh.ThermalExpansion": "https://raw.github.com/02JanDal/QuickMod/master/ThermalExpansion.json",
         "profmobius.Waila": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json",
-        "zansminimap.ZansMinimap": "https://raw.github.com/02JanDal/QuickMod/master/ZansMinimap.json"
+        "zansminimap.ZansMinimap": "https://raw.github.com/02JanDal/QuickMod/master/ZansMinimap.json",
+        "ftb.universalConfigs": "https://raw.github.com/02JanDal/QuickMod/master/FTBUniversalConfigs.json"
     },
     "tags": [
     ],
