@@ -1,7 +1,7 @@
 [
     {
         "depends": {
-            "CoFHCore": "2.0.0.b7a"
+            "teamcofh.CoFHCore": "2.0.0.b7a"
         },
         "downloadType": "parallel",
         "installType": "forgeMod",
@@ -15,7 +15,7 @@
     },
     {
         "depends": {
-            "CoFHCore": "2.0.0.b8a"
+            "teamcofh.CoFHCore": "2.0.0.b8a"
         },
         "downloadType": "parallel",
         "installType": "forgeMod",
