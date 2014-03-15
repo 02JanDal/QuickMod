@@ -1,28 +1,24 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.57",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/computercraft/746767"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.58",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/computercraft/758858"
     }
 ]

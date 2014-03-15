@@ -1,7 +1,5 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
@@ -9,13 +7,11 @@
             "1.6.4"
         ],
         "name": "1.0.2",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.mediafire.com/download/k03u2b77v78ykzn/extrautils-1.0.2.zip"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
@@ -23,13 +19,11 @@
             "1.6.4"
         ],
         "name": "1.0.1",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "https://www.mediafire.com/?hxkki4y6r472je7"
     },
     {
-        "depends": {
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
@@ -37,8 +31,8 @@
             "1.5.2"
         ],
         "name": "0.2.4g",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://adf.ly/TGaTT"
     }
 ]

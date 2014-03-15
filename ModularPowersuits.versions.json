@@ -1,8 +1,5 @@
 [
     {
-        "depends": {
-            "Numina": "0.0.1-42"
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
@@ -10,8 +7,13 @@
             "1.6.4"
         ],
         "name": "0.8.0-62",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "numina",
+                "version": "(0.0.1-42,)"
+            }
+        ],
         "url": "http://build.technicpack.net/view/MachineMuse/job/ModularPowersuits/62/artifact/dist/ModularPowersuits-1.6.2-0.8.0-62.jar"
     }
 ]

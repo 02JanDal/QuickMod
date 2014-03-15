@@ -1,86 +1,98 @@
 [
     {
-        "depends": {
-            "profmobius.MobiusCore": "[1.0.4,)"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.1.2",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "profmobius.MobiusCore",
+                "version": "[1.0.4,)"
+            }
+        ],
         "url": "http://adf.ly/arapt"
     },
     {
-        "depends": {
-            "profmobius.MobiusCore": "(1.0.4_alpha,)"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.1.0_alpha",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "profmobius.MobiusCore",
+                "version": "[1.0.4_alpha,)"
+            }
+        ],
         "url": "http://adf.ly/aOMay"
     },
     {
-        "depends": {
-            "profmobius.MobiusCore": "(1.0.2_alpha,)"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.6_alpha",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "profmobius.MobiusCore",
+                "version": "[1.0.2_alpha,)"
+            }
+        ],
         "url": "http://adf.ly/aGFmh"
     },
     {
-        "depends": {
-            "profmobius.MobiusCore": "(1.0.2_alpha,)"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.5b_alpha",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "profmobius.MobiusCore",
+                "version": "[1.0.2_alpha,)"
+            }
+        ],
         "url": "http://adf.ly/ZwrNo"
     },
     {
-        "depends": {
-            "profmobius.MobiusCore": "(1.0.2_alpha,)"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.4_alpha",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "profmobius.MobiusCore",
+                "version": "[1.0.2_alpha,)"
+            }
+        ],
         "url": "http://adf.ly/ZkLpk"
     },
     {
-        "depends": {
-            "profmobius.MobiusCore": "(1.0.1_alpha,)"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.3b_alpha",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "profmobius.MobiusCore",
+                "version": "[1.0.1_alpha,)"
+            }
+        ],
         "url": "http://adf.ly/ZSjAy"
     }
 ]

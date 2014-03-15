@@ -1,106 +1,90 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.4.6"
         ],
         "name": "1.2.0.3",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/obsidiplates/712869"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.1"
         ],
         "name": "1.3.2.11",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/obsidiplates/712870"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.5.0.13",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/obsidiplates/712871"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "2.0.0.15",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/obsidiplates/717778"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.4.6"
         ],
         "name": "v1.2.0.3",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/obsidiplates/712869"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.1"
         ],
         "name": "v1.3.2.11",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/obsidiplates/712870"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "v1.5.0.13",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/obsidiplates/712871"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "v2.0.0.15",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/obsidiplates/717778"
     }
 ]

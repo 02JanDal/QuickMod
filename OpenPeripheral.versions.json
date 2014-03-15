@@ -1,28 +1,24 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "0.2.1",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "https://dl.dropboxusercontent.com/u/4295615/OpenPeripheral-0.2.1-preview8.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "0.2.0",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "https://dl.dropboxusercontent.com/u/4295615/OpenPeripheral-0.2.1-preview8.jar"
     }
 ]

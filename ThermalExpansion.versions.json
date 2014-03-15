@@ -1,15 +1,13 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "3.0.0.2",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curseforge.com/media/files/764/471/ThermalExpansion-3.0.0.2.jar"
     }
 ]

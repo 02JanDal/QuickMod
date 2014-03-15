@@ -1,44 +1,50 @@
 [
     {
-        "depends": {
-            "CodeChickenCore": "0.9.0.6"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.1.0.13",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "chickenbones.CodeChickenCore",
+                "version": "0.9.0.6"
+            }
+        ],
         "url": "http://adf.ly/WAp6u"
     },
     {
-        "depends": {
-            "CodeChickenCore": "0.9.0.5"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.1.0.12",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "chickenbones.CodeChickenCore",
+                "version": "0.9.0.5"
+            }
+        ],
         "url": "http://adf.ly/Sohmd"
     },
     {
-        "depends": {
-            "CodeChickenCore": "0.8.7.3-fix1"
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.1"
         ],
         "name": "1.1.0.5",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "chickenbones.CodeChickenCore",
+                "version": "0.8.7.3-fix1"
+            }
+        ],
         "url": "http://adf.ly/QNMU5"
     }
 ]

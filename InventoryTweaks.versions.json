@@ -1,7 +1,5 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
@@ -9,13 +7,11 @@
             "1.6.4"
         ],
         "name": "1.56",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://build.technicpack.net/job/Inventory-Tweaks/77/artifact/build/out/InventoryTweaks-MC1.6.2-1.56-b77.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
@@ -23,8 +19,8 @@
             "1.6.4"
         ],
         "name": "1.56-b77",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://build.technicpack.net/job/Inventory-Tweaks/77/artifact/build/out/InventoryTweaks-MC1.6.2-1.56-b77.jar"
     }
 ]

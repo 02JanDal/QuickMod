@@ -1,7 +1,5 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
@@ -9,13 +7,11 @@
             "1.6.4"
         ],
         "name": "1.5.3",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://adf.ly/ZY0Oh"
     },
     {
-        "depends": {
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
@@ -23,8 +19,8 @@
             "1.5.2"
         ],
         "name": "1.3.3",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://adf.ly/RR9ov"
     }
 ]

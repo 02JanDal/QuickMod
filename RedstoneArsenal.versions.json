@@ -1,16 +1,18 @@
 [
     {
-        "depends": {
-            "teamcofh.CoFHCore": "2.0.0.2"
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.0",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "teamcofh.CoFHCore",
+                "version": "2.0.0.2"
+            }
+        ],
         "url": "http://www.curseforge.com/media/files/762/740/RedstoneArsenal-1.0.0.0.jar"
     }
 ]

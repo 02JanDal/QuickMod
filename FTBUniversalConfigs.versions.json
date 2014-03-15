@@ -1,15 +1,13 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "extract",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.7",
-        "recommends": {
-        },
-        "url": "https://raw.github.com/02JanDal/QuickMod/master/universal configs 1_0_7.zip"
+        "references": [
+        ],
+        "url": "https://raw.github.com/02JanDal/QuickMod/master/universal%20configs%201_0_7.zip"
     }
 ]

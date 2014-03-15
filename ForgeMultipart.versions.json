@@ -1,1575 +1,1333 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.219",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.219.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.218",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.218.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.217",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.217.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.216",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.216.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.215",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.215.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.214",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.214.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.212",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.212.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.211",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.211.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.210",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.210.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.209",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.209.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.208",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.208.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.207",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.207.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.197",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.197.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.196",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.196.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.195",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.195.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.194",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.194.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.193",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.193.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.192",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.192.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.191",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.191.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.190",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.190.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.189",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.189.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.188",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.188.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.187",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.187.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.186",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.186.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.185",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.185.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.184",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.184.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.183",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.183.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.182",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.182.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.181",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.181.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.180",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.180.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.173",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.173.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.172",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.172.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.171",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.171.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.170",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.170.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.169",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.169.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.167",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.167.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.166",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.166.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.165",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.165.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.164",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.164.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.163",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.163.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.162",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.162.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.161",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.161.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.160",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.160.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.159",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.159.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.158",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.158.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.157",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.157.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.156",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.156.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.155",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.155.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.154",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.154.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.153",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.153.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.152",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.152.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.151",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.151.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.150",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.150.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.149",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.149.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.148",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.148.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.147",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.147.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.146",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.146.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.145",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.145.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.144",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.144.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.143",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.143.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.142",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.142.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.141",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.141.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.140",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.140.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.139",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.139.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.138",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.138.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.137",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.137.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.136",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.136.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.135",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.135.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.134",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.134.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.133",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.133.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.132",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.132.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.131",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.131.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.130",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.130.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.129",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.129.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.128",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.128.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.127",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.127.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.125",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.125.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.124",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.124.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.123",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.123.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.122",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.122.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.121",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.121.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.120",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.120.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.119",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.119.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.118",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.118.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.117",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.117.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.116",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.116.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.115",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.115.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.114",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.114.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.113",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.113.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.112",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.112.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.111",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.111.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.110",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.110.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.109",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.109.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.108",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.108.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.107",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.107.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.106",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.106.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.103",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.103.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.101",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.101.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.100",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.100.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.95",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.95.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.92",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.92.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.5.2"
         ],
         "name": "1.0.0.91",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.5.2-1.0.0.91.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.83",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.83.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.80",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.80.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.79",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.79.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.78",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.78.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.77",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.77.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.76",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.76.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.2"
         ],
         "name": "1.0.0.75",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.2-1.0.0.75.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.231",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.231.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.230",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.230.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.229",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.229.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.228",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.228.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.227",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.227.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.226",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.226.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.225",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.225.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.224",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.224.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.223",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.223.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.222",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.222.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.221",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.221.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0.220",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://files.minecraftforge.net/ForgeMultipart/ForgeMultipart-dev-1.6.4-1.0.0.220.jar"
     }
 ]

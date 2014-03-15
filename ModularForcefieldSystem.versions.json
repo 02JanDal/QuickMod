@@ -1,15 +1,13 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "3.5.0.255",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://calclavia.com/download.php?name=Modular%20Force%20Field%20System&r=http%3A%2F%2Fcalclavia.com%2Fjenkins%2Fjobs%2FModular+Force+Field+System%2Fbuilds%2F255%2Farchive%2Foutput%2FMFFS_v3.5.0.255.jar"
     }
 ]

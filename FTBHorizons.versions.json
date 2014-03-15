@@ -1,54 +1,46 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.6",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": ""
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.7",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": ""
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.8",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": ""
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.9",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": ""
     }
 ]

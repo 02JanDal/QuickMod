@@ -1,15 +1,13 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "4.0.5b",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://adf.ly/1311628/thaumcraft-4"
     }
 ]

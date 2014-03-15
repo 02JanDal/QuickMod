@@ -1,7 +1,5 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
@@ -9,13 +7,11 @@
             "1.6.4"
         ],
         "name": "rv14.dev2",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://ae-mod.info/beta/appeng-rv14-finale2-mc16x.jar"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
@@ -23,8 +19,8 @@
             "1.6.4"
         ],
         "name": "rv13",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://goo.gl/KjaS2U"
     }
 ]

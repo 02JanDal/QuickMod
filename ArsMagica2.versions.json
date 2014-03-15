@@ -1,93 +1,79 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/745893"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.1",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/747040"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.2b",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/749083"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.0.0-release",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/745893"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "AM2 1.0.2b",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/749083"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.1.0",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/761918"
     },
     {
-        "depends": {
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "1.1.1b",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://www.curse.com/mc-mods/minecraft/ars-magica-2/763791"
     }
 ]

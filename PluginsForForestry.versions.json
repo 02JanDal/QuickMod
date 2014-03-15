@@ -1,16 +1,18 @@
 [
     {
-        "depends": {
-            "denLib": "(3.0.0,)"
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "3.2.30",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "denLib",
+                "version": "(3.0.0,)"
+            }
+        ],
         "url": "https://docs.google.com/uc?export=download&id=0B_HkYx17Pu9fV0k4bnoybEhRVXc"
     }
 ]

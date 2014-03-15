@@ -1,20 +1,38 @@
 [
     {
-        "depends": {
-            "ProjectRed-Base": "4.1.0.13",
-            "ProjectRed-Compat": "4.1.0.13",
-            "ProjectRed-Integration": "4.1.0.13",
-            "ProjectRed-Lightning": "4.1.0.13",
-            "ProjectRed-World": "4.1.0.13"
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "4.1.0.13",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "ProjectRed-Base",
+                "version": "(4.1.0.13,)"
+            },
+            {
+                "type": "depends",
+                "uid": "ProjectRed-Compat",
+                "version": "(4.1.0.13,)"
+            },
+            {
+                "type": "depends",
+                "uid": "ProjectRed-Integration",
+                "version": "(4.1.0.13,)"
+            },
+            {
+                "type": "depends",
+                "uid": "ProjectRed-Lightning",
+                "version": "(4.1.0.13,)"
+            },
+            {
+                "type": "depends",
+                "uid": "ProjectRed-World",
+                "version": "(4.1.0.13,)"
+            }
+        ],
         "url": ""
     }
 ]

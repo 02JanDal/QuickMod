@@ -1,16 +1,18 @@
 [
     {
-        "depends": {
-            "Thaumcraft": "4.0.5b"
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "2.0-38",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "thaumcraft",
+                "version": "4.0.5b"
+            }
+        ],
         "url": "https://www.sugarsync.com/pf/D9740002_82596175_36955"
     }
 ]

@@ -1,8 +1,5 @@
 [
     {
-        "depends": {
-            "chickenbones.NotEnoughItems": "(1.6.1.4,1.6.1.8)"
-        },
         "downloadType": "parallel",
         "installType": "forgeMod",
         "mcCompat": [
@@ -10,14 +7,16 @@
             "1.6.2"
         ],
         "name": "1.1.0.6",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "chickenbones.NotEnoughItems",
+                "version": "(1.6.1.4,1.6.1.8)"
+            }
+        ],
         "url": "http://bit.ly/1fSmc97"
     },
     {
-        "depends": {
-            "chickenbones.NotEnoughItems": "(1.6.1.4,1.6.1.8)"
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
@@ -25,8 +24,13 @@
             "1.6.2"
         ],
         "name": "1.1.0.4",
-        "recommends": {
-        },
+        "references": [
+            {
+                "type": "depends",
+                "uid": "chickenbones.NotEnoughItems",
+                "version": "(1.6.1.4,1.6.1.8)"
+            }
+        ],
         "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.4.jar"
     }
 ]

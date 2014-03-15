@@ -1,15 +1,13 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "sequential",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
         "name": "0.10.11",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://adf.ly/1443396/binarymage.com/mystcraft/publish/mystcraft-uni-1.6.4-0.10.11.00.zip"
     }
 ]

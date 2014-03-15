@@ -1,7 +1,5 @@
 [
     {
-        "depends": {
-        },
         "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
@@ -9,8 +7,8 @@
             "1.6.4"
         ],
         "name": "1.0.0.7",
-        "recommends": {
-        },
+        "references": [
+        ],
         "url": "http://addons.curse.cursecdn.com/files/719/245/FinndusFillies-1.6.2-universal-1.0.0.7.jar"
     }
 ]
