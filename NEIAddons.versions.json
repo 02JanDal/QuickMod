@@ -18,6 +18,11 @@
         ],
         "name": "1.9.0",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.nei.NotEnoughItems",
+                "version": "(1.6.1.4,1.6.1.8)"
+            }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/726981"
     },
@@ -29,6 +34,11 @@
         ],
         "name": "1.9.1",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.nei.NotEnoughItems",
+                "version": "(1.6.1.4,1.6.1.8)"
+            }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/745900"
     },
@@ -40,6 +50,11 @@
         ],
         "name": "1.9.3",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.nei.NotEnoughItems",
+                "version": "(1.6.1.4,1.6.1.8)"
+            }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
     },
@@ -49,6 +64,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "9e992ca3a408a7eafdb1665da69b2ad1",
         "name": "1.9.3.r47",
         "references": [
         ],
@@ -62,6 +78,11 @@
         ],
         "name": "1.9.4",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.nei.NotEnoughItems",
+                "version": "(1.6.1.4,1.6.1.8)"
+            }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/762617"
     }

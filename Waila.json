@@ -15,11 +15,13 @@
     "name": "Waila",
     "nemName": "Waila",
     "references": {
-        "chickenbones.NotEnoughItems": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
+        "codechicken.nei.NotEnoughItems": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
     },
     "tags": [
+        "Client",
+        "GUI"
     ],
-    "uid": "profmobius.Waila",
+    "uid": "mcp.mobius.waila.mod_Waila",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Waila.versions.json",
     "websiteUrl": "http://profmobius.blogspot.fr/"

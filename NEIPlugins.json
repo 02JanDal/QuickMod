@@ -14,11 +14,13 @@
     "name": "NEI Plugins",
     "nemName": "NEIPlugins",
     "references": {
-        "chickenbones.NotEnoughItems": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
+        "codechicken.nei.NotEnoughItems": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
     },
     "tags": [
+        "Client",
+        "GUI"
     ],
-    "uid": "mistaqur.NEIPlugins",
+    "uid": "mods.neiplugins.NEIPlugins",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIPlugins.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIPlugins.versions.json",
     "websiteUrl": "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"

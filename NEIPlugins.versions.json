@@ -6,11 +6,12 @@
             "1.6.4",
             "1.6.2"
         ],
+        "md5": "f005f1044b4fd706fef4858caef7db03",
         "name": "1.1.0.6",
         "references": [
             {
                 "type": "depends",
-                "uid": "chickenbones.NotEnoughItems",
+                "uid": "codechicken.nei.NotEnoughItems",
                 "version": "(1.6.1.4,1.6.1.8)"
             }
         ],
@@ -27,7 +28,7 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "chickenbones.NotEnoughItems",
+                "uid": "codechicken.nei.NotEnoughItems",
                 "version": "(1.6.1.4,1.6.1.8)"
             }
         ],

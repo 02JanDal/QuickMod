@@ -14,12 +14,12 @@
     "name": "ChickenChunks",
     "nemName": "ChickenChunks",
     "references": {
-        "chickenbones.CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
+        "codechicken.core.CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
     },
     "tags": [
         "Chunkloaders"
     ],
-    "uid": "chickenbones.ChickenChunks",
+    "uid": "codechicken.chunkloader.ChickenChunks",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ChickenChunks.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ChickenChunks.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/909223-"

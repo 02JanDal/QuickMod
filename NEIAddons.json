@@ -5,6 +5,7 @@
         ]
     },
     "categories": [
+        "GUI"
     ],
     "description": "<div class=\"project-description height-limit text no-tooltip\">\n  <h1>NEI Addons</h1>\n  <ul>\n    <li>\n      <p>\n        <a href=\"http://www.minecraftforum.net/topic/700588-\">Forestry</a> (2.2.6.0+)</p>\n      <ul>\n        <li>Bee breeding and products as recipes (optionally includes secret mutations too)</li>\n        <li>Can show special mutation requirements (biome, temperature, etc.)</li>\n        <li>Tree breeding and products</li>\n        <li>Supports bees added by other mods (Thaumic Bees, Extra Bees, etc.)</li>\n        <li>Adds all bees, combs, saplings and pollen types to NEI search</li>\n        <li>Adds item subsets for NEI menu for bees, saplings, combs, pollen, etc. if NEIPlugins is not installed</li>\n        <li>[?] button support for the Worktable (requires 2.3.0.5 or newer)</li>\n      </ul>\n    </li>\n    <li>\n      <p>\n        <a href=\"http://www.minecraftforum.net/topic/1324321-\">Extra Bees</a>\n      </p>\n      <ul>\n        <li>Adds all serums to NEI search</li>\n        <li>Adds item subsets for NEI menu for all items</li>\n        <li>Isolator recipes - shows what bees can be used to get any serum</li>\n      </ul>\n    </li>\n    <li>\n      <p>\n        <a href=\"http://www.minecraftforum.net/topic/1625015-\">Applied Energistics</a>\n      </p>\n      <ul>\n        <li>[?] button support for the Pattern Encoder</li>\n        <li>Ability to create patterns directly from recipes, even if you don't have the items on you</li>\n      </ul>\n    </li>\n    <li>\n      <p>\n        <a href=\"http://www.computercraft.info/forums2/index.php?/topic/4587-\">Misc Peripherals</a>\n      </p>\n      <ul>\n        <li>[?] button support for the Computer Controlled Crafter</li>\n        <li>Can set the recipe even if you don't have the items on you</li>\n      </ul>\n    </li>\n    <li>\n      <p>Various crafting tables - adds [?] button support for alternate crafting tables from many mods</p>\n      <ul>\n        <li>\n          <a href=\"http://www.mod-buildcraft.com/\">Buildcraft</a> Autocrafting Table</li>\n        <li>\n          <a href=\"http://www.minecraftforum.net/topic/1540010-\">Equivalent Exchange 3</a> Minium Stone</li>\n        <li>\n          <a href=\"https://github.com/Andrew2448/Andrew2448PowersuitAddons/\">Andrew2448's addon for MachineMuse's Modular Powersuits</a> In-Place Assembler</li>\n        <li>\n          <a href=\"http://www.minecraftforum.net/topic/1659892-\">Tinkers' Construct</a> Crafting station</li>\n      </ul>\n    </li>\n  </ul>\n</div>\n",
     "iconUrl": "",
@@ -13,10 +14,13 @@
     "name": "NEIAddons",
     "nemName": "NEIAddons",
     "references": {
+        "codechicken.nei.NotEnoughItems": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
     },
     "tags": [
+        "Client",
+        "GUI"
     ],
-    "uid": "bdew.NEIAddons",
+    "uid": "net.bdew.neiaddons.NEIAddons",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIAddons.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIAddons.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/nei-addons"

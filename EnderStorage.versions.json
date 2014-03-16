@@ -5,11 +5,12 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "2dd5d9024752e894500bfe901b08221b",
         "name": "1.4.3.5",
         "references": [
             {
                 "type": "depends",
-                "uid": "chickenbones.CodeChickenCore",
+                "uid": "codechicken.core.CodeChickenCore",
                 "version": "0.9.0.6"
             }
         ],
@@ -25,7 +26,7 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "chickenbones.CodeChickenCore",
+                "uid": "codechicken.core.CodeChickenCore",
                 "version": "0.9.0.5"
             }
         ],
@@ -41,8 +42,8 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "chickenbones.CodeChickenCore",
-                "version": "0.8.7.3-fix1"
+                "uid": "codechicken.core.CodeChickenCore",
+                "version": "0.8.7.3"
             }
         ],
         "url": "http://adf.ly/KpW93"

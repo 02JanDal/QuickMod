@@ -15,12 +15,12 @@
     "name": "EnderStorage",
     "nemName": "EnderStorage",
     "references": {
-        "CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
+        "codechicken.core.CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
     },
     "tags": [
         ""
     ],
-    "uid": "chickenbones.EnderStorage",
+    "uid": "codechicken.enderstorage.EnderStorage",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/EnderStorage.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/EnderStorage.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/909223-"

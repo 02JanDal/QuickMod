@@ -1,79 +1,37 @@
 {
-    "isIndex": true,
-    "baseUrl": "github://02JanDal@QuickMod/",
-    "AdditionalBuildcraftObjects": "AdditionalBuildcraftObjects.json",
-    "Agriculture": "Agriculture.json",
-    "AppliedEnergistics": "AppliedEnergistics.json",
-    "ArsMagica2": "ArsMagica2.json",
-    "BILLUND": "BILLUND.json",
-    "BiblioCraft": "BiblioCraft.json",
-    "BiomesOPlenty": "BiomesOPlenty.json",
-    "Buildcraft": "Buildcraft.json",
-    "ChickenChunks": "ChickenChunks.json",
-    "CoFHCore": "CoFHCore.json",
-    "CodeChickenCore": "CodeChickenCore.json",
-    "CompactSolars": "CompactSolars.json",
-    "ComputerCraft": "ComputerCraft.json",
-    "DenPipes": "DenPipes.json",
-    "DenPipesEmerald": "DenPipesEmerald.json",
-    "DenPipesForestry": "DenPipesForestry.json",
-    "EnderStorage": "EnderStorage.json",
-    "Evoc": "Evoc.json",
-    "ExtraUtilities": "ExtraUtilities.json",
-    "FTB Direwolf20 1.6.4": "FTBDirewolf20_164.json",
-    "FTBHorizons": "FTBHorizons.json",
-    "FTBLite2": "FTBLite2.json",
-    "Factorization": "Factorization.json",
-    "FlatSigns": "FlatSigns.json",
-    "Forestry": "Forestry.json",
-    "ForgeMultipart": "ForgeMultipart.json",
-    "GateCopy": "GateCopy.json",
-    "GravityGun": "GravityGun.json",
-    "HatStand": "HatStand.json",
-    "Hats": "Hats.json",
-    "IndustrialCraft2": "IndustrialCraft2.json",
-    "InfiniBows": "InfiniBows.json",
-    "InventoryTweaks": "InventoryTweaks.json",
-    "IronChests": "IronChests.json",
-    "LogisticsPipes": "LogisticsPipes.json",
-    "MagicBees": "MagicBees.json",
-    "MobiusCore": "MobiusCore.json",
-    "ModularForcefieldSystem": "ModularForcefieldSystem.json",
-    "ModularPowersuits": "ModularPowersuits.json",
-    "Morph": "Morph.json",
-    "Mystcraft": "Mystcraft.json",
-    "NEIAddons": "NEIAddons.json",
-    "NEI Plugins": "NEIPlugins.json",
-    "Natura": "Natura.json",
-    "Not Enough Items": "NotEnoughItems.json",
-    "NuclearControl": "NuclearControl.json",
-    "Numina": "Numina.json",
-    "ObsidiPlates": "ObsidiPlates.json",
-    "OpenBlocks": "OpenBlocks.json",
-    "OpenPeripheral": "OpenPeripheral.json",
-    "Opis": "Opis.json",
-    "PluginsForForestry": "PluginsForForestry.json",
-    "PortalGun": "PortalGun.json",
-    "ProjectRed-Base": "ProjectRed-Base.json",
-    "ProjectRed-Compat": "ProjectRed-Compat.json",
-    "ProjectRed-Integration": "ProjectRed-Integration.json",
-    "ProjectRed-Lightning": "ProjectRed-Lightning.json",
-    "ProjectRed-World": "ProjectRed-World.json",
-    "ProjectRed": "ProjectRed.json",
-    "Railcraft": "Railcraft.json",
-    "StevesCarts2": "StevesCarts2.json",
-    "Switches": "Switches.json",
-    "Thaumcraft": "Thaumcraft.json",
-    "ThaumicTinkerer": "ThaumicTinkerer.json",
-    "ThermalExpansion": "ThermalExpansion.json",
-    "TinkersConstruct": "TinkersConstruct.json",
-    "TinkersConstructMechworks": "TinkersConstructMechworks.json",
-    "Translocator": "Translocator.json",
-    "TwilightForest": "TwilightForest.json",
-    "WIMB": "WIMB.json",
-    "WR-CBE": "WR-CBE.json",
-    "Waila": "Waila.json",
-    "denLib": "denLib.json",
-    "iChunUtil": "iChunUtil.json",
-    "qCraft": "qCraft.json"
+    "baseUrl": "https://raw.github.com/02JanDal/QuickMod/master/",
+    "index": [
+        {
+            "uid": "codechicken.chunkloader.ChickenChunks",
+            "url": "ChickenChunks.json"
+        },
+        {
+            "uid": "codechicken.core.CodeChickenCore",
+            "url": "CodeChickenCore.json"
+        },
+        {
+            "uid": "codechicken.enderstorage.EnderStorage",
+            "url": "EnderStorage.json"
+        },
+        {
+            "uid": "net.bdew.neiaddons.NEIAddons",
+            "url": "NEIAddons.json"
+        },
+        {
+            "uid": "mods.neiplugins.NEIPlugins",
+            "url": "NEIPlugins.json"
+        },
+        {
+            "uid": "codechicken.nei.NotEnoughItems",
+            "url": "NotEnoughItems.json"
+        },
+        {
+            "uid": "codechicken.translocator.Translocator",
+            "url": "Translocator.json"
+        },
+        {
+            "uid": "mcp.mobius.waila.mod_Waila",
+            "url": "Waila.json"
+        }
+    ]
 }
