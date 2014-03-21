@@ -15,7 +15,7 @@
                 "version": "(1.6.1.4,1.6.1.8)"
             }
         ],
-        "url": "http://bit.ly/1fSmc97"
+        "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.6.jar"
     },
     {
         "downloadType": "direct",
@@ -24,7 +24,7 @@
             "1.6.4",
             "1.6.2"
         ],
-        "md5": "6d1b4f927dd032724985efb608c24a89",
+        "md5": "d41d8cd98f00b204e9800998ecf8427e",
         "name": "1.1.0.4",
         "references": [
             {

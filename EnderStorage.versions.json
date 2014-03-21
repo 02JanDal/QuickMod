@@ -1,11 +1,11 @@
 [
     {
-        "downloadType": "sequential",
+        "downloadType": "direct",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
         ],
-        "md5": "2dd5d9024752e894500bfe901b08221b",
+        "md5": "d41d8cd98f00b204e9800998ecf8427e",
         "name": "1.4.3.5",
         "references": [
             {
@@ -14,7 +14,7 @@
                 "version": "0.9.0.6"
             }
         ],
-        "url": "http://adf.ly/WAp6s"
+        "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/EnderStorage%201.4.3.5.jar"
     },
     {
         "downloadType": "sequential",
@@ -48,5 +48,28 @@
             }
         ],
         "url": "http://adf.ly/KpW93"
+    },
+    {
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.4.3.6",
+        "references": [
+        ],
+        "url": "http://adf.ly/WAp6s"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "md5": "d41d8cd98f00b204e9800998ecf8427e",
+        "name": "1.4.3.2",
+        "references": [
+        ],
+        "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/EnderStorage%201.4.3.2.jar"
     }
 ]

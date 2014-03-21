@@ -48,5 +48,40 @@
             }
         ],
         "url": "http://adf.ly/QNMU5"
+    },
+    {
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.1.0.15",
+        "references": [
+        ],
+        "url": "http://adf.ly/WAp6u"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "md5": "4a903dbe5231a1121dc48f22c42338d2",
+        "name": "1.1.0.11",
+        "references": [
+        ],
+        "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/Translocator%201.1.0.11.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "md5": "a4528683e0ee8f6bcdb4c698baf57296",
+        "name": "1.1.0.14",
+        "references": [
+        ],
+        "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/Translocator%201.1.0.14.jar"
     }
 ]

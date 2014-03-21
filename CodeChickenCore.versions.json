@@ -5,7 +5,7 @@
         "mcCompat": [
             "1.6.4"
         ],
-        "md5": "f81ca854f4455259d066708fa729d18c",
+        "md5": "d41d8cd98f00b204e9800998ecf8427e",
         "name": "0.9.0.7",
         "references": [
         ],
@@ -55,5 +55,40 @@
         "references": [
         ],
         "url": "http://adf.ly/E8CeK"
+    },
+    {
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "0.9.0.9",
+        "references": [
+        ],
+        "url": "http://adf.ly/WAp6p"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "md5": "d41d8cd98f00b204e9800998ecf8427e",
+        "name": "0.9.0.4",
+        "references": [
+        ],
+        "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/CodeChickenCore%200.9.0.4.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "md5": "d41d8cd98f00b204e9800998ecf8427e",
+        "name": "0.9.0.8",
+        "references": [
+        ],
+        "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/CodeChickenCore%200.9.0.8.jar"
     }
 ]
