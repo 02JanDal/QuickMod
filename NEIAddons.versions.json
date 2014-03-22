@@ -17,6 +17,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "c4b5ef93b541c79cefefc15d79784e0b",
         "name": "1.9.0",
         "references": [
             {
@@ -33,6 +34,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "ca1fe7cc48f2e970b24e967b7afbe175",
         "name": "1.9.1",
         "references": [
             {
@@ -49,6 +51,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "9e992ca3a408a7eafdb1665da69b2ad1",
         "name": "1.9.3",
         "references": [
             {
@@ -94,6 +97,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "24415916c79eda9ba4363544f67d071f",
         "name": "1.10.4",
         "references": [
         ],
@@ -105,6 +109,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "39b6206beeb5ceeea7fbb5631a001adc",
         "name": "1.10.3",
         "references": [
         ],
@@ -116,6 +121,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "57896156d20ab6d79ee3b780dd5894b6",
         "name": "1.10.2",
         "references": [
         ],
@@ -127,6 +133,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "e1295902af04de06c8198243b7f6b133",
         "name": "1.10.1",
         "references": [
         ],
@@ -138,6 +145,7 @@
         "mcCompat": [
             "1.6.4"
         ],
+        "md5": "0e239cd34b5c3311d191fd645e04b6c2",
         "name": "1.10.0",
         "references": [
         ],
