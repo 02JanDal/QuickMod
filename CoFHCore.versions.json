@@ -1,0 +1,13 @@
+[
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "2.0.0.2",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/cofhcore/764469"
+    }
+]

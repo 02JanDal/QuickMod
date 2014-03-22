@@ -1,0 +1,24 @@
+[
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.5.2"
+        ],
+        "name": "2.1.5",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/natura/772553"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "2.1.14",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/natura/772550"
+    }
+]

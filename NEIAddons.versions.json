@@ -87,5 +87,60 @@
             }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/762617"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.10.4",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/774440"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.10.3",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/774046"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.10.2",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/773003"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.10.1",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/772098"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.10.0",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/769659"
     }
 ]

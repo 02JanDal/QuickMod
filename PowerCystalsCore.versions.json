@@ -1,0 +1,24 @@
+[
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.1.8",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/powercrystalscore/753761"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.1.7",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/powercrystalscore/744232"
+    }
+]

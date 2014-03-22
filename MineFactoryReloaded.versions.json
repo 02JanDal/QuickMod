@@ -1,0 +1,46 @@
+[
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "2.7.5",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/778749"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "2.7.3",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/762626"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "2.7.2",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/755870"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "2.7.0",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/745373"
+    }
+]

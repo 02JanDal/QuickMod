@@ -1,0 +1,24 @@
+[
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.5.3",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/775458"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.5.2.6",
+        "references": [
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/772402"
+    }
+]
