@@ -1,0 +1,14 @@
+[
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "md5": "db68756cf7ba0ed49cdf49e6b1d07ccc",
+        "name": "1.28",
+        "references": [
+        ],
+        "url": "http://www.mediafire.com/download/4p4p82lngmg8iri/crowley-skyblock-v1.28.jar"
+    }
+]
