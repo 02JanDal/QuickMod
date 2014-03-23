@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "Developer": [
+            "AlgorithmX2"
+        ]
+    },
+    "categories": [
+        "Automation",
+        "Storage"
+    ],
+    "description": "<p>Applied Energistics is a Minecraft Mod which contains <a href=\"World-Gen-and-Simple-Tools/\">some basic tools</a>, some <a href=\"Advanced-Electric-Tools/\">electric tools</a>&nbsp;and an <a href=\"ME-Storage-and-Automation/\">advanced storage system</a>&nbsp;called ME that lets you store items compactly and in the way you want.</p><p>Applied Energistics - <a href=\"ME-Network/\">ME Networks</a> provide:</p><ul><li>Simple but <a href=\"ME-Automation/\">robust automation tools</a>&nbsp;and great support for working with other other automation mods.</li><li>Includes a system which lets you create and use an <a href=\"ME-Crafting/\">automated crafting system</a>.</li><li>Ways to <a href=\"ME-Storage-Bus/\">include other storage</a> from other mods or the vanilla game.</li><li>Lets you <a href=\"ME-Level-Emitter/\">monitor your storage</a>&nbsp;and trigger things via redstone.</li><li>Ways to <a href=\"ME-Dark-Cable/\">alter your setup on redstone signal</a>.</li><li>Save yourself a little time with <a href=\"ME-Wireless-Access-Point/\">wireless storage access</a>.</li><li>and more!</li></ul>",
+    "iconUrl": "http://puu.sh/531Hd.png",
+    "logoUrl": "",
+    "modId": "",
+    "name": "AppliedEnergistics",
+    "nemName": "AppliedEnergistics",
+    "references": {
+    },
+    "tags": [
+        "Automation"
+    ],
+    "uid": "",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/AppliedEnergistics.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/AppliedEnergistics.versions.json",
+    "websiteUrl": "http://ae1.ae-mod.info/"
+}
