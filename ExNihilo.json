@@ -9,7 +9,7 @@
     "description": "Hi everybody! I'm Crowley, and I'm totally addicted to playing Skyblock maps, which is the major influence for this mod. I love starting from nothing and working my way up, but I have always felt that there were a few glaring omissions in vanilla skyblock that didn't make any sense. This is how I fixed them.\\n\\nI want to be clear that I don't want to make anything easier. My goal is only to make impossible things possible. I want very much to stay true to the spirit of the challenge in requiring the player to search every inch of the wiki, and now this post as well in order to progress.\\n\\nYou can use this mod with any map and it will be both fun and useful, not just Skyblock. Still, I recommend using the original Skyblock map by Noobcrew.\\n\\nQuantumBlade has created this custom Ex Nihilo map which was made specifically to use all the features of the mod. A bit of warning about the custom map... It is designed to push your patience to the limit. It's not easy and it's definitely not for the faint of heart, but it is the purest Skyblock experience that I've ever done.\\n\\nThere is plenty of information in this post, but a community built wiki is currently in development to better organize this mess. Feel free to look around or lend a hand! Community Wiki\\n\\nZerokyuuni has released an expansion mod called Ex Aliquo which adds support for a fairly large and diverse collection of other mods. Make sure you check it out in his thread.",
     "iconUrl": "",
     "logoUrl": "http://i.imgur.com/PILMT2L.png",
-    "modId": "",
+    "modId": "crowley.skyblock",
     "name": "ExNihilo",
     "nemName": "ExNihilo",
     "references": {

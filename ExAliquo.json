@@ -14,6 +14,9 @@
     "name": "ExAliquo",
     "nemName": "ExAliquo",
     "references": {
+        "natura": "https://raw.github.com/02JanDal/QuickMod/master/Natura.json",
+        "powercrystals.minefactoryreloaded": "https://raw.github.com/02JanDal/QuickMod/master/MineFactoryReloaded.json",
+        "tconstruct": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json"
     },
     "tags": [
         "Skyblock"

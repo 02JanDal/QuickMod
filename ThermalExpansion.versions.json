@@ -1,6 +1,7 @@
 [
     {
         "downloadType": "parallel",
+        "forgeCompatibility": "[9.1.11.953,)",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
@@ -8,6 +9,26 @@
         "md5": "3dec4e88dfbb07b7c79f41d89a7faca5",
         "name": "3.0.0.2",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.multipart",
+                "version": ""
+            },
+            {
+                "type": "depends",
+                "uid": "cofh.core",
+                "version": "[2.0.0.2,)"
+            },
+            {
+                "type": "recommends",
+                "uid": "ic2",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "rebelkeithy.mods.metallurgy",
+                "version": ""
+            }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/764471"
     }

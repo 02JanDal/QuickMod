@@ -10,7 +10,7 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "codechicken.core.CodeChickenCore",
+                "uid": "codechicken.core",
                 "version": "0.9.0.6"
             }
         ],
@@ -26,7 +26,7 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "codechicken.core.CodeChickenCore",
+                "uid": "codechicken.core",
                 "version": "0.9.0.5"
             }
         ],
@@ -43,7 +43,7 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "codechicken.core.CodeChickenCore",
+                "uid": "codechicken.core",
                 "version": "0.8.7.3"
             }
         ],
@@ -69,6 +69,11 @@
         "md5": "3e6ae346d370df8a3f7940211cc9613d",
         "name": "1.1.0.11",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.core",
+                "version": "[0.9.0.4,)"
+            }
         ],
         "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/Translocator%201.1.0.11.jar"
     },
@@ -81,6 +86,11 @@
         "md5": "2e94bcebbb9c12c07ac41d915a470019",
         "name": "1.1.0.14",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.core",
+                "version": "[0.9.0.8,)"
+            }
         ],
         "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/Translocator%201.1.0.14.jar"
     }

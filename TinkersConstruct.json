@@ -13,6 +13,10 @@
     "name": "TinkersConstruct",
     "nemName": "TinkersConstruct",
     "references": {
+        "codechicken.nei": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json",
+        "cofh.ThermalExpansion": "https://raw.github.com/02JanDal/QuickMod/master/ThermalExpansion.json",
+        "mcp.mobius.waila": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json",
+        "powercrystals.minefactoryreloaded": "https://raw.github.com/02JanDal/QuickMod/master/MineFactoryReloaded.json"
     },
     "tags": [
         "Tools"

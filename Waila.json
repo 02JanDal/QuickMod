@@ -21,7 +21,7 @@
         "Client",
         "GUI"
     ],
-    "uid": "mcp.mobius.waila.mod_Waila",
+    "uid": "mcp.mobius.waila",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Waila.versions.json",
     "websiteUrl": "http://profmobius.blogspot.fr/"

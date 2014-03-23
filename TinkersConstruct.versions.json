@@ -1,6 +1,7 @@
 [
     {
         "downloadType": "parallel",
+        "forgeCompatibility": "[8.9,)",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
@@ -8,11 +9,37 @@
         "md5": "f77a1f5217f2d89b0d319e50ca2520b0",
         "name": "1.5.3",
         "references": [
+            {
+                "type": "recommends",
+                "uid": "codechicken.multipart",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "codechicken.nei",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "cofh.ThermalExpansion",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "mcp.mobius.waila",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "powercrystals.minefactoryreloaded",
+                "version": ""
+            }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/775458"
     },
     {
         "downloadType": "parallel",
+        "forgeCompatibility": "[8.9,)",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
@@ -20,6 +47,31 @@
         "md5": "8ed1c59dac06cbdc8808d4364f6d0774",
         "name": "1.5.2.6",
         "references": [
+            {
+                "type": "recommends",
+                "uid": "codechicken.multipart",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "codechicken.nei",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "cofh.ThermalExpansion",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "mcp.mobius.waila",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "powercrystals.minefactoryreloaded",
+                "version": ""
+            }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/772402"
     }

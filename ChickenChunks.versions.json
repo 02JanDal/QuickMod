@@ -10,8 +10,8 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "codechicken.core.CodeChickenCore",
-                "version": "0.9.0.7"
+                "uid": "codechicken.core",
+                "version": "[0.9.0.6,)"
             }
         ],
         "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/ChickenChunks%201.3.3.3.jar"
@@ -27,7 +27,7 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "codechicken.core.CodeChickenCore",
+                "uid": "codechicken.core",
                 "version": "0.9.0.5"
             }
         ],
@@ -43,7 +43,7 @@
         "references": [
             {
                 "type": "depends",
-                "uid": "codechicken.core.CodeChickenCore",
+                "uid": "codechicken.core",
                 "version": "0.8.7.3"
             }
         ],
@@ -69,6 +69,11 @@
         "md5": "16dfb190785a53139d1965227dd00ca9",
         "name": "1.3.3.1",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.core",
+                "version": "[0.9.0.0,)"
+            }
         ],
         "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/ChickenChunks%201.3.3.1.jar"
     }
