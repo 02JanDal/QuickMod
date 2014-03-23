@@ -15,7 +15,7 @@
     "name": "Waila",
     "nemName": "Waila",
     "references": {
-        "codechicken.nei.NotEnoughItems": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
+        "codechicken.nei": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
     },
     "tags": [
         "Client",

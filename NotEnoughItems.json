@@ -14,13 +14,13 @@
     "name": "Not Enough Items",
     "nemName": "NotEnoughItems",
     "references": {
-        "codechicken.core.CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
+        "codechicken.core": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
     },
     "tags": [
         "Client",
         "GUI"
     ],
-    "uid": "codechicken.nei.NotEnoughItems",
+    "uid": "codechicken.nei",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/"

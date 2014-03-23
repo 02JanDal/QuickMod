@@ -14,12 +14,12 @@
     "name": "Translocator",
     "nemName": "Translocator",
     "references": {
-        "codechicken.core.CodeChickenCore": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
+        "codechicken.core": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
     },
     "tags": [
         "Item Transportation"
     ],
-    "uid": "codechicken.translocator.Translocator",
+    "uid": "codechicken.translocator",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Translocator.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Translocator.versions.json",
     "websiteUrl": "http://www.minecraftforum.net/topic/909223-"

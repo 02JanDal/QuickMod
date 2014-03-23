@@ -17,7 +17,7 @@
     "tags": [
         "Tools"
     ],
-    "uid": "tconstruct.TConstruct",
+    "uid": "tconstruct",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json",
     "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/tinkers-construct"
