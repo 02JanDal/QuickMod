@@ -11,14 +11,14 @@
     "iconUrl": "",
     "logoUrl": "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png",
     "modId": "",
-    "name": "PowerCystalsCore",
+    "name": "PowerCrystalsCore",
     "nemName": "PowerCrystalsCore",
     "references": {
     },
     "tags": [
     ],
     "uid": "",
-    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/PowerCystalsCore.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/PowerCystalsCore.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/PowerCrystalsCore.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/PowerCrystalsCore.versions.json",
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/powercrystalscore"
 }
