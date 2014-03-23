@@ -30,11 +30,6 @@
             {
                 "type": "depends",
                 "uid": "codechicken.nei",
-                "version": "[1.6.1.4,)"
-            },
-            {
-                "type": "depends",
-                "uid": "codechicken.nei",
                 "version": "(1.6.1.4,1.6.1.8)"
             }
         ],
