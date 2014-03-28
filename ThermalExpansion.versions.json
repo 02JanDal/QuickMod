@@ -1,7 +1,7 @@
 [
     {
         "downloadType": "parallel",
-        "forgeCompatibility": "[9.1.11.953,)",
+        "forgeCompat": "[9.1.11.953,)",
         "installType": "forgeMod",
         "mcCompat": [
             "1.6.4"
