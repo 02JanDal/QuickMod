@@ -15,6 +15,7 @@
     "name": "CodeChickenCore",
     "nemName": "CodeChickenCore",
     "references": {
+        "codechicken.lib": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenLib.json"
     },
     "tags": [
         "API"

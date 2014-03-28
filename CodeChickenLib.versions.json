@@ -1,0 +1,563 @@
+[
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.1",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.1.zip"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.10",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.10.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.11",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.11.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.12",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.12.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.14",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.14.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.15",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.15.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.16",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.16.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.17",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.17.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.18",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.18.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.19",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.19.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.2",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.2.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.20",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.20.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.21",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.21.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.22",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.22.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.23",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.23.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.24",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.24.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.28",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.28.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.29",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.29.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.3",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.3.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.30",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.30.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.31",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.31.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.32",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.32.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.3"
+        ],
+        "name": "1.0.0.33",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.3-1.0.0.33.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.3"
+        ],
+        "name": "1.0.0.34",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.3-1.0.0.34.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.35",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.35.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.36",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.36.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.37",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.37.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.38",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.38.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.39",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.39.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.4",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.4.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.40",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.40.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.41",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.41.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.42",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.42.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.43",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.43.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.44",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.44.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.45",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.45.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.47",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.47.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.49",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.49.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.5",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.5.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.50",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.50.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.51",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.51.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.52",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.52.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.53",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.53.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.54",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.54.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.55",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.55.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.6",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.6.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.61",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.61.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.0.0.62",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.62.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.7",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.7.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.8",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.8.jar"
+    },
+    {
+        "downloadType": "direct",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.2"
+        ],
+        "name": "1.0.0.9",
+        "references": [
+        ],
+        "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.9.jar"
+    }
+]

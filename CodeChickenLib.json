@@ -1,0 +1,20 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "CodeChickenLib",
+    "nemName": "",
+    "references": {
+    },
+    "tags": [
+    ],
+    "uid": "codechicken.lib",
+    "updateUrl": "http://localhost/quickmod/CodeChickenLib.json",
+    "versionsUrl": "http://localhost/quickmod/CodeChickenLib.versions.json",
+    "websiteUrl": ""
+}
