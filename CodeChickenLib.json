@@ -14,7 +14,7 @@
     "tags": [
     ],
     "uid": "codechicken.lib",
-    "updateUrl": "http://localhost/quickmod/CodeChickenLib.json",
-    "versionsUrl": "http://localhost/quickmod/CodeChickenLib.versions.json",
+    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenLib.json",
+    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenLib.versions.json",
     "websiteUrl": ""
 }
