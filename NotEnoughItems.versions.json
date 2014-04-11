@@ -1,7 +1,7 @@
 [
     {
         "downloadType": "direct",
-        "installType": "forgeMod",
+        "installType": "forgeCoreMod",
         "mcCompat": [
             "1.6.4"
         ],
@@ -18,7 +18,7 @@
     },
     {
         "downloadType": "sequential",
-        "installType": "forgeMod",
+        "installType": "forgeCoreMod",
         "mcCompat": [
             "1.6.4"
         ],
@@ -35,7 +35,7 @@
     },
     {
         "downloadType": "sequential",
-        "installType": "forgeMod",
+        "installType": "forgeCoreMod",
         "mcCompat": [
             "1.6.2"
         ],
@@ -51,7 +51,7 @@
     },
     {
         "downloadType": "sequential",
-        "installType": "forgeMod",
+        "installType": "forgeCoreMod",
         "mcCompat": [
             "1.5.1"
         ],
@@ -67,7 +67,7 @@
     },
     {
         "downloadType": "sequential",
-        "installType": "forgeMod",
+        "installType": "forgeCoreMod",
         "mcCompat": [
             "1.4.7"
         ],
