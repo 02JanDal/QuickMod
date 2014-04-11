@@ -2,35 +2,75 @@
     "baseUrl": "https://raw.github.com/02JanDal/QuickMod/master/",
     "index": [
         {
-            "uid": "codechicken.chunkloader.ChickenChunks",
+            "uid": "codechicken.chunkloader",
             "url": "ChickenChunks.json"
         },
         {
-            "uid": "codechicken.core.CodeChickenCore",
+            "uid": "codechicken.core",
             "url": "CodeChickenCore.json"
         },
         {
-            "uid": "codechicken.enderstorage.EnderStorage",
+            "uid": "codechicken.lib",
+            "url": "CodeChickenLib.json"
+        },
+        {
+            "uid": "cofh.core",
+            "url": "CoFHCore.json"
+        },
+        {
+            "uid": "codechicken.enderstorage",
             "url": "EnderStorage.json"
         },
         {
-            "uid": "net.bdew.neiaddons.NEIAddons",
+            "uid": "exaliquo",
+            "url": "ExAliquo.json"
+        },
+        {
+            "uid": "exnihilo",
+            "url": "ExNihilo.json"
+        },
+        {
+            "uid": "forestry",
+            "url": "Forestry.json"
+        },
+        {
+            "uid": "powercrystals.minefactoryreloaded",
+            "url": "MineFactoryReloaded.json"
+        },
+        {
+            "uid": "natura",
+            "url": "Natura.json"
+        },
+        {
+            "uid": "net.bdew.neiaddons",
             "url": "NEIAddons.json"
         },
         {
-            "uid": "mods.neiplugins.NEIPlugins",
+            "uid": "neiplugins",
             "url": "NEIPlugins.json"
         },
         {
-            "uid": "codechicken.nei.NotEnoughItems",
+            "uid": "codechicken.nei",
             "url": "NotEnoughItems.json"
         },
         {
-            "uid": "codechicken.translocator.Translocator",
+            "uid": "powercrystals.core",
+            "url": "PowerCrystalsCore.json"
+        },
+        {
+            "uid": "cofh.ThermalExpansion",
+            "url": "ThermalExpansion.json"
+        },
+        {
+            "uid": "tconstruct",
+            "url": "TinkersConstruct.json"
+        },
+        {
+            "uid": "codechicken.translocator",
             "url": "Translocator.json"
         },
         {
-            "uid": "mcp.mobius.waila.mod_Waila",
+            "uid": "mcp.mobius.waila",
             "url": "Waila.json"
         }
     ]
