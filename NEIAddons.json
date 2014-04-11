@@ -15,8 +15,7 @@
     "nemName": "NEIAddons",
     "references": {
         "codechicken.nei": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json",
-        "forestry": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json",
-        "net.bdew.neiaddons": "https://raw.github.com/02JanDal/QuickMod/master/NEIAddons.json"
+        "forestry": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json"
     },
     "tags": [
         "Client",

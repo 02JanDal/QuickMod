@@ -14,6 +14,7 @@
     "name": "MineFactoryReloaded",
     "nemName": "MineFactoryReloaded",
     "references": {
+        "powercrystals.core": "https://raw.github.com/02JanDal/QuickMod/master/PowerCrystalsCore.json"
     },
     "tags": [
     ],

@@ -16,7 +16,8 @@
     "references": {
         "natura": "https://raw.github.com/02JanDal/QuickMod/master/Natura.json",
         "powercrystals.minefactoryreloaded": "https://raw.github.com/02JanDal/QuickMod/master/MineFactoryReloaded.json",
-        "tconstruct": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json"
+        "tconstruct": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json",
+        "exnihilo": "https://raw.github.com/02JanDal/QuickMod/master/ExNihilo.json"
     },
     "tags": [
         "Skyblock"
