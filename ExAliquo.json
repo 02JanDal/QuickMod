@@ -14,10 +14,10 @@
     "name": "ExAliquo",
     "nemName": "ExAliquo",
     "references": {
+        "exnihilo": "https://raw.github.com/02JanDal/QuickMod/master/ExNihilo.json",
         "natura": "https://raw.github.com/02JanDal/QuickMod/master/Natura.json",
         "powercrystals.minefactoryreloaded": "https://raw.github.com/02JanDal/QuickMod/master/MineFactoryReloaded.json",
-        "tconstruct": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json",
-        "exnihilo": "https://raw.github.com/02JanDal/QuickMod/master/ExNihilo.json"
+        "tconstruct": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json"
     },
     "tags": [
         "Skyblock"

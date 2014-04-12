@@ -66,5 +66,21 @@
             }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/745373"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "2.7.7",
+        "references": [
+            {
+                "type": "depends",
+                "uid": "powercrystals.core",
+                "version": "[1.1.8,)"
+            }
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/781633"
     }
 ]

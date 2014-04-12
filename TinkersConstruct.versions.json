@@ -74,5 +74,41 @@
             }
         ],
         "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/772402"
+    },
+    {
+        "downloadType": "parallel",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.5.4",
+        "references": [
+            {
+                "type": "recommends",
+                "uid": "codechicken.multipart",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "codechicken.nei",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "cofh.ThermalExpansion",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "mcp.mobius.waila",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "powercrystals.minefactoryreloaded",
+                "version": ""
+            }
+        ],
+        "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/780669"
     }
 ]
