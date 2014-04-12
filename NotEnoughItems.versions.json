@@ -81,5 +81,21 @@
             }
         ],
         "url": "http://adf.ly/4KQKk"
+    },
+    {
+        "downloadType": "sequential",
+        "installType": "forgeCoreMod",
+        "mcCompat": [
+            "1.6.4"
+        ],
+        "name": "1.6.1.9",
+        "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.core",
+                "version": "0.9.0.9"
+            }
+        ],
+        "url": "http://adf.ly/WAp6r"
     }
 ]
