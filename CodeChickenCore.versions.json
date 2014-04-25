@@ -74,6 +74,11 @@
         ],
         "name": "0.9.0.9",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.lib",
+                "version": "[1.0.0.35,)"
+            }
         ],
         "url": "http://adf.ly/WAp6p"
     },
@@ -98,6 +103,11 @@
         "md5": "03e38d9af8b1f9107bd6b59f112188e0",
         "name": "0.9.0.8",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.lib",
+                "version": "[1.0.0.35,)"
+            }
         ],
         "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/CodeChickenCore%200.9.0.8.jar"
     },
@@ -107,7 +117,7 @@
         "mcCompat": [
             "1.7.2"
         ],
-        "name": "1.7.2-rc1",
+        "name": "0.0.0.0.1.7.2-rc1",
         "references": [
         ],
         "url": "http://adf.ly/hngBd"

@@ -40,6 +40,26 @@
         ],
         "name": "3.0.0.5",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.multipart",
+                "version": ""
+            },
+            {
+                "type": "depends",
+                "uid": "cofh.core",
+                "version": "[2.0.0.2,)"
+            },
+            {
+                "type": "recommends",
+                "uid": "ic2",
+                "version": ""
+            },
+            {
+                "type": "recommends",
+                "uid": "rebelkeithy.mods.metallurgy",
+                "version": ""
+            }
         ],
         "url": "http://curse.com/mc-mods/minecraft/thermalexpansion/785606"
     }

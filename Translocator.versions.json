@@ -57,6 +57,11 @@
         ],
         "name": "1.1.0.15",
         "references": [
+            {
+                "type": "depends",
+                "uid": "codechicken.core",
+                "version": "[0.9.0.8,)"
+            }
         ],
         "url": "http://adf.ly/WAp6u"
     },
