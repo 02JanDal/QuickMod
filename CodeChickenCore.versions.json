@@ -100,5 +100,16 @@
         "references": [
         ],
         "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/CodeChickenCore%200.9.0.8.jar"
+    },
+    {
+        "downloadType": "sequential",
+        "installType": "forgeMod",
+        "mcCompat": [
+            "1.7.2"
+        ],
+        "name": "1.7.2-rc1",
+        "references": [
+        ],
+        "url": "http://adf.ly/hngBd"
     }
 ]
