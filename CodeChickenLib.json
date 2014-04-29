@@ -27,6 +27,7 @@
             "name": "1.0.0.1",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.1.zip"
         },
         {
@@ -39,6 +40,7 @@
             "name": "1.0.0.10",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.10.jar"
         },
         {
@@ -51,6 +53,7 @@
             "name": "1.0.0.11",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.11.jar"
         },
         {
@@ -63,6 +66,7 @@
             "name": "1.0.0.12",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.12.jar"
         },
         {
@@ -75,6 +79,7 @@
             "name": "1.0.0.14",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.14.jar"
         },
         {
@@ -87,6 +92,7 @@
             "name": "1.0.0.15",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.15.jar"
         },
         {
@@ -99,6 +105,7 @@
             "name": "1.0.0.16",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.16.jar"
         },
         {
@@ -111,6 +118,7 @@
             "name": "1.0.0.17",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.17.jar"
         },
         {
@@ -123,6 +131,7 @@
             "name": "1.0.0.18",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.18.jar"
         },
         {
@@ -135,6 +144,7 @@
             "name": "1.0.0.19",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.19.jar"
         },
         {
@@ -147,6 +157,7 @@
             "name": "1.0.0.2",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.2.jar"
         },
         {
@@ -159,6 +170,7 @@
             "name": "1.0.0.20",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.20.jar"
         },
         {
@@ -171,6 +183,7 @@
             "name": "1.0.0.21",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.21.jar"
         },
         {
@@ -183,6 +196,7 @@
             "name": "1.0.0.22",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.22.jar"
         },
         {
@@ -195,6 +209,7 @@
             "name": "1.0.0.23",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.23.jar"
         },
         {
@@ -207,6 +222,7 @@
             "name": "1.0.0.24",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.24.jar"
         },
         {
@@ -219,6 +235,7 @@
             "name": "1.0.0.28",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.28.jar"
         },
         {
@@ -231,6 +248,7 @@
             "name": "1.0.0.29",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.29.jar"
         },
         {
@@ -243,6 +261,7 @@
             "name": "1.0.0.3",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.3.jar"
         },
         {
@@ -255,6 +274,7 @@
             "name": "1.0.0.30",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.30.jar"
         },
         {
@@ -267,6 +287,7 @@
             "name": "1.0.0.31",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.31.jar"
         },
         {
@@ -279,6 +300,7 @@
             "name": "1.0.0.32",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.32.jar"
         },
         {
@@ -291,6 +313,7 @@
             "name": "1.0.0.33",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.3-1.0.0.33.jar"
         },
         {
@@ -303,6 +326,7 @@
             "name": "1.0.0.34",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.3-1.0.0.34.jar"
         },
         {
@@ -315,6 +339,7 @@
             "name": "1.0.0.35",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.35.jar"
         },
         {
@@ -327,6 +352,7 @@
             "name": "1.0.0.36",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.36.jar"
         },
         {
@@ -339,6 +365,7 @@
             "name": "1.0.0.37",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.37.jar"
         },
         {
@@ -351,6 +378,7 @@
             "name": "1.0.0.38",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.38.jar"
         },
         {
@@ -363,6 +391,7 @@
             "name": "1.0.0.39",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.39.jar"
         },
         {
@@ -375,6 +404,7 @@
             "name": "1.0.0.4",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.4.jar"
         },
         {
@@ -387,6 +417,7 @@
             "name": "1.0.0.40",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.40.jar"
         },
         {
@@ -399,6 +430,7 @@
             "name": "1.0.0.41",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.41.jar"
         },
         {
@@ -411,6 +443,7 @@
             "name": "1.0.0.42",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.42.jar"
         },
         {
@@ -423,6 +456,7 @@
             "name": "1.0.0.43",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.43.jar"
         },
         {
@@ -435,6 +469,7 @@
             "name": "1.0.0.44",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.44.jar"
         },
         {
@@ -447,6 +482,7 @@
             "name": "1.0.0.45",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.45.jar"
         },
         {
@@ -459,6 +495,7 @@
             "name": "1.0.0.47",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.47.jar"
         },
         {
@@ -471,6 +508,7 @@
             "name": "1.0.0.49",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.49.jar"
         },
         {
@@ -483,6 +521,7 @@
             "name": "1.0.0.5",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.5.jar"
         },
         {
@@ -495,6 +534,7 @@
             "name": "1.0.0.50",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.50.jar"
         },
         {
@@ -507,6 +547,7 @@
             "name": "1.0.0.51",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.51.jar"
         },
         {
@@ -519,6 +560,7 @@
             "name": "1.0.0.52",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.52.jar"
         },
         {
@@ -531,6 +573,7 @@
             "name": "1.0.0.53",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.53.jar"
         },
         {
@@ -543,6 +586,7 @@
             "name": "1.0.0.54",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.54.jar"
         },
         {
@@ -555,6 +599,7 @@
             "name": "1.0.0.55",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.55.jar"
         },
         {
@@ -567,6 +612,7 @@
             "name": "1.0.0.6",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.6.jar"
         },
         {
@@ -579,6 +625,7 @@
             "name": "1.0.0.61",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.61.jar"
         },
         {
@@ -591,6 +638,7 @@
             "name": "1.0.0.62",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.4-1.0.0.62.jar"
         },
         {
@@ -603,6 +651,7 @@
             "name": "1.0.0.7",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.7.jar"
         },
         {
@@ -615,6 +664,7 @@
             "name": "1.0.0.8",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.8.jar"
         },
         {
@@ -627,6 +677,7 @@
             "name": "1.0.0.9",
             "references": [
             ],
+            "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.9.jar"
         }
     ],

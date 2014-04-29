@@ -39,6 +39,7 @@
                     "version": "(1.6.1.4,1.6.1.8)"
                 }
             ],
+            "type": "Release",
             "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.6.jar"
         },
         {
@@ -57,6 +58,7 @@
                     "version": "(1.6.1.4,1.6.1.8)"
                 }
             ],
+            "type": "Release",
             "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.4.jar"
         }
     ],

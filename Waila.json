@@ -39,6 +39,7 @@
                     "version": "(1.6.1.5,)"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/b1o1w"
         },
         {
@@ -55,6 +56,7 @@
                     "version": "(1.6.1.5,)"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/aV23t"
         },
         {
@@ -71,6 +73,7 @@
                     "version": "(1.6.1.5,)"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/Zvsil"
         },
         {
@@ -88,6 +91,7 @@
                     "version": "(1.6.1.5,)"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/ZlR8J"
         }
     ],

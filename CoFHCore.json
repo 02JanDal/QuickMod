@@ -31,6 +31,7 @@
             "name": "2.0.0.2",
             "references": [
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/cofhcore/764469"
         },
         {
@@ -42,6 +43,7 @@
             "name": "2.0.0.5",
             "references": [
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/cofhcore/785608"
         }
     ],

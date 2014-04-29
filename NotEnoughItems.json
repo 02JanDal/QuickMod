@@ -38,6 +38,7 @@
                     "version": "0.9.0.7"
                 }
             ],
+            "type": "Release",
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/NotEnoughItems%201.6.1.8.jar"
         },
         {
@@ -55,6 +56,7 @@
                     "version": "0.9.0.6"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/WAp6r"
         },
         {
@@ -71,6 +73,7 @@
                     "version": "0.9.0.5"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/SohmZ"
         },
         {
@@ -87,6 +90,7 @@
                     "version": "0.8.7.3"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/KpW91"
         },
         {
@@ -104,6 +108,7 @@
                     "version": "0.8.1.6"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/4KQKk"
         },
         {
@@ -120,6 +125,7 @@
                     "version": "0.9.0.9"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/WAp6r"
         }
     ],

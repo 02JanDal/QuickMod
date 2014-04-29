@@ -41,6 +41,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/725311"
         },
         {
@@ -63,6 +64,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/726981"
         },
         {
@@ -85,6 +87,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/745900"
         },
         {
@@ -107,6 +110,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
         },
         {
@@ -124,6 +128,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
         },
         {
@@ -146,6 +151,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/762617"
         },
         {
@@ -163,6 +169,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/774440"
         },
         {
@@ -180,6 +187,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/774046"
         },
         {
@@ -197,6 +205,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/773003"
         },
         {
@@ -214,6 +223,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/772098"
         },
         {
@@ -231,6 +241,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/769659"
         },
         {
@@ -242,6 +253,7 @@
             "name": "1.1",
             "references": [
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/nei-addons/774440"
         }
     ],

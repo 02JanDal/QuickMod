@@ -63,6 +63,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/775458"
         },
         {
@@ -101,6 +102,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/772402"
         },
         {
@@ -139,6 +141,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/780669"
         },
         {
@@ -150,6 +153,7 @@
             "name": "1.5.5.4",
             "references": [
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786925"
         },
         {
@@ -161,6 +165,7 @@
             "name": "1.5.5.2",
             "references": [
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786668"
         },
         {
@@ -172,6 +177,7 @@
             "name": "1.5.5.1",
             "references": [
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786227"
         },
         {
@@ -183,6 +189,7 @@
             "name": "1.5.5",
             "references": [
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786223"
         }
     ],

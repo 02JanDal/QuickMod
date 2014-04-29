@@ -37,6 +37,7 @@
                     "version": "[0.9.0.6,)"
                 }
             ],
+            "type": "Release",
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/ChickenChunks%201.3.3.3.jar"
         },
         {
@@ -54,6 +55,7 @@
                     "version": "0.9.0.5"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/Sohmc"
         },
         {
@@ -70,6 +72,7 @@
                     "version": "0.8.7.3"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/KpW95"
         },
         {
@@ -86,6 +89,7 @@
                     "version": "[0.9.0.6,)"
                 }
             ],
+            "type": "Release",
             "url": "http://adf.ly/WAp6t"
         },
         {
@@ -103,6 +107,7 @@
                     "version": "[0.9.0.0,)"
                 }
             ],
+            "type": "Release",
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/ChickenChunks%201.3.3.1.jar"
         }
     ],

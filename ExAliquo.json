@@ -54,6 +54,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/w6m18o5juu7ma0e/exaliquo_0.7.zip?dl=1"
         },
         {
@@ -85,6 +86,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/81ni4jgsxir9c4s/exaliquo_0.7.1.zip?dl=1"
         },
         {
@@ -116,6 +118,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/3x3tktnarp2770u/exaliquo_0.7.2.zip?dl=1"
         },
         {
@@ -147,6 +150,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/5o7ga7ulro2ptit/exaliquo_0.7.5.zip?dl=1"
         },
         {
@@ -183,6 +187,7 @@
                     "version": "[4.1,)"
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/kt20lq0clm2pebg/exaliquo_0.8.zip?dl=1"
         },
         {
@@ -219,6 +224,7 @@
                     "version": "[4.1,)"
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/pdn39ajqg8we9wo/exaliquo_0.8.1.zip?dl=1"
         },
         {
@@ -255,6 +261,7 @@
                     "version": "[4.1,)"
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/serebj6foln7idg/exaliquo_0.8.2.zip?dl=1"
         },
         {
@@ -311,6 +318,7 @@
                     "version": "[4.1,)"
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/0b9gj3iqz1a9mu1/exaliquo_0.9.zip?dl=1"
         },
         {
@@ -367,6 +375,7 @@
                     "version": "[4.1,)"
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/3uhic5txumsowtu/exaliquo_0.9.1.zip?dl=1"
         },
         {
@@ -433,6 +442,7 @@
                     "version": "[4.1,)"
                 }
             ],
+            "type": "Release",
             "url": "https://dl.dropboxusercontent.com/s/kpvntobjm6gbx9b/exaliquo_0.9.2.zip?dl=1"
         }
     ],

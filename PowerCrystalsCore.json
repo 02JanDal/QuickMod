@@ -31,6 +31,7 @@
             "name": "1.1.8",
             "references": [
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/powercrystalscore/753761"
         },
         {
@@ -43,6 +44,7 @@
             "name": "1.1.7",
             "references": [
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/powercrystalscore/744232"
         },
         {
@@ -54,6 +56,7 @@
             "name": "1.6.4",
             "references": [
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/powercrystalscore/753761"
         },
         {
@@ -65,6 +68,7 @@
             "name": "1.6.2",
             "references": [
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/powercrystalscore/744232"
         }
     ],

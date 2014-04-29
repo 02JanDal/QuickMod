@@ -54,6 +54,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/764471"
         },
         {
@@ -85,6 +86,7 @@
                     "version": ""
                 }
             ],
+            "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/thermalexpansion/785606"
         }
     ],
