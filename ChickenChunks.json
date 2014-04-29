@@ -21,6 +21,90 @@
     ],
     "uid": "codechicken.chunkloader",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ChickenChunks.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/ChickenChunks.versions.json",
+    "versions": [
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "86000b679bbe478e810357875dc9a475",
+            "name": "1.3.3.3",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "[0.9.0.6,)"
+                }
+            ],
+            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/ChickenChunks%201.3.3.3.jar"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.2"
+            ],
+            "md5": "9600db39e73b896afde3732377eab58f",
+            "name": "1.3.3.2",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "0.9.0.5"
+                }
+            ],
+            "url": "http://adf.ly/Sohmc"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.5.1"
+            ],
+            "name": "1.3.2.14",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "0.8.7.3"
+                }
+            ],
+            "url": "http://adf.ly/KpW95"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.3.3.4",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "[0.9.0.6,)"
+                }
+            ],
+            "url": "http://adf.ly/WAp6t"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.2"
+            ],
+            "md5": "16dfb190785a53139d1965227dd00ca9",
+            "name": "1.3.3.1",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "[0.9.0.0,)"
+                }
+            ],
+            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/ChickenChunks%201.3.3.1.jar"
+        }
+    ],
     "websiteUrl": "http://www.minecraftforum.net/topic/909223-"
 }

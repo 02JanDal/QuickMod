@@ -22,6 +22,42 @@
     ],
     "uid": "natura",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Natura.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/Natura.versions.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.5.2"
+            ],
+            "md5": "15469ff43db05c103552be478f7d6ddb",
+            "name": "2.1.5",
+            "references": [
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/natura/772553"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "0b0712e9741829681964e5ab682c74f1",
+            "name": "2.1.14",
+            "references": [
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/natura/772550"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "2.1.1",
+            "references": [
+            ],
+            "url": "http://curse.com/mc-mods/minecraft/natura/772550"
+        }
+    ],
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/natura"
 }

@@ -22,6 +22,43 @@
     ],
     "uid": "neiplugins",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIPlugins.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIPlugins.versions.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4",
+                "1.6.2"
+            ],
+            "md5": "f005f1044b4fd706fef4858caef7db03",
+            "name": "1.1.0.6",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.nei",
+                    "version": "(1.6.1.4,1.6.1.8)"
+                }
+            ],
+            "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.6.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4",
+                "1.6.2"
+            ],
+            "md5": "6d1b4f927dd032724985efb608c24a89",
+            "name": "1.1.0.4",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.nei",
+                    "version": "(1.6.1.4,1.6.1.8)"
+                }
+            ],
+            "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.4.jar"
+        }
+    ],
     "websiteUrl": "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
 }

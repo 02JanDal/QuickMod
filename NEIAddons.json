@@ -25,6 +25,225 @@
     ],
     "uid": "net.bdew.neiaddons",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIAddons.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NEIAddons.versions.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.5.2"
+            ],
+            "md5": "8e74e5c7705ee1786ea8ca833c0a5865",
+            "name": "1.8.2",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/725311"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "c4b5ef93b541c79cefefc15d79784e0b",
+            "name": "1.9.0",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.nei",
+                    "version": "(1.6.1.4,1.6.1.8)"
+                },
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/726981"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "ca1fe7cc48f2e970b24e967b7afbe175",
+            "name": "1.9.1",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.nei.NotEnoughItems",
+                    "version": "(1.6.1.4,1.6.1.8)"
+                },
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/745900"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "9e992ca3a408a7eafdb1665da69b2ad1",
+            "name": "1.9.3",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.nei",
+                    "version": "(1.6.1.4,1.6.1.8)"
+                },
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "9e992ca3a408a7eafdb1665da69b2ad1",
+            "name": "1.9.3.r47",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/752905"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "27d539bb3c2419205ba92e0525176028",
+            "name": "1.9.4",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.nei",
+                    "version": "(1.6.1.4,1.6.1.8)"
+                },
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/762617"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "24415916c79eda9ba4363544f67d071f",
+            "name": "1.10.4",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/774440"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "39b6206beeb5ceeea7fbb5631a001adc",
+            "name": "1.10.3",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/774046"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "57896156d20ab6d79ee3b780dd5894b6",
+            "name": "1.10.2",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/773003"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "e1295902af04de06c8198243b7f6b133",
+            "name": "1.10.1",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/772098"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "0e239cd34b5c3311d191fd645e04b6c2",
+            "name": "1.10.0",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/nei-addons/769659"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1",
+            "references": [
+            ],
+            "url": "http://curse.com/mc-mods/minecraft/nei-addons/774440"
+        }
+    ],
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/nei-addons"
 }

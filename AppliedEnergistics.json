@@ -21,6 +21,7 @@
     ],
     "uid": "",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/AppliedEnergistics.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/AppliedEnergistics.versions.json",
+    "versions": [
+    ],
     "websiteUrl": "http://ae1.ae-mod.info/"
 }

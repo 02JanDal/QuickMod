@@ -22,6 +22,106 @@
     ],
     "uid": "codechicken.nei",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.versions.json",
+    "versions": [
+        {
+            "downloadType": "direct",
+            "installType": "forgeCoreMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "5a1d03896cc9490705de7fdf983582ff",
+            "name": "1.6.1.8",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "0.9.0.7"
+                }
+            ],
+            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/NotEnoughItems%201.6.1.8.jar"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeCoreMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "e0cd36018af35adfc2bf2b686dcce7b8",
+            "name": "1.6.1.5",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "0.9.0.6"
+                }
+            ],
+            "url": "http://adf.ly/WAp6r"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeCoreMod",
+            "mcCompat": [
+                "1.6.2"
+            ],
+            "name": "1.6.1.4",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "0.9.0.5"
+                }
+            ],
+            "url": "http://adf.ly/SohmZ"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeCoreMod",
+            "mcCompat": [
+                "1.5.1"
+            ],
+            "name": "1.5.2.28",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "0.8.7.3"
+                }
+            ],
+            "url": "http://adf.ly/KpW91"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeCoreMod",
+            "mcCompat": [
+                "1.4.7"
+            ],
+            "md5": "5a1d03896cc9490705de7fdf983582ff",
+            "name": "1.4.7.4",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "0.8.1.6"
+                }
+            ],
+            "url": "http://adf.ly/4KQKk"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeCoreMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.6.1.9",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "codechicken.core",
+                    "version": "0.9.0.9"
+                }
+            ],
+            "url": "http://adf.ly/WAp6r"
+        }
+    ],
     "websiteUrl": "http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/"
 }

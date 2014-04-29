@@ -20,6 +20,30 @@
     ],
     "uid": "cofh.core",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json",
-    "versionsUrl": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.versions.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "ade9ade85b385827f56de0432d290665",
+            "name": "2.0.0.2",
+            "references": [
+            ],
+            "url": "http://www.curse.com/mc-mods/minecraft/cofhcore/764469"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "2.0.0.5",
+            "references": [
+            ],
+            "url": "http://curse.com/mc-mods/minecraft/cofhcore/785608"
+        }
+    ],
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/cofhcore"
 }
