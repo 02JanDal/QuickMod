@@ -47,6 +47,7 @@
             "mcCompat": [
                 "1.6.4"
             ],
+            "md5": "d8800f201da7fe01ba1f8127a9a568ff",
             "name": "0.9.0.6",
             "references": [
                 {
@@ -89,6 +90,7 @@
             "mcCompat": [
                 "1.4.7"
             ],
+            "md5": "1783d8efaacbeba28044ae542b41fc3f",
             "name": "0.8.1.6",
             "references": [
             ],
@@ -101,6 +103,7 @@
             "mcCompat": [
                 "1.6.4"
             ],
+            "md5": "d8800f201da7fe01ba1f8127a9a568ff",
             "name": "0.9.0.9",
             "references": [
                 {
@@ -149,6 +152,7 @@
             "mcCompat": [
                 "1.7.2"
             ],
+            "md5": "a0b322352351066770f70ecf56ae1b4d",
             "name": "0.0.0.0.1.7.2-rc1",
             "references": [
             ],

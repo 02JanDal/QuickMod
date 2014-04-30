@@ -59,10 +59,12 @@
         },
         {
             "downloadType": "parallel",
+            "forgeCompat": "[9.1.11.953,)",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
             ],
+            "md5": "27725d201ab39d497052c2f16aadbb5c",
             "name": "3.0.0.5",
             "references": [
                 {

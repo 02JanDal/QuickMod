@@ -28,7 +28,7 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "33acf4d7617611afdb46d1d6a7234bdd",
+            "md5": "8c085124f761c51d01d6ae30f005885e",
             "name": "1.1.0.13",
             "references": [
                 {
@@ -46,6 +46,7 @@
             "mcCompat": [
                 "1.6.2"
             ],
+            "md5": "fcda8fac9d0fb1cba3c9c1c33fae8a48",
             "name": "1.1.0.12",
             "references": [
                 {
@@ -63,7 +64,7 @@
             "mcCompat": [
                 "1.5.1"
             ],
-            "md5": "6cd3c10cf95308ad4a2ac225ba0b4cda",
+            "md5": "0c7146744a2a628986f1817c2af2f08c",
             "name": "1.1.0.5",
             "references": [
                 {
@@ -81,6 +82,7 @@
             "mcCompat": [
                 "1.6.4"
             ],
+            "md5": "8c085124f761c51d01d6ae30f005885e",
             "name": "1.1.0.15",
             "references": [
                 {

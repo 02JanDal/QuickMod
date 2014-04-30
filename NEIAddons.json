@@ -250,8 +250,14 @@
             "mcCompat": [
                 "1.6.4"
             ],
+            "md5": "24415916c79eda9ba4363544f67d071f",
             "name": "1.1",
             "references": [
+                {
+                    "type": "recommends",
+                    "uid": "forestry",
+                    "version": ""
+                }
             ],
             "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/nei-addons/774440"
