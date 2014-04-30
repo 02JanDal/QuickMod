@@ -113,7 +113,10 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/WAp6p"
+            "url": "http://adf.ly/WAp6p",
+            "libraries": [
+                { "name": "org.ow2.asm:asm:5.0.2" }
+            ]
         },
         {
             "downloadType": "direct",
