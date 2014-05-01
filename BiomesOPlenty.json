@@ -22,6 +22,5274 @@
     "uid": "biomesoplenty",
     "updateUrl": "github://02JanDal@QuickMod/BiomesOPlenty.json",
     "versions": [
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.10",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.10.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.11",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.11.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.12",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.12.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.14",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.14.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.15",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.15.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.18",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.18.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.20",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.20.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.21",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.21.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.22",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.22.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.23",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.23.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.24",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.24.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.25",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.25.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.26",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.26.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.27",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.27.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.28",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.28.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.29",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.29.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.3",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.3.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.30",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.30.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.31",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.31.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.6",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.6.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "0.6.3.9",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-0.6.3.9.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.32",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.32.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.33",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.33.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.34",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.34.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.35",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.35.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.36",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.36.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.37",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.37.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.40",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.40.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.41",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.41.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.42",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.42.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.43",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.43.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.44",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.44.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.45",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.45.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.0.46",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.0.46.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.1.47",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.1.47.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.1.48",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.1.48.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.1.49",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.1.49.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.50",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.50.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.51",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.51.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.52",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.52.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.53",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.53.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.54",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.54.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.55",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.55.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.56",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.56.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.57",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.57.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.58",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.58.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.59",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.59.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.60",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.60.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.61",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.61.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.62",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.62.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.63",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.63.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.64",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.64.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.65",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.65.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.66",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.66.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.67",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.67.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.68",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.68.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.69",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.69.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.70",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.70.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.71",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.71.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.72",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.72.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.73",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.73.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.74",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.74.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.75",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.75.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.76",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.76.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.77",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.77.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.78",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.78.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.79",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.79.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.80",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.80.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.81",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.81.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.82",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.82.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.83",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.83.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.84",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.84.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.85",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.85.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.86",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.86.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.87",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.87.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.88",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.88.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.89",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.89.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.90",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.90.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.91",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.91.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.2.92",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.2.92.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.100",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.100.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.101",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.101.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.102",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.102.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.103",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.103.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.104",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.104.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.105",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.105.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.106",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.106.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.107",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.107.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.108",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.108.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.109",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.109.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.110",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.110.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.111",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.111.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.112",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.112.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.113",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.113.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.114",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.114.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.115",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.115.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.116",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.116.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.117",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.117.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.118",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.118.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.119",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.119.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.120",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.120.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.121",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.121.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.125",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.125.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.126",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.126.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.127",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.127.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.128",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.128.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.129",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.129.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.130",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.130.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.131",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.131.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.132",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.132.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.133",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.133.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.134",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.134.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.135",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.135.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.136",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.136.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.137",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.137.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.138",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.138.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.139",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.139.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.140",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.140.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.141",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.141.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.142",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.142.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.143",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.143.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.144",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.144.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.145",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.145.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.146",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.146.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.147",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.147.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.148",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.148.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.149",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.149.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.150",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.150.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.151",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.151.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.152",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.152.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.153",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.153.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.154",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.154.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.155",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.155.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.156",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.156.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.157",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.157.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.158",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.158.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.159",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.159.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.160",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.160.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.161",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.161.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.162",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.162.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.163",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.163.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.164",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.164.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.165",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.165.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.166",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.166.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.167",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.167.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.168",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.168.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.169",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.169.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.170",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.170.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.171",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.171.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.172",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.172.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.173",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.173.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.174",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.174.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.175",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.175.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.178",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.178.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.179",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.179.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.180",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.180.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.181",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.181.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.182",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.182.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.183",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.183.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.184",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.184.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.191",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.191.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.192",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.192.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.193",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.193.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.194",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.194.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.195",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.195.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.196",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.196.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.197",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.197.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.198",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.198.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.199",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.199.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.200",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.200.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.201",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.201.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.202",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.202.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.203",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.203.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.204",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.204.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.205",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.205.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.206",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.206.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.207",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.207.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.208",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.208.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.209",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.209.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.210",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.210.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.211",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.211.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.212",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.212.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.213",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.213.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.214",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.214.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.215",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.215.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.216",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.216.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.223",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.223.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.224",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.224.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.225",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.225.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.226",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.226.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.227",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.227.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.228",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.228.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.229",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.229.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.230",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.230.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.231",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.231.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.232",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.232.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.233",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.233.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.234",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.234.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.235",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.235.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.236",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.236.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.237",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.237.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.238",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.238.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.245",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.245.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.246",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.246.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.247",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.247.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.248",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.248.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.249",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.249.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.250",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.250.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.251",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.251.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.252",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.252.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.253",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.253.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.254",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.254.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.255",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.255.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.256",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.256.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.257",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.257.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.259",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.259.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.260",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.260.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.261",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.261.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.262",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.262.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.263",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.263.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.264",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.264.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.265",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.265.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.266",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.266.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.267",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.267.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.268",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.268.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.269",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.269.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.270",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.270.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.271",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.271.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.272",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.272.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.273",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.273.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.274",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.274.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.275",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.275.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.276",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.276.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.277",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.277.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.278",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.278.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.279",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.279.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.280",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.280.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.281",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.281.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.282",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.282.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.283",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.283.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.284",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.284.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.285",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.285.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.286",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.286.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.287",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.287.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.288",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.288.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.289",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.289.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.290",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.290.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.291",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.291.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.292",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.292.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.293",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.293.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.294",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.294.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.295",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.295.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.296",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.296.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.299",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.299.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.300",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.300.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.301",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.301.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.302",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.302.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.303",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.303.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.304",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.304.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.305",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.305.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.306",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.306.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.307",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.307.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.308",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.308.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.319",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.319.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.320",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.320.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.324",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.324.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.331",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.331.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.332",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.332.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.333",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.333.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.335",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.335.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.336",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.336.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.337",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.337.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.338",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.338.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.340",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.340.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.341",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.341.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.345",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.345.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.346",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.346.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.347",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.347.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.348",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.348.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.349",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.349.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.350",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.350.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.351",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.351.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.352",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.352.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.353",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.353.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.354",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.354.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.355",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.355.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.356",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.356.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.357",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.357.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.358",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.358.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.359",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.359.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.360",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.360.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.361",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.361.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.362",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.362.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.363",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.363.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.93",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.93.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.94",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.94.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.95",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.95.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.96",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.96.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.97",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.97.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.98",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.98.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.1.3.99",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.1.3.99.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.364",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.364.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.365",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.365.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.366",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.366.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.367",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.367.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.368",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.368.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.369",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.369.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.370",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.370.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.371",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.371.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.372",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.372.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.373",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.373.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.374",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.374.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.375",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.375.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.376",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.376.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.377",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.377.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.378",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.378.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.379",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.379.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.381",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.381.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.382",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.382.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.383",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.383.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.384",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.384.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.385",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.385.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.386",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.386.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.388",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.388.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.393",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.393.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.397",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.397.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.399",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.399.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.403",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.403.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.405",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.405.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.412",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.412.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.413",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.413.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.0.415",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.0.415.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.1.416",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.1.416.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.1.418",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.1.418.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.1.433",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.1.433.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.2.1.434",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.1.434.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.422",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.422.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.423",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.423.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.424",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.424.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.425",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.425.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.426",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.426.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.427",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.427.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.428",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.428.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.429",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.429.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.430",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.430.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.431",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.431.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.432",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.432.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.435",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.435.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.436",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.436.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.437",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.437.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.438",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.438.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.439",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.439.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.440",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.440.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.441",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.441.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.442",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.442.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.443",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.443.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.482",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.482.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.483",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.483.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.484",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.484.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.485",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.485.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.486",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.486.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.487",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.487.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.488",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.488.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.489",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.489.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.490",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.490.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.491",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.491.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.492",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.492.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.493",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.493.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.494",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.494.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.495",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.495.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.496",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.496.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.497",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.497.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.498",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.498.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.499",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.499.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.500",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.500.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.501",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.501.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.502",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.502.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.503",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.503.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.504",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.504.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.505",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.505.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.506",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.506.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.507",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.507.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.508",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.508.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.509",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.509.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.510",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.510.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.511",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.511.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.512",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.512.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.513",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.513.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.514",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.514.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.515",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.515.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.516",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.516.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.517",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.517.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.518",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.518.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.519",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.519.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.520",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.520.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.521",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.521.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.522",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.522.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.523",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.523.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.524",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.524.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.525",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.525.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.526",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.526.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.527",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.527.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.528",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.528.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.529",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.529.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.530",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.530.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.531",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.531.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.533",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.533.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.534",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.534.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.535",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.535.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.536",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.536.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.537",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.537.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.538",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.538.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.539",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.539.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.540",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.540.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.541",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.541.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.542",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.542.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.543",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.543.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.544",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.544.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.552",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.552.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.553",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.553.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.554",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.554.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.555",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.555.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.556",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.556.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.557",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.557.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.558",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.558.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.560",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.560.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.561",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.561.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.562",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.562.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.563",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.563.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.564",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.564.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.565",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.565.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.566",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.566.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.567",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.567.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.568",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.568.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.569",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.569.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.570",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.570.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.571",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.571.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.573",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.573.jar"
+        },
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.0.0.579",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.579.jar"
+        }
     ],
     "websiteUrl": "http://www.minecraftforge.net/forum/index.php/topic,13244.0.html"
 }
