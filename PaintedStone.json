@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "Author": [
+            "mDiyo"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "This is just a little mod I whipped up to make colored stone in the world. There's no crafting and no worldgen; all you do is right-click on stone type blocks with some dye.",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "Painted Stone",
+    "nemName": "",
+    "references": {
+    },
+    "tags": [
+    ],
+    "uid": "",
+    "updateUrl": "http://localhost/quickmod/PaintedStone.json",
+    "versions": [
+    ],
+    "websiteUrl": "http://www.minecraftforum.net/topic/2118351-"
+}

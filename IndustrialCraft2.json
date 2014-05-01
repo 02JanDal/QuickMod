@@ -1,0 +1,34 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "Highly Experimental - Use @ Own Risk",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "IC2",
+    "name": "IndustrialCraft2",
+    "nemName": "IndustrialCraft2-EXP",
+    "references": {
+    },
+    "tags": [
+    ],
+    "uid": "ic2.core",
+    "updateUrl": "http://localhost/quickmod/IndustrialCraft2.json",
+    "versions": [
+        {
+            "downloadType": "direct",
+            "forgeCompat": "[10.12.0.1032,)",
+            "installType": "forgeMod",
+            "mcCompat": [
+            ],
+            "md5": "713be50d889a0ba386a57416bdcbcc27",
+            "name": "2.1.419",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://ic2api.player.to:8080/job/IC2_experimental/419/artifact/packages/industrialcraft-2_2.1.419-experimental.jar"
+        }
+    ],
+    "websiteUrl": ""
+}

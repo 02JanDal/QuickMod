@@ -1,0 +1,34 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "voxelmap",
+    "name": "ZansMinimap",
+    "nemName": "VoxelMap",
+    "references": {
+    },
+    "tags": [
+    ],
+    "uid": "com.thevoxelbox.voxelmap.voxelmap",
+    "updateUrl": "http://localhost/quickmod/ZansMinimap.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "md5": "a24f1f06b873eeb0afce5232376bde7f",
+            "name": "1.0",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://www.mediafire.com/download/8tjjxvghv3jpv18/voxelmap-1.7.2-1.0.jar"
+        }
+    ],
+    "websiteUrl": "http://www.planetminecraft.com/mod/zans-minimap/"
+}

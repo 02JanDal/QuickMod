@@ -1,0 +1,27 @@
+{
+    "authors": {
+        "Developer": [
+            "mDiyo",
+            "progwml6"
+        ]
+    },
+    "categories": [
+        "API",
+        "Library"
+    ],
+    "description": "",
+    "iconUrl": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png",
+    "logoUrl": "",
+    "modId": "",
+    "name": "Mantle",
+    "nemName": "Mantle",
+    "references": {
+    },
+    "tags": [
+    ],
+    "uid": "",
+    "updateUrl": "http://localhost/quickmod/Mantle.json",
+    "versions": [
+    ],
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/mantle"
+}

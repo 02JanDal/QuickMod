@@ -1,0 +1,119 @@
+{
+    "authors": {
+        "Developer": [
+            "ProfMobius"
+        ]
+    },
+    "categories": [
+        "Storage"
+    ],
+    "description": "",
+    "iconUrl": "http://media-curse.cursecdn.com/attachments/104/377/bd2a6a68921d89885b89e786e56e302d.png",
+    "logoUrl": "",
+    "modId": "JABBA",
+    "name": "Jabba",
+    "nemName": "Jabba",
+    "references": {
+        "codechicken.nei": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json",
+        "mcp.mobius.waila": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json"
+    },
+    "tags": [
+    ],
+    "uid": "mcp.mobius.betterbarrels.JABBA",
+    "updateUrl": "http://localhost/quickmod/Jabba.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "md5": "a0000db0a988173d92b579a123560d17",
+            "name": "1.1.3",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "codechicken.nei",
+                    "version": ""
+                },
+                {
+                    "type": "recommends",
+                    "uid": "mcp.mobius.waila",
+                    "version": ""
+                }
+            ],
+            "type": "",
+            "url": "http://curse.com/mc-mods/minecraft/jabba/785514"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "8f611797f0bbb61968f70b8effb41cd0",
+            "name": "1.1.2",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "codechicken.nei",
+                    "version": ""
+                },
+                {
+                    "type": "recommends",
+                    "uid": "mcp.mobius.waila",
+                    "version": ""
+                }
+            ],
+            "type": "",
+            "url": "http://curse.com/mc-mods/minecraft/jabba/781707"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "a17a9c4ddf840482b916c59e3806c49f",
+            "name": "1.1.1",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "codechicken.nei",
+                    "version": ""
+                },
+                {
+                    "type": "recommends",
+                    "uid": "mcp.mobius.waila",
+                    "version": ""
+                }
+            ],
+            "type": "",
+            "url": "http://curse.com/mc-mods/minecraft/jabba/774269"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "54c0745b31e33c4d34b4a3d6b103557f",
+            "name": "1.1.0",
+            "references": [
+                {
+                    "type": "recommends",
+                    "uid": "codechicken.nei",
+                    "version": ""
+                },
+                {
+                    "type": "recommends",
+                    "uid": "mcp.mobius.waila",
+                    "version": ""
+                }
+            ],
+            "type": "",
+            "url": "http://curse.com/mc-mods/minecraft/jabba/772292"
+        }
+    ],
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/jabba"
+}

@@ -1,0 +1,45 @@
+{
+    "authors": {
+        "Developer": [
+            "mDiyo",
+            "progwml6"
+        ]
+    },
+    "categories": [
+        "Tinker's Construct"
+    ],
+    "description": "",
+    "iconUrl": "http://media-curse.cursecdn.com/attachments/109/596/d3ad54d84435d62c107b8264ce4e816a.png",
+    "logoUrl": "",
+    "modId": "TMechworks",
+    "name": "Tinker's Mechworks",
+    "nemName": "Mechworks",
+    "references": {
+        "tconstruct": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json"
+    },
+    "tags": [
+    ],
+    "uid": "tmechworks.TMechworks",
+    "updateUrl": "http://localhost/quickmod/TinkersMechworks.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "52b8cf82577bb9e391eb8bc1da7dd2d0",
+            "name": "0.1.6",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "tconstruct",
+                    "version": ""
+                }
+            ],
+            "type": "",
+            "url": "http://curse.com/mc-mods/minecraft/tinkers-mechworks/784610"
+        }
+    ],
+    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/tinkers-mechworks"
+}

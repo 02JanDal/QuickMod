@@ -1,0 +1,33 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "Imagine stepping through a portal into a twilight realm, filled with trees as far as they eye can see.  Breathtaking vistas and amazing discoveries await you around every corner.  But beware!  Not all denizens of the forest respond to your intrusion lightly.",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "TwilightForest",
+    "name": "TwilightForest",
+    "nemName": "TwilightForest",
+    "references": {
+    },
+    "tags": [
+    ],
+    "uid": "twilightforest.TwilightForest",
+    "updateUrl": "http://localhost/quickmod/TwilightForest.json",
+    "versions": [
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+            ],
+            "md5": "077fb283792af69ac91de0ba700e2dfd",
+            "name": "2.0.2",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "https://dl.dropboxusercontent.com/u/38679977/twilightforest-1.7.2-2.0.2.jar"
+        }
+    ],
+    "websiteUrl": "http://www.minecraftforum.net/topic/561673-"
+}

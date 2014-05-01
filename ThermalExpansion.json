@@ -15,7 +15,8 @@
     "name": "ThermalExpansion",
     "nemName": "ThermalExpansion",
     "references": {
-        "cofh.core": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json"
+        "cofh.core": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json",
+        "ic2.core.IC2": "http://localhost/quickmod/IndustrialCraft2.json"
     },
     "tags": [
         "Automation"
@@ -45,7 +46,7 @@
                 },
                 {
                     "type": "recommends",
-                    "uid": "ic2",
+                    "uid": "ic2.core",
                     "version": ""
                 },
                 {
@@ -79,7 +80,7 @@
                 },
                 {
                     "type": "recommends",
-                    "uid": "ic2",
+                    "uid": "ic2.core",
                     "version": ""
                 },
                 {

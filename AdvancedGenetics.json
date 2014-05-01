@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "Author": [
+            "ObsiLP"
+        ]
+    },
+    "categories": [
+    ],
+    "description": "A mod created by ObsiLP which adds Genetic-Science to Minecraft.",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "advancedgenetics",
+    "name": "Advanced Genetics",
+    "nemName": "AdvancedGenetics",
+    "references": {
+    },
+    "tags": [
+    ],
+    "uid": "com.advGenetics.advancedgenetics",
+    "updateUrl": "github://02JanDal@quickmod/AdvancedGenetics.json",
+    "versions": [
+        {
+            "downloadType": "sequential",
+            "installType": "forgeMod",
+            "mcCompat": [
+            ],
+            "md5": "b148b83f124fd8605c6543d06954a5f2",
+            "name": "1.5",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://adf.ly/dtCp6"
+        },
+        {
+            "downloadType": "sequential",
+            "installType": "forgeMod",
+            "mcCompat": [
+            ],
+            "md5": "f2eb3a87434d2dc5f229a57effad29a2",
+            "name": "1.5.2",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "http://adf.ly/kFP9j"
+        }
+    ],
+    "websiteUrl": "http://ag.teamdna.de/"
+}
