@@ -9,16 +9,29 @@
     "description": "Have you ever picked up a magic mod for Minecraft, and thought that it was too tame? Was there not enough danger involved when creating your next high-tech gadget? Bored with all of those peaceful animals just staring at you without a care in the world? Well then, I am glad you came here!\n\nBlood Magic is an arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly. You have been warned.",
     "iconUrl": "",
     "logoUrl": "",
-    "modId": "",
+    "modId": "AWWayofTime",
     "name": "Blood Magic",
     "nemName": "BloodMagic",
     "references": {
     },
     "tags": [
     ],
-    "uid": "",
+    "uid": "WayofTime.alchemicalWizardry.bloodmagic",
     "updateUrl": "github://02JanDal@QuickMod/BloodMagic.json",
     "versions": [
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "md5": "1d8f897fe1bfe6c8f4797a2e48eed8c2",
+            "name": "0.8.0a",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "https://www.dropbox.com/sh/8ecx19nl5u4hxj2/0u16lKX3-H/Blood%20Magic-v0.8.0a.jar"
+        }
     ],
     "websiteUrl": "http://www.minecraftforum.net/topic/1899223-"
 }

@@ -13,13 +13,14 @@
     },
     "tags": [
     ],
-    "uid": "twilightforest.TwilightForest",
+    "uid": "twilightforest",
     "updateUrl": "github://02JanDal@QuickMod/TwilightForest.json",
     "versions": [
         {
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.7.2"
             ],
             "md5": "077fb283792af69ac91de0ba700e2dfd",
             "name": "2.0.2",

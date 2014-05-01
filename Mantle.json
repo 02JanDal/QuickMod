@@ -12,16 +12,29 @@
     "description": "",
     "iconUrl": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png",
     "logoUrl": "",
-    "modId": "",
+    "modId": "Mantle",
     "name": "Mantle",
     "nemName": "Mantle",
     "references": {
     },
     "tags": [
     ],
-    "uid": "",
+    "uid": "mantle",
     "updateUrl": "github://02JanDal@QuickMod/Mantle.json",
     "versions": [
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "md5": "7e116a36886e01df053679ace0acf730",
+            "name": "0.2.6",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "github://02JanDal@QuickMod/Mantle-1.7.2-0.2.6.jar"
+        }
     ],
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/mantle"
 }

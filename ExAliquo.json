@@ -29,6 +29,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "9d67df1467a001db9527e5205d16d620",
             "name": "0.7",
@@ -61,6 +62,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "f0506b6092aad06d2080e024fb96d83b",
             "name": "0.7.1",
@@ -93,6 +95,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "449bcebc04cfc3ef92643e0239c9fcda",
             "name": "0.7.2",
@@ -125,6 +128,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "9d3248d576ac0b993ab075a322895ce1",
             "name": "0.7.5",
@@ -157,6 +161,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "3826d311a49ff10ea0f24f2696e00d74",
             "name": "0.8",
@@ -194,6 +199,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "051deecb0682c608ea56e7674bf1bf0d",
             "name": "0.8.1",
@@ -231,6 +237,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "e2657753330cbe0e2786db01cd0cd03b",
             "name": "0.8.2",
@@ -268,6 +275,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "92912ef1956c3633feed40c9112276af",
             "name": "0.9",
@@ -325,6 +333,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "19c0297da9419cb59aceb884fde82440",
             "name": "0.9.1",
@@ -382,6 +391,7 @@
             "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.6.4"
             ],
             "md5": "aafad7b8ea23224d3cdd59fa95e98653",
             "name": "0.9.2",

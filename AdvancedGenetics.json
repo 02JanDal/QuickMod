@@ -23,6 +23,7 @@
             "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.7.2"
             ],
             "md5": "b148b83f124fd8605c6543d06954a5f2",
             "name": "1.5",
@@ -35,6 +36,7 @@
             "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.7.2"
             ],
             "md5": "f2eb3a87434d2dc5f229a57effad29a2",
             "name": "1.5.2",

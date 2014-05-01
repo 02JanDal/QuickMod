@@ -181,6 +181,19 @@
             ],
             "type": "Release",
             "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/745373"
+        },
+        {
+            "downloadType": "parallel",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "md5": "65f2499d749c18f8e9ca3b9cd0576da0",
+            "name": "2.7.9",
+            "references": [
+            ],
+            "type": "",
+            "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/788586"
         }
     ],
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded"

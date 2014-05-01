@@ -21,6 +21,7 @@
             "forgeCompat": "[10.12.0.1032,)",
             "installType": "forgeMod",
             "mcCompat": [
+                "1.7.2"
             ],
             "md5": "713be50d889a0ba386a57416bdcbcc27",
             "name": "2.1.419",

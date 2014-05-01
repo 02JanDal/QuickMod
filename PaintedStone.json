@@ -9,16 +9,29 @@
     "description": "This is just a little mod I whipped up to make colored stone in the world. There's no crafting and no worldgen; all you do is right-click on stone type blocks with some dye.",
     "iconUrl": "",
     "logoUrl": "",
-    "modId": "",
+    "modId": "PaintedStone",
     "name": "Painted Stone",
     "nemName": "",
     "references": {
     },
     "tags": [
     ],
-    "uid": "",
+    "uid": "paintedstone",
     "updateUrl": "github://02JanDal@QuickMod/PaintedStone.json",
     "versions": [
+        {
+            "downloadType": "direct",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "md5": "bd565dec288726ad449aefb5f3d1948c",
+            "name": "1.7.2",
+            "references": [
+            ],
+            "type": "Release",
+            "url": "github://02JanDal@QuickMod/PaintedStone-1.7.2.jar"
+        }
     ],
     "websiteUrl": "http://www.minecraftforum.net/topic/2118351-"
 }
