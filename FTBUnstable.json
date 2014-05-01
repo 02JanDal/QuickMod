@@ -1,0 +1,124 @@
+{
+    "authors": {
+    },
+    "categories": [
+    ],
+    "description": "DO NOT USE THIS!!!!",
+    "iconUrl": "",
+    "logoUrl": "",
+    "modId": "",
+    "name": "FTBUnstable",
+    "nemName": "",
+    "references": {
+        "WayofTime.alchemicalWizardry.bloodmagic": "github://02JanDal@QuickMod/BloodMagic.json",
+        "biomesoplenty": "github://02JanDal@QuickMod/BiomesOPlenty.json",
+        "buildcraft": "github://02JanDal@QuickMod/BuildCraft.json",
+        "com.advGenetics.advancedgenetics": "github://02JanDal@QuickMod/AdvancedGenetics.json",
+        "com.thevoxelbox.voxelmap.voxelmap": "github://02JanDal@QuickMod/ZansMinimap.json",
+        "cpw.mods.compactsolars": "github://02JanDal@QuickMod/CompactSolars.json",
+        "cpw.mods.ironchest": "github://02JanDal@QuickMod/IronChests.json",
+        "ic2.core": "github://02JanDal@QuickMod/IndustrialCraft2.json",
+        "mantle": "github://02JanDal@QuickMod/Mantle.json",
+        "mcp.mobius.betterbarrels.JABBA": "github://02JanDal@QuickMod/Jabba.json",
+        "mcp.mobius.waila": "github://02JanDal@QuickMod/Waila.json",
+        "paintedstone": "github://02JanDal@QuickMod/PaintedStone.json",
+        "tconstruct": "github://02JanDal@QuickMod/TinkersConstruct.json",
+        "tmechworks": "github://02JanDal@QuickMod/TinkersMechworks.json",
+        "twilightforest": "github://02JanDal@QuickMod/TwilightForest.json"
+    },
+    "tags": [
+    ],
+    "uid": "ftb.unstable",
+    "updateUrl": "github://02JanDal/FTBUnstable.json",
+    "versions": [
+        {
+            "downloadType": "direct",
+            "forgeCompat": "(10.12.1.1060,]",
+            "installType": "configPack",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "1.0.1",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "WayofTime.alchemicalWizardry.bloodmagic",
+                    "version": "0.8.0a"
+                },
+                {
+                    "type": "depends",
+                    "uid": "biomesoplenty",
+                    "version": "2.0.0.692"
+                },
+                {
+                    "type": "depends",
+                    "uid": "buildcraft",
+                    "version": "5.0.3.61"
+                },
+                {
+                    "type": "depends",
+                    "uid": "com.advGenetics.advancedgenetics",
+                    "version": "1.5"
+                },
+                {
+                    "type": "depends",
+                    "uid": "com.thevoxelbox.voxelmap.voxelmap",
+                    "version": "1.0"
+                },
+                {
+                    "type": "depends",
+                    "uid": "cpw.mods.compactsolars",
+                    "version": "4.4.23.1"
+                },
+                {
+                    "type": "depends",
+                    "uid": "cpw.mods.ironchest",
+                    "version": "6.0.4.713"
+                },
+                {
+                    "type": "depends",
+                    "uid": "ic2.core",
+                    "version": "2.1.419"
+                },
+                {
+                    "type": "depends",
+                    "uid": "mantle",
+                    "version": "0.2.4"
+                },
+                {
+                    "type": "depends",
+                    "uid": "mcp.mobius.betterbarrels.JABBA",
+                    "version": "1.1.1"
+                },
+                {
+                    "type": "depends",
+                    "uid": "mcp.mobius.waila",
+                    "version": "1.4.5"
+                },
+                {
+                    "type": "depends",
+                    "uid": "paintedstone",
+                    "version": "1.7.2"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tconstruct",
+                    "version": "1.6.0.a7"
+                },
+                {
+                    "type": "depends",
+                    "uid": "tmechworks",
+                    "version": "0.2.4"
+                },
+                {
+                    "type": "depends",
+                    "uid": "twilightforest",
+                    "version": "2.0.2"
+                }
+            ],
+            "type": "Release",
+            "url": "github://02JanDal@QuickMod/ftbunstable_config_1.0.1.zip"
+        }
+    ],
+    "websiteUrl": ""
+}
