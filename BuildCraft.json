@@ -22,7 +22,7 @@
     "tags": [
     ],
     "uid": "buildcraft",
-    "updateUrl": "http://localhost/quickmod/BuildCraft.json",
+    "updateUrl": "github://02JanDal@QuickMod/BuildCraft.json",
     "versions": [
         {
             "downloadType": "parallel",

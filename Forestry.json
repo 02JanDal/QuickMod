@@ -18,7 +18,7 @@
     "name": "Forestry",
     "nemName": "Forestry",
     "references": {
-        "ic2.core": "http://localhost/quickmod/IndustrialCraft2.json"
+        "ic2.core": "github://02JanDal@QuickMod/IndustrialCraft2.json"
     },
     "tags": [
         "Nature"

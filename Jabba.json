@@ -20,7 +20,7 @@
     "tags": [
     ],
     "uid": "mcp.mobius.betterbarrels.JABBA",
-    "updateUrl": "http://localhost/quickmod/Jabba.json",
+    "updateUrl": "github://02JanDal@QuickMod/Jabba.json",
     "versions": [
         {
             "downloadType": "parallel",

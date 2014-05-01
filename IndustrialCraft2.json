@@ -14,7 +14,7 @@
     "tags": [
     ],
     "uid": "ic2.core",
-    "updateUrl": "http://localhost/quickmod/IndustrialCraft2.json",
+    "updateUrl": "github://02JanDal@QuickMod/IndustrialCraft2.json",
     "versions": [
         {
             "downloadType": "direct",

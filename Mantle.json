@@ -20,7 +20,7 @@
     "tags": [
     ],
     "uid": "",
-    "updateUrl": "http://localhost/quickmod/Mantle.json",
+    "updateUrl": "github://02JanDal@QuickMod/Mantle.json",
     "versions": [
     ],
     "websiteUrl": "http://www.curse.com/mc-mods/minecraft/mantle"

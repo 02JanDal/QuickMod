@@ -14,7 +14,7 @@
     "tags": [
     ],
     "uid": "com.thevoxelbox.voxelmap.voxelmap",
-    "updateUrl": "http://localhost/quickmod/ZansMinimap.json",
+    "updateUrl": "github://02JanDal@QuickMod/ZansMinimap.json",
     "versions": [
         {
             "downloadType": "parallel",

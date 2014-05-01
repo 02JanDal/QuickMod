@@ -14,7 +14,7 @@
     "tags": [
     ],
     "uid": "twilightforest.TwilightForest",
-    "updateUrl": "http://localhost/quickmod/TwilightForest.json",
+    "updateUrl": "github://02JanDal@QuickMod/TwilightForest.json",
     "versions": [
         {
             "downloadType": "direct",

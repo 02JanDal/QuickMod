@@ -20,7 +20,7 @@
     "tags": [
     ],
     "uid": "tmechworks.TMechworks",
-    "updateUrl": "http://localhost/quickmod/TinkersMechworks.json",
+    "updateUrl": "github://02JanDal@QuickMod/TinkersMechworks.json",
     "versions": [
         {
             "downloadType": "parallel",

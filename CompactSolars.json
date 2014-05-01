@@ -13,12 +13,12 @@
     "name": "CompactSolars",
     "nemName": "CompactSolars",
     "references": {
-        "ic2.core": "http://localhost/quickmod/IndustrialCraft2.json"
+        "ic2.core": "github://02JanDal@QuickMod/IndustrialCraft2.json"
     },
     "tags": [
     ],
     "uid": "cpw.mods.compactsolars",
-    "updateUrl": "http://localhost/quickmod/CompactSolars.json",
+    "updateUrl": "github://02JanDal@QuickMod/CompactSolars.json",
     "versions": [
         {
             "downloadType": "direct",

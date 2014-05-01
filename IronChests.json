@@ -20,7 +20,7 @@
     "tags": [
     ],
     "uid": "cpw.mods.ironchest.IronChest",
-    "updateUrl": "http://localhost/quickmod/IronChests.json",
+    "updateUrl": "github://02JanDal@QuickMod/IronChests.json",
     "versions": [
         {
             "downloadType": "direct",
