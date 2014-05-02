@@ -55,7 +55,7 @@
         },
         {
             "uid": "ftb.unstable",
-            "url": "github://02JanDal/FTBUnstable.json"
+            "url": "FTBUnstable.json"
         },
         {
             "uid": "ic2.core",
