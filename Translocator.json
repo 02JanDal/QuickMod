@@ -16,6 +16,7 @@
     "references": {
         "codechicken.core": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
         "Item Transportation"
     ],

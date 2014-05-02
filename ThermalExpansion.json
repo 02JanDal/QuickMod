@@ -18,6 +18,7 @@
         "cofh.core": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json",
         "ic2.core.IC2": "github://02JanDal@QuickMod/IndustrialCraft2.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
         "Automation"
     ],

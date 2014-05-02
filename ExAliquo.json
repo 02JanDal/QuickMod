@@ -19,6 +19,7 @@
         "powercrystals.minefactoryreloaded": "https://raw.github.com/02JanDal/QuickMod/master/MineFactoryReloaded.json",
         "tconstruct": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
         "Skyblock"
     ],

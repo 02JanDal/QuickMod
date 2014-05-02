@@ -19,6 +19,7 @@
         "codechicken.nei": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json",
         "forestry": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
         "Client",
         "GUI"

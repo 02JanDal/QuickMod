@@ -17,6 +17,7 @@
     "references": {
         "powercrystals.core": "https://raw.github.com/02JanDal/QuickMod/master/PowerCrystalsCore.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
     ],
     "uid": "powercrystals.minefactoryreloaded",

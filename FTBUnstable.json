@@ -26,6 +26,7 @@
         "tmechworks": "github://02JanDal@QuickMod/TinkersMechworks.json",
         "twilightforest": "github://02JanDal@QuickMod/TwilightForest.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
     ],
     "uid": "ftb.unstable",

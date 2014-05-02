@@ -17,6 +17,7 @@
     "references": {
         "codechicken.lib": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenLib.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
         "API"
     ],

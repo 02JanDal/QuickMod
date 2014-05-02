@@ -15,6 +15,7 @@
     "references": {
         "ic2.core": "github://02JanDal@QuickMod/IndustrialCraft2.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
     ],
     "uid": "cpw.mods.compactsolars",

@@ -17,6 +17,7 @@
     "references": {
         "tconstruct": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
     ],
     "uid": "tmechworks",

@@ -17,6 +17,7 @@
         "codechicken.nei": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json",
         "mcp.mobius.waila": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
     ],
     "uid": "mcp.mobius.betterbarrels.JABBA",

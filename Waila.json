@@ -17,6 +17,7 @@
     "references": {
         "codechicken.nei": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
     },
+    "repo": "02JanDal.Testing",
     "tags": [
         "Client",
         "GUI"
