@@ -1,5 +1,8 @@
 {
     "authors": {
+        "Developer": [
+            "ChickenBones"
+        ]
     },
     "categories": [
         "Library"
@@ -14,6 +17,7 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "API"
     ],
     "uid": "codechicken.lib",
     "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenLib.json",

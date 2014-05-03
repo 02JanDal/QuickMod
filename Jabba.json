@@ -7,9 +7,9 @@
     "categories": [
         "Storage"
     ],
-    "description": "",
+    "description": "Jabba (Just Another Better Barrel Attempt) is a storage mod aiming at making a better barrel than what is already out there. It introduces one block (the barrel itself), a set of upgrades and a dolly to move things around.",
     "iconUrl": "http://media-curse.cursecdn.com/attachments/104/377/bd2a6a68921d89885b89e786e56e302d.png",
-    "logoUrl": "",
+    "logoUrl": "http://media-curse.cursecdn.com/avatars/thumbnails/92/221/32/32/JABBA_3D.png",
     "modId": "JABBA",
     "name": "Jabba",
     "nemName": "Jabba",
@@ -19,6 +19,7 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "Storage"
     ],
     "uid": "mcp.mobius.betterbarrels.JABBA",
     "updateUrl": "github://02JanDal@QuickMod/Jabba.json",

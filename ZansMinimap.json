@@ -2,10 +2,11 @@
     "authors": {
     },
     "categories": [
+        "Overlay"
     ],
     "description": "",
     "iconUrl": "",
-    "logoUrl": "",
+    "logoUrl": "http://static.planetminecraft.com/files/resource_media/screenshot/1244/radar_3468641.jpg",
     "modId": "voxelmap",
     "name": "ZansMinimap",
     "nemName": "VoxelMap",
@@ -13,6 +14,8 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "Client",
+        "Minimap"
     ],
     "uid": "com.thevoxelbox.voxelmap.voxelmap",
     "updateUrl": "github://02JanDal@QuickMod/ZansMinimap.json",

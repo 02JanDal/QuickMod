@@ -5,10 +5,11 @@
         ]
     },
     "categories": [
+        "Generic"
     ],
     "description": "This is just a little mod I whipped up to make colored stone in the world. There's no crafting and no worldgen; all you do is right-click on stone type blocks with some dye.",
     "iconUrl": "",
-    "logoUrl": "",
+    "logoUrl": "http://i.imgur.com/O3Nc8nY.png",
     "modId": "PaintedStone",
     "name": "Painted Stone",
     "nemName": "",
@@ -16,6 +17,7 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "Astetic"
     ],
     "uid": "paintedstone",
     "updateUrl": "github://02JanDal@QuickMod/PaintedStone.json",

@@ -5,10 +5,11 @@
         ]
     },
     "categories": [
+        "Tech"
     ],
     "description": "This is a clean rewrite of the Compact Solar Arrays from Advanced Machines, using pure IC2 API. It's also a darn sight more CPU efficient.",
-    "iconUrl": "",
-    "logoUrl": "",
+    "iconUrl": "http://ftbwiki.org/images/thumb/9/9e/Block_Medium_Voltage_Solar_Array.png/128px-Block_Medium_Voltage_Solar_Array.png",
+    "logoUrl": "http://i.imgur.com/BHYZl.png",
     "modId": "CompactSolars",
     "name": "CompactSolars",
     "nemName": "CompactSolars",
@@ -17,6 +18,8 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "Power",
+        "Environmental"
     ],
     "uid": "cpw.mods.compactsolars",
     "updateUrl": "github://02JanDal@QuickMod/CompactSolars.json",

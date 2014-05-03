@@ -1,11 +1,16 @@
 {
     "authors": {
+        "Creator": [
+            "FTB Team"
+        ]
     },
     "categories": [
+        "FTB",
+        "Modpack"
     ],
-    "description": "DO NOT USE THIS!!!!",
-    "iconUrl": "",
-    "logoUrl": "",
+    "description": "Do not report issues to the FTB team. This is only a proof of concept and is likely to simply not work.",
+    "iconUrl": "https://feedthebeast.atlassian.net/wiki/download/attachments/9109576/17_Panel%20copy%20%281%29.png?version=1&modificationDate=1394241635572&api=v2",
+    "logoUrl": "https://feedthebeast.atlassian.net/wiki/download/attachments/9109576/17_Panel%20copy%20%281%29.png?version=1&modificationDate=1394241635572&api=v2",
     "modId": "",
     "name": "FTB Unstable",
     "nemName": "",
@@ -121,5 +126,5 @@
             "url": "github://02JanDal@QuickMod/ftbunstable_config_1.0.1.zip"
         }
     ],
-    "websiteUrl": ""
+    "websiteUrl": "http://feed-the-beast.com/"
 }

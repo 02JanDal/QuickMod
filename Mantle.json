@@ -9,9 +9,9 @@
         "API",
         "Library"
     ],
-    "description": "",
+    "description": "This contains shared code for Forge mods and is used by the Slime Knights. Descriptive book code and common inventories are found here.",
     "iconUrl": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png",
-    "logoUrl": "",
+    "logoUrl": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png",
     "modId": "Mantle",
     "name": "Mantle",
     "nemName": "Mantle",
@@ -19,6 +19,7 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "API"
     ],
     "uid": "mantle",
     "updateUrl": "github://02JanDal@QuickMod/Mantle.json",

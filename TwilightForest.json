@@ -2,10 +2,11 @@
     "authors": {
     },
     "categories": [
+        "Magic"
     ],
     "description": "Imagine stepping through a portal into a twilight realm, filled with trees as far as they eye can see.  Breathtaking vistas and amazing discoveries await you around every corner.  But beware!  Not all denizens of the forest respond to your intrusion lightly.",
-    "iconUrl": "",
-    "logoUrl": "",
+    "iconUrl": "http://twilightforest.wikispaces.com/file/view/Item_Minotaur_Axe.png/413326414/100x100/Item_Minotaur_Axe.png",
+    "logoUrl": "http://www.minecraftings.com/wp-content/uploads/2012/12/the-twilight-forest-mod.jpg",
     "modId": "TwilightForest",
     "name": "TwilightForest",
     "nemName": "TwilightForest",
@@ -13,6 +14,7 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "Exploration"
     ],
     "uid": "twilightforest",
     "updateUrl": "github://02JanDal@QuickMod/TwilightForest.json",

@@ -2,10 +2,11 @@
     "authors": {
     },
     "categories": [
+        "Tech"
     ],
     "description": "Highly Experimental - Use @ Own Risk",
-    "iconUrl": "",
-    "logoUrl": "",
+    "iconUrl": "http://ftbwiki.org/images/thumb/7/73/Block_Nuke.png/128px-Block_Nuke.png",
+    "logoUrl": "http://cdn26.atwikiimg.com/minecraft/?plugin=ref&serial=2527",
     "modId": "IC2",
     "name": "IndustrialCraft2",
     "nemName": "IndustrialCraft2-EXP",
@@ -13,6 +14,9 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "Power",
+        "Processing",
+        "EU"
     ],
     "uid": "ic2.core",
     "updateUrl": "github://02JanDal@QuickMod/IndustrialCraft2.json",
@@ -32,5 +36,5 @@
             "url": "http://ic2api.player.to:8080/job/IC2_experimental/419/artifact/packages/industrialcraft-2_2.1.419-experimental.jar"
         }
     ],
-    "websiteUrl": ""
+    "websiteUrl": "http://wiki.industrial-craft.net/index.php?title=Main_Page"
 }

@@ -8,10 +8,11 @@
         ]
     },
     "categories": [
+        "Generic"
     ],
     "description": "Iron Chest minecraft mod by CPW",
-    "iconUrl": "",
-    "logoUrl": "",
+    "iconUrl": "http://img1.wikia.nocookie.net/__cb20140226023309/businesselite/images/5/53/64px-Iron_Chest.png",
+    "logoUrl": "http://2.bp.blogspot.com/-zs9ma15f6zw/Uy3DqfPGh0I/AAAAAAAAEO8/cymcIRnlQKs/s1600/iron+chests+dirt+iron+gold+diamond+silver+crystal+cooper+obsidian.png",
     "modId": "IronChest",
     "name": "IronChests",
     "nemName": "IronChests",
@@ -19,6 +20,7 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "Storage"
     ],
     "uid": "cpw.mods.ironchest",
     "updateUrl": "github://02JanDal@QuickMod/IronChests.json",
@@ -5650,5 +5652,5 @@
             "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.702.zip"
         }
     ],
-    "websiteUrl": ""
+    "websiteUrl": "mcf://981855"
 }

@@ -5,10 +5,11 @@
         ]
     },
     "categories": [
+        "Biology"
     ],
     "description": "A mod created by ObsiLP which adds Genetic-Science to Minecraft.",
-    "iconUrl": "",
-    "logoUrl": "",
+    "iconUrl": "http://teamdna.humbook.info/advgen/images/favico_advgen.png",
+    "logoUrl": "http://teamdna.humbook.info/advgen/wiki/mc17/images/logo.png",
     "modId": "advancedgenetics",
     "name": "Advanced Genetics",
     "nemName": "AdvancedGenetics",
@@ -16,6 +17,7 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "DNA"
     ],
     "uid": "com.advGenetics.advancedgenetics",
     "updateUrl": "github://02JanDal@QuickMod/AdvancedGenetics.json",

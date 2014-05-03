@@ -11,9 +11,9 @@
         "Ores",
         "Resources"
     ],
-    "description": "",
+    "description": "<p><strong><span style=\"font-size:184.6%\">Pipes</span></strong><br/>The major feature of BuildCraft is the pipes. Pipes are used to transport items, fluids, and mechanical energy between inventories/machines. There are many different types of pipes all with unique functions, including Wooden, Cobblestone, Stone, Sandstone, Iron, Gold, Diamond, Emerald and Obsidian. Pipes can be combined with Pipe Sealant to allow them to make Fluid Pipes that can transport liquids or with Redstone to make Kinesis Pipes to allow them to transport mechanical energy.</p><p><strong><span style=\"font-size:184.6%\">Machines</span></strong><br/>In BuildCraft, there are a variety of machines that can be used to automate processes. They all require BuildCraft power to function, provided by one or more engines.</p><ul><li>Quarry: This machine will mine an area down until it reaches lava or bedrock.</li><li>Mining Well: This machine will dig straight down until it reaches lava or bedrock. It is used in the making of a Pump.</li><li>Pump: This machine will pump liquids and transport them through waterproof pipes.</li><li>Auto Workbench: This machine, when supplied a recipe and ingredients, will pump out crafted items.</li><li>Refinery: This machine, when powered by a Stirling Engine or better, will slowly convert Oil into Fuel, which is much more efficient for powering combustion engines than crude Oil.</li><li>Tank: A simple stackable tank rather than a machine, it can store liquids, including lava, water, oil , and fuel.</li></ul>",
     "iconUrl": "http://media-curse.cursecdn.com/attachments/93/564/ce4531a2748571aac391961aa0b12d03.png",
-    "logoUrl": "",
+    "logoUrl": "http://ftbwiki.org/images/thumb/0/07/Block_Pump_%28BuildCraft%29.png/128px-Block_Pump_%28BuildCraft%29.png",
     "modId": "BuildCraft|Core",
     "name": "BuildCraft",
     "nemName": "BuildCraft",
@@ -21,6 +21,9 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "Pipes",
+        "Processing",
+        "Automation"
     ],
     "uid": "buildcraft",
     "updateUrl": "github://02JanDal@QuickMod/BuildCraft.json",
