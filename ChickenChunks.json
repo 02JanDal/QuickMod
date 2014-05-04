@@ -18,10 +18,10 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
-        "Chunkloaders"
+        ""
     ],
     "uid": "codechicken.chunkloader",
-    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ChickenChunks.json",
+    "updateUrl": "github://02JanDal@QuickMod/ChickenChunks.json",
     "versions": [
         {
             "downloadType": "direct",
@@ -114,5 +114,5 @@
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/ChickenChunks%201.3.3.1.jar"
         }
     ],
-    "websiteUrl": "http://www.minecraftforum.net/topic/909223-"
+    "websiteUrl": "mcf://909223"
 }

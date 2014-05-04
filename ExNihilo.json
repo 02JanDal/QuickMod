@@ -18,10 +18,10 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
-        "Skyblock"
+        ""
     ],
     "uid": "exnihilo",
-    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ExNihilo.json",
+    "updateUrl": "github://02JanDal@QuickMod/ExNihilo.json",
     "versions": [
         {
             "downloadType": "parallel",
@@ -37,5 +37,5 @@
             "url": "http://www.mediafire.com/download/4p4p82lngmg8iri/crowley-skyblock-v1.28.jar"
         }
     ],
-    "websiteUrl": "http://www.minecraftforum.net/topic/1981778-"
+    "websiteUrl": "mcf://1981778"
 }

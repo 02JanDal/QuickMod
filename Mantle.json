@@ -6,7 +6,6 @@
         ]
     },
     "categories": [
-        "API",
         "Library"
     ],
     "description": "This contains shared code for Forge mods and is used by the Slime Knights. Descriptive book code and common inventories are found here.",
@@ -38,5 +37,5 @@
             "url": "https://raw.github.com/02JanDal/QuickMod/master/Mantle-1.7.2-0.2.6.jar"
         }
     ],
-    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/mantle"
+    "websiteUrl": "curse://mantle"
 }

@@ -5,8 +5,7 @@
         ]
     },
     "categories": [
-        "Util",
-        "API"
+        "GUI"
     ],
     "description": "<ul><li>Shows where a mod is from in inventory tooltip by just hovering it.</li><li>Shows a nice hud tooltip to tell you what block you are looking at.</li><li>Some more data can be added to the tooltips using a stable API. Around 15 major mods already supported, many more to come.</li><li>The hud tooltip will also show you liquids and entities.</li><li>The hud is completly configurable (position, transparency, scaling, lines to show).</li><li>Tagging of all keybinds with the mod adding them (no more figuring out what key does what).</li><li>Direct call to NEI when you are looking at a block ingame (Keybind 3 and 4). It will display the recipes/usages directly without having to use the inventory.</li><li>Callable list of enchants from NEI (press I while hovering an item). The list will show what mod adds an enchant so you can look it up on the internet.</li></ul>",
     "iconUrl": "",
@@ -19,11 +18,10 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
-        "Client",
-        "GUI"
+        "Client"
     ],
     "uid": "mcp.mobius.waila",
-    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json",
+    "updateUrl": "github://02JanDal@QuickMod/Waila.json",
     "versions": [
         {
             "downloadType": "sequential",

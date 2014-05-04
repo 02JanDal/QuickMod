@@ -5,7 +5,6 @@
         ]
     },
     "categories": [
-        "Magic",
         "Tech"
     ],
     "description": "requires CodeChickenCore",
@@ -19,10 +18,10 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
-        ""
+        "Storage"
     ],
     "uid": "codechicken.enderstorage",
-    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/EnderStorage.json",
+    "updateUrl": "github://02JanDal@QuickMod/EnderStorage.json",
     "versions": [
         {
             "downloadType": "direct",
@@ -115,5 +114,5 @@
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/EnderStorage%201.4.3.2.jar"
         }
     ],
-    "websiteUrl": "http://www.minecraftforum.net/topic/909223-"
+    "websiteUrl": "mcf://909223"
 }

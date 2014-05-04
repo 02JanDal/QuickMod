@@ -6,7 +6,7 @@
         ]
     },
     "categories": [
-        "Tinker's Construct"
+        "Tech"
     ],
     "description": "Mechworks is an addon for Tinkers' Construct with some interesting mechanical tidbits.",
     "iconUrl": "http://media-curse.cursecdn.com/attachments/109/596/d3ad54d84435d62c107b8264ce4e816a.png",
@@ -42,5 +42,5 @@
             "url": "http://curse.com/mc-mods/minecraft/tinkers-mechworks/784610"
         }
     ],
-    "websiteUrl": "http://www.curse.com/mc-mods/minecraft/tinkers-mechworks"
+    "websiteUrl": "curse://tinkers-mechworks"
 }

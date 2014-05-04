@@ -5,7 +5,6 @@
         ]
     },
     "categories": [
-        "FTB",
         "Modpack"
     ],
     "description": "Do not report issues to the FTB team. This is only a proof of concept and is likely to simply not work.",
@@ -33,6 +32,7 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
+        "FTB"
     ],
     "uid": "ftb.unstable",
     "updateUrl": "github://02JanDal@QuickMod/FTBUnstable.json",

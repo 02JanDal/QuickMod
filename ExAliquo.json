@@ -5,7 +5,8 @@
         ]
     },
     "categories": [
-        "Addon"
+        "Skyblock",
+        "Compat"
     ],
     "description": "In the beginning, there was nothing. Nothing but a tree, some dirt, a prayer, and lots of deaths to the void. And then, From Nothing, came Ex Nihilo. Ex Nihilo served as a bridge between boring cobblestone structures and epic, grandeur designs that allowed builds over nothingness with everything. And then, nothing gave way to something, and ores of unknown origin came into being, as well as giant chickens. But not everything could find a home within the nothing, but there was always something ready to give them that push to join the blocks in the sky! That something is Ex Aliquo!The first time I saw Ex Nihilo, I loved it. I was never really a fan of skyblock outside of mods, but Nihilo is that perfect bridge between vanilla skyblock and modded wonders. But it was missing something. What is that something, you might ask? MORE MODS! So from the void and the wonders of Ex Nihilo, I have brought you many somethings!",
     "iconUrl": "http://img2.wikia.nocookie.net/__cb20140403042144/ex-nihilo-minecraft/images/2/28/CrookReed.png",
@@ -21,10 +22,10 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
-        "Skyblock"
+        "Ex Nihilo"
     ],
     "uid": "exaliquo",
-    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/ExAliquo.json",
+    "updateUrl": "github://02JanDal@QuickMod/ExAliquo.json",
     "versions": [
         {
             "downloadType": "direct",
@@ -457,5 +458,5 @@
             "url": "https://dl.dropboxusercontent.com/s/kpvntobjm6gbx9b/exaliquo_0.9.2.zip?dl=1"
         }
     ],
-    "websiteUrl": "http://www.minecraftforum.net/topic/2391195-"
+    "websiteUrl": "mcf://2391195"
 }

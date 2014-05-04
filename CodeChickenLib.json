@@ -17,10 +17,10 @@
     },
     "repo": "02JanDal.Testing",
     "tags": [
-        "API"
+        "CCL"
     ],
     "uid": "codechicken.lib",
-    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenLib.json",
+    "updateUrl": "github://02JanDal@QuickMod/CodeChickenLib.json",
     "versions": [
         {
             "downloadType": "direct",

@@ -21,7 +21,7 @@
         "Item Transportation"
     ],
     "uid": "codechicken.translocator",
-    "updateUrl": "https://raw.github.com/02JanDal/QuickMod/master/Translocator.json",
+    "updateUrl": "github://02JanDal@QuickMod/Translocator.json",
     "versions": [
         {
             "downloadType": "sequential",
@@ -132,5 +132,5 @@
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/Translocator%201.1.0.14.jar"
         }
     ],
-    "websiteUrl": "http://www.minecraftforum.net/topic/909223-"
+    "websiteUrl": "mcf://909223"
 }
