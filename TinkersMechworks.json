@@ -9,8 +9,7 @@
         "Tech"
     ],
     "description": "Mechworks is an addon for Tinkers' Construct with some interesting mechanical tidbits.",
-    "iconUrl": "http://media-curse.cursecdn.com/attachments/109/596/d3ad54d84435d62c107b8264ce4e816a.png",
-    "logoUrl": "http://ftbwiki.org/images/thumb/0/0a/Block_Drawbridge.png/128px-Block_Drawbridge.png",
+    "license": "",
     "modId": "TMechworks",
     "name": "Tinker's Mechworks",
     "nemName": "Mechworks",
@@ -22,6 +21,20 @@
     ],
     "uid": "tmechworks",
     "updateUrl": "github://02JanDal@QuickMod/TinkersMechworks.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://media-curse.cursecdn.com/attachments/109/596/d3ad54d84435d62c107b8264ce4e816a.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://ftbwiki.org/images/thumb/0/0a/Block_Drawbridge.png/128px-Block_Drawbridge.png"
+        },
+        {
+            "type": "website",
+            "url": "curse://tinkers-mechworks"
+        }
+    ],
     "versions": [
         {
             "downloadType": "parallel",
@@ -41,6 +54,5 @@
             "type": "",
             "url": "http://curse.com/mc-mods/minecraft/tinkers-mechworks/784610"
         }
-    ],
-    "websiteUrl": "curse://tinkers-mechworks"
+    ]
 }

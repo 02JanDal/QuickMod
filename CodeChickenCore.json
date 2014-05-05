@@ -8,8 +8,7 @@
         "Library"
     ],
     "description": "This is just a library of classes that all my mods use. You need to install this if you are going to install any of my mods.",
-    "iconUrl": "",
-    "logoUrl": "",
+    "license": "",
     "modId": "CodeChickenCore",
     "name": "CodeChickenCore",
     "nemName": "CodeChickenCore",
@@ -22,6 +21,20 @@
     ],
     "uid": "codechicken.core",
     "updateUrl": "github://02JanDal@QuickMod/CodeChickenCore.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": ""
+        },
+        {
+            "type": "logo",
+            "url": ""
+        },
+        {
+            "type": "website",
+            "url": "mcf://909223"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -159,6 +172,5 @@
             "type": "Release",
             "url": "http://adf.ly/hngBd"
         }
-    ],
-    "websiteUrl": "mcf://909223"
+    ]
 }

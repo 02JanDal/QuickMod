@@ -8,8 +8,7 @@
         "Tech"
     ],
     "description": "Requires CodeChickenCore",
-    "iconUrl": "http://minecraftvip.com/wp-content/uploads/2013/10/Minecraft3054.jpg",
-    "logoUrl": "http://minecraftvip.com/wp-content/uploads/2013/10/Minecraft3054.jpg",
+    "license": "",
     "modId": "Translocator",
     "name": "Translocator",
     "nemName": "Translocator",
@@ -22,6 +21,20 @@
     ],
     "uid": "codechicken.translocator",
     "updateUrl": "github://02JanDal@QuickMod/Translocator.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://minecraftvip.com/wp-content/uploads/2013/10/Minecraft3054.jpg"
+        },
+        {
+            "type": "logo",
+            "url": "http://minecraftvip.com/wp-content/uploads/2013/10/Minecraft3054.jpg"
+        },
+        {
+            "type": "website",
+            "url": "mcf://909223"
+        }
+    ],
     "versions": [
         {
             "downloadType": "sequential",
@@ -131,6 +144,5 @@
             "type": "Release",
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/Translocator%201.1.0.14.jar"
         }
-    ],
-    "websiteUrl": "mcf://909223"
+    ]
 }

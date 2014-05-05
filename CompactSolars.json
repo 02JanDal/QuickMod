@@ -8,8 +8,7 @@
         "Tech"
     ],
     "description": "This is a clean rewrite of the Compact Solar Arrays from Advanced Machines, using pure IC2 API. It's also a darn sight more CPU efficient.",
-    "iconUrl": "http://ftbwiki.org/images/thumb/9/9e/Block_Medium_Voltage_Solar_Array.png/128px-Block_Medium_Voltage_Solar_Array.png",
-    "logoUrl": "http://i.imgur.com/BHYZl.png",
+    "license": "",
     "modId": "CompactSolars",
     "name": "CompactSolars",
     "nemName": "CompactSolars",
@@ -23,6 +22,20 @@
     ],
     "uid": "cpw.mods.compactsolars",
     "updateUrl": "github://02JanDal@QuickMod/CompactSolars.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://ftbwiki.org/images/thumb/9/9e/Block_Medium_Voltage_Solar_Array.png/128px-Block_Medium_Voltage_Solar_Array.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://i.imgur.com/BHYZl.png"
+        },
+        {
+            "type": "website",
+            "url": "http://forum.industrial-craft.net/?page=Thread&threadID=4827"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -4983,6 +4996,5 @@
             "type": "Release",
             "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.9.112.zip"
         }
-    ],
-    "websiteUrl": "http://forum.industrial-craft.net/?page=Thread&threadID=4827"
+    ]
 }

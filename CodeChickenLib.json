@@ -8,8 +8,7 @@
         "Library"
     ],
     "description": "",
-    "iconUrl": "",
-    "logoUrl": "",
+    "license": "",
     "modId": "",
     "name": "CodeChickenLib",
     "nemName": "",
@@ -21,6 +20,20 @@
     ],
     "uid": "codechicken.lib",
     "updateUrl": "github://02JanDal@QuickMod/CodeChickenLib.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": ""
+        },
+        {
+            "type": "logo",
+            "url": ""
+        },
+        {
+            "type": "website",
+            "url": ""
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -685,6 +698,5 @@
             "type": "Release",
             "url": "http://files.minecraftforge.net/CodeChickenLib/CodeChickenLib-universal-1.6.2-1.0.0.9.jar"
         }
-    ],
-    "websiteUrl": ""
+    ]
 }

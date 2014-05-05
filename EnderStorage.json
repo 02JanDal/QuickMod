@@ -8,8 +8,7 @@
         "Tech"
     ],
     "description": "requires CodeChickenCore",
-    "iconUrl": "http://images3.wikia.nocookie.net/__cb20121011012436/thetekkit/images/f/f0/Ender_Chest.png",
-    "logoUrl": "http://i1.ytimg.com/vi/UW4C9lQwD1E/maxresdefault.jpg",
+    "license": "",
     "modId": "EnderStorage",
     "name": "EnderStorage",
     "nemName": "EnderStorage",
@@ -22,6 +21,20 @@
     ],
     "uid": "codechicken.enderstorage",
     "updateUrl": "github://02JanDal@QuickMod/EnderStorage.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://images3.wikia.nocookie.net/__cb20121011012436/thetekkit/images/f/f0/Ender_Chest.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://i1.ytimg.com/vi/UW4C9lQwD1E/maxresdefault.jpg"
+        },
+        {
+            "type": "website",
+            "url": "mcf://909223"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -113,6 +126,5 @@
             "type": "Release",
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/EnderStorage%201.4.3.2.jar"
         }
-    ],
-    "websiteUrl": "mcf://909223"
+    ]
 }

@@ -11,8 +11,7 @@
         "WorldGen"
     ],
     "description": "Biomes O' Plenty is a mod that is designed to give players a better Minecraft world to explore, and more of a reason to explore it in the first place. There are a lot of realistic biomes, some fantasy biomes, and other cool things we've added to the mod.\n\n\nThere are other features in the mod as well, such as different tool tiers, a new tool called the Scythe, which is used to clear grass, leaves, and other plants quickly, and some other cool features that tie in with other things in the mod, like the blow dart.\n------------\nIt also adds custom achievements, all of which are just picking up blocks from certain biomes, like red rock, glowflower, etc. There's also a set of \"Biome Finder\" achievements that you get for entering all of the different biomes. They're just meant to give people more of a reason to explore and have fun.\n\n\nVillage generation has been changed to allow villages to spawn in most relatively flat and realistic biomes (No fantasy biomes). The biomes villages can generate in is completely configurable, as well as the distance between villages. However, the distance between villages is only affected in the Biomes O' Plenty world type. The villages also use different materials for buildings depending on the biome.\n\n\nEmerald ore and the new gems can be found in the following biome types. Note, it doesn't apply to EVERY biome in that category.\n\n\nEmerald - Forest/Mountain-based biomes\nRuby - Desert-based biomes\nPeridot - Grassland-based biomes\nTopaz - Jungle/Tropical-based biomes\nTanzanite - Snow-based biomes\nApatite - Swamp-based biomes\nSapphire - Water-based biomes\n\nHorses also spawn in grassland-like biomes, such as the Orchard and Meadow, as well as some other temperate biomes like the Lush Desert.",
-    "iconUrl": "http://ftbwiki.org/images/8/88/Item_Apatite_%28Biomes_O%27_Plenty%29.png",
-    "logoUrl": "http://www.minecraftmods.com/wp-content/uploads/2013/07/biomes1.jpg",
+    "license": "",
     "modId": "BiomesOPlenty",
     "name": "Biomes O' Plenty",
     "nemName": "BiomesOPlenty",
@@ -24,6 +23,20 @@
     ],
     "uid": "biomesoplenty",
     "updateUrl": "github://02JanDal@QuickMod/BiomesOPlenty.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://ftbwiki.org/images/8/88/Item_Apatite_%28Biomes_O%27_Plenty%29.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://www.minecraftmods.com/wp-content/uploads/2013/07/biomes1.jpg"
+        },
+        {
+            "type": "website",
+            "url": "http://www.minecraftforge.net/forum/index.php/topic,13244.0.html"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -5293,6 +5306,5 @@
             "type": "Release",
             "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.7.2-2.0.0.579.jar"
         }
-    ],
-    "websiteUrl": "http://www.minecraftforge.net/forum/index.php/topic,13244.0.html"
+    ]
 }

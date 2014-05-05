@@ -8,8 +8,7 @@
         "Generic"
     ],
     "description": "Jabba (Just Another Better Barrel Attempt) is a storage mod aiming at making a better barrel than what is already out there. It introduces one block (the barrel itself), a set of upgrades and a dolly to move things around.",
-    "iconUrl": "http://media-curse.cursecdn.com/attachments/104/377/bd2a6a68921d89885b89e786e56e302d.png",
-    "logoUrl": "http://media-curse.cursecdn.com/avatars/thumbnails/92/221/32/32/JABBA_3D.png",
+    "license": "",
     "modId": "JABBA",
     "name": "Jabba",
     "nemName": "Jabba",
@@ -23,6 +22,20 @@
     ],
     "uid": "mcp.mobius.betterbarrels.JABBA",
     "updateUrl": "github://02JanDal@QuickMod/Jabba.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://media-curse.cursecdn.com/attachments/104/377/bd2a6a68921d89885b89e786e56e302d.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://media-curse.cursecdn.com/avatars/thumbnails/92/221/32/32/JABBA_3D.png"
+        },
+        {
+            "type": "website",
+            "url": "curse://jabba"
+        }
+    ],
     "versions": [
         {
             "downloadType": "parallel",
@@ -116,6 +129,5 @@
             "type": "",
             "url": "http://curse.com/mc-mods/minecraft/jabba/772292"
         }
-    ],
-    "websiteUrl": "curse://jabba"
+    ]
 }

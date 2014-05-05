@@ -5,8 +5,7 @@
         "Tech"
     ],
     "description": "Highly Experimental - Use @ Own Risk",
-    "iconUrl": "http://ftbwiki.org/images/thumb/7/73/Block_Nuke.png/128px-Block_Nuke.png",
-    "logoUrl": "http://cdn26.atwikiimg.com/minecraft/?plugin=ref&serial=2527",
+    "license": "",
     "modId": "IC2",
     "name": "IndustrialCraft2",
     "nemName": "IndustrialCraft2-EXP",
@@ -20,6 +19,20 @@
     ],
     "uid": "ic2.core",
     "updateUrl": "github://02JanDal@QuickMod/IndustrialCraft2.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://ftbwiki.org/images/thumb/7/73/Block_Nuke.png/128px-Block_Nuke.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://cdn26.atwikiimg.com/minecraft/?plugin=ref&serial=2527"
+        },
+        {
+            "type": "website",
+            "url": "http://wiki.industrial-craft.net/index.php?title=Main_Page"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -35,6 +48,5 @@
             "type": "Release",
             "url": "http://ic2api.player.to:8080/job/IC2_experimental/419/artifact/packages/industrialcraft-2_2.1.419-experimental.jar"
         }
-    ],
-    "websiteUrl": "http://wiki.industrial-craft.net/index.php?title=Main_Page"
+    ]
 }

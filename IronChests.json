@@ -11,8 +11,7 @@
         "Generic"
     ],
     "description": "Iron Chest minecraft mod by CPW",
-    "iconUrl": "http://img1.wikia.nocookie.net/__cb20140226023309/businesselite/images/5/53/64px-Iron_Chest.png",
-    "logoUrl": "http://2.bp.blogspot.com/-zs9ma15f6zw/Uy3DqfPGh0I/AAAAAAAAEO8/cymcIRnlQKs/s1600/iron+chests+dirt+iron+gold+diamond+silver+crystal+cooper+obsidian.png",
+    "license": "",
     "modId": "IronChest",
     "name": "IronChests",
     "nemName": "IronChests",
@@ -24,6 +23,20 @@
     ],
     "uid": "cpw.mods.ironchest",
     "updateUrl": "github://02JanDal@QuickMod/IronChests.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://img1.wikia.nocookie.net/__cb20140226023309/businesselite/images/5/53/64px-Iron_Chest.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://2.bp.blogspot.com/-zs9ma15f6zw/Uy3DqfPGh0I/AAAAAAAAEO8/cymcIRnlQKs/s1600/iron+chests+dirt+iron+gold+diamond+silver+crystal+cooper+obsidian.png"
+        },
+        {
+            "type": "website",
+            "url": "mcf://981855"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -5651,6 +5664,5 @@
             "type": "",
             "url": "http://files.minecraftforge.net/IronChests2/ironchest-universal-1.6.4-5.4.1.702.zip"
         }
-    ],
-    "websiteUrl": "mcf://981855"
+    ]
 }

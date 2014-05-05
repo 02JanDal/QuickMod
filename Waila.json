@@ -8,8 +8,7 @@
         "GUI"
     ],
     "description": "<ul><li>Shows where a mod is from in inventory tooltip by just hovering it.</li><li>Shows a nice hud tooltip to tell you what block you are looking at.</li><li>Some more data can be added to the tooltips using a stable API. Around 15 major mods already supported, many more to come.</li><li>The hud tooltip will also show you liquids and entities.</li><li>The hud is completly configurable (position, transparency, scaling, lines to show).</li><li>Tagging of all keybinds with the mod adding them (no more figuring out what key does what).</li><li>Direct call to NEI when you are looking at a block ingame (Keybind 3 and 4). It will display the recipes/usages directly without having to use the inventory.</li><li>Callable list of enchants from NEI (press I while hovering an item). The list will show what mod adds an enchant so you can look it up on the internet.</li></ul>",
-    "iconUrl": "",
-    "logoUrl": "http://freedownloadminecraft.com/wp-content/uploads/2013/06/waila-mod3.jpg",
+    "license": "",
     "modId": "Waila",
     "name": "Waila",
     "nemName": "Waila",
@@ -22,6 +21,20 @@
     ],
     "uid": "mcp.mobius.waila",
     "updateUrl": "github://02JanDal@QuickMod/Waila.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": ""
+        },
+        {
+            "type": "logo",
+            "url": "http://freedownloadminecraft.com/wp-content/uploads/2013/06/waila-mod3.jpg"
+        },
+        {
+            "type": "website",
+            "url": "http://profmobius.blogspot.fr/"
+        }
+    ],
     "versions": [
         {
             "downloadType": "sequential",
@@ -95,6 +108,5 @@
             "type": "Release",
             "url": "http://adf.ly/ZlR8J"
         }
-    ],
-    "websiteUrl": "http://profmobius.blogspot.fr/"
+    ]
 }

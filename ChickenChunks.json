@@ -8,8 +8,7 @@
         "Tech"
     ],
     "description": "requires CodeChickenCore",
-    "iconUrl": "http://wiki.technicpack.net/images/e/e4/ChickenChunks.png",
-    "logoUrl": "http://static4.wikia.nocookie.net/__cb20130214161318/feed-the-beast/images/2/2a/2013-01-05_16.53.15.png",
+    "license": "",
     "modId": "ChickenChunks",
     "name": "ChickenChunks",
     "nemName": "ChickenChunks",
@@ -22,6 +21,20 @@
     ],
     "uid": "codechicken.chunkloader",
     "updateUrl": "github://02JanDal@QuickMod/ChickenChunks.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://wiki.technicpack.net/images/e/e4/ChickenChunks.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://static4.wikia.nocookie.net/__cb20130214161318/feed-the-beast/images/2/2a/2013-01-05_16.53.15.png"
+        },
+        {
+            "type": "website",
+            "url": "mcf://909223"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -113,6 +126,5 @@
             "type": "Release",
             "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/ChickenChunks%201.3.3.1.jar"
         }
-    ],
-    "websiteUrl": "mcf://909223"
+    ]
 }

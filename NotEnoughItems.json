@@ -8,8 +8,7 @@
         "GUI"
     ],
     "description": "NEI is a successor to both Too Many Items and Recipe Book. It arose around the same time as Craft Guide when Alexandria and a few others on the IRC suggested that I merge both Too Many Items and Recipe Book to remove their greatest flaws, ironically too many items, or in the case of recipe book, too many recipies. Too Many Items was great, but the one thing it lacked was an easy way to search and sort your items. When you had a mod like Red Power coming along with 10000 items both TMI and Recipe Book were racking up the pages.  Even if you don't want to use NEI for cheating in items, you will likely feel right at home with the Recipe component of the mod.",
-    "iconUrl": "",
-    "logoUrl": "http://www.chickenbones.craftsaddle.org/Files/NEI/Images/ingot%20search.png",
+    "license": "",
     "modId": "NotEnoughItems",
     "name": "Not Enough Items",
     "nemName": "NotEnoughItems",
@@ -22,6 +21,20 @@
     ],
     "uid": "codechicken.nei",
     "updateUrl": "github://02JanDal@QuickMod/NotEnoughItems.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": ""
+        },
+        {
+            "type": "logo",
+            "url": "http://www.chickenbones.craftsaddle.org/Files/NEI/Images/ingot%20search.png"
+        },
+        {
+            "type": "website",
+            "url": "mcf://909223"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -131,6 +144,5 @@
             "type": "Release",
             "url": "http://adf.ly/WAp6r"
         }
-    ],
-    "websiteUrl": "mcf://909223"
+    ]
 }

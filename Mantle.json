@@ -9,8 +9,7 @@
         "Library"
     ],
     "description": "This contains shared code for Forge mods and is used by the Slime Knights. Descriptive book code and common inventories are found here.",
-    "iconUrl": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png",
-    "logoUrl": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png",
+    "license": "",
     "modId": "Mantle",
     "name": "Mantle",
     "nemName": "Mantle",
@@ -22,6 +21,20 @@
     ],
     "uid": "mantle",
     "updateUrl": "github://02JanDal@QuickMod/Mantle.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png"
+        },
+        {
+            "type": "logo",
+            "url": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png"
+        },
+        {
+            "type": "website",
+            "url": "curse://mantle"
+        }
+    ],
     "versions": [
         {
             "downloadType": "direct",
@@ -36,6 +49,5 @@
             "type": "Release",
             "url": "https://raw.github.com/02JanDal/QuickMod/master/Mantle-1.7.2-0.2.6.jar"
         }
-    ],
-    "websiteUrl": "curse://mantle"
+    ]
 }

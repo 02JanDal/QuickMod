@@ -5,8 +5,7 @@
         "GUI"
     ],
     "description": "",
-    "iconUrl": "",
-    "logoUrl": "http://static.planetminecraft.com/files/resource_media/screenshot/1244/radar_3468641.jpg",
+    "license": "",
     "modId": "voxelmap",
     "name": "ZansMinimap",
     "nemName": "VoxelMap",
@@ -19,6 +18,20 @@
     ],
     "uid": "com.thevoxelbox.voxelmap.voxelmap",
     "updateUrl": "github://02JanDal@QuickMod/ZansMinimap.json",
+    "urls": [
+        {
+            "type": "icon",
+            "url": ""
+        },
+        {
+            "type": "logo",
+            "url": "http://static.planetminecraft.com/files/resource_media/screenshot/1244/radar_3468641.jpg"
+        },
+        {
+            "type": "website",
+            "url": "http://www.planetminecraft.com/mod/zans-minimap/"
+        }
+    ],
     "versions": [
         {
             "downloadType": "parallel",
@@ -33,6 +46,5 @@
             "type": "Release",
             "url": "http://www.mediafire.com/download/8tjjxvghv3jpv18/voxelmap-1.7.2-1.0.jar"
         }
-    ],
-    "websiteUrl": "http://www.planetminecraft.com/mod/zans-minimap/"
+    ]
 }
