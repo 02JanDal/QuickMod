@@ -33,7 +33,7 @@
         },
         {
             "type": "website",
-            "url": "curse://nei-addons"
+            "url": "curse:nei-addons"
         }
     ],
     "versions": [

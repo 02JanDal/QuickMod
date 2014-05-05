@@ -32,7 +32,7 @@
         },
         {
             "type": "website",
-            "url": "curse://tinkers-mechworks"
+            "url": "curse:tinkers-mechworks"
         }
     ],
     "versions": [

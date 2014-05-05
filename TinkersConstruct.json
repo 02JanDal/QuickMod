@@ -37,7 +37,7 @@
         },
         {
             "type": "website",
-            "url": "curse://tinkers-construct"
+            "url": "curse:tinkers-construct"
         }
     ],
     "versions": [

@@ -31,7 +31,7 @@
         },
         {
             "type": "website",
-            "url": "curse://cofhcore"
+            "url": "curse:cofhcore"
         }
     ],
     "versions": [

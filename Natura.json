@@ -31,7 +31,7 @@
         },
         {
             "type": "website",
-            "url": "curse://natura"
+            "url": "curse:natura"
         }
     ],
     "versions": [

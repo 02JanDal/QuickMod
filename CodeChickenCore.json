@@ -32,7 +32,7 @@
         },
         {
             "type": "website",
-            "url": "mcf://909223"
+            "url": "mcf:909223"
         }
     ],
     "versions": [

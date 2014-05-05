@@ -34,7 +34,7 @@
         },
         {
             "type": "website",
-            "url": "curse://minefactory-reloaded"
+            "url": "curse:minefactory-reloaded"
         }
     ],
     "versions": [

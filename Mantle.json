@@ -32,7 +32,7 @@
         },
         {
             "type": "website",
-            "url": "curse://mantle"
+            "url": "curse:mantle"
         }
     ],
     "versions": [

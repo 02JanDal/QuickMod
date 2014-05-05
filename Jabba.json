@@ -33,7 +33,7 @@
         },
         {
             "type": "website",
-            "url": "curse://jabba"
+            "url": "curse:jabba"
         }
     ],
     "versions": [
