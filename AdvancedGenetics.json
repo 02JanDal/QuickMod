@@ -8,6 +8,7 @@
         "Biology"
     ],
     "description": "A mod created by ObsiLP which adds Genetic-Science to Minecraft.",
+    "formatVersion": 1,
     "license": "",
     "modId": "advancedgenetics",
     "name": "Advanced Genetics",

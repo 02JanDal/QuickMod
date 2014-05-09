@@ -11,6 +11,7 @@
         "Generic"
     ],
     "description": "Iron Chest minecraft mod by CPW",
+    "formatVersion": 1,
     "license": "",
     "modId": "IronChest",
     "name": "IronChests",

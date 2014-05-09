@@ -8,6 +8,7 @@
         "Tech"
     ],
     "description": "This is a clean rewrite of the Compact Solar Arrays from Advanced Machines, using pure IC2 API. It's also a darn sight more CPU efficient.",
+    "formatVersion": 1,
     "license": "",
     "modId": "CompactSolars",
     "name": "CompactSolars",

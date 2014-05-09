@@ -9,6 +9,7 @@
         "Library"
     ],
     "description": "This contains shared code for Forge mods and is used by the Slime Knights. Descriptive book code and common inventories are found here.",
+    "formatVersion": 1,
     "license": "",
     "modId": "Mantle",
     "name": "Mantle",

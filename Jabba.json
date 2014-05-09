@@ -8,6 +8,7 @@
         "Generic"
     ],
     "description": "Jabba (Just Another Better Barrel Attempt) is a storage mod aiming at making a better barrel than what is already out there. It introduces one block (the barrel itself), a set of upgrades and a dolly to move things around.",
+    "formatVersion": 1,
     "license": "",
     "modId": "JABBA",
     "name": "Jabba",

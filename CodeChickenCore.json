@@ -8,6 +8,7 @@
         "Library"
     ],
     "description": "This is just a library of classes that all my mods use. You need to install this if you are going to install any of my mods.",
+    "formatVersion": 1,
     "license": "",
     "modId": "CodeChickenCore",
     "name": "CodeChickenCore",

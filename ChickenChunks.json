@@ -8,6 +8,7 @@
         "Tech"
     ],
     "description": "requires CodeChickenCore",
+    "formatVersion": 1,
     "license": "",
     "modId": "ChickenChunks",
     "name": "ChickenChunks",

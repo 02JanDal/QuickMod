@@ -8,6 +8,7 @@
         "Modpack"
     ],
     "description": "Do not report issues to the FTB team. This is only a proof of concept and is likely to simply not work.",
+    "formatVersion": 1,
     "license": "",
     "modId": "",
     "name": "FTB Unstable",

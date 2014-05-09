@@ -5,6 +5,7 @@
         "GUI"
     ],
     "description": "",
+    "formatVersion": 1,
     "license": "",
     "modId": "voxelmap",
     "name": "ZansMinimap",

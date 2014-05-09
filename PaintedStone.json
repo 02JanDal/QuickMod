@@ -8,6 +8,7 @@
         "Generic"
     ],
     "description": "This is just a little mod I whipped up to make colored stone in the world. There's no crafting and no worldgen; all you do is right-click on stone type blocks with some dye.",
+    "formatVersion": 1,
     "license": "",
     "modId": "PaintedStone",
     "name": "Painted Stone",

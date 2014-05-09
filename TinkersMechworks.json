@@ -9,6 +9,7 @@
         "Tech"
     ],
     "description": "Mechworks is an addon for Tinkers' Construct with some interesting mechanical tidbits.",
+    "formatVersion": 1,
     "license": "",
     "modId": "TMechworks",
     "name": "Tinker's Mechworks",

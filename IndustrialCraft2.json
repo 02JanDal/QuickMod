@@ -5,6 +5,7 @@
         "Tech"
     ],
     "description": "Highly Experimental - Use @ Own Risk",
+    "formatVersion": 1,
     "license": "",
     "modId": "IC2",
     "name": "IndustrialCraft2",
