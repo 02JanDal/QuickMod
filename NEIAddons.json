@@ -33,6 +33,7 @@
             "curse:nei-addons"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/NEIAddons.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

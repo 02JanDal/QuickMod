@@ -32,6 +32,7 @@
             "mcf:909223"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/NotEnoughItems.verify.json",
     "versions": [
         {
             "downloadType": "direct",

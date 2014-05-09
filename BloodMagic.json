@@ -30,6 +30,7 @@
             "mcf:1899223"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/BloodMagic.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

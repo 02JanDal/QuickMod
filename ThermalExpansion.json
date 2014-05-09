@@ -35,6 +35,7 @@
             "curse:thermalexpansion"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/ThermalExpansion.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

@@ -32,6 +32,7 @@
             "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/NEIPlugins.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

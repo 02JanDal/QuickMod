@@ -30,6 +30,7 @@
             "http://wiki.industrial-craft.net/index.php?title=Main_Page"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/IndustrialCraft2.verify.json",
     "versions": [
         {
             "downloadType": "direct",

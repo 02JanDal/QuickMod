@@ -33,6 +33,7 @@
             "curse:jabba"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/Jabba.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

@@ -32,6 +32,7 @@
             "mcf:1981778"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/ExNihilo.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

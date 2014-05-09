@@ -36,6 +36,7 @@
             "mcf:2391195"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/ExAliquo.verify.json",
     "versions": [
         {
             "downloadType": "direct",

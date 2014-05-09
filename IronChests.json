@@ -34,6 +34,7 @@
             "mcf:981855"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/IronChests.verify.json",
     "versions": [
         {
             "downloadType": "direct",

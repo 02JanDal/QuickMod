@@ -32,6 +32,7 @@
             "curse:mantle"
         ]
     },
+    "verifyUrl": "github://02JanDal@QuickMod/Mantle.verify.json",
     "versions": [
         {
             "downloadType": "direct",
