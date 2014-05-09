@@ -19,19 +19,19 @@
         },
         {
             "uid": "codechicken.chunkloader",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/ChickenChunks.json"
+            "url": "ChickenChunks.json"
         },
         {
             "uid": "codechicken.core",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenCore.json"
+            "url": "CodeChickenCore.json"
         },
         {
             "uid": "codechicken.lib",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/CodeChickenLib.json"
+            "url": "CodeChickenLib.json"
         },
         {
             "uid": "cofh.core",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/CoFHCore.json"
+            "url": "CoFHCore.json"
         },
         {
             "uid": "cpw.mods.compactsolars",
@@ -39,19 +39,19 @@
         },
         {
             "uid": "codechicken.enderstorage",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/EnderStorage.json"
+            "url": "EnderStorage.json"
         },
         {
             "uid": "exaliquo",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/ExAliquo.json"
+            "url": "ExAliquo.json"
         },
         {
             "uid": "exnihilo",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/ExNihilo.json"
+            "url": "ExNihilo.json"
         },
         {
             "uid": "forestry",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/Forestry.json"
+            "url": "Forestry.json"
         },
         {
             "uid": "ftb.unstable",
@@ -75,23 +75,23 @@
         },
         {
             "uid": "powercrystals.minefactoryreloaded",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/MineFactoryReloaded.json"
+            "url": "MineFactoryReloaded.json"
         },
         {
             "uid": "natura",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/Natura.json"
+            "url": "Natura.json"
         },
         {
             "uid": "net.bdew.neiaddons",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/NEIAddons.json"
+            "url": "NEIAddons.json"
         },
         {
             "uid": "neiplugins",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/NEIPlugins.json"
+            "url": "NEIPlugins.json"
         },
         {
             "uid": "codechicken.nei",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/NotEnoughItems.json"
+            "url": "NotEnoughItems.json"
         },
         {
             "uid": "paintedstone",
@@ -99,15 +99,15 @@
         },
         {
             "uid": "powercrystals.core",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/PowerCrystalsCore.json"
+            "url": "PowerCrystalsCore.json"
         },
         {
             "uid": "cofh.ThermalExpansion",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/ThermalExpansion.json"
+            "url": "ThermalExpansion.json"
         },
         {
             "uid": "tconstruct",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/TinkersConstruct.json"
+            "url": "TinkersConstruct.json"
         },
         {
             "uid": "tmechworks",
@@ -115,7 +115,7 @@
         },
         {
             "uid": "codechicken.translocator",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/Translocator.json"
+            "url": "Translocator.json"
         },
         {
             "uid": "twilightforest",
@@ -123,7 +123,7 @@
         },
         {
             "uid": "mcp.mobius.waila",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/Waila.json"
+            "url": "Waila.json"
         },
         {
             "uid": "com.thevoxelbox.voxelmap.voxelmap",
