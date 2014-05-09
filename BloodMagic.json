@@ -19,20 +19,17 @@
     ],
     "uid": "WayofTime.alchemicalWizardry.bloodmagic",
     "updateUrl": "github://02JanDal@QuickMod/BloodMagic.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": ""
-        },
-        {
-            "type": "logo",
-            "url": "http://i.imgur.com/ToxA0R6.png"
-        },
-        {
-            "type": "website",
-            "url": "mcf:1899223"
-        }
-    ],
+    "urls": {
+        "icon": [
+            ""
+        ],
+        "logo": [
+            "http://i.imgur.com/ToxA0R6.png"
+        ],
+        "website": [
+            "mcf:1899223"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

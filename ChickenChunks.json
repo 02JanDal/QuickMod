@@ -21,20 +21,17 @@
     ],
     "uid": "codechicken.chunkloader",
     "updateUrl": "github://02JanDal@QuickMod/ChickenChunks.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://wiki.technicpack.net/images/e/e4/ChickenChunks.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://static4.wikia.nocookie.net/__cb20130214161318/feed-the-beast/images/2/2a/2013-01-05_16.53.15.png"
-        },
-        {
-            "type": "website",
-            "url": "mcf:909223"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://wiki.technicpack.net/images/e/e4/ChickenChunks.png"
+        ],
+        "logo": [
+            "http://static4.wikia.nocookie.net/__cb20130214161318/feed-the-beast/images/2/2a/2013-01-05_16.53.15.png"
+        ],
+        "website": [
+            "mcf:909223"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

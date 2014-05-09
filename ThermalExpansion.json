@@ -24,20 +24,17 @@
     ],
     "uid": "cofh.ThermalExpansion",
     "updateUrl": "github://02JanDal@QuickMod/ThermalExpansion.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://ftbwiki.org/images/thumb/1/13/Block_Powered_Furnace.png/128px-Block_Powered_Furnace.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://media-curse.cursecdn.com/attachments/101/119/95351ff0a0e3501268eaa613d58f136d.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:thermalexpansion"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://ftbwiki.org/images/thumb/1/13/Block_Powered_Furnace.png/128px-Block_Powered_Furnace.png"
+        ],
+        "logo": [
+            "http://media-curse.cursecdn.com/attachments/101/119/95351ff0a0e3501268eaa613d58f136d.png"
+        ],
+        "website": [
+            "curse:thermalexpansion"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

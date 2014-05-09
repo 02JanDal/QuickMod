@@ -21,20 +21,17 @@
     ],
     "uid": "codechicken.core",
     "updateUrl": "github://02JanDal@QuickMod/CodeChickenCore.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": ""
-        },
-        {
-            "type": "logo",
-            "url": ""
-        },
-        {
-            "type": "website",
-            "url": "mcf:909223"
-        }
-    ],
+    "urls": {
+        "icon": [
+            ""
+        ],
+        "logo": [
+            ""
+        ],
+        "website": [
+            "mcf:909223"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

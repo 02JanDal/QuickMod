@@ -19,20 +19,17 @@
     ],
     "uid": "ic2.core",
     "updateUrl": "github://02JanDal@QuickMod/IndustrialCraft2.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://ftbwiki.org/images/thumb/7/73/Block_Nuke.png/128px-Block_Nuke.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://cdn26.atwikiimg.com/minecraft/?plugin=ref&serial=2527"
-        },
-        {
-            "type": "website",
-            "url": "http://wiki.industrial-craft.net/index.php?title=Main_Page"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://ftbwiki.org/images/thumb/7/73/Block_Nuke.png/128px-Block_Nuke.png"
+        ],
+        "logo": [
+            "http://cdn26.atwikiimg.com/minecraft/?plugin=ref&serial=2527"
+        ],
+        "website": [
+            "http://wiki.industrial-craft.net/index.php?title=Main_Page"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

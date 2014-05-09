@@ -25,20 +25,17 @@
     ],
     "uid": "exaliquo",
     "updateUrl": "github://02JanDal@QuickMod/ExAliquo.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://img2.wikia.nocookie.net/__cb20140403042144/ex-nihilo-minecraft/images/2/28/CrookReed.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://i.imgur.com/ZoAlYcP.png"
-        },
-        {
-            "type": "website",
-            "url": "mcf:2391195"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://img2.wikia.nocookie.net/__cb20140403042144/ex-nihilo-minecraft/images/2/28/CrookReed.png"
+        ],
+        "logo": [
+            "http://i.imgur.com/ZoAlYcP.png"
+        ],
+        "website": [
+            "mcf:2391195"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

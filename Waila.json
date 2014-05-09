@@ -21,20 +21,17 @@
     ],
     "uid": "mcp.mobius.waila",
     "updateUrl": "github://02JanDal@QuickMod/Waila.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": ""
-        },
-        {
-            "type": "logo",
-            "url": "http://freedownloadminecraft.com/wp-content/uploads/2013/06/waila-mod3.jpg"
-        },
-        {
-            "type": "website",
-            "url": "http://profmobius.blogspot.fr/"
-        }
-    ],
+    "urls": {
+        "icon": [
+            ""
+        ],
+        "logo": [
+            "http://freedownloadminecraft.com/wp-content/uploads/2013/06/waila-mod3.jpg"
+        ],
+        "website": [
+            "http://profmobius.blogspot.fr/"
+        ]
+    },
     "versions": [
         {
             "downloadType": "sequential",

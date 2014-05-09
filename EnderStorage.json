@@ -21,20 +21,17 @@
     ],
     "uid": "codechicken.enderstorage",
     "updateUrl": "github://02JanDal@QuickMod/EnderStorage.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://images3.wikia.nocookie.net/__cb20121011012436/thetekkit/images/f/f0/Ender_Chest.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://i1.ytimg.com/vi/UW4C9lQwD1E/maxresdefault.jpg"
-        },
-        {
-            "type": "website",
-            "url": "mcf:909223"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://images3.wikia.nocookie.net/__cb20121011012436/thetekkit/images/f/f0/Ender_Chest.png"
+        ],
+        "logo": [
+            "http://i1.ytimg.com/vi/UW4C9lQwD1E/maxresdefault.jpg"
+        ],
+        "website": [
+            "mcf:909223"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

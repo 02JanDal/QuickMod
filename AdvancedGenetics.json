@@ -20,20 +20,17 @@
     ],
     "uid": "com.advGenetics.advancedgenetics",
     "updateUrl": "github://02JanDal@QuickMod/AdvancedGenetics.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://teamdna.humbook.info/advgen/images/favico_advgen.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://teamdna.humbook.info/advgen/wiki/mc17/images/logo.png"
-        },
-        {
-            "type": "website",
-            "url": "http://ag.teamdna.de/"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://teamdna.humbook.info/advgen/images/favico_advgen.png"
+        ],
+        "logo": [
+            "http://teamdna.humbook.info/advgen/wiki/mc17/images/logo.png"
+        ],
+        "website": [
+            "http://ag.teamdna.de/"
+        ]
+    },
     "versions": [
         {
             "downloadType": "sequential",

@@ -20,20 +20,17 @@
     ],
     "uid": "codechicken.lib",
     "updateUrl": "github://02JanDal@QuickMod/CodeChickenLib.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": ""
-        },
-        {
-            "type": "logo",
-            "url": ""
-        },
-        {
-            "type": "website",
-            "url": ""
-        }
-    ],
+    "urls": {
+        "icon": [
+            ""
+        ],
+        "logo": [
+            ""
+        ],
+        "website": [
+            ""
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

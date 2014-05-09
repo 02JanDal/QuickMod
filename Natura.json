@@ -20,20 +20,17 @@
     ],
     "uid": "natura",
     "updateUrl": "github://02JanDal@QuickMod/Natura.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://ftbwiki.org/images/e/ec/Item_Barley_%28Natura%29.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://media-curse.cursecdn.com/attachments/104/907/0739a2bf3f2b1e775b3c387b8e8671d9.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:natura"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://ftbwiki.org/images/e/ec/Item_Barley_%28Natura%29.png"
+        ],
+        "logo": [
+            "http://media-curse.cursecdn.com/attachments/104/907/0739a2bf3f2b1e775b3c387b8e8671d9.png"
+        ],
+        "website": [
+            "curse:natura"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

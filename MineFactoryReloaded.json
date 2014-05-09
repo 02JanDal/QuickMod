@@ -23,20 +23,17 @@
     ],
     "uid": "powercrystals.minefactoryreloaded",
     "updateUrl": "github://02JanDal@QuickMod/MineFactoryReloaded.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://ftbwiki.org/images/thumb/b/b9/Block_Fertilizer_%28MineFactory_Reloaded%29.png/128px-Block_Fertilizer_%28MineFactory_Reloaded%29.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://media-curse.cursecdn.com/attachments/97/986/b525c8e3ac695453926ef3d4f8e9a6de.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:minefactory-reloaded"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://ftbwiki.org/images/thumb/b/b9/Block_Fertilizer_%28MineFactory_Reloaded%29.png/128px-Block_Fertilizer_%28MineFactory_Reloaded%29.png"
+        ],
+        "logo": [
+            "http://media-curse.cursecdn.com/attachments/97/986/b525c8e3ac695453926ef3d4f8e9a6de.png"
+        ],
+        "website": [
+            "curse:minefactory-reloaded"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

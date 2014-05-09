@@ -21,20 +21,17 @@
     ],
     "uid": "mantle",
     "updateUrl": "github://02JanDal@QuickMod/Mantle.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:mantle"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png"
+        ],
+        "logo": [
+            "http://media-curse.cursecdn.com/attachments/105/660/bd46556c8fdaff20c9d96dc51700cf1f.png"
+        ],
+        "website": [
+            "curse:mantle"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

@@ -21,20 +21,17 @@
     ],
     "uid": "",
     "updateUrl": "github://02JanDal@QuickMod/AppliedEnergistics.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://puu.sh/531Hd.png"
-        },
-        {
-            "type": "logo",
-            "url": ""
-        },
-        {
-            "type": "website",
-            "url": "http://ae1.ae-mod.info/"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://puu.sh/531Hd.png"
+        ],
+        "logo": [
+            ""
+        ],
+        "website": [
+            "http://ae1.ae-mod.info/"
+        ]
+    },
     "versions": [
     ]
 }

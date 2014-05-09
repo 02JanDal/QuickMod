@@ -17,20 +17,17 @@
     ],
     "uid": "twilightforest",
     "updateUrl": "github://02JanDal@QuickMod/TwilightForest.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://twilightforest.wikispaces.com/file/view/Item_Minotaur_Axe.png/413326414/100x100/Item_Minotaur_Axe.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://www.minecraftings.com/wp-content/uploads/2012/12/the-twilight-forest-mod.jpg"
-        },
-        {
-            "type": "website",
-            "url": "mcf:561673"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://twilightforest.wikispaces.com/file/view/Item_Minotaur_Axe.png/413326414/100x100/Item_Minotaur_Axe.png"
+        ],
+        "logo": [
+            "http://www.minecraftings.com/wp-content/uploads/2012/12/the-twilight-forest-mod.jpg"
+        ],
+        "website": [
+            "mcf:561673"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

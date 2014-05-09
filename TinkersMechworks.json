@@ -21,20 +21,17 @@
     ],
     "uid": "tmechworks",
     "updateUrl": "github://02JanDal@QuickMod/TinkersMechworks.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://media-curse.cursecdn.com/attachments/109/596/d3ad54d84435d62c107b8264ce4e816a.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://ftbwiki.org/images/thumb/0/0a/Block_Drawbridge.png/128px-Block_Drawbridge.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:tinkers-mechworks"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://media-curse.cursecdn.com/attachments/109/596/d3ad54d84435d62c107b8264ce4e816a.png"
+        ],
+        "logo": [
+            "http://ftbwiki.org/images/thumb/0/0a/Block_Drawbridge.png/128px-Block_Drawbridge.png"
+        ],
+        "website": [
+            "curse:tinkers-mechworks"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

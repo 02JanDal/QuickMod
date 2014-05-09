@@ -22,20 +22,17 @@
     ],
     "uid": "cpw.mods.compactsolars",
     "updateUrl": "github://02JanDal@QuickMod/CompactSolars.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://ftbwiki.org/images/thumb/9/9e/Block_Medium_Voltage_Solar_Array.png/128px-Block_Medium_Voltage_Solar_Array.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://i.imgur.com/BHYZl.png"
-        },
-        {
-            "type": "website",
-            "url": "http://forum.industrial-craft.net/?page=Thread&threadID=4827"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://ftbwiki.org/images/thumb/9/9e/Block_Medium_Voltage_Solar_Array.png/128px-Block_Medium_Voltage_Solar_Array.png"
+        ],
+        "logo": [
+            "http://i.imgur.com/BHYZl.png"
+        ],
+        "website": [
+            "http://forum.industrial-craft.net/?page=Thread&threadID=4827"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

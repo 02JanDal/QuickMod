@@ -26,20 +26,17 @@
     ],
     "uid": "buildcraft",
     "updateUrl": "github://02JanDal@QuickMod/BuildCraft.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://media-curse.cursecdn.com/attachments/93/564/ce4531a2748571aac391961aa0b12d03.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://ftbwiki.org/images/thumb/0/07/Block_Pump_%28BuildCraft%29.png/128px-Block_Pump_%28BuildCraft%29.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:buildcraft"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://media-curse.cursecdn.com/attachments/93/564/ce4531a2748571aac391961aa0b12d03.png"
+        ],
+        "logo": [
+            "http://ftbwiki.org/images/thumb/0/07/Block_Pump_%28BuildCraft%29.png/128px-Block_Pump_%28BuildCraft%29.png"
+        ],
+        "website": [
+            "curse:buildcraft"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

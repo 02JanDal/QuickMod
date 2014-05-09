@@ -21,20 +21,17 @@
     ],
     "uid": "exnihilo",
     "updateUrl": "github://02JanDal@QuickMod/ExNihilo.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://imagizer.imageshack.us/a/img836/6236/e73k.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://i.imgur.com/PILMT2L.png"
-        },
-        {
-            "type": "website",
-            "url": "mcf:1981778"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://imagizer.imageshack.us/a/img836/6236/e73k.png"
+        ],
+        "logo": [
+            "http://i.imgur.com/PILMT2L.png"
+        ],
+        "website": [
+            "mcf:1981778"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

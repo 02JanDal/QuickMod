@@ -21,20 +21,17 @@
     ],
     "uid": "neiplugins",
     "updateUrl": "github://02JanDal@QuickMod/NEIPlugins.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": ""
-        },
-        {
-            "type": "logo",
-            "url": "http://i.imgur.com/6k3WOfW.png"
-        },
-        {
-            "type": "website",
-            "url": "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
-        }
-    ],
+    "urls": {
+        "icon": [
+            ""
+        ],
+        "logo": [
+            "http://i.imgur.com/6k3WOfW.png"
+        ],
+        "website": [
+            "https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

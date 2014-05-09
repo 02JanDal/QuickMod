@@ -23,20 +23,17 @@
     ],
     "uid": "biomesoplenty",
     "updateUrl": "github://02JanDal@QuickMod/BiomesOPlenty.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://ftbwiki.org/images/8/88/Item_Apatite_%28Biomes_O%27_Plenty%29.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://www.minecraftmods.com/wp-content/uploads/2013/07/biomes1.jpg"
-        },
-        {
-            "type": "website",
-            "url": "http://www.minecraftforge.net/forum/index.php/topic,13244.0.html"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://ftbwiki.org/images/8/88/Item_Apatite_%28Biomes_O%27_Plenty%29.png"
+        ],
+        "logo": [
+            "http://www.minecraftmods.com/wp-content/uploads/2013/07/biomes1.jpg"
+        ],
+        "website": [
+            "http://www.minecraftforge.net/forum/index.php/topic,13244.0.html"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

@@ -21,20 +21,17 @@
     ],
     "uid": "codechicken.nei",
     "updateUrl": "github://02JanDal@QuickMod/NotEnoughItems.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": ""
-        },
-        {
-            "type": "logo",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/NEI/Images/ingot%20search.png"
-        },
-        {
-            "type": "website",
-            "url": "mcf:909223"
-        }
-    ],
+    "urls": {
+        "icon": [
+            ""
+        ],
+        "logo": [
+            "http://www.chickenbones.craftsaddle.org/Files/NEI/Images/ingot%20search.png"
+        ],
+        "website": [
+            "mcf:909223"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

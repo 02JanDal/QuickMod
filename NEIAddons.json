@@ -22,20 +22,17 @@
     ],
     "uid": "net.bdew.neiaddons",
     "updateUrl": "github://02JanDal@QuickMod/NEIAddons.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://media-curse.cursecdn.com/attachments/95/89/a8e8dd083d50a5a6ae5e837504ab92c3.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://media-curse.cursecdn.com/attachments/95/89/a8e8dd083d50a5a6ae5e837504ab92c3.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:nei-addons"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://media-curse.cursecdn.com/attachments/95/89/a8e8dd083d50a5a6ae5e837504ab92c3.png"
+        ],
+        "logo": [
+            "http://media-curse.cursecdn.com/attachments/95/89/a8e8dd083d50a5a6ae5e837504ab92c3.png"
+        ],
+        "website": [
+            "curse:nei-addons"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

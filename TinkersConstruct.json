@@ -26,20 +26,17 @@
     ],
     "uid": "tconstruct",
     "updateUrl": "github://02JanDal@QuickMod/TinkersConstruct.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://img2.wikia.nocookie.net/__cb20131105011456/hexxit/images/7/72/Long_Sword-Example_7_32x32-diamond.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://media-curse.cursecdn.com/attachments/104/930/8ea94957dbdc94a351f26995664e7942.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:tinkers-construct"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://img2.wikia.nocookie.net/__cb20131105011456/hexxit/images/7/72/Long_Sword-Example_7_32x32-diamond.png"
+        ],
+        "logo": [
+            "http://media-curse.cursecdn.com/attachments/104/930/8ea94957dbdc94a351f26995664e7942.png"
+        ],
+        "website": [
+            "curse:tinkers-construct"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

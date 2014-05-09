@@ -20,20 +20,17 @@
     ],
     "uid": "paintedstone",
     "updateUrl": "github://02JanDal@QuickMod/PaintedStone.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": ""
-        },
-        {
-            "type": "logo",
-            "url": "http://i.imgur.com/O3Nc8nY.png"
-        },
-        {
-            "type": "website",
-            "url": "mcf:2118351"
-        }
-    ],
+    "urls": {
+        "icon": [
+            ""
+        ],
+        "logo": [
+            "http://i.imgur.com/O3Nc8nY.png"
+        ],
+        "website": [
+            "mcf:2118351"
+        ]
+    },
     "versions": [
         {
             "downloadType": "direct",

@@ -25,20 +25,17 @@
     ],
     "uid": "forestry",
     "updateUrl": "github://02JanDal@QuickMod/Forestry.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://ftbwiki.org/images/thumb/d/d6/Block_Apiary.png/64px-Block_Apiary.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://media-curse.cursecdn.com/attachments/91/806/b9152c5745e993454092f7aecf9bd6e3.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:forestry"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://ftbwiki.org/images/thumb/d/d6/Block_Apiary.png/64px-Block_Apiary.png"
+        ],
+        "logo": [
+            "http://media-curse.cursecdn.com/attachments/91/806/b9152c5745e993454092f7aecf9bd6e3.png"
+        ],
+        "website": [
+            "curse:forestry"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",

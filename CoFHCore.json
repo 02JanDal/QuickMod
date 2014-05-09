@@ -20,20 +20,17 @@
     ],
     "uid": "cofh.core",
     "updateUrl": "github://02JanDal@QuickMod/CoFHCore.json",
-    "urls": [
-        {
-            "type": "icon",
-            "url": "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png"
-        },
-        {
-            "type": "logo",
-            "url": "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png"
-        },
-        {
-            "type": "website",
-            "url": "curse:cofhcore"
-        }
-    ],
+    "urls": {
+        "icon": [
+            "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png"
+        ],
+        "logo": [
+            "http://media-curse.cursecdn.com/avatars/0/336/634524036274657236.png"
+        ],
+        "website": [
+            "curse:cofhcore"
+        ]
+    },
     "versions": [
         {
             "downloadType": "parallel",
