@@ -32,7 +32,6 @@
             "curse:natura"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/Natura.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

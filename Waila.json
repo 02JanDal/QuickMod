@@ -33,7 +33,6 @@
             "http://profmobius.blogspot.fr/"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/Waila.verify.json",
     "versions": [
         {
             "downloadType": "sequential",

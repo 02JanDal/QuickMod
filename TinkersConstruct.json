@@ -38,7 +38,6 @@
             "curse:tinkers-construct"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/TinkersConstruct.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

@@ -34,7 +34,6 @@
             "http://forum.industrial-craft.net/?page=Thread&threadID=4827"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/CompactSolars.verify.json",
     "versions": [
         {
             "downloadType": "direct",

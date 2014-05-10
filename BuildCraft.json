@@ -38,7 +38,6 @@
             "curse:buildcraft"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/BuildCraft.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

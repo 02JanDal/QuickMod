@@ -33,7 +33,6 @@
             "curse:tinkers-mechworks"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/TinkersMechworks.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

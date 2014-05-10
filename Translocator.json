@@ -33,7 +33,6 @@
             "mcf:909223"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/Translocator.verify.json",
     "versions": [
         {
             "downloadType": "sequential",

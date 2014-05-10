@@ -35,7 +35,6 @@
             "curse:minefactory-reloaded"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/MineFactoryReloaded.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

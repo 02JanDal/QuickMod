@@ -32,7 +32,6 @@
             "curse:powercrystalscore"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/PowerCrystalsCore.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

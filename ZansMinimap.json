@@ -30,7 +30,6 @@
             "http://www.planetminecraft.com/mod/zans-minimap/"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/ZansMinimap.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

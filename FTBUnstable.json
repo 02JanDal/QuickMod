@@ -47,7 +47,6 @@
             "http://feed-the-beast.com/"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/FTBUnstable.verify.json",
     "versions": [
         {
             "downloadType": "direct",

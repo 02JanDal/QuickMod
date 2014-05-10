@@ -37,7 +37,6 @@
             "curse:forestry"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/Forestry.verify.json",
     "versions": [
         {
             "downloadType": "parallel",

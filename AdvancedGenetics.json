@@ -32,7 +32,6 @@
             "http://ag.teamdna.de/"
         ]
     },
-    "verifyUrl": "github://02JanDal@QuickMod/AdvancedGenetics.verify.json",
     "versions": [
         {
             "downloadType": "sequential",
