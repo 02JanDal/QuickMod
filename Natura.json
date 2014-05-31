@@ -34,7 +34,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.5.2"
@@ -44,10 +43,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/natura/772553"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/natura/772553"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -57,10 +60,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/natura/772550"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/natura/772550"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -70,7 +77,12 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/natura/772550"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/natura/772550"
+                }
+            ]
         }
     ]
 }

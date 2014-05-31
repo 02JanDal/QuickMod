@@ -39,7 +39,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -74,10 +73,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/758869"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/758869"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -107,10 +110,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/752073"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/752073"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -140,10 +147,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/746647"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/746647"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -173,10 +184,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/745511"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/745511"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -206,10 +221,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/745061"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/745061"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -239,10 +258,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/743418"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/743418"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -272,10 +295,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/742563"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/742563"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.2"
@@ -305,10 +332,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/728794"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/728794"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.2"
@@ -338,10 +369,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/726919"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/726919"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.5.2"
@@ -371,10 +406,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/718248"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/718248"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.5.2"
@@ -404,10 +443,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/714507"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/714507"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.5.2"
@@ -437,7 +480,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/forestry/712834"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/forestry/712834"
+                }
+            ]
         }
     ]
 }

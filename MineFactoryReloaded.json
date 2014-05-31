@@ -37,7 +37,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -52,10 +51,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/778749"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/778749"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -70,10 +73,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/762626"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/762626"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -88,10 +95,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/755870"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/755870"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -106,10 +117,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/745373"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/745373"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -124,10 +139,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/781633"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/minefactory-reloaded/781633"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -142,10 +161,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/781633"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/781633"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -155,10 +178,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/778749"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/778749"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -168,10 +195,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/762626"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/762626"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -181,10 +212,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/755870"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/755870"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -194,10 +229,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/745373"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/745373"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -207,7 +246,12 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/788586"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/minefactory-reloaded/788586"
+                }
+            ]
         }
     ]
 }

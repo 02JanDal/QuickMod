@@ -33,7 +33,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.7.2"
@@ -43,7 +42,12 @@
             "references": [
             ],
             "type": "Release",
-            "url": "https://www.dropbox.com/sh/8ecx19nl5u4hxj2/0u16lKX3-H/Blood%20Magic-v0.8.0a.jar"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "https://www.dropbox.com/sh/8ecx19nl5u4hxj2/0u16lKX3-H/Blood%20Magic-v0.8.0a.jar"
+                }
+            ]
         }
     ]
 }

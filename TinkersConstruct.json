@@ -40,7 +40,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "forgeCompat": "[8.9,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -76,10 +75,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/775458"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/775458"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[8.9,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -115,10 +118,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/772402"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/772402"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[8.9,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -154,10 +161,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/780669"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct/780669"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[8.9,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -193,10 +204,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786925"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786925"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[8.9,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -232,10 +247,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786668"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786668"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[8.9,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -271,10 +290,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786227"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786227"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[8.9,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -310,7 +333,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786223"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/tinkers-construct/786223"
+                }
+            ]
         }
     ]
 }

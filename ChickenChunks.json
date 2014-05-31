@@ -35,7 +35,6 @@
     },
     "versions": [
         {
-            "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -50,10 +49,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/ChickenChunks%201.3.3.3.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/ChickenChunks%201.3.3.3.jar"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.2"
@@ -68,10 +71,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/Sohmc"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/Sohmc"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.5.1"
@@ -86,10 +93,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/KpW95"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/KpW95"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -104,10 +115,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/WAp6t"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/WAp6t"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.2"
@@ -122,7 +137,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/ChickenChunks%201.3.3.1.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/ChickenChunks%201.3.3.1.jar"
+                }
+            ]
         }
     ]
 }

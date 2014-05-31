@@ -35,7 +35,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -45,7 +44,12 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://www.mediafire.com/download/4p4p82lngmg8iri/crowley-skyblock-v1.28.jar"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.mediafire.com/download/4p4p82lngmg8iri/crowley-skyblock-v1.28.jar"
+                }
+            ]
         }
     ]
 }

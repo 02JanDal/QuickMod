@@ -35,7 +35,6 @@
     },
     "versions": [
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -50,10 +49,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/WAp6u"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/WAp6u"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.2"
@@ -68,10 +71,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/Sohmd"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/Sohmd"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.5.1"
@@ -86,10 +93,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/QNMU5"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/QNMU5"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -104,10 +115,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/WAp6u"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/WAp6u"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.2"
@@ -122,10 +137,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/Translocator%201.1.0.11.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/Translocator%201.1.0.11.jar"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -140,7 +159,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/Translocator%201.1.0.14.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/Translocator%201.1.0.14.jar"
+                }
+            ]
         }
     ]
 }

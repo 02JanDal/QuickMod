@@ -40,7 +40,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "forgeCompat": "[10.12.0.1024,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -51,10 +50,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/786342"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/786342"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[10.12.0.1024,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -65,10 +68,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/786340"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/786340"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[10.12.0.1024,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -79,10 +86,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/776940"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/776940"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.11.1.953,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -93,10 +104,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/764912"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/764912"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.11.1.953,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -107,10 +122,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/757008"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/757008"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.11.1.953,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -121,10 +140,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/756762"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/756762"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.10.0.800,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -135,10 +158,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/749098"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/749098"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.10.0.800,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -149,10 +176,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/748316"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/748316"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.10.0.800,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -163,10 +194,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/741278"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/741278"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.10.0.800,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -177,10 +212,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/728792"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/728792"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.10.0.800,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -191,10 +230,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/725245"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/725245"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.10.0.800,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -205,10 +248,14 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/724784"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/724784"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[7.7.2.682,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -219,7 +266,12 @@
             "references": [
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/buildcraft/719726"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/buildcraft/719726"
+                }
+            ]
         }
     ]
 }

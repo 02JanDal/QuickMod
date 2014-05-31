@@ -35,7 +35,6 @@
     },
     "versions": [
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -50,10 +49,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/b1o1w"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/b1o1w"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -68,10 +71,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/aV23t"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/aV23t"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -86,10 +93,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/Zvsil"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/Zvsil"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -104,7 +115,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/ZlR8J"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/ZlR8J"
+                }
+            ]
         }
     ]
 }

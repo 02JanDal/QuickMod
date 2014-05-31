@@ -36,7 +36,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.7.2"
@@ -56,10 +55,14 @@
                 }
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/jabba/785514"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/jabba/785514"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -79,10 +82,14 @@
                 }
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/jabba/781707"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/jabba/781707"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -102,10 +109,14 @@
                 }
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/jabba/774269"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/jabba/774269"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -125,7 +136,12 @@
                 }
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/jabba/772292"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/jabba/772292"
+                }
+            ]
         }
     ]
 }

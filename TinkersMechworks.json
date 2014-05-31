@@ -35,7 +35,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4"
@@ -50,7 +49,12 @@
                 }
             ],
             "type": "",
-            "url": "http://curse.com/mc-mods/minecraft/tinkers-mechworks/784610"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/tinkers-mechworks/784610"
+                }
+            ]
         }
     ]
 }

@@ -34,7 +34,6 @@
     },
     "versions": [
         {
-            "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.7.2"
@@ -44,7 +43,12 @@
             "references": [
             ],
             "type": "Release",
-            "url": "https://raw.github.com/02JanDal/QuickMod/master/PaintedStone-1.7.2.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "https://raw.github.com/02JanDal/QuickMod/master/PaintedStone-1.7.2.jar"
+                }
+            ]
         }
     ]
 }

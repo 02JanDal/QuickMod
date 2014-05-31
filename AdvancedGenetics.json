@@ -34,7 +34,6 @@
     },
     "versions": [
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.7.2"
@@ -44,10 +43,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://adf.ly/dtCp6"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/dtCp6"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.7.2"
@@ -57,7 +60,12 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://adf.ly/kFP9j"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/kFP9j"
+                }
+            ]
         }
     ]
 }

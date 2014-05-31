@@ -38,7 +38,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.1.11.953,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -69,10 +68,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/764471"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://www.curse.com/mc-mods/minecraft/thermalexpansion/764471"
+                }
+            ]
         },
         {
-            "downloadType": "parallel",
             "forgeCompat": "[9.1.11.953,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -103,7 +106,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://curse.com/mc-mods/minecraft/thermalexpansion/785606"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://curse.com/mc-mods/minecraft/thermalexpansion/785606"
+                }
+            ]
         }
     ]
 }

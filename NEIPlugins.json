@@ -35,7 +35,6 @@
     },
     "versions": [
         {
-            "downloadType": "parallel",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4",
@@ -51,10 +50,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.6.jar"
+            "urls": [
+                {
+                    "downloadType": "parallel",
+                    "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.6.jar"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.6.4",
@@ -70,7 +73,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.4.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://cdn.bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.4.jar"
+                }
+            ]
         }
     ]
 }

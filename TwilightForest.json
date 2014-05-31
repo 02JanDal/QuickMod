@@ -31,7 +31,6 @@
     },
     "versions": [
         {
-            "downloadType": "direct",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.7.2"
@@ -41,7 +40,12 @@
             "references": [
             ],
             "type": "Release",
-            "url": "https://dl.dropboxusercontent.com/u/38679977/twilightforest-1.7.2-2.0.2.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "https://dl.dropboxusercontent.com/u/38679977/twilightforest-1.7.2-2.0.2.jar"
+                }
+            ]
         }
     ]
 }

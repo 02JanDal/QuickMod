@@ -36,7 +36,6 @@
     },
     "versions": [
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.0,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -52,10 +51,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-3.1.1.16.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-3.1.1.16.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.0,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -71,10 +74,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-3.1.2.17.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-3.1.2.17.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.4,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -90,10 +97,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-3.1.3.18.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-3.1.3.18.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.5,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -109,10 +120,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.6-3.1.5.20.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.6-3.1.5.20.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.5,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -128,10 +143,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.6-3.2.0.21.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.6-3.2.0.21.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.5,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -147,10 +166,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-3.2.3.23.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-3.2.3.23.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -166,10 +189,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.0.26.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.0.26.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1.523,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -185,10 +212,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.1.27.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.1.27.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1.523,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -204,10 +235,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.2.28.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.2.28.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1.523,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -223,10 +258,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.3.29.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.4.7-4.0.3.29.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -242,10 +281,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.0.6.30.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.0.6.30.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -261,10 +304,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.0.31.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.0.31.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -280,10 +327,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.1.32.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.1.32.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -299,10 +350,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.2.33.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.2.33.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -318,10 +373,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.3.34.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.3.34.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[6.6.1,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -337,10 +396,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.4.35.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.4.35.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -356,10 +419,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.6.37.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.6.37.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -375,10 +442,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.38.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.38.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -394,10 +465,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.39.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.39.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -413,10 +488,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.40.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.40.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -432,10 +511,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.41.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.41.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -451,10 +534,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.42.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.42.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -470,10 +557,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.43.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.43.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -489,10 +580,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.44.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.44.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -508,10 +603,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.45.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.6.45.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -527,10 +626,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.8.46.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.1.8.46.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -546,10 +649,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.47.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.47.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -565,10 +672,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.48.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.48.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -584,10 +695,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.49.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.49.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -603,10 +718,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.50.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.50.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -622,10 +741,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.51.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.51.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -641,10 +764,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.52.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.52.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[7.7,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -660,10 +787,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.53.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.2-4.2.0.53.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -679,10 +810,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.0.79.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.0.79.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -698,10 +833,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.2.80.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.2.80.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -717,10 +856,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.6.81.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.6.81.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -736,10 +879,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.100.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.100.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -755,10 +902,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.101.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.101.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -774,10 +925,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.102.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.102.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -793,10 +948,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.82.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.82.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -812,10 +971,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.83.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.83.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -831,10 +994,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.84.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.84.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -850,10 +1017,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.85.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.85.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -869,10 +1040,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.86.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.86.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -888,10 +1063,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.87.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.87.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -907,10 +1086,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.88.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.88.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -926,10 +1109,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.89.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.89.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -945,10 +1132,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.90.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.90.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -964,10 +1155,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.91.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.91.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -983,10 +1178,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.92.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.92.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1002,10 +1201,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.93.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.93.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1021,10 +1224,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.94.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.94.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1040,10 +1247,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.95.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.95.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1059,10 +1270,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.96.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.96.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1078,10 +1293,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.97.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.97.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1097,10 +1316,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.98.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.98.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1116,10 +1339,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.99.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.3.8.99.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1135,10 +1362,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.103.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.103.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1154,10 +1385,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.104.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.104.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1173,10 +1408,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.105.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.105.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1192,10 +1431,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.106.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.106.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1211,10 +1454,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.107.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.107.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1230,10 +1477,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.108.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.108.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1249,10 +1500,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.109.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.109.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1268,10 +1523,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.110.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.0.110.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1287,10 +1546,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.10.113.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.10.113.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1306,10 +1569,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.114.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.114.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1325,10 +1592,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.115.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.115.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1344,10 +1615,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.116.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.11.116.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1363,10 +1638,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.117.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.117.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1382,10 +1661,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.118.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.118.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1401,10 +1684,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.119.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.119.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1420,10 +1707,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.120.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.120.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1439,10 +1730,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.121.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.121.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1458,10 +1753,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.122.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.12.122.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1477,10 +1776,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.123.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.123.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1496,10 +1799,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.124.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.124.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1515,10 +1822,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.125.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.125.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1534,10 +1845,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.126.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.126.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1553,10 +1868,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.127.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.127.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1572,10 +1891,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.128.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.128.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1591,10 +1914,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.129.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.129.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1610,10 +1937,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.130.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.130.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1629,10 +1960,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.131.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.131.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1648,10 +1983,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.132.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.132.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1667,10 +2006,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.133.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.133.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1686,10 +2029,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.134.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.134.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1705,10 +2052,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.135.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.135.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1724,10 +2075,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.136.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.136.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1743,10 +2098,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.137.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.137.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1762,10 +2121,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.138.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.138.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1781,10 +2144,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.139.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.139.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1800,10 +2167,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.140.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.140.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1819,10 +2190,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.141.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.141.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1838,10 +2213,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.142.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.142.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1857,10 +2236,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.143.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.143.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1876,10 +2259,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.144.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.13.144.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1895,10 +2282,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.145.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.145.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1914,10 +2305,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.146.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.146.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1933,10 +2328,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.147.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.147.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1952,10 +2351,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.148.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.148.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1971,10 +2374,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.149.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.149.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -1990,10 +2397,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.150.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.3-4.4.13.150.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2009,10 +2420,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.151.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.151.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2028,10 +2443,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.152.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.152.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2047,10 +2466,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.153.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.153.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2066,10 +2489,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.154.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.154.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2085,10 +2512,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.155.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.155.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2104,10 +2535,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.156.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.156.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2123,10 +2558,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.157.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.157.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2142,10 +2581,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.158.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.158.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2161,10 +2604,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.159.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.159.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2180,10 +2627,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.160.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.13.160.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2199,10 +2650,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.161.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.161.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2218,10 +2673,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.162.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.162.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2237,10 +2696,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.163.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.163.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2256,10 +2719,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.164.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.164.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2275,10 +2742,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.165.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.165.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2294,10 +2765,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.166.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.166.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2313,10 +2788,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.167.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.167.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2332,10 +2811,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.168.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.168.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2351,10 +2834,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.169.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.169.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2370,10 +2857,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.170.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.170.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2389,10 +2880,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.171.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.171.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2408,10 +2903,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.172.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.172.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2427,10 +2926,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.173.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.173.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2446,10 +2949,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.174.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.174.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2465,10 +2972,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.175.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.175.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2484,10 +2995,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.176.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.176.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2503,10 +3018,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.177.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.177.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2522,10 +3041,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.178.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.178.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2541,10 +3064,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.179.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.179.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2560,10 +3087,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.180.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.180.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2579,10 +3110,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.181.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.181.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2598,10 +3133,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.182.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.182.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2617,10 +3156,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.183.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.183.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2636,10 +3179,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.184.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.184.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2655,10 +3202,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.185.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.185.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2674,10 +3225,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.186.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.186.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2693,10 +3248,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.187.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.187.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2712,10 +3271,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.188.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.188.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2731,10 +3294,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.189.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.14.189.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2750,10 +3317,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.17.190.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.17.190.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2769,10 +3340,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.18.191.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.18.191.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2788,10 +3363,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.192.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.192.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2807,10 +3386,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.193.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.193.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2826,10 +3409,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.194.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.194.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2845,10 +3432,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.195.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.195.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2864,10 +3455,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.196.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.196.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2883,10 +3478,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.197.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.197.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2902,10 +3501,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.198.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.198.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2921,10 +3524,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.199.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.199.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2940,10 +3547,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.200.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.200.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2959,10 +3570,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.201.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.201.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2978,10 +3593,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.202.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.202.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -2997,10 +3616,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.203.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.203.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3016,10 +3639,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.204.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.204.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3035,10 +3662,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.205.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.205.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3054,10 +3685,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.206.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.206.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3073,10 +3708,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.207.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.207.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3092,10 +3731,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.208.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.208.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3111,10 +3754,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.209.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.209.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3130,10 +3777,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.210.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.210.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3149,10 +3800,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.211.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.211.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3168,10 +3823,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.212.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.212.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3187,10 +3846,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.213.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.213.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3206,10 +3869,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.214.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.214.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3225,10 +3892,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.215.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.215.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3244,10 +3915,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.216.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.216.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3263,10 +3938,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.217.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.217.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3282,10 +3961,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.218.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.218.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3301,10 +3984,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.219.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.219.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3320,10 +4007,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.220.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.220.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3339,10 +4030,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.221.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.221.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3358,10 +4053,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.222.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.222.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3377,10 +4076,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.223.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.223.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3396,10 +4099,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.224.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.224.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3415,10 +4122,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.225.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.225.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3434,10 +4145,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.226.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.226.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3453,10 +4168,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.227.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.227.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3472,10 +4191,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.228.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.228.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3491,10 +4214,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.229.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.229.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3510,10 +4237,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.230.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.230.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3529,10 +4260,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.231.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.231.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3548,10 +4283,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.232.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.232.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3567,10 +4306,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.233.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.233.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3586,10 +4329,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.234.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.234.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3605,10 +4352,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.235.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.235.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3624,10 +4375,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.236.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.236.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3643,10 +4398,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.237.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.237.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3662,10 +4421,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.238.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.238.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3681,10 +4444,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.239.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.239.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3700,10 +4467,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.240.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.240.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3719,10 +4490,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.241.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.241.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3738,10 +4513,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.242.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.242.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3757,10 +4536,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.243.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.243.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3776,10 +4559,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.244.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.244.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3795,10 +4582,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.245.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.245.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3814,10 +4605,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.246.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.246.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3833,10 +4628,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.247.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.247.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3852,10 +4651,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.248.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.248.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3871,10 +4674,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.249.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.249.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3890,10 +4697,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.250.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.250.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3909,10 +4720,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.251.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.251.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3928,10 +4743,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.252.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.252.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3947,10 +4766,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.253.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.253.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3966,10 +4789,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.254.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.254.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -3985,10 +4812,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.255.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.255.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4004,10 +4835,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.256.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.256.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4023,10 +4858,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.257.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.257.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4042,10 +4881,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.258.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.258.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4061,10 +4904,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.259.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.259.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4080,10 +4927,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.260.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.260.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4099,10 +4950,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.261.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.261.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4118,10 +4973,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.262.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.262.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4137,10 +4996,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.263.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.263.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4156,10 +5019,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.264.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.264.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4175,10 +5042,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.265.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.265.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4194,10 +5065,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.266.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.266.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4213,10 +5088,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.267.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.267.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4232,10 +5111,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.268.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.268.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4251,10 +5134,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.269.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.269.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4270,10 +5157,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.270.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.270.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4289,10 +5180,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.271.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.271.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4308,10 +5203,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.272.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.272.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4327,10 +5226,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.273.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.273.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4346,10 +5249,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.274.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.274.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4365,10 +5272,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.275.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.275.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4384,10 +5295,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.276.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.276.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4403,10 +5318,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.277.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.277.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4422,10 +5341,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.278.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.278.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4441,10 +5364,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.279.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.279.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4460,10 +5387,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.280.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.280.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4479,10 +5410,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.281.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.281.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4498,10 +5433,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.282.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.282.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4517,10 +5456,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.283.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.283.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4536,10 +5479,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.284.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.284.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4555,10 +5502,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.285.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.285.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4574,10 +5525,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.286.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.286.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4593,10 +5548,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.287.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.287.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4612,10 +5571,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.288.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.288.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4631,10 +5594,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.289.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.289.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4650,10 +5617,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.290.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.290.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4669,10 +5640,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.291.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.291.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4688,10 +5663,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.292.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.292.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4707,10 +5686,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.293.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.293.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4726,10 +5709,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.294.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.294.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4745,10 +5732,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.295.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.19.295.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4764,10 +5755,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.296.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.296.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4783,10 +5778,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.297.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.297.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4802,10 +5801,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.298.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.298.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4821,10 +5824,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.299.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.299.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4840,10 +5847,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.300.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.300.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4859,10 +5870,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.301.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.301.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4878,10 +5893,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.302.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.302.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4897,10 +5916,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.303.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.303.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4916,10 +5939,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.304.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.304.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4935,10 +5962,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.305.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.20.305.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4954,10 +5985,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.21.306.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.4-4.4.21.306.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4973,10 +6008,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.8.111.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.8.111.zip"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "forgeCompat": "[9.10,)",
             "installType": "forgeMod",
             "mcCompat": [
@@ -4992,7 +6031,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.9.112.zip"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.6.2-4.4.9.112.zip"
+                }
+            ]
         }
     ]
 }

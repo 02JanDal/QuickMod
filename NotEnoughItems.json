@@ -35,7 +35,6 @@
     },
     "versions": [
         {
-            "downloadType": "direct",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.4"
@@ -50,10 +49,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/NotEnoughItems%201.6.1.8.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/NotEnoughItems%201.6.1.8.jar"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.4"
@@ -68,10 +71,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/WAp6r"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/WAp6r"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.2"
@@ -86,10 +93,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/SohmZ"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/SohmZ"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.5.1"
@@ -104,10 +115,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/KpW91"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/KpW91"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.4.7"
@@ -122,10 +137,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/4KQKk"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/4KQKk"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.4"
@@ -140,7 +159,12 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/WAp6r"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/WAp6r"
+                }
+            ]
         }
     ]
 }

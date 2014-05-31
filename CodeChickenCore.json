@@ -35,7 +35,6 @@
     },
     "versions": [
         {
-            "downloadType": "direct",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.4"
@@ -50,10 +49,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/CodeChickenCore%200.9.0.7.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/CodeChickenCore%200.9.0.7.jar"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.4"
@@ -68,10 +71,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/WAp6p"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/WAp6p"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.2"
@@ -81,10 +88,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://adf.ly/SohmY"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/SohmY"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.5.1"
@@ -93,10 +104,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://adf.ly/KpW92"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/KpW92"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.4.7"
@@ -106,10 +121,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://adf.ly/E8CeK"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/E8CeK"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.4"
@@ -124,10 +143,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://adf.ly/WAp6p"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/WAp6p"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.2"
@@ -137,10 +160,14 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/CodeChickenCore%200.9.0.4.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.2/CodeChickenCore%200.9.0.4.jar"
+                }
+            ]
         },
         {
-            "downloadType": "direct",
             "installType": "forgeCoreMod",
             "mcCompat": [
                 "1.6.4"
@@ -155,10 +182,14 @@
                 }
             ],
             "type": "Release",
-            "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/CodeChickenCore%200.9.0.8.jar"
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://www.chickenbones.craftsaddle.org/Files/Old_Versions/1.6.4/CodeChickenCore%200.9.0.8.jar"
+                }
+            ]
         },
         {
-            "downloadType": "sequential",
             "installType": "forgeMod",
             "mcCompat": [
                 "1.7.2"
@@ -168,7 +199,12 @@
             "references": [
             ],
             "type": "Release",
-            "url": "http://adf.ly/hngBd"
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://adf.ly/hngBd"
+                }
+            ]
         }
     ]
 }
