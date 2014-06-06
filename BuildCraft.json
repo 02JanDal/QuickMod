@@ -45,10 +45,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "b24dad302b3885829e9e9447c9c7dd8f",
             "name": "6.0.6.0",
             "references": [
             ],
+            "sha1": "29122210d9cd4302d02d30b6073ebd7cd5eaf62d",
             "type": "",
             "urls": [
                 {
@@ -63,10 +63,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "b24dad302b3885829e9e9447c9c7dd8f",
             "name": "5.0.2.6",
             "references": [
             ],
+            "sha1": "29122210d9cd4302d02d30b6073ebd7cd5eaf62d",
             "type": "",
             "urls": [
                 {
@@ -81,10 +81,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "dae8181ede90cffc5e9ca62d159eddc5",
             "name": "5.0.3.6",
             "references": [
             ],
+            "sha1": "b7fa681412273e97f190b3fc41e81a7865f7633a",
             "type": "",
             "urls": [
                 {
@@ -99,10 +99,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3d2b0dad2291f1c0bb0c5b8c96303b68",
             "name": "4.2.2",
             "references": [
             ],
+            "sha1": "494b9334012ba65c969556197bee7915350f81ab",
             "type": "",
             "urls": [
                 {
@@ -117,10 +117,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c6f1ba4ebc8b38ef962a727ef051e2e8",
             "name": "4.2.1",
             "references": [
             ],
+            "sha1": "8c942289add6487fc1bde13d299cb97294a3e59c",
             "type": "",
             "urls": [
                 {
@@ -135,10 +135,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "e3de1fe84fe0cbef31be4772915d4a22",
             "name": "4.2.0",
             "references": [
             ],
+            "sha1": "a43dc9cbba4fd460d09341e3affd673ebac10f21",
             "type": "",
             "urls": [
                 {
@@ -153,10 +153,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2321781a9a0b4bc6a84ddc2ceb54cda5",
             "name": "4.1.2",
             "references": [
             ],
+            "sha1": "de5f801bf4e86e3787bf6953b658d0cf69dcb933",
             "type": "",
             "urls": [
                 {
@@ -171,10 +171,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6288690375139ec7cd8077580f24c2f4",
             "name": "4.1.1",
             "references": [
             ],
+            "sha1": "61074f271333e3fae0839367a9853a34001f4e3d",
             "type": "",
             "urls": [
                 {
@@ -189,10 +189,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5ea3380aefb3afd3e58d3a62c2ee7892",
             "name": "4.1.0",
             "references": [
             ],
+            "sha1": "7e1d74d9b805a479fdd82064eeeccb7aeb317e36",
             "type": "",
             "urls": [
                 {
@@ -207,10 +207,10 @@
             "mcCompat": [
                 "1.6.2"
             ],
-            "md5": "9e6cc9d41b0568c906fecf03337e0d2a",
             "name": "4.0.2",
             "references": [
             ],
+            "sha1": "f7e6d8f0e4ff93b078a66b672ac0f523c1ef13e2",
             "type": "",
             "urls": [
                 {
@@ -225,10 +225,10 @@
             "mcCompat": [
                 "1.6.2"
             ],
-            "md5": "fb1dc2fcefa0546995405258ac0d8f28",
             "name": "4.0.1",
             "references": [
             ],
+            "sha1": "b800a572c750fa6aa1f12c04a3a20e94d8380938",
             "type": "",
             "urls": [
                 {
@@ -243,10 +243,10 @@
             "mcCompat": [
                 "1.6.2"
             ],
-            "md5": "a24c223c6880a50c76b3b4189e9db402",
             "name": "4.0.0",
             "references": [
             ],
+            "sha1": "99b26995cb37e939488eb3587fcf5562908afb14",
             "type": "",
             "urls": [
                 {
@@ -261,10 +261,10 @@
             "mcCompat": [
                 "1.5.2"
             ],
-            "md5": "4495f0087053a8434863d08677420b62",
             "name": "3.7.2",
             "references": [
             ],
+            "sha1": "9dd2923a2138423d0e6cadbd974a6384ebf756b5",
             "type": "",
             "urls": [
                 {

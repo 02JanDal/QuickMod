@@ -40,7 +40,6 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "a0000db0a988173d92b579a123560d17",
             "name": "1.1.3",
             "references": [
                 {
@@ -54,6 +53,7 @@
                     "version": ""
                 }
             ],
+            "sha1": "f1cb4dccb456b610eb79cb81d7ccb45d5009e651",
             "type": "",
             "urls": [
                 {
@@ -67,7 +67,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8f611797f0bbb61968f70b8effb41cd0",
             "name": "1.1.2",
             "references": [
                 {
@@ -81,6 +80,7 @@
                     "version": ""
                 }
             ],
+            "sha1": "c7f7f7c7736331942d3e5bcb15b11fde4274929e",
             "type": "",
             "urls": [
                 {
@@ -94,7 +94,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a17a9c4ddf840482b916c59e3806c49f",
             "name": "1.1.1",
             "references": [
                 {
@@ -108,6 +107,7 @@
                     "version": ""
                 }
             ],
+            "sha1": "8a3e9c38d10a1e0043647a0873e24731f5997736",
             "type": "",
             "urls": [
                 {
@@ -121,7 +121,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "54c0745b31e33c4d34b4a3d6b103557f",
             "name": "1.1.0",
             "references": [
                 {
@@ -135,6 +134,7 @@
                     "version": ""
                 }
             ],
+            "sha1": "9c456f66c035bff6ba7efcfe200686928d641c20",
             "type": "",
             "urls": [
                 {

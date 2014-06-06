@@ -43,7 +43,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3dec4e88dfbb07b7c79f41d89a7faca5",
             "name": "3.0.0.2",
             "references": [
                 {
@@ -67,6 +66,7 @@
                     "version": ""
                 }
             ],
+            "sha1": "8b62ee1e0809378dcc27bc8cc444ebb1a10634f9",
             "type": "Release",
             "urls": [
                 {
@@ -81,7 +81,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "27725d201ab39d497052c2f16aadbb5c",
             "name": "3.0.0.5",
             "references": [
                 {
@@ -105,6 +104,7 @@
                     "version": ""
                 }
             ],
+            "sha1": "1e34564bafc02ffad930c330d60819411e0a147b",
             "type": "Release",
             "urls": [
                 {

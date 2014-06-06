@@ -41,7 +41,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3e11013ae7e327d4fb5f1d9bdef10fcd",
             "name": "2.7.5",
             "references": [
                 {
@@ -50,6 +49,7 @@
                     "version": "[1.1.8,)"
                 }
             ],
+            "sha1": "ad590e80e306a054095d9a30f0d5053f1c58f91b",
             "type": "Release",
             "urls": [
                 {
@@ -63,7 +63,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c8f1dca675db22a7739f4fe013bd50da",
             "name": "2.7.3",
             "references": [
                 {
@@ -72,6 +71,7 @@
                     "version": "[1.1.8,)"
                 }
             ],
+            "sha1": "90a0adb6af0daf968adf17b6f66b242dd85027d9",
             "type": "Release",
             "urls": [
                 {
@@ -85,7 +85,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b49f9402093374bf8cc988fe1be0da28",
             "name": "2.7.2",
             "references": [
                 {
@@ -94,6 +93,7 @@
                     "version": "[1.1.8,)"
                 }
             ],
+            "sha1": "a932f2d66cfdc34a04952008e7d36645d8383248",
             "type": "Release",
             "urls": [
                 {
@@ -107,7 +107,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7e7c8c1dd76e8c1ce4999199ac468801",
             "name": "2.7.0",
             "references": [
                 {
@@ -116,6 +115,7 @@
                     "version": "[1.1.8,)"
                 }
             ],
+            "sha1": "72fac9253ed07d920d81e5426b0371f76fb01a31",
             "type": "Release",
             "urls": [
                 {
@@ -129,7 +129,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f705f88a918e9c3b87397deab96e5d81",
             "name": "2.7.7",
             "references": [
                 {
@@ -138,6 +137,7 @@
                     "version": "[1.1.8,)"
                 }
             ],
+            "sha1": "01c726c4982ffa2554260491784950fb0fb7d588",
             "type": "Release",
             "urls": [
                 {
@@ -151,7 +151,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f705f88a918e9c3b87397deab96e5d81",
             "name": "2.7.8",
             "references": [
                 {
@@ -160,6 +159,7 @@
                     "version": "[1.1.8,)"
                 }
             ],
+            "sha1": "01c726c4982ffa2554260491784950fb0fb7d588",
             "type": "Release",
             "urls": [
                 {
@@ -173,10 +173,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3e11013ae7e327d4fb5f1d9bdef10fcd",
             "name": "2.7.6",
             "references": [
             ],
+            "sha1": "ad590e80e306a054095d9a30f0d5053f1c58f91b",
             "type": "Release",
             "urls": [
                 {
@@ -190,10 +190,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c8f1dca675db22a7739f4fe013bd50da",
             "name": "2.7.4",
             "references": [
             ],
+            "sha1": "90a0adb6af0daf968adf17b6f66b242dd85027d9",
             "type": "Release",
             "urls": [
                 {
@@ -207,10 +207,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b49f9402093374bf8cc988fe1be0da28",
             "name": "",
             "references": [
             ],
+            "sha1": "a932f2d66cfdc34a04952008e7d36645d8383248",
             "type": "Release",
             "urls": [
                 {
@@ -224,10 +224,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7e7c8c1dd76e8c1ce4999199ac468801",
             "name": "2.7.1",
             "references": [
             ],
+            "sha1": "72fac9253ed07d920d81e5426b0371f76fb01a31",
             "type": "Release",
             "urls": [
                 {
@@ -241,10 +241,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "65f2499d749c18f8e9ca3b9cd0576da0",
             "name": "2.7.9",
             "references": [
             ],
+            "sha1": "5e96ddc45026cb2e0bf8239c572c0afc3f9fcea7",
             "type": "",
             "urls": [
                 {

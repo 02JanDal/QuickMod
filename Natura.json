@@ -38,10 +38,10 @@
             "mcCompat": [
                 "1.5.2"
             ],
-            "md5": "15469ff43db05c103552be478f7d6ddb",
             "name": "2.1.5",
             "references": [
             ],
+            "sha1": "337fb7713f2b83407a85d896e3c958b4db9abe85",
             "type": "Release",
             "urls": [
                 {
@@ -55,10 +55,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0b0712e9741829681964e5ab682c74f1",
             "name": "2.1.14",
             "references": [
             ],
+            "sha1": "10c779a40aae5fe6e8b71ea6b8d6b813586f5e61",
             "type": "Release",
             "urls": [
                 {
@@ -72,10 +72,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0b0712e9741829681964e5ab682c74f1",
             "name": "2.1.1",
             "references": [
             ],
+            "sha1": "10c779a40aae5fe6e8b71ea6b8d6b813586f5e61",
             "type": "Release",
             "urls": [
                 {

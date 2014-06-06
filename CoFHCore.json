@@ -38,10 +38,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ade9ade85b385827f56de0432d290665",
             "name": "2.0.0.2",
             "references": [
             ],
+            "sha1": "089afcd355f28fde5d7938886329e4d1640a9ef1",
             "type": "Release",
             "urls": [
                 {
@@ -55,10 +55,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a3c5c440ecc89ff9b2d3ca777e44722b",
             "name": "2.0.0.5",
             "references": [
             ],
+            "sha1": "5484bb208f3a6306a288c942a1f305516da5800e",
             "type": "Release",
             "urls": [
                 {

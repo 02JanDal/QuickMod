@@ -39,7 +39,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "86000b679bbe478e810357875dc9a475",
             "name": "1.3.3.3",
             "references": [
                 {
@@ -48,6 +47,7 @@
                     "version": "[0.9.0.6,)"
                 }
             ],
+            "sha1": "143be69351467fa7ddceaf23ee018b816ef2e702",
             "type": "Release",
             "urls": [
                 {
@@ -61,7 +61,6 @@
             "mcCompat": [
                 "1.6.2"
             ],
-            "md5": "9600db39e73b896afde3732377eab58f",
             "name": "1.3.3.2",
             "references": [
                 {
@@ -70,6 +69,7 @@
                     "version": "0.9.0.5"
                 }
             ],
+            "sha1": "caa708fb07fde89bb63d1541e3448ad10097cb5f",
             "type": "Release",
             "urls": [
                 {
@@ -83,7 +83,6 @@
             "mcCompat": [
                 "1.5.1"
             ],
-            "md5": "9a613b4b5fd287e4ce4f20875f72ec04",
             "name": "1.3.2.14",
             "references": [
                 {
@@ -92,6 +91,7 @@
                     "version": "0.8.7.3"
                 }
             ],
+            "sha1": "700b921b9ab0eaea1f897e13e2a0ce34dbac9b07",
             "type": "Release",
             "urls": [
                 {
@@ -105,7 +105,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8aee65f6430b96e2b18e346b3713f51d",
             "name": "1.3.3.4",
             "references": [
                 {
@@ -114,6 +113,7 @@
                     "version": "[0.9.0.6,)"
                 }
             ],
+            "sha1": "3800eae0663b50a658d51e57d3fb79dbe974ec81",
             "type": "Release",
             "urls": [
                 {
@@ -127,7 +127,6 @@
             "mcCompat": [
                 "1.6.2"
             ],
-            "md5": "16dfb190785a53139d1965227dd00ca9",
             "name": "1.3.3.1",
             "references": [
                 {
@@ -136,6 +135,7 @@
                     "version": "[0.9.0.0,)"
                 }
             ],
+            "sha1": "2734b7c8fa32a5f1c755f99fbc3c912a23316526",
             "type": "Release",
             "urls": [
                 {

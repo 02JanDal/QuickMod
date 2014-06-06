@@ -39,7 +39,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8c085124f761c51d01d6ae30f005885e",
             "name": "1.1.0.13",
             "references": [
                 {
@@ -48,6 +47,7 @@
                     "version": "0.9.0.6"
                 }
             ],
+            "sha1": "40b9b49b8f207349f4c34b6adf101d540e6e8cd6",
             "type": "Release",
             "urls": [
                 {
@@ -61,7 +61,6 @@
             "mcCompat": [
                 "1.6.2"
             ],
-            "md5": "fcda8fac9d0fb1cba3c9c1c33fae8a48",
             "name": "1.1.0.12",
             "references": [
                 {
@@ -70,6 +69,7 @@
                     "version": "0.9.0.5"
                 }
             ],
+            "sha1": "d95928012c9d1675f80bb00ee9b6684a102830d9",
             "type": "Release",
             "urls": [
                 {
@@ -83,7 +83,6 @@
             "mcCompat": [
                 "1.5.1"
             ],
-            "md5": "0c7146744a2a628986f1817c2af2f08c",
             "name": "1.1.0.5",
             "references": [
                 {
@@ -92,6 +91,7 @@
                     "version": "0.8.7.3"
                 }
             ],
+            "sha1": "2bcd0546a692bb54e373b28ecb2fd0da2ae6c51e",
             "type": "Release",
             "urls": [
                 {
@@ -105,7 +105,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8c085124f761c51d01d6ae30f005885e",
             "name": "1.1.0.15",
             "references": [
                 {
@@ -114,6 +113,7 @@
                     "version": "[0.9.0.8,)"
                 }
             ],
+            "sha1": "40b9b49b8f207349f4c34b6adf101d540e6e8cd6",
             "type": "Release",
             "urls": [
                 {
@@ -127,7 +127,6 @@
             "mcCompat": [
                 "1.6.2"
             ],
-            "md5": "3e6ae346d370df8a3f7940211cc9613d",
             "name": "1.1.0.11",
             "references": [
                 {
@@ -136,6 +135,7 @@
                     "version": "[0.9.0.4,)"
                 }
             ],
+            "sha1": "32fa6645506a83e5e9831d2e24d84dd9b1c22e0e",
             "type": "Release",
             "urls": [
                 {
@@ -149,7 +149,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2e94bcebbb9c12c07ac41d915a470019",
             "name": "1.1.0.14",
             "references": [
                 {
@@ -158,6 +157,7 @@
                     "version": "[0.9.0.8,)"
                 }
             ],
+            "sha1": "07765c79740e1dd930e5a8b793241b7c8ec626a5",
             "type": "Release",
             "urls": [
                 {

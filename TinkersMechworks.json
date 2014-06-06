@@ -39,7 +39,6 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "52b8cf82577bb9e391eb8bc1da7dd2d0",
             "name": "0.1.6",
             "references": [
                 {
@@ -48,6 +47,7 @@
                     "version": ""
                 }
             ],
+            "sha1": "a94ad282a2b05d6b3f6eeaa8348723b322027efe",
             "type": "",
             "urls": [
                 {

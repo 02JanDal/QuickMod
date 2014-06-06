@@ -41,10 +41,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5e6c55b3bddab6aeea2131990fb81aff",
             "name": "0.6.3.10",
             "references": [
             ],
+            "sha1": "1d2c1f45228ffecbdcf797cdd62b541a3025c205",
             "type": "Release",
             "urls": [
                 {
@@ -58,10 +58,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d2941c8a087137340a794aa519c6feb1",
             "name": "0.6.3.11",
             "references": [
             ],
+            "sha1": "133075981f3766cf9fd84da52d359827af363ca0",
             "type": "Release",
             "urls": [
                 {
@@ -75,10 +75,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "bdb327811daf2374d1d46ad2f2d1b654",
             "name": "0.6.3.12",
             "references": [
             ],
+            "sha1": "b198277b01045fdfe83172dac75abde723fcfd1f",
             "type": "Release",
             "urls": [
                 {
@@ -92,10 +92,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "19f988daa60ced6ec39f1416521632e3",
             "name": "0.6.3.14",
             "references": [
             ],
+            "sha1": "25895665b42cedc537e47ec981a311275837376f",
             "type": "Release",
             "urls": [
                 {
@@ -109,10 +109,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d369b01ad59562115bdd5b40522f4872",
             "name": "0.6.3.15",
             "references": [
             ],
+            "sha1": "8b4871869a3def2ef74ec2da6a78dd3dbd5581b8",
             "type": "Release",
             "urls": [
                 {
@@ -126,10 +126,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "574048134a79327fd155fb757b5c6f4f",
             "name": "0.6.3.18",
             "references": [
             ],
+            "sha1": "bc5f312afb15d6cba527ee8c5b039b2cab3fe1c7",
             "type": "Release",
             "urls": [
                 {
@@ -143,10 +143,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b13a5d84207bc2ccbb098b7d49197cbb",
             "name": "0.6.3.20",
             "references": [
             ],
+            "sha1": "f0a16236935e99b8a28bfc7d7601eeff6563256d",
             "type": "Release",
             "urls": [
                 {
@@ -160,10 +160,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9035ef7109681aa113ffaf6560be7baf",
             "name": "0.6.3.21",
             "references": [
             ],
+            "sha1": "19314808a8b35fda4fb0cbb857bff066b9b8bb46",
             "type": "Release",
             "urls": [
                 {
@@ -177,10 +177,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9c823f8aa558e208c4221bb163dd9e1b",
             "name": "0.6.3.22",
             "references": [
             ],
+            "sha1": "1eaa7e29e7cbe1df2c20c0abdcae16024f6c407a",
             "type": "Release",
             "urls": [
                 {
@@ -194,10 +194,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "849a1cfac7f5c26adc5006ab668d1c02",
             "name": "0.6.3.23",
             "references": [
             ],
+            "sha1": "478340662ad7c753b543333da9a0c8554ed1d2e3",
             "type": "Release",
             "urls": [
                 {
@@ -211,10 +211,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7a9046745dc9f7537eb4c4a6d367a3b9",
             "name": "0.6.3.24",
             "references": [
             ],
+            "sha1": "3673323311e125be5fe06cba642555ec8497d373",
             "type": "Release",
             "urls": [
                 {
@@ -228,10 +228,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6b9662dac30391832b40a9919dd4a833",
             "name": "0.6.3.25",
             "references": [
             ],
+            "sha1": "36b416b588a4a0c034e632e82db30e79175f5773",
             "type": "Release",
             "urls": [
                 {
@@ -245,10 +245,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ca52c16647040c335924cce2acfd6454",
             "name": "0.6.3.26",
             "references": [
             ],
+            "sha1": "7ae7a034d669c21683c11f6edd6f02cbde108f61",
             "type": "Release",
             "urls": [
                 {
@@ -262,10 +262,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "af578fed2506dc1853c7bd85cb8e0089",
             "name": "0.6.3.27",
             "references": [
             ],
+            "sha1": "85710d83528977aeb2dcf7f2fc2795883a5857df",
             "type": "Release",
             "urls": [
                 {
@@ -279,10 +279,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "093e7fff101062a4e14415bf5a3dbcdc",
             "name": "0.6.3.28",
             "references": [
             ],
+            "sha1": "9a664f172ceff4610ab8ea2f201f5bfc1078d88e",
             "type": "Release",
             "urls": [
                 {
@@ -296,10 +296,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ff93893d45730f7c907a5d5f719c6364",
             "name": "0.6.3.29",
             "references": [
             ],
+            "sha1": "6abc3420bde70f2503d194bf18ff35051899c597",
             "type": "Release",
             "urls": [
                 {
@@ -313,10 +313,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4e59c197c3e50d5c01b60fd38cb7a4b0",
             "name": "0.6.3.3",
             "references": [
             ],
+            "sha1": "1e7707d41b6badb88fd5d1fe0c400f0fb61aaa1c",
             "type": "Release",
             "urls": [
                 {
@@ -330,10 +330,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "854437d2ef496fc86a60ad026c5f89cd",
             "name": "0.6.3.30",
             "references": [
             ],
+            "sha1": "ffc8232b4967022a43c7d64ae3f392949a165eec",
             "type": "Release",
             "urls": [
                 {
@@ -347,10 +347,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "55d82c26917fc078263cf03607a17e17",
             "name": "0.6.3.31",
             "references": [
             ],
+            "sha1": "69acefad1926737ceff6d68dda8a90abe6d37af7",
             "type": "Release",
             "urls": [
                 {
@@ -364,10 +364,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "20dfe5f20a8f0c0459d01540e321e77d",
             "name": "0.6.3.6",
             "references": [
             ],
+            "sha1": "ebc14524f1566b3f286319ac286345d33f1dfaab",
             "type": "Release",
             "urls": [
                 {
@@ -381,10 +381,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0c90f0fcaffe90a003ea4753e84471d1",
             "name": "0.6.3.9",
             "references": [
             ],
+            "sha1": "38522773d9d611ca43c93b8e9c61c7b3f6d61250",
             "type": "Release",
             "urls": [
                 {
@@ -398,10 +398,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9b04079e64a5fc6ced2ab4cdb21181cf",
             "name": "1.1.0.32",
             "references": [
             ],
+            "sha1": "67db08a6d6f6a096df44b2732a4921e4e742097b",
             "type": "Release",
             "urls": [
                 {
@@ -415,10 +415,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "764259802d709255ecb9480259e703e3",
             "name": "1.1.0.33",
             "references": [
             ],
+            "sha1": "9d1c29e19e378cf9af9bd8755e9595a8f5ebba68",
             "type": "Release",
             "urls": [
                 {
@@ -432,10 +432,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ca0e48924335e10e521bdfda2c1db449",
             "name": "1.1.0.34",
             "references": [
             ],
+            "sha1": "1b1a9c4c9ac5c30624ff9ac02d2f00928473c8e4",
             "type": "Release",
             "urls": [
                 {
@@ -449,10 +449,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a4b8221a5502288751b8521c95b161fe",
             "name": "1.1.0.35",
             "references": [
             ],
+            "sha1": "0c0418336c79de1e2d78e071e802b40f2f381100",
             "type": "Release",
             "urls": [
                 {
@@ -466,10 +466,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "29583b479f4cbc1b6b6c0e350726ce5b",
             "name": "1.1.0.36",
             "references": [
             ],
+            "sha1": "b4eb867785041f334cedd0ae5145f3466b2fa777",
             "type": "Release",
             "urls": [
                 {
@@ -483,10 +483,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "e80566a4fa3828dafe6d09632599b8f6",
             "name": "1.1.0.37",
             "references": [
             ],
+            "sha1": "ad057e40db471348ba06f7ec705580855ecdc28d",
             "type": "Release",
             "urls": [
                 {
@@ -500,10 +500,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "003688b3be226437dbf38d395e903f51",
             "name": "1.1.0.40",
             "references": [
             ],
+            "sha1": "bef8374b3f153e85b955d1718fef30333370b7e7",
             "type": "Release",
             "urls": [
                 {
@@ -517,10 +517,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c0484ce1bc026adb6f78e87b07f60412",
             "name": "1.1.0.41",
             "references": [
             ],
+            "sha1": "8f42dc970b7c4722e5415e4151131873b95fd84e",
             "type": "Release",
             "urls": [
                 {
@@ -534,10 +534,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2f5405b077d8a4c8236a56028651d4dd",
             "name": "1.1.0.42",
             "references": [
             ],
+            "sha1": "0f7cdd400b3b40637d39066cdfeb0374629c2834",
             "type": "Release",
             "urls": [
                 {
@@ -551,10 +551,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4be577c659152314ca3711e74afe20ad",
             "name": "1.1.0.43",
             "references": [
             ],
+            "sha1": "0ae35558ebfabf7f3d3c10e545c3046fec1cc6b9",
             "type": "Release",
             "urls": [
                 {
@@ -568,10 +568,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d74dc9d7b874338b80b1d011a0ea6070",
             "name": "1.1.0.44",
             "references": [
             ],
+            "sha1": "35ccf6b47f625d7f595c05a5f9d1dc9c87b2a84c",
             "type": "Release",
             "urls": [
                 {
@@ -585,10 +585,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4088a09fb23c06afcc37b95be976f96d",
             "name": "1.1.0.45",
             "references": [
             ],
+            "sha1": "e28978833b404cbac02c4f176ef678c9bb0a12b8",
             "type": "Release",
             "urls": [
                 {
@@ -602,10 +602,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "87f78ea19baa1b88b166a883bc5a6af0",
             "name": "1.1.0.46",
             "references": [
             ],
+            "sha1": "9752a0ecffc396f36358697514bde0a448de0acc",
             "type": "Release",
             "urls": [
                 {
@@ -619,10 +619,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "fb85bbf89ad68177e038fd1b6d7ad8f6",
             "name": "1.1.1.47",
             "references": [
             ],
+            "sha1": "8fdc7884cfc6a05d23dc620e8213da1fcf107da3",
             "type": "Release",
             "urls": [
                 {
@@ -636,10 +636,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4eb093c8de3a49c2683c0919cd35cc09",
             "name": "1.1.1.48",
             "references": [
             ],
+            "sha1": "671922d5d257d3dd90b3217d14762fbca918fbe8",
             "type": "Release",
             "urls": [
                 {
@@ -653,10 +653,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8cccc7ceab89f32c0d05ea69b305d80c",
             "name": "1.1.1.49",
             "references": [
             ],
+            "sha1": "c17c8ef03d5898080bd6274e04a47f9a3460f08f",
             "type": "Release",
             "urls": [
                 {
@@ -670,10 +670,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3d591e40759f19331d5a3aca8c6fbe4e",
             "name": "1.1.2.50",
             "references": [
             ],
+            "sha1": "9a517e7c1ce01555a7b49864c21578d167a2777a",
             "type": "Release",
             "urls": [
                 {
@@ -687,10 +687,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "592f34a7fba957d028822c0779091e57",
             "name": "1.1.2.51",
             "references": [
             ],
+            "sha1": "1b2adda44740f5a2697e03109ec10e051e18f58a",
             "type": "Release",
             "urls": [
                 {
@@ -704,10 +704,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4df7acb3b6c1e3e41ecc44e6de619ca3",
             "name": "1.1.2.52",
             "references": [
             ],
+            "sha1": "e1037fb2d21f1a7488b8adce293aaa6485726b80",
             "type": "Release",
             "urls": [
                 {
@@ -721,10 +721,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9351ba5ca69c43bf07f542815377f789",
             "name": "1.1.2.53",
             "references": [
             ],
+            "sha1": "41a8cb47ff58a0f89d48046bfbd0a77d61860bf6",
             "type": "Release",
             "urls": [
                 {
@@ -738,10 +738,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b1afb65ce981747c36e299957bad2077",
             "name": "1.1.2.54",
             "references": [
             ],
+            "sha1": "24088f370561eec11324360ddbe5843fb0e2467e",
             "type": "Release",
             "urls": [
                 {
@@ -755,10 +755,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f748aab72055fb9d8008d1abe81a9da0",
             "name": "1.1.2.55",
             "references": [
             ],
+            "sha1": "ed2a0ad39f0731b6fb2decf9b7689ea26eb0a238",
             "type": "Release",
             "urls": [
                 {
@@ -772,10 +772,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "378577665b8bb4f962f16fc0097163df",
             "name": "1.1.2.56",
             "references": [
             ],
+            "sha1": "24b90ec9ae9253a41b29fc025712ff9da2ff86b3",
             "type": "Release",
             "urls": [
                 {
@@ -789,10 +789,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "eb6bf2e2a34f9a3574ca27d35a73b0ed",
             "name": "1.1.2.57",
             "references": [
             ],
+            "sha1": "648588821a1d389a0e9ccd8db4064009d3b3d8cf",
             "type": "Release",
             "urls": [
                 {
@@ -806,10 +806,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "122f78f9254b948c4393c5a2beef2b4b",
             "name": "1.1.2.58",
             "references": [
             ],
+            "sha1": "609497bd42db37cc9b3233f9c6ffa4440ba9f5ec",
             "type": "Release",
             "urls": [
                 {
@@ -823,10 +823,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "fe628d6041a3503d1c4c4a9150ad4325",
             "name": "1.1.2.59",
             "references": [
             ],
+            "sha1": "c3d0410a6e7a01903f41de1d922b457a28ad5bc1",
             "type": "Release",
             "urls": [
                 {
@@ -840,10 +840,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "042be110caee563f43a3bf62227a4421",
             "name": "1.1.2.60",
             "references": [
             ],
+            "sha1": "709b5af73d08dc161132097c281282f953fd3c0e",
             "type": "Release",
             "urls": [
                 {
@@ -857,10 +857,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a8d5a5cbb9dc2bff80016756baf03fb5",
             "name": "1.1.2.61",
             "references": [
             ],
+            "sha1": "7fcd963a563a85058267c8c5b7931cd60ac44346",
             "type": "Release",
             "urls": [
                 {
@@ -874,10 +874,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6f8113fb25def43aa0242e790b8c911a",
             "name": "1.1.2.62",
             "references": [
             ],
+            "sha1": "b09d30e945512342d96889e859f2b5abbf328cef",
             "type": "Release",
             "urls": [
                 {
@@ -891,10 +891,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d733e6f93e61d677dfe40e35d92babff",
             "name": "1.1.2.63",
             "references": [
             ],
+            "sha1": "f9ac230fbe67ab400c4423c08dbb8db18c1399cf",
             "type": "Release",
             "urls": [
                 {
@@ -908,10 +908,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "323b5c734bfc6d070b8d974a0405af29",
             "name": "1.1.2.64",
             "references": [
             ],
+            "sha1": "bebb4190897063f53de7697c99f0d883ca1ef6d1",
             "type": "Release",
             "urls": [
                 {
@@ -925,10 +925,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "511bcd5f2dbc482674d2f740aae75ddf",
             "name": "1.1.2.65",
             "references": [
             ],
+            "sha1": "6297badd9f4be22f814471114290ebea799367fe",
             "type": "Release",
             "urls": [
                 {
@@ -942,10 +942,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "bda1ea1ed1a1985789abb7d0088e2418",
             "name": "1.1.2.66",
             "references": [
             ],
+            "sha1": "798557cfe8555777d7f182d87db2de910b3c7607",
             "type": "Release",
             "urls": [
                 {
@@ -959,10 +959,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "49a25d8d1d18689298277a2ff8dcb491",
             "name": "1.1.2.67",
             "references": [
             ],
+            "sha1": "2dc9c29a88ece5939c21f4b67303ed472aa9f556",
             "type": "Release",
             "urls": [
                 {
@@ -976,10 +976,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f849c0a410733d8d744c64f35dff961b",
             "name": "1.1.2.68",
             "references": [
             ],
+            "sha1": "3de3b869f7c60995d219525f7ba4365b785cf13d",
             "type": "Release",
             "urls": [
                 {
@@ -993,10 +993,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "77f52106de4257f6c91712abd0ef1bec",
             "name": "1.1.2.69",
             "references": [
             ],
+            "sha1": "49f23013f5cab79bfba2f9b76d1900abb4c0cee8",
             "type": "Release",
             "urls": [
                 {
@@ -1010,10 +1010,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "db2b321ead306d1625a8192cf9fba8d0",
             "name": "1.1.2.70",
             "references": [
             ],
+            "sha1": "c7c73774a521e7ff44c710935634a22b46dd1abe",
             "type": "Release",
             "urls": [
                 {
@@ -1027,10 +1027,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7941fc37a63e5e18dbd52a41f7be5640",
             "name": "1.1.2.71",
             "references": [
             ],
+            "sha1": "7d68fd757a662be74e4745c6553a7ece922f0788",
             "type": "Release",
             "urls": [
                 {
@@ -1044,10 +1044,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "74626928a9f9cf00ada35e3cc269d9ad",
             "name": "1.1.2.72",
             "references": [
             ],
+            "sha1": "9d2d4667fe7a2bac08c257dd9a678098263c4897",
             "type": "Release",
             "urls": [
                 {
@@ -1061,10 +1061,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "30dcae485151c6bb93031c1ab2e46b8d",
             "name": "1.1.2.73",
             "references": [
             ],
+            "sha1": "70c70085a435c8e9055171880cced402fb069daf",
             "type": "Release",
             "urls": [
                 {
@@ -1078,10 +1078,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "222bab1c0cb27903c9faa197a1d65ad4",
             "name": "1.1.2.74",
             "references": [
             ],
+            "sha1": "305b1f67e4e64d16aeb5acb0ac1b2003643cc43d",
             "type": "Release",
             "urls": [
                 {
@@ -1095,10 +1095,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c56fb6ba9f90cf778a7e3d44d13f0a08",
             "name": "1.1.2.75",
             "references": [
             ],
+            "sha1": "dafedf43f62f1f7d2b00d00efad52c024cdd7acf",
             "type": "Release",
             "urls": [
                 {
@@ -1112,10 +1112,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "803c1868b082028f6ccaef9e719242b9",
             "name": "1.1.2.76",
             "references": [
             ],
+            "sha1": "f462fc4facd1266e3bbaa9deb9356f053a743156",
             "type": "Release",
             "urls": [
                 {
@@ -1129,10 +1129,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "270e9f95879720a3f70d7eb28505e172",
             "name": "1.1.2.77",
             "references": [
             ],
+            "sha1": "14c331d474860598348b6609f741f996ec233b04",
             "type": "Release",
             "urls": [
                 {
@@ -1146,10 +1146,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a34e31e61c39c8f01e752dea2f33f170",
             "name": "1.1.2.78",
             "references": [
             ],
+            "sha1": "e31d676f5b4f66628c0e587d2b45bbf5c9b557b8",
             "type": "Release",
             "urls": [
                 {
@@ -1163,10 +1163,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b4076bf2aaa3f8193d9febbcccdd24a5",
             "name": "1.1.2.79",
             "references": [
             ],
+            "sha1": "838db493571e2fdac979e1f166b9914751889dd0",
             "type": "Release",
             "urls": [
                 {
@@ -1180,10 +1180,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ef073ba6d9b8b17d5ee71333b9f78814",
             "name": "1.1.2.80",
             "references": [
             ],
+            "sha1": "f38d8ae5f9ae52500fd9927d1203c01aad7d9be2",
             "type": "Release",
             "urls": [
                 {
@@ -1197,10 +1197,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a7b766c94d8f74b504b8b466916524f8",
             "name": "1.1.2.81",
             "references": [
             ],
+            "sha1": "e0a7e1376907cb340e87972b5182f91eb9651745",
             "type": "Release",
             "urls": [
                 {
@@ -1214,10 +1214,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "897ed9d9802c5ffab5e6ac644c47643b",
             "name": "1.1.2.82",
             "references": [
             ],
+            "sha1": "bebc93e2a30b5752ab701062528a69a335d422a4",
             "type": "Release",
             "urls": [
                 {
@@ -1231,10 +1231,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "99ad678617743f2314d244d3aa4365dd",
             "name": "1.1.2.83",
             "references": [
             ],
+            "sha1": "0836df4b9e4b2afb619af40469fa04f8aa8c8ec7",
             "type": "Release",
             "urls": [
                 {
@@ -1248,10 +1248,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a287ad488dd6e7b19905500e1a95474d",
             "name": "1.1.2.84",
             "references": [
             ],
+            "sha1": "05c0562955467231555220d50d1d19ce9ef72b3b",
             "type": "Release",
             "urls": [
                 {
@@ -1265,10 +1265,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b0f6a0342b9403c213b651e2fcb83ba0",
             "name": "1.1.2.85",
             "references": [
             ],
+            "sha1": "c1209409c76ffbc570164557a7c50cb000a2edc6",
             "type": "Release",
             "urls": [
                 {
@@ -1282,10 +1282,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6af89a9d46d5f8c1a187da737c095d70",
             "name": "1.1.2.86",
             "references": [
             ],
+            "sha1": "1483a6ee50604e18415742c1a1ddbe8c783a3bd4",
             "type": "Release",
             "urls": [
                 {
@@ -1299,10 +1299,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a500168b9cfb29a4072d799683356f4d",
             "name": "1.1.2.87",
             "references": [
             ],
+            "sha1": "f426598f2dfa5e345922cd529ef1f7cb1ae563c5",
             "type": "Release",
             "urls": [
                 {
@@ -1316,10 +1316,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3e10515339db23747f9cdcf7cd91f967",
             "name": "1.1.2.88",
             "references": [
             ],
+            "sha1": "1b5b5073e10f0c4daf53bf55b1035622c3219ab8",
             "type": "Release",
             "urls": [
                 {
@@ -1333,10 +1333,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "86c0103c5402b11efbc12a8b0598d87e",
             "name": "1.1.2.89",
             "references": [
             ],
+            "sha1": "474f790631df74fa95bf9922e6a4d739cfbad38d",
             "type": "Release",
             "urls": [
                 {
@@ -1350,10 +1350,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "265f5c6fcc7c3c84b7749e8e40de553c",
             "name": "1.1.2.90",
             "references": [
             ],
+            "sha1": "fc62164d55aac975d6464b862185b8dd40340581",
             "type": "Release",
             "urls": [
                 {
@@ -1367,10 +1367,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "bda97efaa3e23cc6e33357ca6fc6828d",
             "name": "1.1.2.91",
             "references": [
             ],
+            "sha1": "428af4496e7bd9a0bff392af496b24fcb2bc9baa",
             "type": "Release",
             "urls": [
                 {
@@ -1384,10 +1384,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c4b6ba46b3f213da16519742a71e205f",
             "name": "1.1.2.92",
             "references": [
             ],
+            "sha1": "8ae5093b67b2333e562c51039ee8536433390ec6",
             "type": "Release",
             "urls": [
                 {
@@ -1401,10 +1401,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "30a0cc6dd99a11e8ad7f98ca14a8555f",
             "name": "1.1.3.100",
             "references": [
             ],
+            "sha1": "118ac2cbccb19a4b09532985887cf95c9b9ceedc",
             "type": "Release",
             "urls": [
                 {
@@ -1418,10 +1418,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ead41c11e87d2c01f54acca680d0d914",
             "name": "1.1.3.101",
             "references": [
             ],
+            "sha1": "e4f22efe4bae4fa952ce0a443ef9a13dce3f9706",
             "type": "Release",
             "urls": [
                 {
@@ -1435,10 +1435,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c840395c19af8f4f89431961d63e7826",
             "name": "1.1.3.102",
             "references": [
             ],
+            "sha1": "ef6d69329909f29fddbc627f02e141438b34bb92",
             "type": "Release",
             "urls": [
                 {
@@ -1452,10 +1452,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2fb0e51b9c0e255f09b6d749097ca37d",
             "name": "1.1.3.103",
             "references": [
             ],
+            "sha1": "ce89e63301c78c7c5583ccaac4003d46bb415e8c",
             "type": "Release",
             "urls": [
                 {
@@ -1469,10 +1469,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "720320397c7776c67185366c122cda51",
             "name": "1.1.3.104",
             "references": [
             ],
+            "sha1": "460c54d1a84e78d3dc6bcd6a27091826012c7aa8",
             "type": "Release",
             "urls": [
                 {
@@ -1486,10 +1486,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5dd26e9fd5e0f7825e5966fbf67d1512",
             "name": "1.1.3.105",
             "references": [
             ],
+            "sha1": "b5576fac8af035879c8150979f584fabce7f58a6",
             "type": "Release",
             "urls": [
                 {
@@ -1503,10 +1503,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "659ce70486acbb44fe724d544078eba5",
             "name": "1.1.3.106",
             "references": [
             ],
+            "sha1": "f99eb7d94b2039d091ff498d65b2f4f203733ca4",
             "type": "Release",
             "urls": [
                 {
@@ -1520,10 +1520,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5c05f78e6939d3eda9e23709fa6fdf45",
             "name": "1.1.3.107",
             "references": [
             ],
+            "sha1": "dbb55b369f2d36affb6a71830453b45af969b99e",
             "type": "Release",
             "urls": [
                 {
@@ -1537,10 +1537,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2fc6c44bfa0bcdc91fa83aa0d71c5379",
             "name": "1.1.3.108",
             "references": [
             ],
+            "sha1": "1677b2a6bc31edf7232b631bdd953c4cbdfd155d",
             "type": "Release",
             "urls": [
                 {
@@ -1554,10 +1554,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d5bdbd4288898626b6e14390766e7396",
             "name": "1.1.3.109",
             "references": [
             ],
+            "sha1": "fed6022de885cb2b3491da06824472bc25634560",
             "type": "Release",
             "urls": [
                 {
@@ -1571,10 +1571,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "bd6a910cee7b324994ff5fe5633be0d0",
             "name": "1.1.3.110",
             "references": [
             ],
+            "sha1": "bd7fe567ca8ef29e30f35dd0583224df900c66ef",
             "type": "Release",
             "urls": [
                 {
@@ -1588,10 +1588,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a70b892af5e28f8a74e91788bdd6fe23",
             "name": "1.1.3.111",
             "references": [
             ],
+            "sha1": "933421def7789268e220d9eab2be3310eda4d826",
             "type": "Release",
             "urls": [
                 {
@@ -1605,10 +1605,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15ac2927f7f4b5b90fd577f9a748e189",
             "name": "1.1.3.112",
             "references": [
             ],
+            "sha1": "22bd64765ce33dfbe6ecafa414d0b4543ecb7538",
             "type": "Release",
             "urls": [
                 {
@@ -1622,10 +1622,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2caf44b196857adde578a7e5d1efd5fe",
             "name": "1.1.3.113",
             "references": [
             ],
+            "sha1": "6c9683018d46297af16adf4be3740249abb1e1c0",
             "type": "Release",
             "urls": [
                 {
@@ -1639,10 +1639,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "bbdc1cdb4b5ddeb93940c7b7b662c448",
             "name": "1.1.3.114",
             "references": [
             ],
+            "sha1": "65d6ee2202a9dde15301fbb9cd42c75cc662c3a9",
             "type": "Release",
             "urls": [
                 {
@@ -1656,10 +1656,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d042b12a62594db828ac088fe3c561a9",
             "name": "1.1.3.115",
             "references": [
             ],
+            "sha1": "978cf2219adb88bb164b6967c9b5b8dd398171f5",
             "type": "Release",
             "urls": [
                 {
@@ -1673,10 +1673,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a07085b7d1f4fa422835d1d37f388b63",
             "name": "1.1.3.116",
             "references": [
             ],
+            "sha1": "8a5b75d5a95558e4e41e0777dac580b82591381a",
             "type": "Release",
             "urls": [
                 {
@@ -1690,10 +1690,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15374537e00e000a48abca4b44af8f00",
             "name": "1.1.3.117",
             "references": [
             ],
+            "sha1": "0429c64623a6ac1850cc57e86d9429c660563279",
             "type": "Release",
             "urls": [
                 {
@@ -1707,10 +1707,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "e877001598edbd828ebd0139991a1637",
             "name": "1.1.3.118",
             "references": [
             ],
+            "sha1": "f2cb28bffac65fabd0520159ab81e0d09edb3c7c",
             "type": "Release",
             "urls": [
                 {
@@ -1724,10 +1724,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "edb38056365344b5c83d3ebc65f7cc4a",
             "name": "1.1.3.119",
             "references": [
             ],
+            "sha1": "a20c2a18d67a8942f4bffa7e446184debba50eb7",
             "type": "Release",
             "urls": [
                 {
@@ -1741,10 +1741,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "528a59e36265efe158015b25b73437b1",
             "name": "1.1.3.120",
             "references": [
             ],
+            "sha1": "9bfd2975b20c1117c6eb0005fea7f3fb420d157a",
             "type": "Release",
             "urls": [
                 {
@@ -1758,10 +1758,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "93529af74fcfdf62946c35c3348676c2",
             "name": "1.1.3.121",
             "references": [
             ],
+            "sha1": "9bb4ed5e2b4b2d7425031464ac001c5a5f9ffc4f",
             "type": "Release",
             "urls": [
                 {
@@ -1775,10 +1775,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f8a6ba4eb5a98a471a5faa3f5cff3751",
             "name": "1.1.3.125",
             "references": [
             ],
+            "sha1": "803a92ec0420768470c4f45081a03009d307d98c",
             "type": "Release",
             "urls": [
                 {
@@ -1792,10 +1792,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0515c8455635ceb19b036766b1f4b187",
             "name": "1.1.3.126",
             "references": [
             ],
+            "sha1": "7f0aa9454959bf01b8754658d2b00b4766d42240",
             "type": "Release",
             "urls": [
                 {
@@ -1809,10 +1809,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6e2c9a23a3368d1b92ebc2e6e3fe55cd",
             "name": "1.1.3.127",
             "references": [
             ],
+            "sha1": "613726534bdbc072d5c71cf1a8b00420d985d442",
             "type": "Release",
             "urls": [
                 {
@@ -1826,10 +1826,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "358a8a040d30a91a5a3ad5dcf430e11b",
             "name": "1.1.3.128",
             "references": [
             ],
+            "sha1": "24e2c5cdec63d374edc34fa42f0227863bfbca8d",
             "type": "Release",
             "urls": [
                 {
@@ -1843,10 +1843,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7f6d5fef4dd90c6036bba928490ff1e8",
             "name": "1.1.3.129",
             "references": [
             ],
+            "sha1": "f51ee411bcd893dd9f826402b06bff1e7c2d15fc",
             "type": "Release",
             "urls": [
                 {
@@ -1860,10 +1860,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "470b254463269739c34134088e47833f",
             "name": "1.1.3.130",
             "references": [
             ],
+            "sha1": "210a3483cdbf697efe888edc10b4792e14dbd1ab",
             "type": "Release",
             "urls": [
                 {
@@ -1877,10 +1877,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5e9ce74457efd835cfaf37adf9ecfdaf",
             "name": "1.1.3.131",
             "references": [
             ],
+            "sha1": "c61001a08d139e3faa9da36b77594561c0782737",
             "type": "Release",
             "urls": [
                 {
@@ -1894,10 +1894,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b8b2c2042a94d96e089e8a1baa1c96a5",
             "name": "1.1.3.132",
             "references": [
             ],
+            "sha1": "f27ef6d382cfab23088431c3d5a4c1439e07eecc",
             "type": "Release",
             "urls": [
                 {
@@ -1911,10 +1911,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c1510fe4c8fd095cb53ad4fea7ec2dc9",
             "name": "1.1.3.133",
             "references": [
             ],
+            "sha1": "a332f81bd9742dd385778ae7def4e5b1632a9157",
             "type": "Release",
             "urls": [
                 {
@@ -1928,10 +1928,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b77fa5682b55dfb14263bf35b9d40ea7",
             "name": "1.1.3.134",
             "references": [
             ],
+            "sha1": "3aac5bce184207185a3c1f28b5414f54a91ce158",
             "type": "Release",
             "urls": [
                 {
@@ -1945,10 +1945,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ea2e89d71ee8ead707646be2c4517f86",
             "name": "1.1.3.135",
             "references": [
             ],
+            "sha1": "925f04b29e9afb2ce2ccac100052a888b33960fb",
             "type": "Release",
             "urls": [
                 {
@@ -1962,10 +1962,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "16174252dae15dabf7326b32fc4130ac",
             "name": "1.1.3.136",
             "references": [
             ],
+            "sha1": "0f2bc5858ba6ce983a90d1ab4cd06a06f09e0499",
             "type": "Release",
             "urls": [
                 {
@@ -1979,10 +1979,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b2e8bf3e627f532674d537c1321e23d1",
             "name": "1.1.3.137",
             "references": [
             ],
+            "sha1": "6661d7416b7665225fcf5ecf989bb40ec8fe6f60",
             "type": "Release",
             "urls": [
                 {
@@ -1996,10 +1996,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "860ed0646cf2d40934c8f3dbb68ece13",
             "name": "1.1.3.138",
             "references": [
             ],
+            "sha1": "e54ded6ea752a19e9df9c66c30911016b848cb6f",
             "type": "Release",
             "urls": [
                 {
@@ -2013,10 +2013,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8b4409421f32d514d7171b86433a1d17",
             "name": "1.1.3.139",
             "references": [
             ],
+            "sha1": "cb014eaa5cb33970f3c49c9bbe70027207b52ee2",
             "type": "Release",
             "urls": [
                 {
@@ -2030,10 +2030,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "cf32186e22d7fdaaa92daa21f12da5e6",
             "name": "1.1.3.140",
             "references": [
             ],
+            "sha1": "9f78a7002e764357d5369fb3da96cdb400061727",
             "type": "Release",
             "urls": [
                 {
@@ -2047,10 +2047,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d88c451abf343a0943a7eec2e3b63461",
             "name": "1.1.3.141",
             "references": [
             ],
+            "sha1": "2d73e688e589c8e9017a04fe01c11bc197154c2a",
             "type": "Release",
             "urls": [
                 {
@@ -2064,10 +2064,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "014bcbc43b4b7eea7dbcaa4f6e409d0e",
             "name": "1.1.3.142",
             "references": [
             ],
+            "sha1": "d2b477074ee970c80c142bab63e2330e3a97faa4",
             "type": "Release",
             "urls": [
                 {
@@ -2081,10 +2081,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b71a1bb003cf0763fe0ea41677d5434d",
             "name": "1.1.3.143",
             "references": [
             ],
+            "sha1": "ea67bcf8f5726923d7652d572df2fc9d35ed07d3",
             "type": "Release",
             "urls": [
                 {
@@ -2098,10 +2098,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2b8cd1844bc8628b30ffd422683f5ebd",
             "name": "1.1.3.144",
             "references": [
             ],
+            "sha1": "3409494d5c2c2901040041cd08a96d6dbc980ab4",
             "type": "Release",
             "urls": [
                 {
@@ -2115,10 +2115,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "77030b91ee332cce5b38e707a981addc",
             "name": "1.1.3.145",
             "references": [
             ],
+            "sha1": "c428fde2ea6359664fa02b199159dd1434cb567e",
             "type": "Release",
             "urls": [
                 {
@@ -2132,10 +2132,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6cdf3cfd5a98d52e43bf26c9dbcbfac0",
             "name": "1.1.3.146",
             "references": [
             ],
+            "sha1": "a795a157638f597a99e3cd2301c4ed93f542e9e9",
             "type": "Release",
             "urls": [
                 {
@@ -2149,10 +2149,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "02ba99fc161caf7868b2d62ca838c854",
             "name": "1.1.3.147",
             "references": [
             ],
+            "sha1": "1d629e50c97dfa6a77595700f99405ebfb785556",
             "type": "Release",
             "urls": [
                 {
@@ -2166,10 +2166,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "1e1935642541abcaf18a80f90c788ccc",
             "name": "1.1.3.148",
             "references": [
             ],
+            "sha1": "f3df6fd5d19639b570674e007af2a2dc042424fb",
             "type": "Release",
             "urls": [
                 {
@@ -2183,10 +2183,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "120a059ee110596c80fc2fe1856c55de",
             "name": "1.1.3.149",
             "references": [
             ],
+            "sha1": "d8f619d370bef6597421592c0970360abf96f90b",
             "type": "Release",
             "urls": [
                 {
@@ -2200,10 +2200,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f039c01c5eca119055ddeca8b6f5f7dc",
             "name": "1.1.3.150",
             "references": [
             ],
+            "sha1": "9ebf0b50a8a13384614e89ad853b6d0e09aa017f",
             "type": "Release",
             "urls": [
                 {
@@ -2217,10 +2217,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2d43045734e1f5fb5d4b5f83dd522cf4",
             "name": "1.1.3.151",
             "references": [
             ],
+            "sha1": "726c8675e6d8532a2c080b4551d2e340d70b2a14",
             "type": "Release",
             "urls": [
                 {
@@ -2234,10 +2234,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "1d18a41462123f2489419332204151c2",
             "name": "1.1.3.152",
             "references": [
             ],
+            "sha1": "882de19fd9ef47cea5c722138cfcdce2ad9e4e17",
             "type": "Release",
             "urls": [
                 {
@@ -2251,10 +2251,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0ca84dc0faf3d7f9b10063338ecca525",
             "name": "1.1.3.153",
             "references": [
             ],
+            "sha1": "e10b383798f413328656f9df9321585d8c6a88c4",
             "type": "Release",
             "urls": [
                 {
@@ -2268,10 +2268,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "52ddf3b57239466e88aea9b1fbc3a6f3",
             "name": "1.1.3.154",
             "references": [
             ],
+            "sha1": "b133faf85c9f8be3e094949fa95f0df0fa65f4dc",
             "type": "Release",
             "urls": [
                 {
@@ -2285,10 +2285,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f8aaf5e3f2fd65d488ea7bea4957ffa0",
             "name": "1.1.3.155",
             "references": [
             ],
+            "sha1": "defdf1699e1be2972bd3ca03dbd66d096340fb9e",
             "type": "Release",
             "urls": [
                 {
@@ -2302,10 +2302,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2a7be803c0b08b68d6addee2cacdd0f6",
             "name": "1.1.3.156",
             "references": [
             ],
+            "sha1": "cbd3be02a95a743b6e3656f2a6290874331d8a04",
             "type": "Release",
             "urls": [
                 {
@@ -2319,10 +2319,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0608cede16de419d10d91d4e7d039aca",
             "name": "1.1.3.157",
             "references": [
             ],
+            "sha1": "d85eb818a34df30846fbb9ea6fa101d0bcb2556d",
             "type": "Release",
             "urls": [
                 {
@@ -2336,10 +2336,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "913d26068413d5eb27c063a4b154db9f",
             "name": "1.1.3.158",
             "references": [
             ],
+            "sha1": "c95e01be480771f1fdebe452a23a6bb6906a0a81",
             "type": "Release",
             "urls": [
                 {
@@ -2353,10 +2353,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a7e674293422fef7873a527a6dc03237",
             "name": "1.1.3.159",
             "references": [
             ],
+            "sha1": "a6c120a7489edf8339379441bfd6bf283cbecb81",
             "type": "Release",
             "urls": [
                 {
@@ -2370,10 +2370,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ba1d963f51590e9b84a6574321042e66",
             "name": "1.1.3.160",
             "references": [
             ],
+            "sha1": "b10d30b695b3d546917e643dd6045a41d5084c62",
             "type": "Release",
             "urls": [
                 {
@@ -2387,10 +2387,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "270a0daba686c26d130d808aff1c81be",
             "name": "1.1.3.161",
             "references": [
             ],
+            "sha1": "62d8f833268c9ec0fe238c9dda395725ac6f8c68",
             "type": "Release",
             "urls": [
                 {
@@ -2404,10 +2404,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5505fc44b58172aff5ba58a2298d384e",
             "name": "1.1.3.162",
             "references": [
             ],
+            "sha1": "2056235b457a271c4f17abf5e7af8cd5293f3fe8",
             "type": "Release",
             "urls": [
                 {
@@ -2421,10 +2421,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5a3804c97b923e829a5e7b4f40daac10",
             "name": "1.1.3.163",
             "references": [
             ],
+            "sha1": "57ca98d5c1c6766ec8e4925c2300617691e71e1d",
             "type": "Release",
             "urls": [
                 {
@@ -2438,10 +2438,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c80ba4722c549ca702d757146162f83f",
             "name": "1.1.3.164",
             "references": [
             ],
+            "sha1": "56d28ced82511baca30babdb312dd7c278908b61",
             "type": "Release",
             "urls": [
                 {
@@ -2455,10 +2455,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3f7f78c21789a9d34ca623432fd2282e",
             "name": "1.1.3.165",
             "references": [
             ],
+            "sha1": "1006171403004f0b40466a1e956c382939dfb371",
             "type": "Release",
             "urls": [
                 {
@@ -2472,10 +2472,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "714a3220d4f619febd98b20839dbe37e",
             "name": "1.1.3.166",
             "references": [
             ],
+            "sha1": "c6d0c6733b3c0be675e38326d77b234181d7bb78",
             "type": "Release",
             "urls": [
                 {
@@ -2489,10 +2489,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7072297d45947c7c38151fca6b10e050",
             "name": "1.1.3.167",
             "references": [
             ],
+            "sha1": "5ed9335885caf2e286480bae358d50ca557b1be3",
             "type": "Release",
             "urls": [
                 {
@@ -2506,10 +2506,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "25ce570e32c1c5ea7b7529cb4117a89a",
             "name": "1.1.3.168",
             "references": [
             ],
+            "sha1": "e9be8cdea2afa2d8f952d2475fd362613874490e",
             "type": "Release",
             "urls": [
                 {
@@ -2523,10 +2523,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0dc5b6ef8604da0613488431d89849df",
             "name": "1.1.3.169",
             "references": [
             ],
+            "sha1": "397b83c086652c0704822e7ff499c74f1c11299a",
             "type": "Release",
             "urls": [
                 {
@@ -2540,10 +2540,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8351c4ca4c0e7111c32c6671f1911b74",
             "name": "1.1.3.170",
             "references": [
             ],
+            "sha1": "51e590f625faac5d84480c9777eb4b8e2be4a041",
             "type": "Release",
             "urls": [
                 {
@@ -2557,10 +2557,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "38a819854d1b62768f30b167e378af43",
             "name": "1.1.3.171",
             "references": [
             ],
+            "sha1": "8e72b3bf585bcc7e16619adddd92e7bd890bdaac",
             "type": "Release",
             "urls": [
                 {
@@ -2574,10 +2574,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d99512cd68a71eb42d54d6d467e64511",
             "name": "1.1.3.172",
             "references": [
             ],
+            "sha1": "56a11bf2e3adfc915ecdb1d9701eee72ea4c801a",
             "type": "Release",
             "urls": [
                 {
@@ -2591,10 +2591,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d93fcce6cb76964080b176c4d896fc60",
             "name": "1.1.3.173",
             "references": [
             ],
+            "sha1": "7d0d32f0ff797f1d26eff569bb14f6e87a0cf1b8",
             "type": "Release",
             "urls": [
                 {
@@ -2608,10 +2608,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4e43321d31338edad0dae8062b817e4a",
             "name": "1.1.3.174",
             "references": [
             ],
+            "sha1": "19cb38b4aae1841f6f15186bbba9b1c35147cc26",
             "type": "Release",
             "urls": [
                 {
@@ -2625,10 +2625,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ae21cc57eb2cd77a4bb57594f0bbd418",
             "name": "1.1.3.175",
             "references": [
             ],
+            "sha1": "814138874aa0d6a169462fbc8e2c874db5dfb003",
             "type": "Release",
             "urls": [
                 {
@@ -2642,10 +2642,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f51ffe805401fe108df39dce05b2d797",
             "name": "1.1.3.178",
             "references": [
             ],
+            "sha1": "354441747fe84184a10ccfd2f90c6400892373c3",
             "type": "Release",
             "urls": [
                 {
@@ -2659,10 +2659,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "74463fc1fef48ff061af581fb73b101d",
             "name": "1.1.3.179",
             "references": [
             ],
+            "sha1": "46bdae3349bd97613e496be4187bd99b4a1affd2",
             "type": "Release",
             "urls": [
                 {
@@ -2676,10 +2676,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "beaa5eae655a93d243d61c70e347a65d",
             "name": "1.1.3.180",
             "references": [
             ],
+            "sha1": "4af199843357e4ca4fe4011980318499cfe36676",
             "type": "Release",
             "urls": [
                 {
@@ -2693,10 +2693,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5b94bf6e1b9b2b967ae0868608a6ac58",
             "name": "1.1.3.181",
             "references": [
             ],
+            "sha1": "b9f5f66cb761096e5037b81238e053e7f4a9eb84",
             "type": "Release",
             "urls": [
                 {
@@ -2710,10 +2710,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2e4c0eb402322c1a7b073ef0ee17cc22",
             "name": "1.1.3.182",
             "references": [
             ],
+            "sha1": "2b4eea5d8e665f0b624480efd0ba647a9e453268",
             "type": "Release",
             "urls": [
                 {
@@ -2727,10 +2727,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "62f3066bcf89b2e83c80dff1d109019e",
             "name": "1.1.3.183",
             "references": [
             ],
+            "sha1": "cacfadb5683d5b70001bd5a75b193f2cef859c1a",
             "type": "Release",
             "urls": [
                 {
@@ -2744,10 +2744,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ded036f6f9a7ec716479743753bbf992",
             "name": "1.1.3.184",
             "references": [
             ],
+            "sha1": "bace4de8ecccfdb2088a6e143e299e40a9d53fb1",
             "type": "Release",
             "urls": [
                 {
@@ -2761,10 +2761,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "e00ba5880c24690a69e0ba95471c77d2",
             "name": "1.1.3.191",
             "references": [
             ],
+            "sha1": "be96c35fc03c3222930b1d8b9362306e4b0cfb68",
             "type": "Release",
             "urls": [
                 {
@@ -2778,10 +2778,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b8d41056f5c2cd6c36f081ae47378431",
             "name": "1.1.3.192",
             "references": [
             ],
+            "sha1": "c77423d7af40caef54cf006f7e284de9966928b2",
             "type": "Release",
             "urls": [
                 {
@@ -2795,10 +2795,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4ef1d985be7dd68f284e19b5d92e287c",
             "name": "1.1.3.193",
             "references": [
             ],
+            "sha1": "b58784c647c37899f7af746a8c11109360e80812",
             "type": "Release",
             "urls": [
                 {
@@ -2812,10 +2812,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7ea41550621232ddff8aff581ae77b65",
             "name": "1.1.3.194",
             "references": [
             ],
+            "sha1": "0feee27869eb2cbbb29ca28217a5d03d611a0fdc",
             "type": "Release",
             "urls": [
                 {
@@ -2829,10 +2829,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "dc2bc8f6df542ce498aa23c379c6b5a6",
             "name": "1.1.3.195",
             "references": [
             ],
+            "sha1": "b1b50eef10f081a0aa1b72cddceae8c2fed91ac3",
             "type": "Release",
             "urls": [
                 {
@@ -2846,10 +2846,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "211cb4c806859b562443b24398150f4d",
             "name": "1.1.3.196",
             "references": [
             ],
+            "sha1": "74a05565c606e58e6cfb63a985304811864c4c7a",
             "type": "Release",
             "urls": [
                 {
@@ -2863,10 +2863,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8e577b2d274b9b1aa09cd46197f29138",
             "name": "1.1.3.197",
             "references": [
             ],
+            "sha1": "de5b71f81da9d8430b423e8dc4cfb7ea3239ec51",
             "type": "Release",
             "urls": [
                 {
@@ -2880,10 +2880,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9a0dbd80402f5409b88695856bd8f685",
             "name": "1.1.3.198",
             "references": [
             ],
+            "sha1": "49ab73353dfd31dfb88bce3f0b047c1d15c9d23e",
             "type": "Release",
             "urls": [
                 {
@@ -2897,10 +2897,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "522b2bd99266beb7079827d5ce3e39b4",
             "name": "1.1.3.199",
             "references": [
             ],
+            "sha1": "341c1005df4d4bae659cc060e2b9f7cdbe977e4d",
             "type": "Release",
             "urls": [
                 {
@@ -2914,10 +2914,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "aac18a3baeaa6b54736a7d8b77b25ee6",
             "name": "1.1.3.200",
             "references": [
             ],
+            "sha1": "8455141544b5a09a33a6acc212138941d53fbf4c",
             "type": "Release",
             "urls": [
                 {
@@ -2931,10 +2931,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6a42c1a1e829fef0523536810fd8fbdc",
             "name": "1.1.3.201",
             "references": [
             ],
+            "sha1": "b4d3bba84a1c27202ecf24fdabe9766838e22ba4",
             "type": "Release",
             "urls": [
                 {
@@ -2948,10 +2948,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "046331c67facaf4c0839e10186606fbc",
             "name": "1.1.3.202",
             "references": [
             ],
+            "sha1": "b5f7804779c1512026b3e39dbbdfa7223486a7e9",
             "type": "Release",
             "urls": [
                 {
@@ -2965,10 +2965,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b7be4a10f4184900bac9bcbe086758b1",
             "name": "1.1.3.203",
             "references": [
             ],
+            "sha1": "794765ef26329edc7e3a9d9bed188db40425271b",
             "type": "Release",
             "urls": [
                 {
@@ -2982,10 +2982,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5b623ac509fa63d14d99572a9f47d71d",
             "name": "1.1.3.204",
             "references": [
             ],
+            "sha1": "181f2cb5837986d6e465ce15c58309f7b67f27c7",
             "type": "Release",
             "urls": [
                 {
@@ -2999,10 +2999,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c2c4115fc12d79bbd85c9de310fcb227",
             "name": "1.1.3.205",
             "references": [
             ],
+            "sha1": "51c46613f0bdccd482c91d92cc56b2db764ca7e4",
             "type": "Release",
             "urls": [
                 {
@@ -3016,10 +3016,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0ce2fa5e73d5460342fb3a5052a6de50",
             "name": "1.1.3.206",
             "references": [
             ],
+            "sha1": "79fcf9ed141385cc1e22de84f009fcbc90458fab",
             "type": "Release",
             "urls": [
                 {
@@ -3033,10 +3033,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "338737f9e47f12ca3802f6a53f48e486",
             "name": "1.1.3.207",
             "references": [
             ],
+            "sha1": "6071a27094501059bf7663a4cd5b90749bd24fe1",
             "type": "Release",
             "urls": [
                 {
@@ -3050,10 +3050,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f04c97a44326e8c94574c64a745bbe7a",
             "name": "1.1.3.208",
             "references": [
             ],
+            "sha1": "288083a30e1fde95e1f9ab78332bcf8d56c26a1b",
             "type": "Release",
             "urls": [
                 {
@@ -3067,10 +3067,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3b793aa190d750c0d5821783faacde19",
             "name": "1.1.3.209",
             "references": [
             ],
+            "sha1": "82123234f514a1a0ff95a750326192eeb65b3477",
             "type": "Release",
             "urls": [
                 {
@@ -3084,10 +3084,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "5bd13f56bbaaa3f90904132083a32a79",
             "name": "1.1.3.210",
             "references": [
             ],
+            "sha1": "d639f9262fe89cceb1041681e61dbd6e292bb260",
             "type": "Release",
             "urls": [
                 {
@@ -3101,10 +3101,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2e81d0b6b733604ce1c5db21749eff5c",
             "name": "1.1.3.211",
             "references": [
             ],
+            "sha1": "63ac4c814b2911512579ae565eed581b5f4d3734",
             "type": "Release",
             "urls": [
                 {
@@ -3118,10 +3118,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "815f329ee0893486fbed7c53b4640667",
             "name": "1.1.3.212",
             "references": [
             ],
+            "sha1": "617753434731fb7a0b3ed75780a520bff49ed52c",
             "type": "Release",
             "urls": [
                 {
@@ -3135,10 +3135,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3bbedf3bdb72c9f11f26fb4b88e43287",
             "name": "1.1.3.213",
             "references": [
             ],
+            "sha1": "7674b05689d8c8e5f930c1dba0bf27afae54d3b6",
             "type": "Release",
             "urls": [
                 {
@@ -3152,10 +3152,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3fa51c7940c8d7f66d439673a5866399",
             "name": "1.1.3.214",
             "references": [
             ],
+            "sha1": "2c750441d696653d44bb6811d8453f3049967c11",
             "type": "Release",
             "urls": [
                 {
@@ -3169,10 +3169,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "33d62f330a532305f7c7bdfd23344a44",
             "name": "1.1.3.215",
             "references": [
             ],
+            "sha1": "286d1d7832d6154c6af3a99360014d6404dc5072",
             "type": "Release",
             "urls": [
                 {
@@ -3186,10 +3186,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "816a48f59a484966a284720aca207722",
             "name": "1.1.3.216",
             "references": [
             ],
+            "sha1": "62ff0809650c07221b177d2ea8f332ad26090def",
             "type": "Release",
             "urls": [
                 {
@@ -3203,10 +3203,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a1d03c88f4e652fdce4c401b4078dca9",
             "name": "1.1.3.223",
             "references": [
             ],
+            "sha1": "201e2d3ead03c0b341fdf78b71898cf99647fa14",
             "type": "Release",
             "urls": [
                 {
@@ -3220,10 +3220,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "99e3b65be6208c4f79afd0005d1cc019",
             "name": "1.1.3.224",
             "references": [
             ],
+            "sha1": "29adb955a10b13a59ed7b011e7fad63206895caa",
             "type": "Release",
             "urls": [
                 {
@@ -3237,10 +3237,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "3dfa34cda5568fe2da493c342c0694e1",
             "name": "1.1.3.225",
             "references": [
             ],
+            "sha1": "5648955f85cd62f926d99bd3e341ae2de7b62294",
             "type": "Release",
             "urls": [
                 {
@@ -3254,10 +3254,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c4ed1c89e990b54e01bddaccf32e5475",
             "name": "1.1.3.226",
             "references": [
             ],
+            "sha1": "dfb596998663cc03ff2409581eb73874d0a02ace",
             "type": "Release",
             "urls": [
                 {
@@ -3271,10 +3271,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0755fec308662d5d7599ef32b8796d15",
             "name": "1.1.3.227",
             "references": [
             ],
+            "sha1": "28f99c405a07f4735700ace26e1bfdbf0b27b58d",
             "type": "Release",
             "urls": [
                 {
@@ -3288,10 +3288,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d37517d359b4a3f266e71dcc13a8d03c",
             "name": "1.1.3.228",
             "references": [
             ],
+            "sha1": "97a820d721c3beb90f9866af1ef9ca1e1465b15c",
             "type": "Release",
             "urls": [
                 {
@@ -3305,10 +3305,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ac4ca4e59859fd5e3f5277fcb171eed1",
             "name": "1.1.3.229",
             "references": [
             ],
+            "sha1": "55c8c9cb6f23e0ca577673ada2f8e97054115520",
             "type": "Release",
             "urls": [
                 {
@@ -3322,10 +3322,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a7f735a1f29f8045ffccdaaf97043d2e",
             "name": "1.1.3.230",
             "references": [
             ],
+            "sha1": "7b574b7a3827c9a8e5bdd890d9fa33fddad5dab2",
             "type": "Release",
             "urls": [
                 {
@@ -3339,10 +3339,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "77231e95058656c8d5f922d30fb71edf",
             "name": "1.1.3.231",
             "references": [
             ],
+            "sha1": "3f40f376b4144049626e55d0d4b33595eecd9c0d",
             "type": "Release",
             "urls": [
                 {
@@ -3356,10 +3356,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "cd3cc6278f4da9fb43a4a4a2f87ead11",
             "name": "1.1.3.232",
             "references": [
             ],
+            "sha1": "755cc520b8e66ef0963d20d672a14c6d40f1bdb8",
             "type": "Release",
             "urls": [
                 {
@@ -3373,10 +3373,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "1a0b2a7c49862340b0aedf10918ba273",
             "name": "1.1.3.233",
             "references": [
             ],
+            "sha1": "d4c17d29181e009d8229f98ecafbaafc2e794356",
             "type": "Release",
             "urls": [
                 {
@@ -3390,10 +3390,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "fca7e37b7b1c60c03ea1aca2dab2f9af",
             "name": "1.1.3.234",
             "references": [
             ],
+            "sha1": "3bea37e4e31d46ef47b32d69c8ec64030e1df983",
             "type": "Release",
             "urls": [
                 {
@@ -3407,10 +3407,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0b1823b0651027ecd9683915b02b3ea6",
             "name": "1.1.3.235",
             "references": [
             ],
+            "sha1": "348d23c4496eb235729136b38a5269a7491b3531",
             "type": "Release",
             "urls": [
                 {
@@ -3424,10 +3424,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0e01e17b38bb31d125fe67c8b6ba03b3",
             "name": "1.1.3.236",
             "references": [
             ],
+            "sha1": "0118bd94ff1cf0728ce66f55c50e213204b7d4d8",
             "type": "Release",
             "urls": [
                 {
@@ -3441,10 +3441,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "eb81f84c2cb51e89b016d173e5e6ffba",
             "name": "1.1.3.237",
             "references": [
             ],
+            "sha1": "34b487355f911446712bff0737eaa013eed0f88c",
             "type": "Release",
             "urls": [
                 {
@@ -3458,10 +3458,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "257f253d8ff1bc0bee232f2ee1ec7b6d",
             "name": "1.1.3.238",
             "references": [
             ],
+            "sha1": "2f0e7845beb2a2a372e2a792da33ec1995f81c97",
             "type": "Release",
             "urls": [
                 {
@@ -3475,10 +3475,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c518bc154b32d64679f975f66e6ed573",
             "name": "1.1.3.245",
             "references": [
             ],
+            "sha1": "915c7ab1616738ac740942208d9a2059df1c698e",
             "type": "Release",
             "urls": [
                 {
@@ -3492,10 +3492,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "716138c18125e4190f9f09f408518887",
             "name": "1.1.3.246",
             "references": [
             ],
+            "sha1": "76614ad2773e6d45b69fdda8369d0b0e8de8b3e4",
             "type": "Release",
             "urls": [
                 {
@@ -3509,10 +3509,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0d2a1ccad30fc17dd9c018f55a6177dd",
             "name": "1.1.3.247",
             "references": [
             ],
+            "sha1": "e0d532b00c4b024993df3502495a5740cc15d111",
             "type": "Release",
             "urls": [
                 {
@@ -3526,10 +3526,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "114830a54847f9b89482dc50249c0591",
             "name": "1.1.3.248",
             "references": [
             ],
+            "sha1": "57f72c8746d06023e73f48c81f30d3e8526b5f37",
             "type": "Release",
             "urls": [
                 {
@@ -3543,10 +3543,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ceecb213ca7fdeac56aaf80039261530",
             "name": "1.1.3.249",
             "references": [
             ],
+            "sha1": "eb584cf9d729bd1e81501673aed654a91dff3d55",
             "type": "Release",
             "urls": [
                 {
@@ -3560,10 +3560,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "40a78a961f95a82ca48b583b5d5bef0b",
             "name": "1.1.3.250",
             "references": [
             ],
+            "sha1": "371408086b70c573c3bf6abe4c4613eeef9f6b96",
             "type": "Release",
             "urls": [
                 {
@@ -3577,10 +3577,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6eda0a5e3364d15392215a40129d2ec1",
             "name": "1.1.3.251",
             "references": [
             ],
+            "sha1": "1dbd88ea3142edd179c78f6820698b2783dba48d",
             "type": "Release",
             "urls": [
                 {
@@ -3594,10 +3594,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c15df45f6b253f2e9a3852daa6e5423e",
             "name": "1.1.3.252",
             "references": [
             ],
+            "sha1": "06d404c348d237efcbd2b729c545f907bd4a6ea1",
             "type": "Release",
             "urls": [
                 {
@@ -3611,10 +3611,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d7958cbfb841df8b353534d1f0d48550",
             "name": "1.1.3.253",
             "references": [
             ],
+            "sha1": "d9a5df2e18308e58486f77e18511f738564d7014",
             "type": "Release",
             "urls": [
                 {
@@ -3628,10 +3628,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "eee4c975204a0256dd4f10dddf8bb28b",
             "name": "1.1.3.254",
             "references": [
             ],
+            "sha1": "8803f0215322b08a5db5679c0ab602da6fe142ba",
             "type": "Release",
             "urls": [
                 {
@@ -3645,10 +3645,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4443f5eaf32638179a711db166203aa1",
             "name": "1.1.3.255",
             "references": [
             ],
+            "sha1": "4e565b4629bcc92ebe5490b6b1c582d6a29ddbe3",
             "type": "Release",
             "urls": [
                 {
@@ -3662,10 +3662,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4a0d04c3486719dc257004e0d10c0556",
             "name": "1.1.3.256",
             "references": [
             ],
+            "sha1": "998b5a16ffffe9990e2c99dd42de8c645fe8ae43",
             "type": "Release",
             "urls": [
                 {
@@ -3679,10 +3679,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "767e35bbcef63f10455ec463250f04b2",
             "name": "1.1.3.257",
             "references": [
             ],
+            "sha1": "2a38af7ec4d381b3c6968e80af3a79a024b931e3",
             "type": "Release",
             "urls": [
                 {
@@ -3696,10 +3696,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b441cd7177c3c0172fbe82c095e2490d",
             "name": "1.1.3.259",
             "references": [
             ],
+            "sha1": "a88a251875b36904007fe7bff20f353a5df50a1b",
             "type": "Release",
             "urls": [
                 {
@@ -3713,10 +3713,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8c5e76b37951de6d798618536aa0b798",
             "name": "1.1.3.260",
             "references": [
             ],
+            "sha1": "65535d28a0b03ffe5b2ee1ee676847a7032dc6c7",
             "type": "Release",
             "urls": [
                 {
@@ -3730,10 +3730,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "cba5595a96c53274e3107c12fb79bdd8",
             "name": "1.1.3.261",
             "references": [
             ],
+            "sha1": "27ea7b145c5824faca165adab3ffb64dc22ec25d",
             "type": "Release",
             "urls": [
                 {
@@ -3747,10 +3747,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "22acad94c2ee83ced8b4670de02d0027",
             "name": "1.1.3.262",
             "references": [
             ],
+            "sha1": "cb0cdfab5e83f30c623684c92f561e817d352f1c",
             "type": "Release",
             "urls": [
                 {
@@ -3764,10 +3764,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "57eaba921433c4586f96e44489d5596a",
             "name": "1.1.3.263",
             "references": [
             ],
+            "sha1": "facaee9c7935315eefb26bf2584156b218cec77e",
             "type": "Release",
             "urls": [
                 {
@@ -3781,10 +3781,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c7056cec5d3f34951969a03b8a33952f",
             "name": "1.1.3.264",
             "references": [
             ],
+            "sha1": "50191404a2955b4658f46b3cb9681396721b908e",
             "type": "Release",
             "urls": [
                 {
@@ -3798,10 +3798,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9a860c229d423980f8224578a25a90f3",
             "name": "1.1.3.265",
             "references": [
             ],
+            "sha1": "383155251c97f3504534d63c297e0044e04e31ed",
             "type": "Release",
             "urls": [
                 {
@@ -3815,10 +3815,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "016ab83d1b07b385857d8335aeb21117",
             "name": "1.1.3.266",
             "references": [
             ],
+            "sha1": "d118a67f8fe3b4e0f258dc17a97a04e792e06bb6",
             "type": "Release",
             "urls": [
                 {
@@ -3832,10 +3832,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "bfa78e6448ba27003f40bf72af554aab",
             "name": "1.1.3.267",
             "references": [
             ],
+            "sha1": "53db42cdfddf5245f02a589f332a6855ca01081a",
             "type": "Release",
             "urls": [
                 {
@@ -3849,10 +3849,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "47461ab4e6baa786f4569f3a504a4f75",
             "name": "1.1.3.268",
             "references": [
             ],
+            "sha1": "92736e06634786548f5213b37f1bacc592cf1316",
             "type": "Release",
             "urls": [
                 {
@@ -3866,10 +3866,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "16049ded86124be8d47e30edcbb1ab75",
             "name": "1.1.3.269",
             "references": [
             ],
+            "sha1": "942fd41f58757a645dbcbbd5887a893061e42990",
             "type": "Release",
             "urls": [
                 {
@@ -3883,10 +3883,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2893702a4ad36fff384d4e9f9df15063",
             "name": "1.1.3.270",
             "references": [
             ],
+            "sha1": "575f5050e49561129b07c3a83f6461d0d926dff5",
             "type": "Release",
             "urls": [
                 {
@@ -3900,10 +3900,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c175bb983b200f738a880225673e428a",
             "name": "1.1.3.271",
             "references": [
             ],
+            "sha1": "a0faaa949ad345b3b6b072135f760077fc80e0a4",
             "type": "Release",
             "urls": [
                 {
@@ -3917,10 +3917,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ab4bd1aeb76ade65c8808fd0a7294e08",
             "name": "1.1.3.272",
             "references": [
             ],
+            "sha1": "cbd3565554f322520a600ef2698631eff0ffeee1",
             "type": "Release",
             "urls": [
                 {
@@ -3934,10 +3934,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c1e75d49833df1e0c31eb97cddc3465e",
             "name": "1.1.3.273",
             "references": [
             ],
+            "sha1": "77ae39c4b8aa470a77bcfed03f51b4981e5e5c74",
             "type": "Release",
             "urls": [
                 {
@@ -3951,10 +3951,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "1e9d3a1c490889a78aaddf92774e49af",
             "name": "1.1.3.274",
             "references": [
             ],
+            "sha1": "6c1b5bf549f83689612eeb33f5e30c63e9f2efea",
             "type": "Release",
             "urls": [
                 {
@@ -3968,10 +3968,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4c8445c147bab1495eef62fc7a86c66b",
             "name": "1.1.3.275",
             "references": [
             ],
+            "sha1": "173639acf21e06804c22370a4da47be42ecf7531",
             "type": "Release",
             "urls": [
                 {
@@ -3985,10 +3985,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7fc4a96c74deccc5e0631ca9ca6394af",
             "name": "1.1.3.276",
             "references": [
             ],
+            "sha1": "230aaa3b25811cb2bcce31af5ac718e628bd34b4",
             "type": "Release",
             "urls": [
                 {
@@ -4002,10 +4002,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "91e517a9f1a7989ce53980a0a0b6ef77",
             "name": "1.1.3.277",
             "references": [
             ],
+            "sha1": "e55e3577801a276363ec4629ddb6f5065c3149a3",
             "type": "Release",
             "urls": [
                 {
@@ -4019,10 +4019,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0b951d1bf509dae5259ad965bc9216ba",
             "name": "1.1.3.278",
             "references": [
             ],
+            "sha1": "d28d868f342f0797132644b5449555ee8272b4ee",
             "type": "Release",
             "urls": [
                 {
@@ -4036,10 +4036,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2c1e64bbd02e911041aa474739f24f73",
             "name": "1.1.3.279",
             "references": [
             ],
+            "sha1": "dafaeb5e10748c7edcf0073e991dc764bf8a2344",
             "type": "Release",
             "urls": [
                 {
@@ -4053,10 +4053,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2015e787428105f217d4a43d4fe32039",
             "name": "1.1.3.280",
             "references": [
             ],
+            "sha1": "6597f43aaa5a6ead1097361f07f5c18d9df3c4b8",
             "type": "Release",
             "urls": [
                 {
@@ -4070,10 +4070,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "96b400d617574460856fdc7870859803",
             "name": "1.1.3.281",
             "references": [
             ],
+            "sha1": "d450fe9a58f047732d8305cf0051ef1809574b90",
             "type": "Release",
             "urls": [
                 {
@@ -4087,10 +4087,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ce8ecd7cb58ec5c3488c865e98051946",
             "name": "1.1.3.282",
             "references": [
             ],
+            "sha1": "44b41e99ed030dc09f6e9381edc1eb55c633cf55",
             "type": "Release",
             "urls": [
                 {
@@ -4104,10 +4104,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d955c2594a5a7c18e6ecd9ed92198848",
             "name": "1.1.3.283",
             "references": [
             ],
+            "sha1": "f0f08538175ffe3a836a40f85576d00f85605ce4",
             "type": "Release",
             "urls": [
                 {
@@ -4121,10 +4121,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "047a040915931acbe8c4853c539e6f93",
             "name": "1.1.3.284",
             "references": [
             ],
+            "sha1": "b5f934fa221fbb69bf1e7f44f0ae0c2cbbf99df2",
             "type": "Release",
             "urls": [
                 {
@@ -4138,10 +4138,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f1fb1140e700d8f8609a363c2e820315",
             "name": "1.1.3.285",
             "references": [
             ],
+            "sha1": "e1ea079d7a5c38b49a4cda7a60310dddab79466d",
             "type": "Release",
             "urls": [
                 {
@@ -4155,10 +4155,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d2c8895197d3dcf70793c10ad8126ee8",
             "name": "1.1.3.286",
             "references": [
             ],
+            "sha1": "6c8cec80105a48b73d0b631721a75e465126ce9e",
             "type": "Release",
             "urls": [
                 {
@@ -4172,10 +4172,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "1218501641ab1e1d7179d7cd2b7047f2",
             "name": "1.1.3.287",
             "references": [
             ],
+            "sha1": "4df46aafc504d40dff62fa973b884529b4bdbb49",
             "type": "Release",
             "urls": [
                 {
@@ -4189,10 +4189,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "1560513f9cb082830eac5a94cd19f1e1",
             "name": "1.1.3.288",
             "references": [
             ],
+            "sha1": "66691f142faeb02262ca242ed822e8f868f1563d",
             "type": "Release",
             "urls": [
                 {
@@ -4206,10 +4206,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "923dcdbacd5bace73b3e3c5882ee97e2",
             "name": "1.1.3.289",
             "references": [
             ],
+            "sha1": "259f4127c53351f437c769a71a8bcb90a4617532",
             "type": "Release",
             "urls": [
                 {
@@ -4223,10 +4223,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "aecf7d2838765e7e597aecf1be0298dc",
             "name": "1.1.3.290",
             "references": [
             ],
+            "sha1": "328e6c4b03035b711f370ec9c2fa9c9b63ba9654",
             "type": "Release",
             "urls": [
                 {
@@ -4240,10 +4240,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0e2f8cfcb358d203dee26868b12d5d0c",
             "name": "1.1.3.291",
             "references": [
             ],
+            "sha1": "6936df86c6c52fe28fe416b8d20e840096c397dc",
             "type": "Release",
             "urls": [
                 {
@@ -4257,10 +4257,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0a8a96f3ca0dd4c44a31a4f3f14baaf5",
             "name": "1.1.3.292",
             "references": [
             ],
+            "sha1": "2cac55dadbd24eed06aa01c231c06db0b0d5d55a",
             "type": "Release",
             "urls": [
                 {
@@ -4274,10 +4274,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "014eb8961513788557dfd8ca7c9938bd",
             "name": "1.1.3.293",
             "references": [
             ],
+            "sha1": "f1442264220b17c4037450b6426a562cdb4c69c4",
             "type": "Release",
             "urls": [
                 {
@@ -4291,10 +4291,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c79709d153ec8a9c2ceb3a6f7b54ad84",
             "name": "1.1.3.294",
             "references": [
             ],
+            "sha1": "97281621956e737136ef30a1b832834793d20037",
             "type": "Release",
             "urls": [
                 {
@@ -4308,10 +4308,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "56424a3e52f8542d3a8cb421cef53293",
             "name": "1.1.3.295",
             "references": [
             ],
+            "sha1": "2edc8424ecd3d5e0e3e23165d096344cfa03ab6c",
             "type": "Release",
             "urls": [
                 {
@@ -4325,10 +4325,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7fa10bbcfd7d0d1e8d392b82fa934b78",
             "name": "1.1.3.296",
             "references": [
             ],
+            "sha1": "ac0c03071153995afbcd33fcced24ef0be6d7e58",
             "type": "Release",
             "urls": [
                 {
@@ -4342,10 +4342,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "258fbdcf857b11f73ae733159849236e",
             "name": "1.1.3.299",
             "references": [
             ],
+            "sha1": "82e5440d74ef14d0a75db6a83162335c123e044b",
             "type": "Release",
             "urls": [
                 {
@@ -4359,10 +4359,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "68c072eb510688cd889bb4da1f5a0350",
             "name": "1.1.3.300",
             "references": [
             ],
+            "sha1": "4799d86efa228688465f6f359992698a87dcfc4a",
             "type": "Release",
             "urls": [
                 {
@@ -4376,10 +4376,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6a8bdd8be82c83deea48a99cd837b34a",
             "name": "1.1.3.301",
             "references": [
             ],
+            "sha1": "d42cb561c65df30e0a6f23a9795f84727ea09ed8",
             "type": "Release",
             "urls": [
                 {
@@ -4393,10 +4393,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a436d1fb5321a74f8a967952d11e59a4",
             "name": "1.1.3.302",
             "references": [
             ],
+            "sha1": "e4ebf1ac710cba844439866e70e584ffaf964846",
             "type": "Release",
             "urls": [
                 {
@@ -4410,10 +4410,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "cc0222640a6d91259f93e96801fb5a49",
             "name": "1.1.3.303",
             "references": [
             ],
+            "sha1": "15745ef9ce17d90a71d1fa344c753402bc7c4be8",
             "type": "Release",
             "urls": [
                 {
@@ -4427,10 +4427,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b461420acb4294983dc50a626b28e77c",
             "name": "1.1.3.304",
             "references": [
             ],
+            "sha1": "080fe8c8c6b5e6f32ca49b207f2ccf02859afb4a",
             "type": "Release",
             "urls": [
                 {
@@ -4444,10 +4444,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "e13dab1e517cadf47426bea612a4a405",
             "name": "1.1.3.305",
             "references": [
             ],
+            "sha1": "1fe41722d1e34d87d4b67cff8059bc17ef09403e",
             "type": "Release",
             "urls": [
                 {
@@ -4461,10 +4461,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "748f17ca5230f56317e7e310f713e6ea",
             "name": "1.1.3.306",
             "references": [
             ],
+            "sha1": "1b8230cd5720ef6828c3c67b820f156e1675d429",
             "type": "Release",
             "urls": [
                 {
@@ -4478,10 +4478,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "50e91c33b41cebf38162ecb7c81b4d9c",
             "name": "1.1.3.307",
             "references": [
             ],
+            "sha1": "78401dd722a33b1fa5b57a233877074f5527043f",
             "type": "Release",
             "urls": [
                 {
@@ -4495,10 +4495,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "dd326c1f2d60dc966b660f1a609a066a",
             "name": "1.1.3.308",
             "references": [
             ],
+            "sha1": "e7e29a06f92b03659ca699d3af01a784f10880fd",
             "type": "Release",
             "urls": [
                 {
@@ -4512,10 +4512,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9dcfe5d48865cf1094f53cc82487adeb",
             "name": "1.1.3.319",
             "references": [
             ],
+            "sha1": "d3502b6f2596ba4d7981ea2937b22a2e92795294",
             "type": "Release",
             "urls": [
                 {
@@ -4529,10 +4529,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9dcfe5d48865cf1094f53cc82487adeb",
             "name": "1.1.3.320",
             "references": [
             ],
+            "sha1": "d3502b6f2596ba4d7981ea2937b22a2e92795294",
             "type": "Release",
             "urls": [
                 {
@@ -4546,10 +4546,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9dcfe5d48865cf1094f53cc82487adeb",
             "name": "1.1.3.324",
             "references": [
             ],
+            "sha1": "d3502b6f2596ba4d7981ea2937b22a2e92795294",
             "type": "Release",
             "urls": [
                 {
@@ -4563,10 +4563,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9dcfe5d48865cf1094f53cc82487adeb",
             "name": "1.1.3.331",
             "references": [
             ],
+            "sha1": "d3502b6f2596ba4d7981ea2937b22a2e92795294",
             "type": "Release",
             "urls": [
                 {
@@ -4580,10 +4580,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9dcfe5d48865cf1094f53cc82487adeb",
             "name": "1.1.3.332",
             "references": [
             ],
+            "sha1": "d3502b6f2596ba4d7981ea2937b22a2e92795294",
             "type": "Release",
             "urls": [
                 {
@@ -4597,10 +4597,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d09e372c89f97f701aa2de131b5ebb23",
             "name": "1.1.3.333",
             "references": [
             ],
+            "sha1": "c1932ec1ecc244774a1d66a0a660e74dfb7e7f50",
             "type": "Release",
             "urls": [
                 {
@@ -4614,10 +4614,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d09e372c89f97f701aa2de131b5ebb23",
             "name": "1.1.3.335",
             "references": [
             ],
+            "sha1": "c1932ec1ecc244774a1d66a0a660e74dfb7e7f50",
             "type": "Release",
             "urls": [
                 {
@@ -4631,10 +4631,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d09e372c89f97f701aa2de131b5ebb23",
             "name": "1.1.3.336",
             "references": [
             ],
+            "sha1": "c1932ec1ecc244774a1d66a0a660e74dfb7e7f50",
             "type": "Release",
             "urls": [
                 {
@@ -4648,10 +4648,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d09e372c89f97f701aa2de131b5ebb23",
             "name": "1.1.3.337",
             "references": [
             ],
+            "sha1": "c1932ec1ecc244774a1d66a0a660e74dfb7e7f50",
             "type": "Release",
             "urls": [
                 {
@@ -4665,10 +4665,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d09e372c89f97f701aa2de131b5ebb23",
             "name": "1.1.3.338",
             "references": [
             ],
+            "sha1": "c1932ec1ecc244774a1d66a0a660e74dfb7e7f50",
             "type": "Release",
             "urls": [
                 {
@@ -4682,10 +4682,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d09e372c89f97f701aa2de131b5ebb23",
             "name": "1.1.3.340",
             "references": [
             ],
+            "sha1": "c1932ec1ecc244774a1d66a0a660e74dfb7e7f50",
             "type": "Release",
             "urls": [
                 {
@@ -4699,10 +4699,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d09e372c89f97f701aa2de131b5ebb23",
             "name": "1.1.3.341",
             "references": [
             ],
+            "sha1": "c1932ec1ecc244774a1d66a0a660e74dfb7e7f50",
             "type": "Release",
             "urls": [
                 {
@@ -4716,10 +4716,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "43d2ba5907f4bc35bbc13d6895e50f26",
             "name": "1.1.3.345",
             "references": [
             ],
+            "sha1": "6cbd9a886a2bc6d4c653509860eb2478325586ed",
             "type": "Release",
             "urls": [
                 {
@@ -4733,10 +4733,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "11502ed9734d8de63aab85321d0ef59a",
             "name": "1.1.3.346",
             "references": [
             ],
+            "sha1": "603ed37a75fa37f19b5424b6bed3fffb8f33fcfa",
             "type": "Release",
             "urls": [
                 {
@@ -4750,10 +4750,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7f815eca3355cf81dd46702ef61855fe",
             "name": "1.1.3.347",
             "references": [
             ],
+            "sha1": "0e206b57a434daa8eefe1368e367f401ea3cca50",
             "type": "Release",
             "urls": [
                 {
@@ -4767,10 +4767,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "e3976e2ea88b7e52dbc0aa4a3faed7ea",
             "name": "1.1.3.348",
             "references": [
             ],
+            "sha1": "832ef7abe416d09ebd71d8cd3ee7984a78806b41",
             "type": "Release",
             "urls": [
                 {
@@ -4784,10 +4784,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9263f47b44a944df6cdfee2d00092b55",
             "name": "1.1.3.349",
             "references": [
             ],
+            "sha1": "8e1bde1a5433711b0eb2b0697c9be074c3fe594a",
             "type": "Release",
             "urls": [
                 {
@@ -4801,10 +4801,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "fce8f728e03d35dcbf8e90be925fe907",
             "name": "1.1.3.350",
             "references": [
             ],
+            "sha1": "0aa9f048ebd8ff8942a2446e1142b8d68715f744",
             "type": "Release",
             "urls": [
                 {
@@ -4818,10 +4818,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "fe85cc7c7739ec1368c6c5c7d6a4e17b",
             "name": "1.1.3.351",
             "references": [
             ],
+            "sha1": "6c9e2686f9ebf8e34f9513d592e3294652c394c2",
             "type": "Release",
             "urls": [
                 {
@@ -4835,10 +4835,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "32023d5e9489484f2d402c1cb8468271",
             "name": "1.1.3.352",
             "references": [
             ],
+            "sha1": "aa9da813ff1bb22d16988d0eceef88e0c3ca50c9",
             "type": "Release",
             "urls": [
                 {
@@ -4852,10 +4852,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2b1c900266d90b5981b07ea16e24ffa0",
             "name": "1.1.3.353",
             "references": [
             ],
+            "sha1": "8ebca012f60f6e4aea2007186c807de7701e6303",
             "type": "Release",
             "urls": [
                 {
@@ -4869,10 +4869,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "8fcb7424f6ab512bdca175586dfd0e9d",
             "name": "1.1.3.354",
             "references": [
             ],
+            "sha1": "75fe1810b5d03a4484d7d0f4585dfe4b5ec52d39",
             "type": "Release",
             "urls": [
                 {
@@ -4886,10 +4886,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "bea628ab9412205b6463706a3bacce28",
             "name": "1.1.3.355",
             "references": [
             ],
+            "sha1": "dee71181e89c904ea39c9a44cfc750afd98e01ee",
             "type": "Release",
             "urls": [
                 {
@@ -4903,10 +4903,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f74b49bbeec9f10c8a9661acaa9c4a99",
             "name": "1.1.3.356",
             "references": [
             ],
+            "sha1": "ab8192059f42dc045dc19d59092414983fe5957b",
             "type": "Release",
             "urls": [
                 {
@@ -4920,10 +4920,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "a5a6c94a049f58a19032aa52c347cf7a",
             "name": "1.1.3.357",
             "references": [
             ],
+            "sha1": "b5b4f556519216c8568f590b4040ae165b260a30",
             "type": "Release",
             "urls": [
                 {
@@ -4937,10 +4937,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "831382836e165d42ab8bc708aa675fb0",
             "name": "1.1.3.358",
             "references": [
             ],
+            "sha1": "795aa2a0a83d8136cf30840f810b980548de8c32",
             "type": "Release",
             "urls": [
                 {
@@ -4954,10 +4954,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c986748db49f1826f01acdbbb8962798",
             "name": "1.1.3.359",
             "references": [
             ],
+            "sha1": "c4ae1f648ecad8aeed26ce7c9a1cc7c47c8d01bc",
             "type": "Release",
             "urls": [
                 {
@@ -4971,10 +4971,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4ae6e6b5811d378afdf170f281eed83e",
             "name": "1.1.3.360",
             "references": [
             ],
+            "sha1": "500096a428135e51fa0fa706597a39c347abbd28",
             "type": "Release",
             "urls": [
                 {
@@ -4988,10 +4988,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d8cb5107df357a60fe9304d86d6f4eb7",
             "name": "1.1.3.361",
             "references": [
             ],
+            "sha1": "e4f541a2d47ac32814aba65c0d3c9461c388133f",
             "type": "Release",
             "urls": [
                 {
@@ -5005,10 +5005,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "e03dcea0e0ebe5a61a38e09d79b980df",
             "name": "1.1.3.362",
             "references": [
             ],
+            "sha1": "239a5520b4a125a1d47c13bc8dc8842a55ab91b0",
             "type": "Release",
             "urls": [
                 {
@@ -5022,10 +5022,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7b108af61a3815fb8268737546f5fed6",
             "name": "1.1.3.363",
             "references": [
             ],
+            "sha1": "ee175c587662862138f1edfd4007dc960a6d589b",
             "type": "Release",
             "urls": [
                 {
@@ -5039,10 +5039,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4ea0afce5a66eda85a87b78064912de0",
             "name": "1.1.3.93",
             "references": [
             ],
+            "sha1": "d0e0b268883d1a62fbea0e1b8d8ff87df1b09eee",
             "type": "Release",
             "urls": [
                 {
@@ -5056,10 +5056,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9bf3b0715a21caeb45924d0756044397",
             "name": "1.1.3.94",
             "references": [
             ],
+            "sha1": "dd31ea71ff6777fe48f4e8d8c47f0a11ae323c95",
             "type": "Release",
             "urls": [
                 {
@@ -5073,10 +5073,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c890651ae138cb8ab2f04df948a8e619",
             "name": "1.1.3.95",
             "references": [
             ],
+            "sha1": "6c7a262a539da59eee0e79058335df06f00b8a2c",
             "type": "Release",
             "urls": [
                 {
@@ -5090,10 +5090,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "aa87fc9a7289c8d170d8d766c0af947f",
             "name": "1.1.3.96",
             "references": [
             ],
+            "sha1": "ba4ca3c9d9ba13e930b753e0ebe1380766b9906a",
             "type": "Release",
             "urls": [
                 {
@@ -5107,10 +5107,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2c07aa5ff6a24a4f6dea5a587d922b9a",
             "name": "1.1.3.97",
             "references": [
             ],
+            "sha1": "ec0410a611a097e6fc459fa6a4c857061bfa0099",
             "type": "Release",
             "urls": [
                 {
@@ -5124,10 +5124,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4fda78bf9bdd6b2f05012beafdae41ee",
             "name": "1.1.3.98",
             "references": [
             ],
+            "sha1": "d23859169fdb1a4b5bd70621b9907ac5de9dba67",
             "type": "Release",
             "urls": [
                 {
@@ -5141,10 +5141,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0e01ea2b673d00046793421dbcda536e",
             "name": "1.1.3.99",
             "references": [
             ],
+            "sha1": "bf3a1c2289363868181d5637d1f8d99a2fd8e116",
             "type": "Release",
             "urls": [
                 {
@@ -5158,10 +5158,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b3fd523d47105ac96fb2242c56f05e9d",
             "name": "1.2.0.364",
             "references": [
             ],
+            "sha1": "7460a917bffe8bdd968fba65b74dd988a2fc8c2f",
             "type": "Release",
             "urls": [
                 {
@@ -5175,10 +5175,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "6aea7dcf24d46b9c7a27baf70a296ade",
             "name": "1.2.0.365",
             "references": [
             ],
+            "sha1": "07e02dc24dfe859e916f6941fdc82fbf180dfd2a",
             "type": "Release",
             "urls": [
                 {
@@ -5192,10 +5192,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15f117b4c1a3fdcdab0d6f6077535a2a",
             "name": "1.2.0.366",
             "references": [
             ],
+            "sha1": "5f14be9cdc7c43608803469901fbf493c2ed01ce",
             "type": "Release",
             "urls": [
                 {
@@ -5209,10 +5209,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15f117b4c1a3fdcdab0d6f6077535a2a",
             "name": "1.2.0.367",
             "references": [
             ],
+            "sha1": "5f14be9cdc7c43608803469901fbf493c2ed01ce",
             "type": "Release",
             "urls": [
                 {
@@ -5226,10 +5226,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15f117b4c1a3fdcdab0d6f6077535a2a",
             "name": "1.2.0.368",
             "references": [
             ],
+            "sha1": "5f14be9cdc7c43608803469901fbf493c2ed01ce",
             "type": "Release",
             "urls": [
                 {
@@ -5243,10 +5243,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15f117b4c1a3fdcdab0d6f6077535a2a",
             "name": "1.2.0.369",
             "references": [
             ],
+            "sha1": "5f14be9cdc7c43608803469901fbf493c2ed01ce",
             "type": "Release",
             "urls": [
                 {
@@ -5260,10 +5260,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15f117b4c1a3fdcdab0d6f6077535a2a",
             "name": "1.2.0.370",
             "references": [
             ],
+            "sha1": "5f14be9cdc7c43608803469901fbf493c2ed01ce",
             "type": "Release",
             "urls": [
                 {
@@ -5277,10 +5277,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15f117b4c1a3fdcdab0d6f6077535a2a",
             "name": "1.2.0.371",
             "references": [
             ],
+            "sha1": "5f14be9cdc7c43608803469901fbf493c2ed01ce",
             "type": "Release",
             "urls": [
                 {
@@ -5294,10 +5294,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15f117b4c1a3fdcdab0d6f6077535a2a",
             "name": "1.2.0.372",
             "references": [
             ],
+            "sha1": "5f14be9cdc7c43608803469901fbf493c2ed01ce",
             "type": "Release",
             "urls": [
                 {
@@ -5311,10 +5311,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "15f117b4c1a3fdcdab0d6f6077535a2a",
             "name": "1.2.0.373",
             "references": [
             ],
+            "sha1": "5f14be9cdc7c43608803469901fbf493c2ed01ce",
             "type": "Release",
             "urls": [
                 {
@@ -5328,10 +5328,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "484db58c43a23e77885fde46d1fa5065",
             "name": "1.2.0.374",
             "references": [
             ],
+            "sha1": "7241490f5b6c3a0892c6cf24f4518f457fd17306",
             "type": "Release",
             "urls": [
                 {
@@ -5345,10 +5345,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "afefef0a4121798734c24a49eb39ff1f",
             "name": "1.2.0.375",
             "references": [
             ],
+            "sha1": "04509544fc82ad2a9fbeeab80146aa900fab48be",
             "type": "Release",
             "urls": [
                 {
@@ -5362,10 +5362,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "1c188202a10208d3004a0527c4ae8591",
             "name": "1.2.0.376",
             "references": [
             ],
+            "sha1": "dcf361f935919dea6ed7e7c5138b221c89a2f149",
             "type": "Release",
             "urls": [
                 {
@@ -5379,10 +5379,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "afd7a9f81a573278af2992a292f9c767",
             "name": "1.2.0.377",
             "references": [
             ],
+            "sha1": "02c312e3190d5b284b4f7a7711510951f3c0359f",
             "type": "Release",
             "urls": [
                 {
@@ -5396,10 +5396,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "4620fd34277ddb5b9f04ebb65dea43c8",
             "name": "1.2.0.378",
             "references": [
             ],
+            "sha1": "40b6393be2852ffb7d3c467b1ca83c4bcbe3ad4d",
             "type": "Release",
             "urls": [
                 {
@@ -5413,10 +5413,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d677468816a8b8db1197f3d712a738de",
             "name": "1.2.0.379",
             "references": [
             ],
+            "sha1": "b2e6ef261dd4e2129699b3948d777a388ac9ef99",
             "type": "Release",
             "urls": [
                 {
@@ -5430,10 +5430,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "d2d46dcc6a8cf6fb5e31c50cf66417ed",
             "name": "1.2.0.381",
             "references": [
             ],
+            "sha1": "86aace1829bb91c988bd3f3f778eb2b051c7a39c",
             "type": "Release",
             "urls": [
                 {
@@ -5447,10 +5447,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "95440d6bb2be34f9ad7b8d01c60529c1",
             "name": "1.2.0.382",
             "references": [
             ],
+            "sha1": "6c4edafdeb8d87e2e388d47bda7be86132ebe8d0",
             "type": "Release",
             "urls": [
                 {
@@ -5464,10 +5464,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "318a5ea7e2fcb53386a200513a428c7d",
             "name": "1.2.0.383",
             "references": [
             ],
+            "sha1": "48ad35e3da23d78b48041239909b4f5688011ba2",
             "type": "Release",
             "urls": [
                 {
@@ -5481,10 +5481,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "b3e776a1039bffa0434d4df456e375d7",
             "name": "1.2.0.384",
             "references": [
             ],
+            "sha1": "ceaf3b6340ae3f3a2db80ce3edcb4331c9b255fc",
             "type": "Release",
             "urls": [
                 {
@@ -5498,10 +5498,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "2742edbb6b21210aebbd1dfde3d4a135",
             "name": "1.2.0.385",
             "references": [
             ],
+            "sha1": "3cef25e0023b06a88e491d3612d9f7339c46241d",
             "type": "Release",
             "urls": [
                 {
@@ -5515,10 +5515,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ddd0f41f51b58465989ed2dbc7623253",
             "name": "1.2.0.386",
             "references": [
             ],
+            "sha1": "1477f8e24bf0704162adf16e10bdc380b866bfeb",
             "type": "Release",
             "urls": [
                 {
@@ -5532,10 +5532,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ddd0f41f51b58465989ed2dbc7623253",
             "name": "1.2.0.388",
             "references": [
             ],
+            "sha1": "1477f8e24bf0704162adf16e10bdc380b866bfeb",
             "type": "Release",
             "urls": [
                 {
@@ -5549,10 +5549,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c1f8cf8eb53fe20ba04461f2fe2ebabd",
             "name": "1.2.0.393",
             "references": [
             ],
+            "sha1": "a7b14de48764200236c0db34108a4cf3a5bf7063",
             "type": "Release",
             "urls": [
                 {
@@ -5566,10 +5566,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "808f328cd12a196ff72413472edb3079",
             "name": "1.2.0.397",
             "references": [
             ],
+            "sha1": "ca51e83fb25b77f1619c8fe41e38ed5a50a4db53",
             "type": "Release",
             "urls": [
                 {
@@ -5583,10 +5583,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "ebe4a5a6de5d03279ea046ae65898188",
             "name": "1.2.0.399",
             "references": [
             ],
+            "sha1": "6527fe5bd9ab93c24c80e5b8aab491a303a3e7ca",
             "type": "Release",
             "urls": [
                 {
@@ -5600,10 +5600,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "91dd5c20ac06b14231a1540d9305620e",
             "name": "1.2.0.403",
             "references": [
             ],
+            "sha1": "424cd0576889d795f689fe927ccffc9d4e9bfd71",
             "type": "Release",
             "urls": [
                 {
@@ -5617,10 +5617,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f198bdba3f47e83b3e4755326ae32a2a",
             "name": "1.2.0.405",
             "references": [
             ],
+            "sha1": "ed5757ed24649e72ce1796f6a7d901ae2dd64436",
             "type": "Release",
             "urls": [
                 {
@@ -5634,10 +5634,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "c279b6e1bbd168fe1388fceb3aaa8b68",
             "name": "1.2.0.412",
             "references": [
             ],
+            "sha1": "44b057c77183c620df2fbe405d5190be6e791fdd",
             "type": "Release",
             "urls": [
                 {
@@ -5651,10 +5651,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "1936089ac37f213dd31d46e9b384b912",
             "name": "1.2.0.413",
             "references": [
             ],
+            "sha1": "31e73bab0cfb89b43fb21218fb0b20edd07f0ea1",
             "type": "Release",
             "urls": [
                 {
@@ -5668,10 +5668,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "f56e65d750042974674522d7ea66890e",
             "name": "1.2.0.415",
             "references": [
             ],
+            "sha1": "5c0f2490ffd0c0f0d28952572eb5e9bbaec9469b",
             "type": "Release",
             "urls": [
                 {
@@ -5685,10 +5685,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "9c37429db3fe052f07b6671656b2b649",
             "name": "1.2.1.416",
             "references": [
             ],
+            "sha1": "38d634360df60fbf1862a674916ea73961e299fc",
             "type": "Release",
             "urls": [
                 {
@@ -5702,10 +5702,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "7712f087b95a9715fafd05d5d7cd9e83",
             "name": "1.2.1.418",
             "references": [
             ],
+            "sha1": "e2061006ff195fa5b9121f5a295c4a800e0e561c",
             "type": "Release",
             "urls": [
                 {
@@ -5719,10 +5719,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0cae32c6cd14745e5f7a596e68bee709",
             "name": "1.2.1.433",
             "references": [
             ],
+            "sha1": "c0cf91816c020ef9e7491af792533745725eeee6",
             "type": "Release",
             "urls": [
                 {
@@ -5736,10 +5736,10 @@
             "mcCompat": [
                 "1.6.4"
             ],
-            "md5": "0cae32c6cd14745e5f7a596e68bee709",
             "name": "1.2.1.434",
             "references": [
             ],
+            "sha1": "c0cf91816c020ef9e7491af792533745725eeee6",
             "type": "Release",
             "urls": [
                 {
@@ -5753,10 +5753,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "1d416aae8dddd1a7c505b3fd92aa28c6",
             "name": "2.0.0.422",
             "references": [
             ],
+            "sha1": "319b35e339419a1ddd7d7ac8a4f68680f3a205fa",
             "type": "Release",
             "urls": [
                 {
@@ -5770,10 +5770,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "1d416aae8dddd1a7c505b3fd92aa28c6",
             "name": "2.0.0.423",
             "references": [
             ],
+            "sha1": "319b35e339419a1ddd7d7ac8a4f68680f3a205fa",
             "type": "Release",
             "urls": [
                 {
@@ -5787,10 +5787,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "e528cfdfad3cec0300d46f0008c3b143",
             "name": "2.0.0.424",
             "references": [
             ],
+            "sha1": "3809dacbad9125bdffd25df2f95046d60af6a6a7",
             "type": "Release",
             "urls": [
                 {
@@ -5804,10 +5804,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "501d5860dcc767c12cb5adf104380025",
             "name": "2.0.0.425",
             "references": [
             ],
+            "sha1": "baca9d59806abaa2d3ab8965dec66957f90304b8",
             "type": "Release",
             "urls": [
                 {
@@ -5821,10 +5821,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "3316a94009b91917f0d4ebc121c0a5c9",
             "name": "2.0.0.426",
             "references": [
             ],
+            "sha1": "a96b6e0f5a949cc7d25cb5ab8ed3edd069a6c420",
             "type": "Release",
             "urls": [
                 {
@@ -5838,10 +5838,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "f0ce4b333d3f595c1fcc8b7e2f00fc95",
             "name": "2.0.0.427",
             "references": [
             ],
+            "sha1": "1b044179830306cc60c508af24df88baf592798b",
             "type": "Release",
             "urls": [
                 {
@@ -5855,10 +5855,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "85efe105f592c379afb592a0a3483416",
             "name": "2.0.0.428",
             "references": [
             ],
+            "sha1": "4849449521e03b5891c849eaed4e30ed8994b366",
             "type": "Release",
             "urls": [
                 {
@@ -5872,10 +5872,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "b6f91c05a15cc3b474c4a59f422fdf9d",
             "name": "2.0.0.429",
             "references": [
             ],
+            "sha1": "c6730810ce73c404a3ad7e3c8127e4944726ffe3",
             "type": "Release",
             "urls": [
                 {
@@ -5889,10 +5889,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "f24e340bfa8704aa213fd1e16cb8bbe9",
             "name": "2.0.0.430",
             "references": [
             ],
+            "sha1": "1f20c5ffff80519c8081bddb0ac7f616841a527d",
             "type": "Release",
             "urls": [
                 {
@@ -5906,10 +5906,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "b469306f5e465e69f1d560604f864eeb",
             "name": "2.0.0.431",
             "references": [
             ],
+            "sha1": "637cf4b5fa24f4dae410457c928940aa59d18208",
             "type": "Release",
             "urls": [
                 {
@@ -5923,10 +5923,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "aa57b621a90b11f7c99737869e63e6ba",
             "name": "2.0.0.432",
             "references": [
             ],
+            "sha1": "6328e1c53691931239858371ad68519b6b47c864",
             "type": "Release",
             "urls": [
                 {
@@ -5940,10 +5940,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "cc2c062d9b5de4b50b34820b1ec17471",
             "name": "2.0.0.435",
             "references": [
             ],
+            "sha1": "54d4f3bc52b35353abbfe8ef313ca20f7faf8ebd",
             "type": "Release",
             "urls": [
                 {
@@ -5957,10 +5957,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "4db2de440d94ece3d55e18d80da19413",
             "name": "2.0.0.436",
             "references": [
             ],
+            "sha1": "ec87b09e75ad128de787d13e3fddc2996d977c8f",
             "type": "Release",
             "urls": [
                 {
@@ -5974,10 +5974,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "a46cf4e6e64d6adde837c0f0278c88b0",
             "name": "2.0.0.437",
             "references": [
             ],
+            "sha1": "f0d0ee54dbafa8787a6fa11b39b42aead773697b",
             "type": "Release",
             "urls": [
                 {
@@ -5991,10 +5991,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "0e8893601311eb2fc886336eac9c99a4",
             "name": "2.0.0.438",
             "references": [
             ],
+            "sha1": "35f3c377eb4cef427a25a875779af4bcbe8cecf7",
             "type": "Release",
             "urls": [
                 {
@@ -6008,10 +6008,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "904b82c683ba0839ab4d9c95e05d3f14",
             "name": "2.0.0.439",
             "references": [
             ],
+            "sha1": "2088561c0799cf0cd1796200ef24636331f2dc08",
             "type": "Release",
             "urls": [
                 {
@@ -6025,10 +6025,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "15ec6a7d0590f46e769039d80edc038e",
             "name": "2.0.0.440",
             "references": [
             ],
+            "sha1": "7c57383aab39d0d7b759ad1343778fe133aaca83",
             "type": "Release",
             "urls": [
                 {
@@ -6042,10 +6042,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "42db7d8679488acfebc791159e05d10c",
             "name": "2.0.0.441",
             "references": [
             ],
+            "sha1": "e446d471826fe91773b5facd0c56570de9a88642",
             "type": "Release",
             "urls": [
                 {
@@ -6059,10 +6059,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "ee650f9b499d5bbbbb11685aa39c5ae9",
             "name": "2.0.0.442",
             "references": [
             ],
+            "sha1": "c3ffa439985b31a3523582b7294e7460b3ec803e",
             "type": "Release",
             "urls": [
                 {
@@ -6076,10 +6076,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "f18871c2c6d9110a356bdb3a0357f6a7",
             "name": "2.0.0.443",
             "references": [
             ],
+            "sha1": "0c5e530f3bfc6ef04ac701554016dde97035bf49",
             "type": "Release",
             "urls": [
                 {
@@ -6093,10 +6093,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "d1596d4edb4de7887506e68d57b9f052",
             "name": "2.0.0.482",
             "references": [
             ],
+            "sha1": "1fce1a5288e54862f2ffcab269789cf4593ad6ae",
             "type": "Release",
             "urls": [
                 {
@@ -6110,10 +6110,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "e99dd0c99f2abb69b58c8bd902972374",
             "name": "2.0.0.483",
             "references": [
             ],
+            "sha1": "0b5376630158c314826072faabacf83de991c7dd",
             "type": "Release",
             "urls": [
                 {
@@ -6127,10 +6127,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "3bd8bb265bb7a32d501f15d03a40c2e7",
             "name": "2.0.0.484",
             "references": [
             ],
+            "sha1": "344366e2f81bc33159dfda674c3e21897ec1e8e1",
             "type": "Release",
             "urls": [
                 {
@@ -6144,10 +6144,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "a34b02774ba83474a4fad0871e4626da",
             "name": "2.0.0.485",
             "references": [
             ],
+            "sha1": "3ef1b404a2cb4f55ad8cda5f617eaaf8e0815942",
             "type": "Release",
             "urls": [
                 {
@@ -6161,10 +6161,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "8f8aa39250cebbfc52d10111ddb20375",
             "name": "2.0.0.486",
             "references": [
             ],
+            "sha1": "eaa2ab41edcf626d69a920f2f5b9e1681a5f8d73",
             "type": "Release",
             "urls": [
                 {
@@ -6178,10 +6178,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "25aea53deb989e2a9179f4970efeedad",
             "name": "2.0.0.487",
             "references": [
             ],
+            "sha1": "16d1fe786ce1d918fd0dfacb9e77b3a267427dbe",
             "type": "Release",
             "urls": [
                 {
@@ -6195,10 +6195,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "be6242e46e065f938bd2b43c6cf813e9",
             "name": "2.0.0.488",
             "references": [
             ],
+            "sha1": "4db53c83d47ded3fabfe72f6fcfbb7007de6e1a7",
             "type": "Release",
             "urls": [
                 {
@@ -6212,10 +6212,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "be6242e46e065f938bd2b43c6cf813e9",
             "name": "2.0.0.489",
             "references": [
             ],
+            "sha1": "4db53c83d47ded3fabfe72f6fcfbb7007de6e1a7",
             "type": "Release",
             "urls": [
                 {
@@ -6229,10 +6229,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "32f698c5850db9bc84971d2bb64294df",
             "name": "2.0.0.490",
             "references": [
             ],
+            "sha1": "4090b9f1cc56c58147865a38024b92be737e5a24",
             "type": "Release",
             "urls": [
                 {
@@ -6246,10 +6246,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "289164cb2adb6c55d4c2887f71263bc8",
             "name": "2.0.0.491",
             "references": [
             ],
+            "sha1": "43c1f34d3e978f8c291a175f64f4dc501f921b61",
             "type": "Release",
             "urls": [
                 {
@@ -6263,10 +6263,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "1b0dbc5cb63f4820399f078e3f4d502c",
             "name": "2.0.0.492",
             "references": [
             ],
+            "sha1": "58dcb945763c6a9eba0b3e89dd2918b9d21df36d",
             "type": "Release",
             "urls": [
                 {
@@ -6280,10 +6280,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "aa0aca418d30e243f8ca06e0fce9e053",
             "name": "2.0.0.493",
             "references": [
             ],
+            "sha1": "d852f12df4f7844a728fd70a2c4fea06dbdbe5d4",
             "type": "Release",
             "urls": [
                 {
@@ -6297,10 +6297,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "495de3ac4eb1fa56a63ca622ed914f6a",
             "name": "2.0.0.494",
             "references": [
             ],
+            "sha1": "a84b906969adb3e8258ad66813ae9d2f2cad3edb",
             "type": "Release",
             "urls": [
                 {
@@ -6314,10 +6314,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "495de3ac4eb1fa56a63ca622ed914f6a",
             "name": "2.0.0.495",
             "references": [
             ],
+            "sha1": "a84b906969adb3e8258ad66813ae9d2f2cad3edb",
             "type": "Release",
             "urls": [
                 {
@@ -6331,10 +6331,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "788f965c08a25245299d2fe837a8101e",
             "name": "2.0.0.496",
             "references": [
             ],
+            "sha1": "0fbdb6cca3b9d46631178a4f7d0b5efc798fb4dc",
             "type": "Release",
             "urls": [
                 {
@@ -6348,10 +6348,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "67c520e13a08c940180a735a8d17af6d",
             "name": "2.0.0.497",
             "references": [
             ],
+            "sha1": "dba64cc6b8bc50cd16b7ca2a493f06a02896bd20",
             "type": "Release",
             "urls": [
                 {
@@ -6365,10 +6365,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "03214b816ea6ef543c0b0d8d8bf5aae8",
             "name": "2.0.0.498",
             "references": [
             ],
+            "sha1": "152bbafaaa3ad1f6e93e227d6da05cb8c9cfc702",
             "type": "Release",
             "urls": [
                 {
@@ -6382,10 +6382,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "80184342fd075eaee3cd9a76c23c5250",
             "name": "2.0.0.499",
             "references": [
             ],
+            "sha1": "8520922e7a7c5bbcdb2e87d376fdfa57ea88c9cd",
             "type": "Release",
             "urls": [
                 {
@@ -6399,10 +6399,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "41477f5edac401b2bb68292fedbfd22f",
             "name": "2.0.0.500",
             "references": [
             ],
+            "sha1": "3048b13a8304f42354d383c1e3863592660efb4e",
             "type": "Release",
             "urls": [
                 {
@@ -6416,10 +6416,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "908eff0e4a2164fd269ea0e7166901e7",
             "name": "2.0.0.501",
             "references": [
             ],
+            "sha1": "3ee653d2aaf4fc3c5b80af21a0d96fecdda6d561",
             "type": "Release",
             "urls": [
                 {
@@ -6433,10 +6433,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "db5f0ea898ddf0ba40ecbb16f79357f6",
             "name": "2.0.0.502",
             "references": [
             ],
+            "sha1": "e5d2b03cb3b34a8e43545627c275bb9a19f3d64b",
             "type": "Release",
             "urls": [
                 {
@@ -6450,10 +6450,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "e0483458f71c9a923c182dcda575e84a",
             "name": "2.0.0.503",
             "references": [
             ],
+            "sha1": "78018814a1156b991367f65353ff3415ac07ba90",
             "type": "Release",
             "urls": [
                 {
@@ -6467,10 +6467,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "6be32ebbf762159a67f13fe4242506d7",
             "name": "2.0.0.504",
             "references": [
             ],
+            "sha1": "39dd6400f0b1facb8629a335439d664fec7a77b7",
             "type": "Release",
             "urls": [
                 {
@@ -6484,10 +6484,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "cda0da7fbeab324c98924d75c89fc14b",
             "name": "2.0.0.505",
             "references": [
             ],
+            "sha1": "3bf568d7b1873edf9787c30233693e46f325d6e1",
             "type": "Release",
             "urls": [
                 {
@@ -6501,10 +6501,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "8b8fd73b5a8fade6f76f50b11d24421d",
             "name": "2.0.0.506",
             "references": [
             ],
+            "sha1": "1faa532e391dae339cb08f2133efab6afb217798",
             "type": "Release",
             "urls": [
                 {
@@ -6518,10 +6518,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "ca3ae42084adf0380d2ca576fdb1ce07",
             "name": "2.0.0.507",
             "references": [
             ],
+            "sha1": "16d585c41556eaac1d0edec7dca009e333e66638",
             "type": "Release",
             "urls": [
                 {
@@ -6535,10 +6535,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "d2d17773177b98cf1a5a9a6c800b7e40",
             "name": "2.0.0.508",
             "references": [
             ],
+            "sha1": "e7cffa17d3d7d7fcb1c07fb331d0793a041e51ac",
             "type": "Release",
             "urls": [
                 {
@@ -6552,10 +6552,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "22ae97f0508052e51a941a7e0ee50b3d",
             "name": "2.0.0.509",
             "references": [
             ],
+            "sha1": "bb5accdca90302bb5478e8f4373b7dd384b6f3f9",
             "type": "Release",
             "urls": [
                 {
@@ -6569,10 +6569,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "863e1b7331ab5a7c6ad88ea71e5ed577",
             "name": "2.0.0.510",
             "references": [
             ],
+            "sha1": "b64ae0b3eaf5691aea6064b7e132d4389abe8ec2",
             "type": "Release",
             "urls": [
                 {
@@ -6586,10 +6586,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "793c1f8395a5a705a665255ff6ef226a",
             "name": "2.0.0.511",
             "references": [
             ],
+            "sha1": "282d6680021ccb8d92716927d7065cd260b33089",
             "type": "Release",
             "urls": [
                 {
@@ -6603,10 +6603,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "35dad3da18d1be1741b0807d86cd49ae",
             "name": "2.0.0.512",
             "references": [
             ],
+            "sha1": "e47da54b67ecbb01f02159e1ec634890fd6fbe38",
             "type": "Release",
             "urls": [
                 {
@@ -6620,10 +6620,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "309ab34354b5b17993c5cc4aaaddb891",
             "name": "2.0.0.513",
             "references": [
             ],
+            "sha1": "edba1cc3b06df23e26baf79e893214cbaae001e1",
             "type": "Release",
             "urls": [
                 {
@@ -6637,10 +6637,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "221a2b191b907e17e9d3a406225f4866",
             "name": "2.0.0.514",
             "references": [
             ],
+            "sha1": "f1c7b54f08df0d292751f4db50acfa3311e1d69b",
             "type": "Release",
             "urls": [
                 {
@@ -6654,10 +6654,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "221a2b191b907e17e9d3a406225f4866",
             "name": "2.0.0.515",
             "references": [
             ],
+            "sha1": "f1c7b54f08df0d292751f4db50acfa3311e1d69b",
             "type": "Release",
             "urls": [
                 {
@@ -6671,10 +6671,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "6dd5ec7a06a24d61fd9c68644bff4af1",
             "name": "2.0.0.516",
             "references": [
             ],
+            "sha1": "6bee01c95583fdf16bfec37cc8058b866dd3092a",
             "type": "Release",
             "urls": [
                 {
@@ -6688,10 +6688,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "a4e91de078347197fe3f8e7d88d7eafb",
             "name": "2.0.0.517",
             "references": [
             ],
+            "sha1": "4f4f141ae0794fa2a51b6f6e8cff0b5b25194306",
             "type": "Release",
             "urls": [
                 {
@@ -6705,10 +6705,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "a8ddcaa2e055810e0037667d54d59d60",
             "name": "2.0.0.518",
             "references": [
             ],
+            "sha1": "e6c2ad679edda76732c9bfb59164eb076229be71",
             "type": "Release",
             "urls": [
                 {
@@ -6722,10 +6722,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "b279dd5445bef006c325b8d98875a82a",
             "name": "2.0.0.519",
             "references": [
             ],
+            "sha1": "c63b064f158109ba454643aff6316d5f7bf6d1c4",
             "type": "Release",
             "urls": [
                 {
@@ -6739,10 +6739,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "04eacd37031b357690319813ddbdfab9",
             "name": "2.0.0.520",
             "references": [
             ],
+            "sha1": "ece2abadbe1307744215fe7c895b8799a6952df5",
             "type": "Release",
             "urls": [
                 {
@@ -6756,10 +6756,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "6c193671520a7aa46982de310e39372f",
             "name": "2.0.0.521",
             "references": [
             ],
+            "sha1": "0c05acfb25d585d9bf959ed4da64bf302829f197",
             "type": "Release",
             "urls": [
                 {
@@ -6773,10 +6773,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "6f5d0b9cd0bff7ea1b5b6803dee9dde1",
             "name": "2.0.0.522",
             "references": [
             ],
+            "sha1": "a8db9b6efd757820a5c820bd36754a0f31d37fb6",
             "type": "Release",
             "urls": [
                 {
@@ -6790,10 +6790,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "874b788910cc4459ae1294bbdfea03e4",
             "name": "2.0.0.523",
             "references": [
             ],
+            "sha1": "808a6ac567e35946a5871f26d439978508f589a7",
             "type": "Release",
             "urls": [
                 {
@@ -6807,10 +6807,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "e8bb2ccdcb50dcd96f5082af012e5cf1",
             "name": "2.0.0.524",
             "references": [
             ],
+            "sha1": "d5510cfe0ffd875fecfef55284a4be1b80ac8971",
             "type": "Release",
             "urls": [
                 {
@@ -6824,10 +6824,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "1663aeee757e9807a1631eec26cdb39a",
             "name": "2.0.0.525",
             "references": [
             ],
+            "sha1": "4dad32c5c7c85418eb651000e56786a5b45a87d1",
             "type": "Release",
             "urls": [
                 {
@@ -6841,10 +6841,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "c7e5cd064e216ada3b0cd63f7a7c87d9",
             "name": "2.0.0.526",
             "references": [
             ],
+            "sha1": "320a50c8785cf6b3fd1dfb0a2b7c51f778c11759",
             "type": "Release",
             "urls": [
                 {
@@ -6858,10 +6858,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "d2c9e4e1e20a0e406d871a18a299ad0c",
             "name": "2.0.0.527",
             "references": [
             ],
+            "sha1": "3a269cdd99bc9e0bee4705aa4d46fdcf00e8381f",
             "type": "Release",
             "urls": [
                 {
@@ -6875,10 +6875,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "292f7b9405e44e596bfcc30055156ef0",
             "name": "2.0.0.528",
             "references": [
             ],
+            "sha1": "6292bd79a3a6d2fa9d8910ab5899a86e394826c7",
             "type": "Release",
             "urls": [
                 {
@@ -6892,10 +6892,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "ba1a19602db1ab590ae7fefcbdce989a",
             "name": "2.0.0.529",
             "references": [
             ],
+            "sha1": "76e3ad4efebf577a0c9d438e74e9efa7a9517b77",
             "type": "Release",
             "urls": [
                 {
@@ -6909,10 +6909,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "bec79667838236c963db96389f040bda",
             "name": "2.0.0.530",
             "references": [
             ],
+            "sha1": "eefb0e8e208b56a341ceda2f17ccad2fccf7b8c8",
             "type": "Release",
             "urls": [
                 {
@@ -6926,10 +6926,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "eddc06f608a781466dbc4a8fa0525010",
             "name": "2.0.0.531",
             "references": [
             ],
+            "sha1": "072c8815704946dacc91f1c575104cb26d91bcc7",
             "type": "Release",
             "urls": [
                 {
@@ -6943,10 +6943,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "eddc06f608a781466dbc4a8fa0525010",
             "name": "2.0.0.533",
             "references": [
             ],
+            "sha1": "072c8815704946dacc91f1c575104cb26d91bcc7",
             "type": "Release",
             "urls": [
                 {
@@ -6960,10 +6960,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "4516137005c8cdac3911e065e34f9bad",
             "name": "2.0.0.534",
             "references": [
             ],
+            "sha1": "bd1e5f8f3da4cc8b23b997526882a6c0d5cea6cd",
             "type": "Release",
             "urls": [
                 {
@@ -6977,10 +6977,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "f3dd789dea0845d5cf472b8793817372",
             "name": "2.0.0.535",
             "references": [
             ],
+            "sha1": "6ed885556cd502bd494fd5b14a33698cdbe75151",
             "type": "Release",
             "urls": [
                 {
@@ -6994,10 +6994,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "e3adf115d1c15896e9be2c4e1b592da7",
             "name": "2.0.0.536",
             "references": [
             ],
+            "sha1": "9252c7c2b3c6b2426ad55bc455d0b13eb2641937",
             "type": "Release",
             "urls": [
                 {
@@ -7011,10 +7011,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "2bee2becb9ba4a6736b4e661b5e84f84",
             "name": "2.0.0.537",
             "references": [
             ],
+            "sha1": "c3a11b9982993c65e6eadae7d16767cccb78892c",
             "type": "Release",
             "urls": [
                 {
@@ -7028,10 +7028,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "d0e2d435ce22a7ea482c1cf734446d6c",
             "name": "2.0.0.538",
             "references": [
             ],
+            "sha1": "4c8a4034878738cc23530844c7d9429f993d3aa7",
             "type": "Release",
             "urls": [
                 {
@@ -7045,10 +7045,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "2bee2becb9ba4a6736b4e661b5e84f84",
             "name": "2.0.0.539",
             "references": [
             ],
+            "sha1": "c3a11b9982993c65e6eadae7d16767cccb78892c",
             "type": "Release",
             "urls": [
                 {
@@ -7062,10 +7062,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "d0e2d435ce22a7ea482c1cf734446d6c",
             "name": "2.0.0.540",
             "references": [
             ],
+            "sha1": "4c8a4034878738cc23530844c7d9429f993d3aa7",
             "type": "Release",
             "urls": [
                 {
@@ -7079,10 +7079,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "35cd04b4070ebcd9311eb6f748e14401",
             "name": "2.0.0.541",
             "references": [
             ],
+            "sha1": "96c9e6d5c316ee9a5f4e152eb9a37a1fc8c5953a",
             "type": "Release",
             "urls": [
                 {
@@ -7096,10 +7096,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "ad6e94c6e32b89ccc2d73b25dd131a28",
             "name": "2.0.0.542",
             "references": [
             ],
+            "sha1": "8d878114eb4ad3612b1078ac4f2ed3b9dec86c28",
             "type": "Release",
             "urls": [
                 {
@@ -7113,10 +7113,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "41be7837faa59910f48f76eb0c624efb",
             "name": "2.0.0.543",
             "references": [
             ],
+            "sha1": "3d6e9398114a20eefc3601ce934b963fc349140e",
             "type": "Release",
             "urls": [
                 {
@@ -7130,10 +7130,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "a71bda9c38aa501b4960ba69893a2d76",
             "name": "2.0.0.544",
             "references": [
             ],
+            "sha1": "3b94f77a333e7af54f546c7a675ae52a289830d2",
             "type": "Release",
             "urls": [
                 {
@@ -7147,10 +7147,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "23defbff2762c88539da6d8481c429ad",
             "name": "2.0.0.552",
             "references": [
             ],
+            "sha1": "0dc5eddc4dfe1beba2c633ec8ab9db4d3d55e657",
             "type": "Release",
             "urls": [
                 {
@@ -7164,10 +7164,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "c06ff2cdefae9eaf66280bedf93bd007",
             "name": "2.0.0.553",
             "references": [
             ],
+            "sha1": "0f83de138db43069e90de3803a1eb5a01e0d5555",
             "type": "Release",
             "urls": [
                 {
@@ -7181,10 +7181,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "6ffeb6825d3dad475c54c4c89a6c9619",
             "name": "2.0.0.554",
             "references": [
             ],
+            "sha1": "43c83a9ac554916df22fb8d0ae589dbb6439ce0e",
             "type": "Release",
             "urls": [
                 {
@@ -7198,10 +7198,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "0a668fc61782f7f98eb6f4db96ab262f",
             "name": "2.0.0.555",
             "references": [
             ],
+            "sha1": "fd349e2481c047e89d0cf579a1f09b387dbe08b1",
             "type": "Release",
             "urls": [
                 {
@@ -7215,10 +7215,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "869ddb798e507e44ffe61843bc94087b",
             "name": "2.0.0.556",
             "references": [
             ],
+            "sha1": "170f07957a4ce299827481c9b8664c2f18495b8a",
             "type": "Release",
             "urls": [
                 {
@@ -7232,10 +7232,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "9ff777a287477d723210f799d637c91b",
             "name": "2.0.0.557",
             "references": [
             ],
+            "sha1": "02500f4f4797d7770d9aefb57b9203560621a970",
             "type": "Release",
             "urls": [
                 {
@@ -7249,10 +7249,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "76b55bca100b7a7e348ef8574dbbdbbb",
             "name": "2.0.0.558",
             "references": [
             ],
+            "sha1": "769fbe35f5aec42f2c409e55a998ce23f2bb8a47",
             "type": "Release",
             "urls": [
                 {
@@ -7266,10 +7266,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "a8815c8e04021070d04d5f03610563eb",
             "name": "2.0.0.560",
             "references": [
             ],
+            "sha1": "f6e662a374dac80068662e214ad2b68d212ac2d2",
             "type": "Release",
             "urls": [
                 {
@@ -7283,10 +7283,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "2ca88aecb0821e639f2bd7597b55949b",
             "name": "2.0.0.561",
             "references": [
             ],
+            "sha1": "728ab642eb48532722433e8a1de8071709957a69",
             "type": "Release",
             "urls": [
                 {
@@ -7300,10 +7300,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "21d55e77aca515dd3f0bdfa6c6071c2a",
             "name": "2.0.0.562",
             "references": [
             ],
+            "sha1": "94456aa29d1f3033c1a533bdf292544ddea5c54c",
             "type": "Release",
             "urls": [
                 {
@@ -7317,10 +7317,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "24d96ee59a686090f92f308fcdb4b494",
             "name": "2.0.0.563",
             "references": [
             ],
+            "sha1": "be5bbef5fe62e6bbfa272713cee25011ec49495b",
             "type": "Release",
             "urls": [
                 {
@@ -7334,10 +7334,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "aa4ee344f44ad9f6d9dadeb1f74f76ab",
             "name": "2.0.0.564",
             "references": [
             ],
+            "sha1": "1887bf435e60a19443d74f9098f443af102e9144",
             "type": "Release",
             "urls": [
                 {
@@ -7351,10 +7351,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "6684c5c9a8be0acb5dd490982f1532f1",
             "name": "2.0.0.565",
             "references": [
             ],
+            "sha1": "288c735153b379be3fd56f277de7dc9c9cc85680",
             "type": "Release",
             "urls": [
                 {
@@ -7368,10 +7368,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "0b1bd3d87f331a657aca6f2ec419bf64",
             "name": "2.0.0.566",
             "references": [
             ],
+            "sha1": "bb5efb081c4cd8dd5285f24dc5d6793ce4c24809",
             "type": "Release",
             "urls": [
                 {
@@ -7385,10 +7385,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "b7bc5849c2f3f91e4bf32605ec9a7aed",
             "name": "2.0.0.567",
             "references": [
             ],
+            "sha1": "43b3eb9ff7fbbcf3d0a27c68c2ee67ab19f6e656",
             "type": "Release",
             "urls": [
                 {
@@ -7402,10 +7402,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "ba6ae85291d0b47d8912621e53050ea7",
             "name": "2.0.0.568",
             "references": [
             ],
+            "sha1": "5fb00128b3a525f5f4a96c766704c74ddafdc366",
             "type": "Release",
             "urls": [
                 {
@@ -7419,10 +7419,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "96ab6bed7ff3d550882564cf4efe0213",
             "name": "2.0.0.569",
             "references": [
             ],
+            "sha1": "3c17ad1210374fe04266d63e32aeaa5403ff8377",
             "type": "Release",
             "urls": [
                 {
@@ -7436,10 +7436,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "ac47273d18dc1be5fa5824f3b49d1a85",
             "name": "2.0.0.570",
             "references": [
             ],
+            "sha1": "31b8f9523ec1993a6ede145550b232e2875ca259",
             "type": "Release",
             "urls": [
                 {
@@ -7453,10 +7453,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "c2f84b34cef94df979be87ba2f5fc442",
             "name": "2.0.0.571",
             "references": [
             ],
+            "sha1": "ff1db8d999d2727e375aa473f9143323b1af1b8b",
             "type": "Release",
             "urls": [
                 {
@@ -7470,10 +7470,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "c2f84b34cef94df979be87ba2f5fc442",
             "name": "2.0.0.573",
             "references": [
             ],
+            "sha1": "ff1db8d999d2727e375aa473f9143323b1af1b8b",
             "type": "Release",
             "urls": [
                 {
@@ -7487,10 +7487,10 @@
             "mcCompat": [
                 "1.7.2"
             ],
-            "md5": "c2f84b34cef94df979be87ba2f5fc442",
             "name": "2.0.0.579",
             "references": [
             ],
+            "sha1": "ff1db8d999d2727e375aa473f9143323b1af1b8b",
             "type": "Release",
             "urls": [
                 {
