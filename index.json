@@ -129,5 +129,6 @@
             "uid": "com.thevoxelbox.voxelmap.voxelmap",
             "url": "ZansMinimap.json"
         }
-    ]
+    ],
+    "repo": "02JanDal.Testing"
 }
