@@ -1,0 +1,54 @@
+{
+    "authors": {
+        "Author": [
+            "Mumfrey"
+        ]
+    },
+    "categories": [
+        "Client"
+    ],
+    "description": "The Macro/Keybind Mod allows you to create simple keybinds or incredibly complex macros to automate your minecraft experience. Also lets you create custom GUI's and much more.",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "macros",
+    "name": "Macro/Keybind Mod",
+    "nemName": "",
+    "references": {
+    },
+    "repo": "02JanDal.Testing",
+    "tags": [
+    ],
+    "uid": "mumfrey.macros",
+    "updateUrl": "github://02JanDal@QuickMod/MacroKeybindMod.json",
+    "urls": {
+        "donation": [
+            "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3PUTWT88QBTTQ"
+        ],
+        "logo": [
+            "http://eq2.co.uk/minecraft/mods/forumimages/header.png"
+        ],
+        "website": [
+            "mcf:1275039"
+        ]
+    },
+    "versions": [
+        {
+            "installType": "liteloaderMod",
+            "liteloaderCompat": "1.7.2_04",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "0.10.4",
+            "references": [
+            ],
+            "sha1": "377c9c92e4dc86cc1d0509c7bd8afebb53585733",
+            "type": "Release",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://eq2.co.uk/minecraft/mods/mod_macros_0.10.04_for_1.7.2.litemod"
+                }
+            ]
+        }
+    ]
+}

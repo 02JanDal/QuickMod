@@ -2,6 +2,10 @@
     "baseUrl": "github://02JanDal@QuickMod/",
     "index": [
         {
+            "uid": "mumfrey.macros",
+            "url": "MacroKeybindMod.json"
+        },
+        {
             "uid": "com.advGenetics.advancedgenetics",
             "url": "AdvancedGenetics.json"
         },
