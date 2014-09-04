@@ -14,28 +14,28 @@
     "name": "FTB Unstable",
     "nemName": "",
     "references": {
-        "WayofTime.alchemicalWizardry.bloodmagic": "github://02JanDal@QuickMod/BloodMagic.json",
-        "biomesoplenty": "github://02JanDal@QuickMod/BiomesOPlenty.json",
-        "buildcraft": "github://02JanDal@QuickMod/BuildCraft.json",
-        "com.advGenetics.advancedgenetics": "github://02JanDal@QuickMod/AdvancedGenetics.json",
-        "com.thevoxelbox.voxelmap.voxelmap": "github://02JanDal@QuickMod/ZansMinimap.json",
-        "cpw.mods.compactsolars": "github://02JanDal@QuickMod/CompactSolars.json",
-        "cpw.mods.ironchest": "github://02JanDal@QuickMod/IronChests.json",
-        "ic2.core": "github://02JanDal@QuickMod/IndustrialCraft2.json",
-        "mantle": "github://02JanDal@QuickMod/Mantle.json",
-        "mcp.mobius.betterbarrels.JABBA": "github://02JanDal@QuickMod/Jabba.json",
-        "mcp.mobius.waila": "github://02JanDal@QuickMod/Waila.json",
-        "paintedstone": "github://02JanDal@QuickMod/PaintedStone.json",
-        "tconstruct": "github://02JanDal@QuickMod/TinkersConstruct.json",
-        "tmechworks": "github://02JanDal@QuickMod/TinkersMechworks.json",
-        "twilightforest": "github://02JanDal@QuickMod/TwilightForest.json"
+        "WayofTime.alchemicalWizardry.bloodmagic": "https://rawgit.com/02JanDal/QuickMod/master/BloodMagic.json",
+        "biomesoplenty": "https://rawgit.com/02JanDal/QuickMod/master/BiomesOPlenty.json",
+        "buildcraft": "https://rawgit.com/02JanDal/QuickMod/master/BuildCraft.json",
+        "com.advGenetics.advancedgenetics": "https://rawgit.com/02JanDal/QuickMod/master/AdvancedGenetics.json",
+        "com.thevoxelbox.voxelmap.voxelmap": "https://rawgit.com/02JanDal/QuickMod/master/ZansMinimap.json",
+        "cpw.mods.compactsolars": "https://rawgit.com/02JanDal/QuickMod/master/CompactSolars.json",
+        "cpw.mods.ironchest": "https://rawgit.com/02JanDal/QuickMod/master/IronChests.json",
+        "ic2.core": "https://rawgit.com/02JanDal/QuickMod/master/IndustrialCraft2.json",
+        "mantle": "https://rawgit.com/02JanDal/QuickMod/master/Mantle.json",
+        "mcp.mobius.betterbarrels.JABBA": "https://rawgit.com/02JanDal/QuickMod/master/Jabba.json",
+        "mcp.mobius.waila": "https://rawgit.com/02JanDal/QuickMod/master/Waila.json",
+        "paintedstone": "https://rawgit.com/02JanDal/QuickMod/master/PaintedStone.json",
+        "tconstruct": "https://rawgit.com/02JanDal/QuickMod/master/TinkersConstruct.json",
+        "tmechworks": "https://rawgit.com/02JanDal/QuickMod/master/TinkersMechworks.json",
+        "twilightforest": "https://rawgit.com/02JanDal/QuickMod/master/TwilightForest.json"
     },
     "repo": "02JanDal.Testing",
     "tags": [
         "FTB"
     ],
     "uid": "ftb.unstable",
-    "updateUrl": "github://02JanDal@QuickMod/FTBUnstable.json",
+    "updateUrl": "https://rawgit.com/02JanDal/QuickMod/master/FTBUnstable.json",
     "urls": {
         "icon": [
             "https://feedthebeast.atlassian.net/wiki/download/attachments/9109576/17_Panel%20copy%20%281%29.png?version=1&modificationDate=1394241635572&api=v2"
@@ -137,7 +137,7 @@
             "urls": [
                 {
                     "downloadType": "direct",
-                    "url": "github://02JanDal@QuickMod/ftbunstable_config_1.0.1.zip"
+                    "url": "https://rawgit.com/02JanDal/QuickMod/master/ftbunstable_config_1.0.1.zip"
                 }
             ]
         }
